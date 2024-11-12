@@ -1,0 +1,674 @@
+<?xml-model href="https://epidoc.stoa.org/schema/9.5/tei-epidoc.rng"
+schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="document" n="Q">Codex Marchalianus: Vatican City, Biblioteca Apostolica Vaticana, Vat. gr. 22125</title>
+         <author>Anonymous</author>
+         <editor>Ken Penner</editor>
+         <respStmt>
+            <resp>Transcriber</resp>
+            <name>Connor Sutherland</name>
+         </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Pinakes Project - Institut de Recherche et d'Histoire des textes (IRHT)</publisher>
+            <pubPlace>Paris, France</pubPlace>
+            <date when="2024"/>
+            <idno type="Pinakes">68755</idno>
+            <idno type="Vatican_Library">Vat. gr. 2125</idno>
+            <idno type="Rahlfs">Ra Q</idno>
+            <availability>
+               <licence>
+                  <p>Available for academic use. The Vatican Library has made a digitized version available on their website.</p>
+               </licence>
+               <p source="https://digi.vatlib.it/view/MSS_Vat.gr.2125">Digitized Version</p>
+            </availability>
+            <publisher>
+               <name type="org">The Institut für neutestamentliche Textforschung</name>
+            </publisher>
+            <availability>
+               <p>
+                  <![CDATA[ (C) 2024 St. Francis Xavier University ]]>
+               </p>
+               <p>
+                  <![CDATA[ This work is licensed under a <a rel="license" target="_blank" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_US">Creative Commons Attribution-ShareAlike 3.0 Unported License<br/><span style="float:right;"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/80x15.png" /></span></a> ]]>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Digitized photos from Codex Marchalianus, which was found in the Vatican Library.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="grc"/>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text xml:lang="grc">
+      <body>
+         <div type="textpart" n="B55">
+            <div type="textpart" n="B55K1">
+               <ab n="B55K1V1" xml:id="Bel.1.1.P827.I1">
+                  <w lemma="καί" msd="C">Καὶ</w>
+                  <w lemma="ὁ" msd="ANSM">ὁ</w>
+                  <w lemma="Βασιλεύς" msd="NNSM">βασιλεὺς</w>
+                  <w lemma="Ἀστυάγης" msd="NNSM">Ἀστυάγης</w>
+                  <w lemma="προστίθημι" msd="VAPI3S">προσετέθη</w>
+                  <w lemma="πρός" msd="P">πρὸς</w>
+                  <w lemma="ὁ" msd="DAPM">τοὺς</w>
+                  <w lemma="πατήρ" msd="NAPM">πατέρας</w>
+                  <w lemma="αὐτός" msd="RP3GSM">αὐτοῦ</w>
+                  <w lemma="καί" msd="C" >καὶ</w>
+                  <w lemma="παραλαμβάνω" msd="VAAI3S">παρέλαβεν</w>
+                  <w lemma="Κῦρος" msd="NNSM">Κῦρος</w>
+                  <w lemma="ὁ" msd="C">ὁ</w>
+                  <w lemma="Πέρσης" msd="NNSM">Πέρσης</w>
+                  <w lemma="ὁ" msd="DASF">τὴν</w>
+                  <w lemma="βασιλεία" msd="NASF">βασιλείαν</w>
+                  <w lemma="αὐτός" msd="RP3GSM">αὐτοῦ</w>
+               </ab>
+               <ab n="B55K1V2" xml:id="Bel.1.2.P827.I1">
+                  <w lemma="καί" msd="C">καὶ</w>
+                  <w lemma="εἰμί" msd="VIAI3S">ἦν</w>
+                  <w lemma="Δανιήλ" msd="NNSM">Δανιηλ</w>
+                  <w lemma="συμβιωτής" msd="NNSM">συμβιωτὴς</w>
+                  <w lemma="ὁ" msd="DGSM">τοῦ</w>
+                  <w lemma="βασιλεύς" msd="NGSM">βασιλέως</w>
+                  <w lemma="καί" msd="C">καὶ</w>
+                  <w lemma="ἔνδοξος" msd="JNSM">ἔνδοξος</w>
+                  <w lemma="ὑπέρ" msd="P">ὑπὲρ</w>
+                  <w lemma="πᾶς" msd="JAPM">πάντας</w>
+                  <w lemma="ὁ" msd="DAPM">τοὺς</w>
+                  <w lemma="φίλος" msd="JAPM">φίλους</w>
+                  <w lemma="αὐτός" msd="RP3GSM">αὐτοῦ</w>
+                  <pc>.</pc>
+               </ab>
+               <ab n="B55K1V3" xml:id="Bel.1.3.P827.I1">
+                  <w lemma="καί" msd="C">καὶ</w>
+                  <w lemma="εἰμί" msd="VIAI3S">ἦν</w>
+                  <w lemma="εἴδωλον" msd="NNSN">εἴδωλον</w>
+                  <w lemma="ὁ" msd="DDPM">τοῖς</w>
+                  <w lemma="Βαβυλών" msd="XP">Βαβυλωνίοις</w>
+                  <pc>,</pc>
+                  <w lemma="ὅς" msd="RR-DSN">ᾧ</w>
+                  <w lemma="ὄνομα" msd="NNSN">ὄνομα</w>
+                  <w lemma="Βήλ" msd="XP">Βηλ</w>
+                  <pc>,</pc>
+                  <w lemma="καί" msd="C">καὶ</w>
+                  <w lemma="δαπανάω" msd="VIUI3P">ἐδαπανῶτο</w>
+                  <w lemma="εἰς" msd="P">εἰς</w>
+                  <w lemma="αὐτος" msd="RP3ASM">αὐτὸν</w>
+                  <w lemma="ἕκαστος" msd="JGSF">ἑκάστης</w>
+                  <w lemma="ἡμέρα" msd="NGSF">ἡμέρας</w>
+                  <w lemma="σεμίδαλις" msd="NGSF">σεμιδάλεως</w>
+                  <w lemma="ἀρτάβη" msd="NNPF">ἀρτάβαι</w>
+                  <w lemma="δώδεκα" msd="XN">δώδεκα</w>
+                  <w lemma="καί" msd="C">καὶ</w>
+                  <w lemma="πρόβατον" msd="NNPN">πρόβατα</w>
+                  <w lemma="τεσσαράκοντα" msd="XN">τεσσαράκοντα</w>
+                  <w lemma="καί" msd="C">καὶ</w>
+                  <w lemma="οἶνος" msd="NGSM">οἴνου</w>
+                  <w lemma="μετρητής" msd="NNPM">μετρηταὶ</w>
+                  <w lemma="ἕξ" msd="XN">ἕξ</w>
+                  <pc>.</pc>
+               </ab>
+               <ab n="B55K1V4" xml:id="Bel.1.4.P828.I1">
+                  <w lemma="καί" msd="C">καὶ</w>
+                  <w lemma="ὁ" msd="DNSM">ὁ</w>
+                  <w lemma="βασιλεύς" msd="NNSM">βασιλεὺς</w>
+                  <w lemma="σέβω" msd="VIUI3S">ἐσέβετο</w>
+                  <w lemma="αὐτός" msd="RP3ASM">αὐτὸν</w>
+                  <pc>·</pc>
+                  <w lemma="καί" msd="C">καὶ</w>
+                  <w lemma="πορεύομαι" msd="VIUI3S">ἐπορεύετο</w>
+                  <w lemma="κατά" msd="P">καθ</w>
+                  <pc>ʼ</pc>
+                  <w lemma="ἕκαστος" msd="JASF">εκάστην</w>
+                  <w lemma="ἡμέρα" msd="NASF">ἡμέραν</w>
+                  <pc>.</pc>
+                  <w lemma="προσκυνέω" msd="VPAN">προσκυνεῖν</w>
+                  <w lemma="αὐτός" msd="RP3DSM">ἀυτῷ</w>
+                  <pc>·</pc>
+                  <w lemma="Δανιήλ" msd="NNSM">Δανιηλ</w>
+                  <w lemma="δέ" msd="C">δὲ</w>
+                  <w lemma="προσκυνέω" msd="VIAI3S">προσεκύνει</w>
+                  <w lemma="ὁ" msd="DDSM">τῷ</w>
+                  <w lemma="θεός" msd="NDSM">θεῷ</w>
+                  <w lemma="αὐτός" msd="RP3GSM">ἀυτοῦ</w>
+                  <pc>·</pc>
+               </ab>
+               <ab n="B55K1V5" xml:id="Bel.1.5.P828.I1">
+                  <w lemma="καί" msd="C">καὶ</w>
+                  <w lemma="εἶπον" msd="VAAI3S">εἶπεν</w>
+                  <w lemma="αὐτός" msd="RP3DSM">ἀυτῶ</w>
+                  <w lemma="ὁ" msd="DNSM">ὁ</w>
+                  <w lemma="βασιλεύς" msd="NNSM">βασιλεὺς</w>
+                  <w lemma="διά" msd="P">διὰ</w>
+                  <w lemma="τίς" msd="RI-ASN">τί</w>
+                  <w lemma="οὐ" msd="B">οὺ</w>
+                  <w lemma="προσκυνέω" msd="VPAI2S">προσκυνεῖς</w>
+                  <w lemma="ὁ" msd="DDSM">τῶ</w>
+                  <w lemma="Βήλ" msd="XP">Βηλ</w>
+                  <pc>;</pc>
+                  <w lemma="ὁ" msd="DNSM">ὁ</w>
+                  <w lemma="δέ" msd="C">δὲ</w>
+                  <w lemma="εἶπον" msd="VAAI3S">εἶπεν</w>
+                  <w lemma="ὅτι" msd="C">Ὅτι</w>
+                  <w lemma="οὐ" msd="B">οὐ</w>
+                  <w lemma="σέβω" msd="VPUI1S">σέβομαι</w>
+                  <w lemma="εἴδωλον" msd="NAPN">ἔιδωλα</w>
+                  <w lemma="χειροποίητος" msd="JAPN">χειρόποιητα</w>
+                  <pc>,</pc>
+                  <w lemma="ἀλλά" msd="C">ἀλλὰ</w>
+                  <w lemma="ὁ" msd="DASM">τὸν</w>
+                  <w lemma="ζάω" msd="VPAP-SAM">ζῶντα</w>
+                  <w lemma="θεός" msd="NASM">θεὸν</w>
+                  <w lemma="ὁ" msd="DASM">τον</w>
+                  <w lemma="κτίζω" msd="VAAP-SAM">κτίσαντα</w>
+                  <w lemma="ὁ" msd="DASM">τον</w>
+                  <w lemma="οὐρανός" msd="NASM">οὐρανὸν</w>
+                  <pc>·</pc>
+                  <w lemma="καί" msd="C">και</w>
+                  <w lemma="ὁ" msd="DASF">τὴν</w>
+                  <w lemma="γῆ" msd="NASF">γῆν</w>
+                  <pc>,</pc>
+                  <w lemma="καί" msd="C">καὶ</w>
+                  <w lemma="ἔχω" msd="VPAP-SAM">ἔχοντα</w>
+                  <w lemma="πᾶς" msd="JGSF">πάσης</w>
+                  <w lemma="σάρξ" msd="NGSF">σαρκὸς</w>
+                  <w lemma="κυρία" msd="NASF">κυριείαν</w>
+                  <pc>.</pc>
+               </ab>
+               <ab n="B55K1V6" xml:id="Bel.1.6.P828.I1">
+                  <w lemma="καί" msd="C">καὶ</w>
+                  <w lemma="εἶπον" msd="VAAI3S">εἶπεν</w>
+                  <w lemma="αὐτός" msd="RP3DSM">αὐτῷ</w>
+                  <w lemma="ὁ" msd="DNSM">ὁ</w>
+                  <w lemma="βασιλεύς" msd="NNSM">βασιλεύς</w>
+                  <w lemma="οὐ" msd="B">Οὐ</w>
+                  <w lemma="δοκέω" msd="VPAI3S">δοκεῖ</w>
+                  <w lemma="σύ" msd="RP2DS">σοι</w>
+                  <w lemma="ὁ" msd="DNSM">ὁ</w>
+                  <w lemma="Βήλ" msd="XP">Βηλ</w>
+                  <w lemma="εἰμί" msd="VPAN">εἶναι</w>
+                  <w lemma="ζάω" msd="VPAP-SNM">ζῶν</w>
+                  <w lemma="θεός" msd="NNSM">θεός</w>
+                  <pc>;</pc>
+                  <w lemma="ἤ" msd="B">ἢ</w>
+                  <w lemma="οὐ" msd="B">ὀυχ</w>
+                  <w lemma="ὁράω" msd="VPAI2S">ὁρᾷς</w>
+                  <w lemma="ὅσος" msd="RR-APN">ὅσα</w>
+                  <w lemma="ἐσθίω" msd="VPAI3S">ἐσθίει</w>
+                  <w lemma="καί" msd="C">καὶ</w>
+                  <w lemma="πίνω" msd="VPAI3S">πίνει</w>
+                  <w lemma="κατά" msd="P">καθ</w>
+                  <pc>ʼ</pc>
+                  <w lemma="ἕκαστος" msd="JASF">εκάστήv</w>
+                  <w lemma="ἡμέρα" msd="NASF">ἡμέραν</w>
+                  <pc>;</pc>
+               </ab>
+               <ab n="B55K1V7" xml:id="Bel.1.7.P828.I1">
+                  <w lemma="καί" msd="C">καὶ</w>
+                  <w lemma="εἶπον" msd="VAAI3S">εἶπε</w>
+                  <w lemma="Δανιήλ" msd="NNSM">Δανιηλ</w>
+                  <w lemma="γελάω" msd="VAAP-SNM">γελάσας</w>
+                  <w lemma="μή" msd="B">Μὴ</w>
+                  <w lemma="πλανάω" msd="VPUM2S">πλανῶ</w>
+                  <w lemma="βασιλεύς" msd="NVSM">βασιλεῦ</w>
+                  <pc>·</pc>
+                  <w lemma="οὗτος" msd="RD-NSM">οὗτος</w>
+                  <w lemma="γάρ" msd="C">γὰρ</w>
+                  <pc>.</pc>
+                  <w lemma="ἔσωθεν" msd="B">ἔσωθεν</w>
+                  <w lemma="ἐγώ" msd="RP1AS">με</w>
+                  <w lemma="εἰμί" msd="VPAI3S">ἐστι</w>
+                  <w lemma="πηλός" msd="NNSM">πηλὸς</w>
+                  <w lemma="ἔξωθεν" msd="B">ἔξωθεν</w>
+                  <w lemma="δέ" msd="C">δὲ</w>
+                  <w lemma="χαλκός" msd="NNSM">χαλκὸς</w>
+                  <pc>·</pc>
+                  <w lemma="καί" msd="C">καὶ</w>
+                  <w lemma="οὐ" msd="B">οὐ</w>
+                  <w lemma="βιβρώσκω" msd="VRAI3S">βέβρωκεν</w>
+                  <w lemma="οὐδέ" msd="C">ὀυδὲ</w>
+                  <w lemma="πίπτω" msd="VRAI3S">πέπτωκε</w>
+                  <w lemma="πώποτε" msd="XB">πώποτε</w>
+               </ab>
+               <ab n="B55K1V8" xml:id="Bel.1.8.P828.I1">
+                  <w lemma="καί" msd="C">καὶ</w>
+                  <w lemma="θυμόω" msd="VAPP-SNM">θυμωθεὶς</w>
+                  <w lemma="ὁ" msd="DNSM">ὁ</w>
+                  <w lemma="βασιλεύς" msd="NNSM">βασιλὲυς</w>
+                  <w lemma="καλέω" msd="VAAI3S">ἐκάλεσεν</w>
+                  <w lemma="ὁ" msd="DAPM">τοὺς</w>
+                  <w lemma="ἱερεύς" msd="NAPM">ἱερεῖς</w>
+                  <w lemma="αὐτός" msd="RP#GSM">ἀυτοῦ</w>
+                  <w lemma="καί" msd="C">καὶ</w>
+                  <w lemma="εἴπον" msd="VAAI3S">εἶπεν</w>
+                  <w lemma="αὐτός" msd="RP3DPM">ἀυτοῖς</w>
+                  <pc>·</pc>
+                  <w lemma="ἐάν" msd="C">Ἐάν</w>
+                  <w lemma="μή">μὴ</w>
+                  <w lemma="εἶπον" msd="VAAS2P">εἶπητέ</w>
+                  <w lemma="ἐγώ" msd="RP1DS">μοι</w>
+                  <w lemma="τίς" msd="RI-NSM">τίς</w>
+                  <w lemma="ὁ" msd="DNSM">ὁ</w>
+                  <w lemma="κατέσθω" msd="VPAP-SNM">κατεσθίων</w>
+                  <w lemma="ὁ" msd="DASF">τὴν</w>
+                  <w lemma="δαπάνη" msd="NASF">δαπάνην</w>
+                  <w lemma="οὗτος" msd="RD-ASF">τάυτην</w>
+                  <pc>,</pc>
+                  <w lemma="ἀποθνήσκω" msd="VFMI2P">ἀποθανεῖσθε</w>
+                  <pc>·</pc>
+                  <w lemma="ἐάν" msd="C">ἐάν</w>
+                  <w lemma="δέ" msd="C">δὲ</w>
+                  <w lemma="ἀπό" msd="P">ἀπο</w>
+                  <w lemma="δείκνυμι" msd="VAAS2P">δείξητε</w>
+                  <w lemma="ὅτι" msd="C">ὅτι</w>
+                  <w lemma="ὁ" msd="DNSM">ὁ</w>
+                  <w lemma="Βήλ" msd="XP">Βὴλ</w>
+                  <w lemma="κατεσθίω" msd="VPAI3S">κατεσθίει</w>
+                  <w lemma="αὐτός" msd="RP3APN">ἀυτά</w>
+                  <w lemma="ἀποθνήσκω" msd="VFMI3S">αποθανεῖται</w>
+                  <w lemma="Δανιήλ" msd="NNSM">Δανιηλ</w>
+                  <w lemma="ὅτι" msd="C">ὅτι</w>
+                  <w lemma="βλασφημέω" msd="VAAI3S">ἐβλασφήμησεν</w>
+                  <w lemma="εἰς" msd="P">εἰς</w>
+                  <w lemma="ὁ" msd="DASM">τὸν</w>
+                  <w lemma="Βήλ" msd="DASM">Βηλ</w>
+                  <pc>.</pc>
+               </ab>
+               <ab n="B55K1V9" xml:id="Bel.1.9.P828.I1">
+                  <w lemma="καί" msd="C">καὶ</w>
+                  <w lemma="εἶπον" msd="VAAI3S">εἶπε</w>
+                  <w lemma="Δανιήλ" msd="NNSM">Δανιηλ</w>
+                  <w lemma="ὁ" msd="DDSM">τῷ</w>
+                  <w lemma="βασιλεύς" msd="NDSM">βασιλεῖ</w>
+                  <w lemma="γίνομαι" msd="VPUM3S">Γινέσθω</w>
+                  <w lemma="κατά" msd="P">κατὰ</w>
+                  <w lemma="ὁ" msd="DASN">τὸ</w>
+                  <w lemma="ῥῆμα" msd="NASN">ῥῆμά</w>
+                  <w lemma="σύ" msd="RP2GS">σου</w>
+                  <pc>.</pc>
+                  <w lemma="καί" msd="C">καὶ</w>
+                  <w lemma="εἰμί" msd="VIAI3P">ἦσαν</w>
+                  <w lemma="ὁ" msd="DNPM">οἱ</w>
+                  <w lemma="ἱερεύς" msd="NNPM">ἰερεῖς</w>
+                  <w lemma="ὁ" msd="DGSM">τοῦ</w>
+                  <w lemma="Βήλ" msd="XP">Βηλ</w>
+                  <w lemma="ἑβδομήκοντα" msd="XN">ἑβδομήκοντα</w>
+                  <w lemma="ἐκτός" msd="P">ἐκτὸς</w>
+                  <w lemma="γυνή" msd="NGPF">γυναικῶν</w>
+                  <w lemma="καί" msd="C">καὶ</w>
+                  <w lemma="τέκνον" msd="NGPN">τέκνων</w>
+                  <pc>.</pc>
+               </ab>
+               <ab n="B55K1V10" xml:id="Bel.1.10.P828.I1">
+                  <w lemma="καί" msd="C">καὶ</w>
+                  <w lemma="ἔρχομαι" msd="VAAI3S">ῆλθεν</w>
+                  <w lemma="ὁ" msd="DNSM">ὁ</w>
+                  <w lemma="βασιλεύς" msd="NNSM">βασιλεὺς</w>
+                  <w lemma="μετά" msd="P">μετὰ</w>
+                  <w lemma="Δανιήλ">Δανιηλ</w>
+                  <pc>.</pc>
+                  <w lemma="ἔποικος" msd="ASNN">ἔποῖκον</w>
+                  <w lemma="ὁ" msd="DGSM">τοῦ</w>
+                  <w lemma="Βήλ" msd="XP">Βηλ</w>
+                  <pc>·</pc>
+               </ab>
+               <ab n="B55K1V11" xml:id="Bel.1.11.P829.I1">
+                  <w lemma="καί" msd="C">καὶ</w>
+                  <w lemma="εἴπον" msd="VAAI3P">εἶπαν</w>
+                  <w lemma="ὁ" msd="DNPM">οἱ</w>
+                  <w lemma="ἱερεύς" msd="NNPM">ἱερεῖς</w>
+                  <w lemma="ὁ" msd="DGSM">τοῦ</w>
+                  <w lemma="Βήλ" msd="XP">Βηλ</w>
+                  <pc>˙</pc>
+                  <w lemma="ὁραω" msd="I">Ἰδοῦ</w>
+                  <w lemma="ἐγώ" msd="RP1NP">ἡμεις</w>
+                  <w lemma="ἀποτρέχω" msd="VPAI1P">ἀποτρέχομεν</w>
+                  <w lemma="ἔξω" msd="B">ἔξω</w>
+                  <pc>,</pc>
+                  <w lemma="σύ" msd="RP2NS">σὺ</w>
+                  <w lemma="δέ" msd="C">δέ</w>
+                  <pc>,</pc>
+                  <w lemma="βασιλεύς" msd="NVSM">βασιλεῦ</w>
+                  <pc>,</pc>
+                  <w lemma="παρατίθημι" msd="VAAM2S">παράθες</w>
+                  <w lemma="ὁ" msd="DAPN">τὰ</w>
+                  <w lemma="βρῶμα" msd="NAPN">βρώματα</w>
+                  <w lemma="καί" msd="C">καὶ</w>
+                  <w lemma="ὁ" msd="DASM">τὸν</w>
+                  <w lemma="οἶνος" msd="NASM">οἶνον</w>
+                  <w lemma="κεράννυμι" msd="VAAP-SNM">κεράσας</w>
+                  <w lemma="τίθημι" msd="VAAM2S">θές</w>
+                  <pc>,</pc>
+                  <w lemma="καί" msd="C">καὶ</w>
+                  <w lemma="ἀποκλείω" msd="VAAM2S">ἀπόκλεισον</w>
+                  <w lemma="ὁ" msd="DASF">τὴν</w>
+                  <w lemma="θύρα" msd="NASF">θύραν</w>
+                  <w lemma="καί" msd="C">καὶ</w>
+                  <w lemma="σφραγίζω" msd="VAAM2S">σφράγισον</w>
+                  <w lemma="ἐν" msd="P">ἐν</w>
+                  <w lemma="ὁ" msd="DDSM">τῷ</w>
+                  <w lemma="δακτύλιος" msd="NDSM">δακτυλίω</w>
+                  <w lemma="σύ" msd="RP2GS">σου</w>
+                  <pc>·</pc>
+                  <w lemma="καί" msd="C">καὶ</w>
+                  <w lemma="ἔρχομαι" msd="VAAP-SNM">ἐλθῶν</w>
+                  <w lemma="πρωΐ" msd="B">πρωὶ</w>
+                  <w lemma="ἐάν" msd="C">ἐάν</w>
+                  <w lemma="μή" msd="B">μὴ</w>
+                  <w lemma="εὑρίσκω" msd="VAAS2S">εὕρῃς</w>
+                  <w lemma="πᾶς" msd="JAPN">πάντα</w>
+                  <w lemma="βιβρώσκω" msd="VRUP-PAN">βεβρωμένα</w>
+                  <w lemma="ὑπό" msd="P">ὑπὸ</w>
+                  <w lemma="ὁ" msd="DGSM">τοῦ</w>
+                  <w lemma="Βήλ" msd="XP">Βηλ</w>
+                  <pc>,</pc>
+                  <w lemma="ἀποθνῄσκω" msd="VFMI1P">ἀποθανόυμεθα</w>
+                  <w lemma="ἤ" msd="">ἠ</w>
+                  <w lemma="Δανιήλ" msd="XP">Δανιηλ</w>
+                  <w lemma="ὁ" msd="DNSM">ὁ</w>
+                  <w lemma="ψεύδομαι" msd="VPUP-SNM">ψευδόμενος</w>
+                  <w lemma="κατὰ" msd="P">καθ</w>
+                  <pc>ʼ</pc>
+                  <w lemma="ἐγώ" msd="RP1GP">ἡμωv</w>
+                  <pc>.</pc>
+               </ab>
+               <ab n="B55K1V12" xml:id="Bel.1.12.P829.I1">
+                  <w lemma="αὐτός" msd="RP3NPM">αυτοὶ</w>
+                  <w lemma="δέ" msd="C">δὲ</w>
+                  <w lemma="καταφρονέω">κατεφρόνουν</w>
+                  <pc>,</pc>
+                  <w lemma="ὅτι" msd="C">ὅτι</w>
+                  <w lemma="ποιέω" msd="VLAI3P">πεποιήκεισαν</w>
+                  <w lemma="ὑπό" msd="P">ὑπὸ</w>
+                  <w lemma="ὁ" msd="DASF">τὴν</w>
+                  <w lemma="τράπεζα" msd="NASF">τράπεζαν</w>
+                  <w lemma="κρύπτω" msd="VRUP-SAF">κεκρυμμένη</w>
+                  <w lemma="εἴσοδος" msd="NASF">είσοδον</w>
+                  <w lemma="καί" msd="C">και</w>
+                  <w lemma="διά" msd="P">δι</w>
+                  <pc>ʼ</pc>
+                  <w lemma="αὐτός" msd="RP3GSF">ἀυτῆς</w>
+                  <w lemma="εἰσπορεύομαι" msd="VIUI3P">ἐισεπορεύοντο</w>
+                  <w lemma="διόλου">διόλου</w>
+                  <w lemma="καί" msd="C">καὶ</w>
+                  <w lemma="ἀναλίσκω" msd="VIUI3P">ἀνήλισκον</w>
+                  <w lemma="αὐτός" msd="RP3APN">ἀυτά</w>
+                  <pc>.</pc>
+               </ab>
+               <ab n="B55K1V13" xml:id="Bel.1.13.P829.I1">
+                  <w lemma="καί" msd="C">καὶ</w>
+                  <w lemma="γίνομαι" msd="VAMI3S">ἐγενετο</w>
+                  <w lemma="ὡς" msd="C">ὡς</w>
+                  <w lemma="ἐξέρχομαι" msd="VAAI3P">ἐξήλθοσαν</w>
+                  <w lemma="ἐκεῖνος" msd="RD-NPM">ἐκεῖνοι</w>
+                  <pc>,</pc>
+                  <w lemma="καί" msd="C">καὶ</w>
+                  <w lemma="ὁ" msd="DNSM">ὁ</w>
+                  <w lemma="βασιλεύς" msd="NNSM">βασιλεὺς</w>
+                  <w lemma="παρατίθημι" msd="VAAI3S">παρέθηκε</w>
+                  <w lemma="ὁ" msd="DAPN">τὰ</w>
+                  <w lemma="βρῶμα" msd="NAPN">βρώματα</w>
+                  <w lemma="ὁ" msd="DDSM">τῷ</w>
+                  <w lemma="Βήλ" msd="XP">Βήλ</w>
+                  <pc>.</pc>
+               </ab>
+               <ab n="B55K1V14" xml:id="Bel.1.14.P829.I1">
+                  <w lemma="καί" msd="C">καὶ</w>
+                  <w lemma="ἐπιτάσσω" msd="VAAI3S">ἐπεταξε</w>
+                  <w lemma="Δανιήλ" msd="XP">Δανιηλ</w>
+                  <w lemma="ὁ" msd="DDPN">τοῖς</w>
+                  <w lemma="παιδάριον" msd="NDPN">παιδαρίοις</w>
+                  <w lemma="αὐτός" msd="RP3GSM">ἀυτοῦ</w>
+                  <pc>.</pc>
+                  <w lemma="καί" msd="C">καὶ</w>
+                  <w lemma="φέρω" msd="VAAI3P">ἤνεγκαν</w>
+                  <w lemma="τέφρα" msd="NASF">τέφραν</w>
+                  <pc>.</pc>
+                  <w lemma="καί" msd="C">καὶ</w>
+                  <w lemma="κατασείω" msd="VAAI3P">κατέσησαν</w>
+                  <w lemma="ὅλος" msd="JASM">ὅλον</w>
+                  <w lemma="ὁ" msd="DASM">τὸν</w>
+                  <w lemma="ναός" msd="NASM">ναὸν</w>
+                  <pc>·</pc>
+                  <w lemma="ἐνώπιον" msd="P">ενώπιον</w>
+                  <w lemma="ὁ" msd="DGSM">τοῦ</w>
+                  <w lemma="βασιλεύς" msd="NGSM">βασιλέως</w>
+                  <w lemma="μόνος" msd="JGSM">μόνου</w>
+                  <pc>·</pc>
+                  <w lemma="καί" msd="C">καὶ</w>
+                  <w lemma="ἐξέρχομαι" msd="VAAP-PNM">ἒξελθόντες</w>
+                  <pc>,</pc>
+                  <w lemma="κλείω" msd="">ἔκλεισαν</w>
+                  <w lemma="ὁ" msd="DASF">τὴν</w>
+                  <w lemma="θύρα" msd="NASF">θύραν</w>
+                  <w lemma="καί" msd="C">καὶ</w>
+                  <w lemma="σφραγίζω" msd="VAM13P">ἐσφραγίσαντο</w>
+                  <w lemma="ἐν">ἐν</w>
+                  <w lemma="ὁ" msd="DDSM">τῷ</w>
+                  <w lemma="δακτύλιος" msd="NDSM">δακτυλίω</w>
+                  <w lemma="ὁ" msd="DGSM">τοῦ</w>
+                  <w lemma="βασιλεύς" msd="NGSM">βασιλεως</w>
+                  <pc>,</pc>
+                  <w lemma="καί" msd="C">καὶ</w>
+                  <w lemma="ἀπέρχομαι" msd="VAAI3P">ἀπῆλθον</w>
+                  <pc>.</pc>
+               </ab>
+               <ab n="B55K1V15" xml:id="Bel.1.15.P829.I1">
+                  <w lemma="ὁ" msd="DNPM">οἱ</w>
+                  <w lemma="δέ" msd="C">δὲ</w>
+                  <w lemma="ἱερεύς" msd="NNPM">ἱερεῖς</w>
+                  <pc>.</pc>
+                  <w lemma="ἔρχομαι" msd="VAAI3P">ἦλθον</w>
+                  <w lemma="ὁ" msd="DASF">τὴν</w>
+                  <w lemma="νύξ" msd="NASF">νύκτα</w>
+                  <w lemma="κατά" msd="P">κατὰ</w>
+                  <w lemma="ὁ" msd="DASN">τὸ</w>
+                  <w lemma="ἔθος" msd="NASN">ἔθος</w>
+                  <w lemma="αὐτός" msd="RP3GPM">ἀυτῶν</w>
+                  <w lemma="καί" msd="C">καὶ</w>
+                  <w lemma="ὁ" msd="DNPF">αἱ</w>
+                  <w lemma="γυνή" msd="NNPF">γυναῖκες</w>
+                  <pc>,</pc>
+                  <w lemma="καί" msd="C">καὶ</w>
+                  <w lemma="ὁ" msd="DAPN">τὰ</w>
+                  <w lemma="τέκνον" msd="NAPN">τέκνα</w>
+                  <w lemma="αὐτός" msd="RP3GPM">ἀυτῶν</w>
+                  <pc>.</pc>
+                  <w lemma="καί" msd="C">καὶ</w>
+                  <w lemma="κατεσθίω" msd="VAAI3P">κατέφαγον</w>
+                  <w lemma="πᾶς" msd="JAPN">πάντα</w>
+                  <w lemma="καί" msd="C">καὶ</w>
+                  <w lemma="πίνω" msd="VAAI3P">ἐπιὸν</w>
+                  <pc>.</pc>
+               </ab>
+               <ab n="B55K1V16" xml:id="Bel.1.16.P829.I1">
+                  <w lemma="καί" msd="C">καὶ</w>
+                  <w lemma="ὀρθρίζω" msd="VAAI3S">ώρθρισεν</w>
+                  <w lemma="ὁ" msd="DNSM">ὁ</w>
+                  <w lemma="βασιλεύς" msd="NNSM">βασιλεὺς</w>
+                  <w lemma="ὁ" msd="DASN">τὸ</w>
+                  <w lemma="πρωΐ" msd="B">πρωὶ</w>
+                  <w lemma="καί" msd="C">καὶ</w>
+                  <w lemma="Δανιήλ" msd="XP">Δανιηλ</w>
+                  <w lemma="μετά" msd="P">μετ</w>
+                  <pc>ʼ</pc>
+                  <w lemma="αὐτός">ἀυτοῦ</w>
+                  <pc>.</pc>
+               </ab>
+               <ab n="B55K1V17" xml:id="Bel.1.17.P829.I1">
+                  <w lemma="καί" msd="C">καὶ</w>
+                  <w lemma="εἶπον" msd="VAAI3S">εἶπεν</w>
+                  <w lemma="ὁ" msd="DNSM">ὁ</w>
+                  <w lemma="βασιλεύς" msd="NNSM">βασιλέυς</w>
+                  <pc>·</pc>
+                  <w lemma="σῶος" msd="JNPM" >Σῷοι</w>
+                  <w lemma="ὁ" msd="DNPF">ἁι</w>
+                  <w lemma="σφραγίς" msd="NNPF">σφραγῖδες</w>
+                  <pc>,</pc>
+                  <w lemma="Δανιήλ" msd="XP">Δανιήλ</w>
+                  <pc>;</pc>
+                  <w lemma="ὁ" msd="DNSM">ὁ</w>
+                  <w lemma="δέ" msd="C">δὲ</w>
+                  <w lemma="εἶπον" msd="VAAI3S">εἶπεν</w>
+                  <w lemma="σῶος" msd="">Σῷοι</w>
+                  <pc>,</pc>
+                  <w lemma="βασιλεύς" msd="NVSM">βασιλεῦ</w>
+                  <pc>.</pc>
+               </ab>
+               <ab n="B55K1V18" xml:id="Bel.1.18.P829.I1">
+                  <w lemma="καί" msd="C">καὶ</w>
+                  <w lemma="γίνομαι" msd="VAMI3S">ἐγένετο</w>
+                  <w lemma="ἅμα" msd="P">ἅμα</w>
+                  <w lemma="ὁ" msd="DDSN">τῷ</w>
+                  <w lemma="ἀνοίγω" msd="VAAN">ἀνοῖξαι</w>
+                  <w lemma="ὁ" msd="NDSF">τὰς</w>
+                  <w lemma="θύρα" msd="NAPF">θύρας</w>
+                  <pc>,</pc>
+                  <w lemma="ἐπιβλέπω" msd="VAAP-SNM">ἐπιβλέψας</w>
+                  <w lemma="ὁ" msd="DNSM">ὁ</w>
+                  <w lemma="βασιλεύς" msd="NNSM">βασιλεὺς</w>
+                  <w lemma="ἐπί" msd="P">ἐπὶ</w>
+                  <w lemma="ὁ" msd="DASF">τὴν</w>
+                  <w lemma="τράπεζα" msd="NASF">τράπεζαν</w>
+                  <pc>.</pc>
+                  <w lemma="βοάω" msd="VAAI3S">ἐβόησεν</w>
+                  <w lemma="φωνή" msd="NDSF">φωνῇ</w>
+                  <w lemma="μέγας" msd="JDSF">μεγάλῃ</w>
+                  <w lemma="μέγας" msd="JNSM">Μέγας</w>
+                  <w lemma="εἰμί" msd="VPAI2S">εἶ</w>
+                  <w lemma="Βήλ" msd="XP">Βηλ</w>
+                  <pc>,</pc>
+                  <w lemma="καί" msd="C">καὶ</w>
+                  <w lemma="οὐ" msd="B">οὐκ</w>
+                  <w lemma="εἰμί" msd="VPAI3S">ἔστι</w>
+                  <w lemma="παρά" msd="P">παρὰ</w>
+                  <w lemma="σύ" msd="RP2DS">σοὶ</w>
+                  <w lemma="δόλος" msd="NNSM">δόλος</w>
+                  <w lemma="οὐδέ" msd="C">οὐδὲ</w>
+                  <w lemma="εἷς" msd="JNSM">εἷς</w>
+                  <pc>.</pc>
+               </ab>
+               <ab n="B55K1V19" xml:id="Bel.1.19.P830.I1">
+                  <w lemma="καί" msd="C">καὶ</w>
+                  <w lemma="γελάω" msd="VAAI3S">ἐγέλασε</w>
+                  <w lemma="Δανιήλ" msd="XP">Δανιηλ</w>
+                  <w lemma="καί" msd="C">καὶ</w>
+                  <w lemma="κρατέω" msd="VAAI3S">ἐκράτησε</w>
+                  <w lemma="ὁ" msd="DASM">τὸν</w>
+                  <w lemma="βασιλεύς" msd="NASM">βασιλέα</w>
+                  <w lemma="ὁ" msd="DGSN">τοῦ</w>
+                  <w lemma="μή" msd="B">μὴ</w>
+                  <w lemma="εἰσέρχομαι" msd="VAAN">εἰσελθεῖν</w>
+                  <w lemma="αὐτός" msd="RP3ASM" >αὐτὸν</w>
+                  <w lemma="ἔσω" msd="B">ἔσω</w>
+                  <w lemma="καί" msd="C">καὶ</w>
+                  <w lemma="εἶπον" msd="VAAI3S">εἶπεν</w>
+                  <w lemma="ὁράω" msd="VAAM2S">Ἰδὲ</w>
+                  <w lemma="δή" msd="T">δὴ</w>
+                  <w lemma="ὁ" msd="DASN">τὸ</w>
+                  <w lemma="ἔδαφος" msd="NASN">έδαφος</w>
+                  <pc>.</pc>
+                  <w lemma="καί" msd="C">καὶ</w>
+                  <w lemma="γινώσκω" msd="VAAM2S">γνῶθι</w>
+                  <pc>.</pc>
+                  <w lemma="τίς" msd="RI-GSM">τίνος</w>    
+                  <w lemma="ὁ" msd="DAPN">τὰ</w>
+                  <w lemma="ἴχνος" msd="NAPN">ἴχνη</w>
+                  <w lemma="οὗτος" msd="RD-APN">ταῦτα</w>
+                  <pc>.</pc>
+               </ab>
+               <ab n="B55K1V20" xml:id="Bel.1.20.P830.I1">
+                  <w lemma="καί" msd="C">καὶ</w>
+                  <w lemma="εἶπον" msd="VAAI3S">εἶπεν</w>
+                  <w lemma="ὁ" msd="DNSM">ὁ</w>
+                  <w lemma="βασιλεύς" msd="NNSM">βασιλεύς</w>
+                  <w lemma="ὁράω" msd="VPAI1S">Ὁρῶ</w>
+                  <w lemma="ὁ" msd="DAPN">τὰ</w>
+                  <w lemma="ἴχνος" msd="NAPN">ἴχνη</w>
+                  <w lemma="ἀνήρ" msd="NGPM">ἀνδρῶν</w>
+                  <w lemma="καί" msd="C">καὶ</w>
+                  <w lemma="γυνή" msd="NGPF">γυναικῶν</w>
+                  <w lemma="καί" msd="C">καὶ</w>
+                  <w lemma="παιδίον" msd="NGPN">παιδίων</w>
+                  <pc>.</pc>
+               </ab>
+               <ab n="B55K1V21" xml:id="Bel.1.21.P830.I1">
+                  <w lemma="καί" msd="C">καὶ</w>
+                  <w lemma="ὀργίζω" msd="VAPP-SNM">ὀργισθεὶς</w>
+                  <w lemma="ὁ" msd="DNSM">ὁ</w>
+                  <w lemma="βασιλεύς" msd="NNSM">βασιλεὺς</w>
+                  <w lemma="τότε" msd="B">τότε</w>
+                  <w lemma="συλλαμβάνω" msd="VAAI3S">συνελάβε</w>
+                  <w lemma="ὁ" msd="DAPM">τoῦς</w>
+                  <w lemma="ἱερεύς" msd="NAPM">ἱερεῖς</w>
+                  <w lemma="καί" msd="C">καὶ</w>
+                  <w lemma="ὁ" msd="DAPF">τὰς</w>
+                  <w lemma="γυνή" msd="NAPF">γυναῖκας</w>
+                  <w lemma="καί" msd="C">καὶ</w>
+                  <w lemma="ὁ" msd="DAPN">τὰ</w>
+                  <w lemma="τέκνον" msd="NAPN">τέκνα</w>
+                  <w lemma="αὐτός" msd="RP3GPM">αὐτῶν</w>
+                  <pc>,</pc>
+                  <w lemma="καί" msd="C">καὶ</w>
+                  <w lemma="δείκνυμι" msd="VAAPI3P">ἔδειξαν</w>
+                  <w lemma="αὐτός" msd="RP3DSM">αὐτῷ</w>
+                  <w lemma="ὁ" msd="DAPF">τὰς</w>
+                  <w lemma="κρυπτός" msd="JAPF">κρυπτὰς</w>
+                  <w lemma="θύρα" msd="NAPF">θύρας</w>
+                  <pc>,</pc>
+                  <w lemma="διά" msd="P">δι</w>
+                  <pc>ʼ</pc>
+                  <w lemma="ὅς" msd="RR-GPF">ὧν</w>
+                  <w lemma="εἰσπορεύομαι" msd="VIUI3P">εἰσεπορεύοντο</w>
+                  <w lemma="καί" msd="C">καὶ</w>
+                  <w lemma="δαπανάω" msd="VIAI3P">ἐδαπάνων</w>
+                  <w lemma="ὁ" msd="DAPN">τὰ</w>
+                  <w lemma="ἐπί" msd="P">ἐπι</w>
+                  <w lemma="ὁ" msd="">τῇ</w>
+                  <w lemma="τράπεζα">τραπέζῃ</w>
+                  <pc>.</pc>
+               </ab>
+               <ab n="B55K1V22" xml:id="Bel.1.22.P830.I1">
+                  <w lemma="καί" msd="C">καὶ</w>
+                  <w lemma="ἀποκτείνω" msd="VAAI3S">ἀπέκτεινεν</w>
+                  <w lemma="αὐτός" msd="RP3APM">αὐτοὺς</w>
+                  <w lemma="ὁ" msd="DNSM">ὁ</w>
+                  <w lemma="βασιλεύς" msd="NNSM">βασιλεὺς</w>
+                  <pc>˙</pc>
+                  <w lemma="καί" msd="C">καὶ</w>
+                  <w lemma="δίδωμι" msd="VAAI3S">ἔδωκε</w>
+                  <w lemma="ὁ" msd="DASM">τὸν</w>
+                  <w lemma="Βήλ" msd="XP">Βηλ</w>
+                  <w lemma="ἔκδοτος" msd="JASM">ἔκδοτον</w>
+                  <w lemma="ὁ" msd="DDSM">τῷ</w>
+                  <w lemma="Δανιήλ" msd="XP">Δανιηλ</w>
+                  <pc>,</pc>
+                  <w lemma="καί" msd="C">καὶ</w>
+                  <w lemma="καί" msd="C">καὶ</w>
+                  <w lemma="ὁ" msd="DASN">τὸ</w>
+                  <w lemma="ἱερόν" msd="NASN">ἱερὸν</w>
+                  <w lemma="αὐτός" msd="RP3GSM">αὐτοῦ</w>
+                  <w lemma="καταστρέφω" msd="VAAI3S">κατέστρεψεν</w>
+                  <w lemma="αὐτός" msd="RP3ASM">αὐτόν</w>
+                  <pc>.</pc>
+               </ab>
+            </div>
+         </div>
+         <div type="translation" n="B55" xml:lang="en">
+            <div type="textpart" n="B55K1">
+               <ab n="B55K1V1" corresp="#Bel.1.1.P827.I1">
+                  HEre's the trranslation of verse 1
+               </ab>
+               <ab n="B55K1V2" corresp="#Bel.1.2.P827.I1">Here's a translation of verse 2.</ab>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
