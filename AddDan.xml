@@ -165,7 +165,9 @@
                </msIdentifier>
             </msDesc>
          </listBibl>
-         <pb n="P0-Q" type="folio"/>
+         <pb n="P761-Q" type="page"/>
+         <cb n="P761C-Q"/>
+         <lb n="P761CL-Q"/>
          <div type="textpart" n="B53">
             <div type="textpart" n="B53K1">
                <ab n="B53K1V1" xml:id="Sus.1.1.P761.I1">
@@ -180,7 +182,7 @@
                   <w>καὶ</w>
                   <w>ὄνομα</w>
                   <w>αὐτῷ</w>
-                  <w>Ϊωακειμ·</w>
+                  <w>Ϊωακειμ</w><pc>˙</pc>
                </ab>
                <ab n="B53K1V2" xml:id="Sus.1.2.P761.I1">
                   <w>καὶ</w>
@@ -198,12 +200,12 @@
                   <w>καὶ</w>
                   <w>φοβου<lb break="no"/>μένη</w>
                   <w>τον</w>
-                  <w>
-                     <abbr type="nomSac">
+                  <w><choice>
+                     <abbr>
                         <hi rend="overline">κν</hi>
-                     </abbr>
+                     </abbr><expan>κύριον</expan></choice>
                   </w>
-                  <pc>·</pc>
+                  <pc>˙</pc>
                </ab>
                <ab n="B53K1V3" xml:id="Sus.1.3.P761.I1">
                   <w>καὶ</w>
@@ -232,14 +234,13 @@
                   <w>Ϊωακειμ</w>
                   <pc>.</pc>
                   <w>πλούσιος</w>
-                  <w>σφόδρα·</w>
+                  <w>σφόδρα</w><pc>˙</pc>
                   <lb/>
                   <w>καὶ</w>
                   <w>ἦν</w>
                   <w>αὐτῶ</w>
                   <w>παράδεισος</w>
-                  <w>γ<hi rend="displaced-below">ε</hi>ιτνιῶν</w>
-                  <lb/>
+                  <w><choice><sic>γιτνιῶν</sic><corr>γειτνιῶν</corr></choice></w>
                   <w>τῶ</w>
                   <w>οἴκω</w>
                   <w>αὐτοῦ</w>
@@ -275,7 +276,7 @@
                   <w>τῶ</w>
                   <w>ἐνιαὺτῶ</w>
                   <w>ἐκείνω</w>
-                  <pc>·</pc>
+                  <pc>˙</pc>
                   <lb/>
                   <w>περὶ</w>
                   <w>ὧν</w>
@@ -303,8 +304,7 @@
                <ab n="B53K1V6" xml:id="Sus.1.6.P761.I1">
                   <w>οὗτοι</w>
                   <lb/>
-                  <w>προς</w>
-                  <w> ἐκα <hi rend="displaced-above">ρ</hi> τέρουν </w>
+                  <w><choice><sic>προςἐκατέρουν</sic><corr>προςἐκαρτέρουν</corr></choice></w>
                   <pc>.</pc>
                   <w>ἐν</w>
                   <w>τῆ</w>
@@ -352,19 +352,19 @@
                   <w>δύο</w>
                   <w>πρεσβύτεροι</w>
                   <pc>.</pc>
-                  <w>καθ</w>
+                  <w>καθ</w><pc>'</pc>
                   <w>ημέραν</w>
-                  <w> εἰσ <lb break="no"/> πορευομένην: </w>
+                  <w> εἰσ <lb break="no"/> πορευομένην</w>
                   <w>καὶ</w>
                   <w>περιπατοῦσαν</w>
-                  <pc>·</pc>
+                  <pc>˙</pc>
                   <lb/>
                   <w>καὶ</w>
                   <w>ἐγένοντο</w>
                   <w>ἐν</w>
                   <w>επιθυμία</w>
                   <w>αὐτῆς</w>
-                  <pc>·</pc>
+                  <pc>˙</pc>
                   <lb/>
                </ab>
                <ab n="B53K1V9" xml:id="Sus.1.9.P761.I1">
@@ -1960,9 +1960,10 @@
                   <w>εὐλογουντες</w>
                   <w>τὸν</w>
                   <w>
-                     <abbr type="nomSac">
-                        <hi rend="overline">κν</hi>
-                     </abbr>
+                     <choice>
+                        <abbr>
+                           <hi rend="overline">κν</hi>
+                        </abbr><expan>κύριον</expan></choice>
                   </w>
                   <lb n="P7CL-Q"/>
                </ab>
@@ -2883,9 +2884,10 @@
                   </w>
                   <w>τον</w>
                   <w>
-                     <abbr type="nomSac">
-                        <hi rend="overline">κν</hi>
-                     </abbr>
+                     <choice>
+                        <abbr>
+                           <hi rend="overline">κν</hi>
+                        </abbr><expan>κύριον</expan></choice>
                   </w>
                   <pc>.</pc>
                   <lb/>
@@ -2899,9 +2901,10 @@
                   <w>ουρανοι</w>
                   <w>τον</w>
                   <w>
-                     <abbr type="nomSac">
+                     <choice>
+                     <abbr>
                         <hi rend="overline">κν</hi>
-                     </abbr>
+                     </abbr><expan>κύριον</expan></choice>
                   </w>
                   <w>υμνειτε</w>
                   <lb/>
@@ -2917,9 +2920,10 @@
                   <w>καῦμα</w>
                   <w>τὸν</w>
                   <w>
-                     <abbr type="nomSac">
+                     <choice>
+                     <abbr>
                         <hi rend="overline">κν</hi>
-                     </abbr>
+                     </abbr><expan>κύριον</expan></choice>
                   </w>
                   <lb/>
                   <w>ὑμνεῖτε</w>
@@ -2940,9 +2944,10 @@
                   <w>χιόνες</w>
                   <w>τὸν</w>
                   <w>
-                     <abbr type="nomSac">
+                     <choice>
+                     <abbr>
                         <hi rend="overline">κν</hi>
-                     </abbr>
+                     </abbr><expan>κύριον</expan></choice>
                   </w>
                   <pc>.</pc>
                   <lb/>
@@ -2965,9 +2970,10 @@
                   <lb/>
                   <w>τὸν</w>
                   <w>
-                     <abbr type="nomSac">
+                     <choice>
+                     <abbr>
                         <hi rend="overline">κν</hi>
-                     </abbr>
+                     </abbr><expan>κύριον</expan></choice>
                   </w>
                   <pc>.</pc>
                   <w>ὐμνεῖτε</w>
@@ -2987,9 +2993,10 @@
                   <w>γῆ</w>
                   <w>τὸν</w>
                   <w>
-                     <abbr type="nomSac">
+                     <choice>
+                     <abbr>
                         <hi rend="overline">κν</hi>
-                     </abbr>
+                     </abbr><expan>κύριον</expan></choice>
                   </w>
                   <pc>.</pc>
                   <w>υμνεῖτω</w>
@@ -3010,9 +3017,10 @@
                   <w>βουνοὶ</w>
                   <w>τὸν</w>
                   <w>
-                     <abbr type="nomSac">
+                     <choice>
+                     <abbr>
                         <hi rend="overline">κν</hi>
-                     </abbr>
+                     </abbr><expan>κύριον</expan></choice>
                   </w>
                   <pc>.</pc>
                   <lb/>
@@ -3038,9 +3046,10 @@
                   <w>γῆς</w>
                   <w>τὸν</w>
                   <w>
-                     <abbr type="nomSac">
+                     <choice>
+                     <abbr>
                         <hi rend="overline">κν</hi>
-                     </abbr>
+                     </abbr><expan>κύριον</expan></choice>
                   </w>
                   <pc>.</pc>
                   <w>ὐμνεῖτε</w>
@@ -3059,9 +3068,10 @@
                   <w>πηγαὶ</w>
                   <w>τον</w>
                   <w>
-                     <abbr type="nomSac">
+                     <choice>
+                     <abbr>
                         <hi rend="overline">κν</hi>
-                     </abbr>
+                     </abbr><expan>κύριον</expan></choice>
                   </w>
                   <pc>.</pc>
                   <w>ὐμνεῖτε</w>
@@ -3082,9 +3092,10 @@
                   <w>ποταμοὶ</w>
                   <w>τον</w>
                   <w>
-                     <abbr type="nomSac">
+                     <choice>
+                     <abbr>
                         <hi rend="overline">κν</hi>
-                     </abbr>
+                     </abbr><expan>κύριον</expan></choice>
                   </w>
                   <pc>.</pc>
                   <lb/>
@@ -3111,9 +3122,10 @@
                   <w>ὐδασι</w>
                   <w>τὸν</w>
                   <w>
-                     <abbr type="nomSac">
+                     <choice>
+                     <abbr>
                         <hi rend="overline">κν</hi>
-                     </abbr>
+                     </abbr><expan>κύριον</expan></choice>
                   </w>
                   <pc>.↵</pc>
                   <w>ῡμνεῖτε</w>
@@ -3137,9 +3149,10 @@
                   <w>ουρ<hi rend="displaced-above">αν</hi>οῦ</w>
                   <w>τὸν</w>
                   <w>
-                     <abbr type="nomSac">
+                     <choice>
+                     <abbr>
                         <hi rend="overline">κν</hi>
-                     </abbr>
+                     </abbr><expan>κύριον</expan></choice>
                   </w>
                   <pc>.</pc>
                   <w>ὐμνεῖτε</w>
@@ -3162,9 +3175,10 @@
                   <w>κτηνη</w>
                   <w>τὸν</w>
                   <w>
-                     <abbr type="nomSac">
+                     <choice>
+                     <abbr>
                         <hi rend="overline">κν</hi>
-                     </abbr>
+                     </abbr><expan>κύριον</expan></choice>
                   </w>
                   <pc>.</pc>
                   <w>ὑμνεῖτε</w>
@@ -3188,9 +3202,10 @@
                   </w>
                   <w>τὸν</w>
                   <w>
-                     <abbr type="nomSac">
+                     <choice>
+                     <abbr>
                         <hi rend="overline">κν</hi>
-                     </abbr>
+                     </abbr><expan>κύριον</expan></choice>
                   </w>
                   <pc>.</pc>
                   <lb/>
@@ -3215,9 +3230,10 @@
                   </w>
                   <w>τὸν</w>
                   <w>
-                     <abbr type="nomSac">
+                     <choice>
+                     <abbr>
                         <hi rend="overline">κν</hi>
-                     </abbr>
+                     </abbr><expan>κύριον</expan></choice>
                   </w>
                   <pc>.</pc>
                   <w>ῡμνείτε</w>
@@ -3241,9 +3257,10 @@
                   </w>
                   <w>τον</w>
                   <w>
-                     <abbr type="nomSac">
+                     <choice>
+                     <abbr>
                         <hi rend="overline">κν</hi>
-                     </abbr>
+                     </abbr><expan>κύριον</expan></choice>
                   </w>
                   <pc>.</pc>
                   <w>üμνείτε</w>
@@ -3261,9 +3278,10 @@
                   <w>ευλογεῖτε</w>
                   <w>δοῦλοι</w>
                   <w>
-                     <abbr type="nomSac">
+                     <choice>
+                     <abbr>
                         <hi rend="overline">κν</hi>
-                     </abbr>
+                     </abbr><expan>κύριον</expan></choice>
                   </w>
                   <pc>.</pc>
                   <w>ῡμνεῖτε</w>
@@ -3285,9 +3303,10 @@
                   <w>δι<lb break="no"/>καίων</w>
                   <w>τὸν</w>
                   <w>
-                     <abbr type="nomSac">
+                     <choice>
+                     <abbr>
                         <hi rend="overline">κν</hi>
-                     </abbr>
+                     </abbr><expan>κύριον</expan></choice>
                   </w>
                   <pc>.</pc>
                   <w>ὐμνεῖτε</w>
@@ -3308,9 +3327,10 @@
                   <w>καρ<lb break="no"/>δία</w>
                   <w>τὸν</w>
                   <w>
-                     <abbr type="nomSac">
+                     <choice>
+                     <abbr>
                         <hi rend="overline">κν</hi>
-                     </abbr>
+                     </abbr><expan>κύριον</expan></choice>
                   </w>
                   <w>υμνειτε</w>
                   <w>και</w>
@@ -3330,9 +3350,10 @@
                   <lb/>
                   <w>τον</w>
                   <w>
-                     <abbr type="nomSac">
+                     <choice>
+                     <abbr>
                         <hi rend="overline">κν</hi>
-                     </abbr>
+                     </abbr><expan>κύριον</expan></choice>
                   </w>
                   <w>ὐμνεῖτε</w>
                   <w>καὶ</w>
@@ -3406,9 +3427,10 @@
                   <w>ὁι</w>
                   <w>σεβόμενοι</w>
                   <w>
-                     <abbr type="nomSac">
+                     <choice>
+                     <abbr>
                         <hi rend="overline">κν</hi>
-                     </abbr>
+                     </abbr><expan>κύριον</expan></choice>
                   </w>
                   <pc>.</pc>
                   <w>τον</w>
