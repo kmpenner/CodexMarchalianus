@@ -37,10 +37,19 @@
     <text>
         <body>
             <schemaSpec start="TEI teiCorpus" ident="Q" source="teipublisher.odd"> <elementSpec ident="lb" mode="change">
-                    <model behaviour="omit" useSourceRendition="true">
-            <param name="type" value="'line'"/>
-            <param name="label" value="@n"/>
-        </model>
+                    <modelSequence>
+            <desc>Line numbers</desc>
+            <model behaviour="break" useSourceRendition="true">
+                <param name="type" value="'line'"/>
+                <param name="label" value="concat(&#34;l&#34;,@n)"/>
+            </model>
+            <model behaviour="inline" useSourceRendition="true">
+                <param name="content" value="concat(&#34;c&#34;,@n)"/>
+                <outputRendition xml:space="preserve">
+                position: absolute; left: -10%; display: inline-block; margin-right: 100%;
+                </outputRendition>
+            </model>
+        </modelSequence>
                 </elementSpec>
                 <elementSpec ident="ab" mode="change">
                     <modelSequence>
@@ -55,10 +64,10 @@
                 </elementSpec>
                 <elementSpec ident="w" mode="change">
                     <model output="web" predicate="@lemma" behaviour="alternate">
-            <param name="alternate" value="concat(@lemma,&#34;@&#34;,@msd)"/>
+            <param name="alternate" value="concat(@lemma,&#34; &#34;,@msd)"/>
             <param name="default" value="."/>
             <outputRendition xml:space="preserve">
-            color: #FF9900;
+            color: orange;
             </outputRendition>
         </model>
                 </elementSpec>
@@ -92,13 +101,16 @@
         </model>
                 </elementSpec>
                 <elementSpec ident="div" mode="change">
-                    <modelSequence predicate="  @type='textpart'">
+                    <modelSequence predicate="  @type='textpart' and substring-after(@n,'K')">
             <desc>Chapter</desc>
             <model behaviour="inline">
                 <desc>Chapter number</desc>
                 <param name="content" value="substring-after(@n,'K')"/>
                 <outputRendition xml:space="preserve">
                 color: green; font-size: larger;
+                </outputRendition>
+                <outputRendition xml:space="preserve" scope="after">
+                content: ".";
                 </outputRendition>
             </model>
             <model behaviour="inline">
@@ -113,7 +125,74 @@
                     <model predicate="parent::body or parent::front or parent::back" behaviour="section"/>
                     <model behaviour="block">
             <outputRendition xml:space="preserve">
-            color: pink;
+            null
+            </outputRendition>
+        </model>
+                </elementSpec>
+                <elementSpec ident="title" mode="change">
+                    <model predicate="$parameters?header='short'" behaviour="heading">
+            <param name="level" value="2"/>
+            <outputRendition xml:space="preserve">
+            text-align: center;
+            </outputRendition>
+        </model>
+                    <modelSequence predicate="parent::titleStmt/parent::fileDesc">
+            <model predicate="preceding-sibling::title" behaviour="text">
+                <param name="content" value="' — '"/>
+            </model>
+            <model behaviour="inline">
+                <outputRendition xml:space="preserve">
+                color: blue;
+                </outputRendition>
+            </model>
+        </modelSequence>
+                    <model predicate="not(@level) and parent::bibl" behaviour="inline"/>
+                    <modelSequence predicate="@level='m' or not(@level)">
+            <model behaviour="inline">
+                <outputRendition xml:space="preserve">
+                font-style: italic;
+                </outputRendition>
+            </model>
+            <model predicate="ancestor::biblFull" behaviour="text">
+                <param name="content" value="', '"/>
+            </model>
+        </modelSequence>
+                    <modelSequence predicate="@level='s' or @level='j'">
+            <model behaviour="inline">
+                <outputRendition xml:space="preserve">
+                font-style: italic;
+                </outputRendition>
+            </model>
+            <model predicate="following-sibling::* and     (  ancestor::biblFull)" behaviour="text">
+                <param name="content" value="', '"/>
+            </model>
+        </modelSequence>
+                    <modelSequence predicate="@level='u' or @level='a'">
+            <model behaviour="inline">
+                <outputRendition xml:space="preserve">
+                font-style: italic;
+                </outputRendition>
+            </model>
+            <model predicate="following-sibling::* and     (    ancestor::biblFull)" behaviour="text">
+                <param name="content" value="'. '"/>
+            </model>
+        </modelSequence>
+                    <model behaviour="inline">
+            <outputRendition xml:space="preserve">
+            font-style: italic;
+            </outputRendition>
+        </model>
+                </elementSpec>
+                <elementSpec ident="hi" mode="change">
+                    <model predicate="@rend='overline'" behaviour="inline" useSourceRendition="true">
+            <desc>overline</desc>
+            <outputRendition xml:space="preserve">
+            text-decoration: overline; text-transform: uppercase;
+            </outputRendition>
+        </model>
+                    <model behaviour="inline" useSourceRendition="true">
+            <outputRendition xml:space="preserve">
+            font-style: italic;
             </outputRendition>
         </model>
                 </elementSpec>
