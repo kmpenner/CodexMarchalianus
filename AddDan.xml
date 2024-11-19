@@ -373,7 +373,9 @@
                   <w>τὸν</w>
                   <w>ἑαυτῶν</w>
                   <w>νοῦν</w>
-               </ab>
+               </ab><pb n="P762-Q" type="page"/>
+               <cb n="P762C-Q"/>
+               <lb n="P762CL-Q"/>
                <ab n="B53K1V9" xml:id="Sus.1.9.P762.I1">
                   <w>καὶ</w>
                   <w>ἐξέκλιναν</w>
@@ -565,6 +567,10 @@
                   <pc>·</pc>
                </ab>
                <ab n="B53K1V17" xml:id="Sus.1.17.P763.I1">
+                  <w>καὶ</w> <w>εἶπεν</w> <w>τοῖς</w><w>κο</w>
+                  <pb n="P763-Q" type="page"/>
+                  <cb n="P763C-Q"/>
+                  <lb n="P763CL-Q"/>
                   <w>ρασίοις</w>
                   <w>αὐτῆς·</w>
                   <w>Ἐνέγκατε</w>
@@ -790,9 +796,9 @@
                   <w>κατέναντι</w>
                   <w>αὐτῆς</w>
                   <pc>˙</pc>
-                  <pb n="P1r-Q" type="folio"/>
-                  <cb n="2"/>
-                  <lb/>
+                  <pb n="P764-Q" type="page"/>
+                  <cb n="P764C-Q"/>
+                  <lb n="P764CL-Q"/>
                </ab>
                <ab n="B53K1V25" xml:id="Sus.1.25.P764.I1">
                   <w>καὶ</w>
