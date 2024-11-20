@@ -791,7 +791,6 @@
                   <w>αὐτῆς</w>
                   <pc>˙</pc>
                   <pb n="P1r-Q" type="folio"/>
-                  <cb n="2"/>
                   <lb/>
                </ab>
                <ab n="B53K1V25" xml:id="Sus.1.25.P764.I1">
@@ -1241,7 +1240,6 @@
                   <w>κατεμαρτύρησαν</w>
                   <pc>˙</pc>
                   <pb n="P1r-Q" type="folio"/>
-                  <cb n="2"/>
                   <lb/>
                </ab>
                <ab n="B53K1V43" part="F" xml:id="Sus.1.43.P766.I1">
@@ -1777,7 +1775,6 @@
                   <w>μεγάλη</w>
                   <pc>˙</pc>
                   <pb n="P1r-Q" type="folio"/>
-                  <cb n="2"/>
                   <lb/>
                </ab>
                <ab n="B53K1V61" xml:id="Sus.1.61.P768.I1">
@@ -1921,7 +1918,6 @@
                   <w>ἐπέκεινα</w>
                   <pc>˙</pc>
                   <pb n="P1r-Q" type="folio"/>
-                  <cb n="2"/>
                   <lb/>
                </ab>
             </div>
@@ -3579,7 +3575,7 @@
                   <w lemma="καί" msd="C">καὶ</w>
                   <w>τρίχας</w>
                   <pc>.</pc>
-                  <w lemma='καί' msd='C'>καὶ</w>
+                  <w lemma="καί" msd="C">καὶ</w>
                   <w>ἠ</w>
                </ab>
             </div>
