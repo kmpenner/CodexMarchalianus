@@ -166,8 +166,8 @@
             </msDesc>
          </listBibl>
          <pb n="P761-Q" type="page"/>
-         <cb n="P761C-Q"/>
-         <lb n="P761CL-Q"/>
+         <cb n="1"/>
+         <lb n="1"/>
          <div type="textpart" n="B53">
             <div type="textpart" n="B53K1">
                <ab n="B53K1V1" xml:id="Sus.1.1.P761.I1">
@@ -383,8 +383,8 @@
                   <w>νοῦν</w>
                </ab>
                <pb n="P762-Q" type="page"/>
-               <cb n="P762C-Q"/>
-               <lb n="P762CL-Q"/>
+               <cb n="1"/>
+               <lb n="1"/>
                <ab n="B53K1V9" xml:id="Sus.1.9.P762.I1">
                   <w>καὶ</w>
                   <w>ἐξέκλιναν</w>
@@ -580,8 +580,8 @@
                   <w>εἶπεν</w>
                   <w>τοῖς</w><w>κο</w>
                   <pb n="P763-Q" type="page"/>
-                  <cb n="P763C-Q"/>
-                  <lb n="P763CL-Q"/>
+                  <cb n="1"/>
+                  <lb n="1"/>
                   <w>ρασίοις</w>
                   <w>αὐτῆς·</w>
                   <w>Ἐνέγκατε</w>
@@ -807,10 +807,10 @@
                   <w>κατέναντι</w>
                   <w>αὐτῆς</w>
                   <pc>˙</pc>
-                  <pb n="P764-Q" type="page"/>
-                  <cb n="P764C-Q"/>
-                  <lb n="P764CL-Q"/>
                </ab>
+               <pb n="P764-Q" type="page"/>
+               <cb n="1"/>
+               <lb n="1"/>
                <ab n="B53K1V25" xml:id="Sus.1.25.P764.I1">
                   <w>καὶ</w>
                   <w>δραμὼν</w>
@@ -1257,10 +1257,11 @@
                   <w>μου</w>
                   <w>κατεμαρτύρησαν</w>
                   <pc>˙</pc>
-                  <pb n="P1r-Q" type="folio"/>
-                  <lb/>
                </ab>
+               <pb n="P766-Q" type="page"/>
+               <cb n="1"/>
                <ab n="B53K1V43" part="F" xml:id="Sus.1.43.P766.I1">
+                  <lb n="1"/>
                   <w>καὶ</w>
                   <w>ἰδοὺ</w>
                   <w>ἀποθνήσκω</w>
@@ -1792,9 +1793,10 @@
                   <w>φωνῆ</w>
                   <w>μεγάλη</w>
                   <pc>˙</pc>
-                  <pb n="P1r-Q" type="folio"/>
-                  <lb/>
                </ab>
+               <pb n="P768-Q" type="page"/>
+               <cb n="1"/>
+               <lb n="1"/>
                <ab n="B53K1V61" xml:id="Sus.1.61.P768.I1">
                   <w>καὶ</w>
                   <w>εὐλόγησαν</w>
@@ -1935,16 +1937,14 @@
                   <w>καὶ</w>
                   <w>ἐπέκεινα</w>
                   <pc>˙</pc>
-                  <pb n="P1r-Q" type="folio"/>
-                  <lb/>
                </ab>
             </div>
          </div>
          <div type="textpart" n="B54">
             <div type="textpart" n="B54K3">
                <pb n="P7-Q" type="page"/>
-               <cb n="P7C-Q"/>
-               <lb n="P7CL-Q"/>
+               <cb n="1"/>
+               <lb n="1"/>
                <ab n="B54K3V23">
                   <w>της</w>
                   <w>καμινου</w>
@@ -2690,9 +2690,7 @@
                   <w>δρόσου</w>
                </ab>
                <ab n="B54K3V50" xml:id="Dan.3.50.P787.I1">
-                  <w><pb n="787"
-                        facs="http://206.12.93.167/community/mssimages/thumbs/22125/787_49_10.jpg"
-                     />διασυρίζον</w>
+                  <w>διασυρίζον</w>
                   <w>καὶ</w>
                   <w>οὐχ</w>
                   <w>ἥψατο</w>
@@ -2960,7 +2958,7 @@
                   <lb/>
                </ab>
                <ab n="B54K3V70" xml:id="Dan.3.70.P789.I1">
-                  <w><pb n=""/>ευλογεῖτε</w>
+                  <w>ευλογεῖτε</w>
                   <w>πάχναι</w>
                   <w>κὰι</w>
                   <w>χιόνες</w>
@@ -3503,9 +3501,9 @@
                </ab>
             </div>
          </div>
-         <pb n="P8-Q" type="page" break="no"/>
-         <cb n="P8C-Q"/>
-         <lb n="P8CL-Q"/>
+         <pb n="P8-Q" type="page"/>
+         <cb n="1"/>
+         <lb n="1"/>
          <div type="textpart" n="B55">
             <div type="textpart" n="B55K1">
                <ab n="B55K1V23" part="I">
@@ -4070,10 +4068,9 @@
                   <w>εἰς</w>
                   <w>τὸν</w>
                   <w>λάκ</w>
-                  <pb n="P1r-Q" type="folio"/>
-                  <cb n="P1rC-Q"/>
-                  <lb n="P1rCL-Q"/>
-                  <lb n="P8CL-Q"/>
+                  <pb n="P1-Q" type="page"/>
+                  <cb n="1"/>
+                  <lb n="1"/>
                   <w>κον</w>
                   <w>τῶν</w>
                   <w>λεόντων·</w>
