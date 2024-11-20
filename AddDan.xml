@@ -182,7 +182,8 @@
                   <w>καὶ</w>
                   <w>ὄνομα</w>
                   <w>αὐτῷ</w>
-                  <w>Ϊωακειμ</w><pc>˙</pc>
+                  <w><choice><orig>Ϊωακειμ</orig><reg>Ιωακιμ</reg></choice></w>
+                  <pc>.</pc>
                </ab>
                <ab n="B53K1V2" xml:id="Sus.1.2.P761.I1">
                   <w>καὶ</w>
@@ -208,37 +209,35 @@
                   <pc>˙</pc>
                </ab>
                <ab n="B53K1V3" xml:id="Sus.1.3.P761.I1">
-                  <w>καὶ</w>
+                  <w>Καὶ</w>
                   <w>ὁι</w>
                   <w>γονεῖς</w>
                   <w>αὐτῆς</w>
-                  <pc>.</pc>
                   <lb/>
                   <w>δίκαιοι</w>
                   <w>καὶ</w>
                   <w>ἐδίδαξαν</w>
                   <w>τὴν</w>
                   <w>θυγατέ<lb break="no"/>ρα</w>
-                  <w>αυτῶν</w>
-                  <pc>.</pc>
+                  <w>αὐτῶν</w>
                   <w>κατὰ</w>
                   <w>τὸν</w>
                   <w>νόμον</w>
                   <w>Μωῡσῆ</w>
-                  <pc>˙</pc>
+                  <pc>.</pc>
                   <lb/>
                </ab>
                <ab n="B53K1V4" xml:id="Sus.1.4.P761.I1">
-                  <w>καὶ</w>
+                  <w>Καὶ</w>
                   <w>ἦν</w>
-                  <w>Ϊωακειμ</w>
+                  <w><choice><orig>Ϊωακειμ</orig><reg>Ιωακιμ</reg></choice></w>
                   <pc>.</pc>
                   <w>πλούσιος</w>
                   <w>σφόδρα</w><pc>˙</pc>
                   <lb/>
                   <w>καὶ</w>
                   <w>ἦν</w>
-                  <w>αὐτῶ</w>
+                  <w>αὐτῶ</w><w>αὐτῶ</w>
                   <w>παράδεισος</w>
                   <w><choice><sic>γιτνιῶν</sic><corr>γειτνιῶν</corr></choice></w>
                   <w>τῶ</w>
@@ -247,11 +246,9 @@
                   <w>καὶ</w>
                   <w>πρὸς</w>
                   <w>αὐτὸν</w>
-                  <w>συνη</w>
-                  <lb/>
-                  <w>γοντο</w>
+                  <w><app><lem>συνάγω</lem><rdg wit="Q">συνη<lb/>γοντο</rdg><rdg wit="OtherMS">προσήγοντο</rdg></app></w>
                   <w>οἱ</w>
-                  <w>Ϊουδαῖοι</w>
+                  <w><choice><orig>Ϊουδαῖοι</orig><reg>Ἰουδαῖοι</reg></choice></w>
                   <w>διὰ</w>
                   <w>τὸ</w>
                   <w>εἶναι</w>
@@ -259,11 +256,11 @@
                   <lb/>
                   <w>ἐνδοξότερον</w>
                   <w>πάντων</w>
-                  <pc>˙</pc>
+                  <pc>.</pc>
                </ab>
                <ab n="B53K1V5" xml:id="Sus.1.5.P761.I1">
                   <w>καὶ</w>
-                  <w>ἀπε<lb break="no"/>δείχθησαν </w>
+                  <w>ἀπε<lb/>δείχθησαν </w>
                   <w>δύο</w>
                   <w>πρεσβύτεροι</w>
                   <w>ἐκ</w>
@@ -276,14 +273,13 @@
                   <w>τῶ</w>
                   <w>ἐνιαὺτῶ</w>
                   <w>ἐκείνω</w>
-                  <pc>˙</pc>
+                  <pc>,</pc>
                   <lb/>
                   <w>περὶ</w>
                   <w>ὧν</w>
                   <w>ἐλάλησεν</w>
                   <w>ὁ</w>
                   <w>δεσπότης</w>
-                  <pc>.</pc>
                   <w>ὅτι</w>
                   <lb/>
                   <w>ἐξῆλθεν</w>
@@ -309,8 +305,8 @@
                   <w>ἐν</w>
                   <w>τῆ</w>
                   <w>οἰκία</w>
-                  <w> Ϊωα <lb break="no"/> κειμ </w>
-                  <w>κὰι</w>
+                  <w><choice><orig>Ϊωα<lb break="no"/>κειμ</orig><reg>Ιωακιμ</reg></choice></w>
+                  <w>καὶ</w>
                   <w>ήρχοντο</w>
                   <w>πρὸς</w>
                   <w>αὐτοὺς</w>
@@ -329,12 +325,11 @@
                   <w>ὁ</w>
                   <w>λαὸς</w>
                   <w>μέσον</w>
-                  <w> ἡμε <lb break="no"/> ρας </w>
-                  <pc>.</pc>
+                  <w> ἡμέ <lb break="no"/> ρας </w>
+                  <pc>,</pc>
                   <w>εἰσεπορεύετο</w>
                   <w>Σουσάννα</w>
-                  <pc>.</pc>
-                  <w>κὰι</w>
+                  <w>καὶ</w>
                   <w> πε <lb break="no"/> ριεπάτει </w>
                   <w>ἐν</w>
                   <w>τῶ</w>
@@ -348,7 +343,7 @@
                   <w>ἐθεώρουν</w>
                   <w>αὐτὴν</w>
                   <lb/>
-                  <w>οἰ</w>
+                  <w>οἱ</w>
                   <w>δύο</w>
                   <w>πρεσβύτεροι</w>
                   <pc>.</pc>
@@ -357,23 +352,24 @@
                   <w> εἰσ <lb break="no"/> πορευομένην</w>
                   <w>καὶ</w>
                   <w>περιπατοῦσαν</w>
-                  <pc>˙</pc>
                   <lb/>
                   <w>καὶ</w>
                   <w>ἐγένοντο</w>
                   <w>ἐν</w>
-                  <w>επιθυμία</w>
+                  <w>ἐπιθυμία </w>
                   <w>αὐτῆς</w>
-                  <pc>˙</pc>
+                  <pc>.</pc>
                   <lb/>
                </ab>
                <ab n="B53K1V9" xml:id="Sus.1.9.P761.I1">
-                  <w>καὶ</w>
+                  <w>Καὶ</w>
                   <w>διέστρεψαν</w>
                   <w>τὸν</w>
                   <w>ἑαυτῶν</w>
                   <w>νοῦν</w>
-               </ab><pb n="P762-Q" type="page"/>
+                  
+               </ab>
+               <pb n="P762-Q" type="page"/>
                <cb n="P762C-Q"/>
                <lb n="P762CL-Q"/>
                <ab n="B53K1V9" xml:id="Sus.1.9.P762.I1">
@@ -385,7 +381,7 @@
                   <w>αὐτῶν</w>
                   <pc>.</pc>
                   <w>τοῦ</w>
-                  <w>μὴ</w>
+                  <w>μη</w>
                   <w>βλέπειν</w>
                   <w>εἰς</w>
                   <w>τὸν</w>
@@ -396,7 +392,7 @@
                   <w>μὴδὲ</w>
                   <w>μνημονεύειν</w>
                   <w> κριμά <lb break="no"/> των </w>
-                  <w>δικάιων</w>
+                  <w>δικαίων</w>
                </ab>
                <ab n="B53K1V10" xml:id="Sus.1.10.P762.I1">
                   <w>καὶ</w>
@@ -405,18 +401,18 @@
                   <pc>.</pc>
                   <w>κατανενυγμένοι</w>
                   <w>περὶ</w>
-                  <w>αὐτῆς·</w>
+                  <w>αὐτῆς</w>
                   <lb/>
                   <w>καὶ</w>
                   <w>οὐκ</w>
-                  <w>απήγγελλον</w>
+                  <w><app><lem>ἀναγγέλλω</lem><rdg wit="Q">απήγγελλον</rdg><rdg wit="OtherMS">ἀνήγγειλαν</rdg></app></w>
                   <w>ἀλλήλοις</w>
-                  <w>τὴν</w>
+                  <w><app><lem>ὁ</lem><rdg wit="Q">τὴν</rdg><rdg wit="OtherMS">τὴς</rdg></app></w>
                   <lb/>
                   <pc>·</pc>
                   <w>ὀδυνην</w>
-                  <w>αὐτῶν</w>
-                  <pc>.</pc>
+                  <w><app><lem>αὐτός</lem><rdg wit="Q">αὐτῶν</rdg><rdg wit="OtherMS">ἑαὐτῶν</rdg></app></w>
+                  <pc>,</pc>
                </ab>
                <ab n="B53K1V11" xml:id="Sus.1.11.P762.I1">
                   <w>ὅτι</w>
@@ -426,7 +422,6 @@
                   <w>τὴν</w>
                   <w>ἐπιθυμίαν</w>
                   <w>αὐτῶν</w>
-                  <pc>.</pc>
                   <lb/>
                   <w>ὅτι</w>
                   <w>ήθελον</w>
@@ -437,37 +432,35 @@
                   <w>καὶ</w>
                   <lb/>
                   <w>παρετηροῦσαν</w>
-                  <pc>.</pc>
                   <w>φιλοτίμως</w>
                   <w>καθ</w>
                   <w> η <lb break="no"/> μέραν </w>
                   <w>ὁρᾶν</w>
-                  <w>αὐτή</w>
-                  <w>ν·</w>
+                  <w>αὐτήν</w><pc>.</pc>
                </ab>
                <ab n="B53K1V13" xml:id="Sus.1.13.P762.I1">
                   <w>καὶ</w>
-                  <w>εἶπεν</w>
+                  <w><app><lem>εἶπον</lem><rdg wit="Q">εἶπεν</rdg><rdg wit="OtherMS">εἶπαν</rdg></app></w>
                   <w> ἕτε <lb break="no"/> ρος </w>
                   <w>τῶ</w>
-                  <w>ἑτέρω·</w>
+                  <w>ἑτέρω</w>
                   <w>Πορευθῶμεν</w>
                   <w>δη</w>
                   <lb/>
                   <w>εἰς</w>
                   <w>οἶκον</w>
-                  <pc>.</pc>
+                  <pc>,</pc>
                   <w>ὅτι</w>
                   <w>ἀρίστου</w>
                   <w>ὥρα</w>
-                  <w>ἐστίν·</w>
+                  <w>ἐστίν</w>
+                  <pc>·</pc>
                   <lb/>
                   <w>καὶ</w>
                   <w>ἐξελθόντες</w>
-                  <pc>.</pc>
                   <w>διεχωρίσθησαν</w>
-                  <w>ἀπ'</w>
-                  <w> ἀλ <lb break="no"/> λήλων· </w>
+                  <w>ἀπ</w><pc>'</pc>
+                  <w> ἀλ <lb break="no"/> λήλων</w><pc>·</pc> 
                </ab>
                <ab n="B53K1V14" xml:id="Sus.1.14.P762.I1">
                   <w>καὶ</w>
@@ -487,15 +480,13 @@
                   <w> ὡμολόγη <lb break="no"/> σαν </w>
                   <w>τὴν</w>
                   <w>ἐπιθυμίαν</w>
-                  <w>αὐτῶν·</w>
+                  <w>αὐτῶν</w><pc>·</pc>
                   <lb/>
                   <w>καὶ</w>
                   <w>τότε</w>
                   <w>κοινῆ</w>
                   <w>συνετάξαντο</w>
-                  <w> καίρο <abbr type="%CE%BA%CE%B1%CE%B9%CF%81%CE%BF%CE%BD">
-                        <hi rend="overline">ν</hi>
-                     </abbr>
+                  <w> καίρον
                   </w>
                   <pc>.</pc>
                   <lb/>
@@ -628,7 +619,7 @@
                   <w>
                      <unclear reason="faded ink">ειδοσαν</unclear>
                   </w>
-                  <w>τοὺς</w>
+                  <w>τούς</w>
                   <w>πρεσβυτέρους</w>
                   <pc>.</pc>
                   <w>ὅτι</w>
@@ -721,7 +712,7 @@
                   <w>ἀνεστέναξεν</w>
                   <w>Σουσάννα</w>
                   <pc>.</pc>
-                  <w>κὰι</w>
+                  <w>καὶ</w>
                   <w> ἐῖ <lb break="no"/> πεν </w>
                   <pc>˙</pc>
                   <w>Στενά</w>
@@ -756,9 +747,7 @@
                   <w>αιρετόν</w>
                   <w>μοί</w>
                   <w>
-                     <abbr type="-%CE%BD">
-                        <hi rend="overline">ἐστι</hi>
-                     </abbr>
+                     ἐστι
                   </w>
                   <lb/>
                   <w>μη</w>
@@ -773,14 +762,15 @@
                   <w>ἁμαρτεῖν</w>
                   <w>με</w>
                   <w> ἐνώπι <lb break="no"/> ον </w>
-                  <w>
-                     <abbr type="nomSac">
-                        <hi rend="overline">κυ·</hi>
-                     </abbr>
+                  <w><choice>
+                     <abbr>
+                        <hi rend="overline">κυ</hi>
+                     </abbr><expan>κυρίου</expan></choice>
                   </w>
+                  <pc>·</pc>
                </ab>
                <ab n="B53K1V24" xml:id="Sus.1.24.P763.I1">
-                  <w>κὰι</w>
+                  <w>καὶ</w>
                   <w>ἀνεβόησεν</w>
                   <w>φωνῆ</w>
                   <w> με <lb break="no"/> γάλη </w>
@@ -788,7 +778,7 @@
                   <pc>·</pc>
                   <w>ἀνεβόησαν</w>
                   <w>δὲ</w>
-                  <w>κὰι</w>
+                  <w>καὶ</w>
                   <w>οἱ</w>
                   <lb/>
                   <w>δυό</w>
@@ -926,9 +916,7 @@
                </ab>
                <ab n="B53K1V30" xml:id="Sus.1.30.P764.I1">
                   <w>καὶ</w>
-                  <w> ῆλθε <abbr type="%CE%B7%CE%BB%CE%B8%CE%B5%CE%BD">
-                        <hi rend="overline">ν</hi>
-                     </abbr>
+                  <w> ῆλθεν
                   </w>
                   <lb/>
                   <w>αὐτὴ</w>
@@ -1017,9 +1005,12 @@
                   <w>τὰς</w>
                   <w>χεῖρας</w>
                   <w>ἀυ</w>
+                  <pb n="P765-Q" type="page"/>
+                  <cb n="P765C-Q"/>
+                  <lb n="P765CL-Q"/>   
                </ab>
                <ab n="B53K1V34" xml:id="Sus.1.34.P765.I1">
-                  <w>τῶν</w>
+                  <w>τῶ</w>
                   <pc>.</pc>
                   <w>ἐπὶ</w>
                   <w>τὴν</w>
@@ -1046,10 +1037,11 @@
                   <w> πε <lb break="no"/> ποιθυῖα </w>
                   <w>ἐπὶ</w>
                   <w>τῶ</w>
-                  <w>
-                     <abbr type="nomSac">
+                  
+                  <w><choice>
+                     <abbr>
                         <hi rend="overline">κω</hi>
-                     </abbr>
+                     </abbr><expan>κυρίῳ</expan></choice>
                   </w>
                   <pc>˙</pc>
                </ab>
@@ -1215,10 +1207,10 @@
                   <w>εἶπεν</w>
                   <pc>˙</pc>
                   <w>ὁ</w>
-                  <w>
-                     <abbr type="nomSac">
+                 <w><choice>
+                     <abbr>
                         <hi rend="overline">θς</hi>
-                     </abbr>
+                     </abbr><expan>θεὸς</expan></choice>
                   </w>
                   <w>ὁ</w>
                   <w>αιώνιος</w>
@@ -1246,10 +1238,9 @@
                   <w>μου</w>
                   <w>κατεμαρτύρησαν</w>
                   <pc>˙</pc>
-                  <pb n="P1r-Q" type="folio"/>
-                  <cb n="2"/>
-                  <lb/>
-               </ab>
+                </ab> <pb n="P766-Q" type="page"/>
+                  <cb n="P766C-Q"/>
+                  <lb n="P766CL-Q"/>
                <ab n="B53K1V43" part="F" xml:id="Sus.1.43.P766.I1">
                   <w>καὶ</w>
                   <w>ἰδοὺ</w>
@@ -1272,10 +1263,10 @@
                <ab n="B53K1V44" xml:id="Sus.1.44.P766.I1">
                   <w>καὶ</w>
                   <w>εἰσήκουσεν</w>
-                  <w>
-                     <abbr type="nomSac">
+                  <w><choice>
+                     <abbr>
                         <hi rend="overline">κς</hi>
-                     </abbr>
+                     </abbr><expan>κύριος</expan></choice>
                   </w>
                   <w>τῆς</w>
                   <lb/>
@@ -1292,17 +1283,17 @@
                   <pc>.</pc>
                   <w>ἐξήγειρεν</w>
                   <w>ὁ</w>
-                  <w>
-                     <abbr type="nomSac">
+                 <w><choice>
+                     <abbr>
                         <hi rend="overline">θς</hi>
-                     </abbr>
+                     </abbr><expan>θεὸς</expan></choice>
                   </w>
                   <lb/>
                   <w>τὸ</w>
-                  <w>
-                     <abbr type="%CF%80%CE%B1%CE%BD%CF%84%CE%B1">
+                  <w><choice>
+                     <abbr>
                         <hi rend="overline">πνα</hi>
-                     </abbr>
+                     </abbr><expan>πνεῦμα</expan></choice>
                   </w>
                   <w>τὸ</w>
                   <w>ἅγιον</w>
@@ -1386,10 +1377,10 @@
                   <pc>.</pc>
                   <w>κατεκρίνατε</w>
                   <w>θυγατέρα</w>
-                  <w>
-                     <abbr type="nomSac">
+                  <w><choice>
+                     <abbr>
                         <hi rend="overline">Ιηλ</hi>
-                     </abbr>
+                     </abbr><expan>Ισραηλ</expan></choice>
                   </w>
                   <pc>;</pc>
                </ab>
@@ -1449,10 +1440,10 @@
                   <w>ἔδωκεν</w>
                   <lb/>
                   <w>ὁ</w>
-                  <w>
-                     <abbr type="nomSac">
+                  <w><choice>
+                     <abbr>
                         <hi rend="overline">θς</hi>
-                     </abbr>
+                     </abbr><expan>θεὸς</expan></choice>
                   </w>
                   <w>τὸ</w>
                   <app type="I">
@@ -1534,7 +1525,11 @@
                   <w>τὸ</w>
                   <w>πρότερον</w>
                   <pc>.</pc>
-               </ab>
+               </ab> 
+               <pb n="P767-Q" type="page"/>
+               <cb n="P767C-Q"/>
+               <lb n="P767CL-Q"/>
+               
                <ab n="B53K1V53" xml:id="Sus.1.53.P767.I1">
                   <w>κρίνων</w>
                   <w>κρίσεις</w>
@@ -1555,10 +1550,10 @@
                   <pc>˙</pc>
                   <w>λέγοντος</w>
                   <w>τοῦ</w>
-                  <w>
-                     <abbr type="nomSac">
+                 <w><choice>
+                     <abbr>
                         <hi rend="overline">κυ</hi>
-                     </abbr>
+                     </abbr><expan>κυρίου</expan></choice>
                   </w>
                   <pc>.</pc>
                   <w> ἀθῶ <lb break="no"/> ον </w>
@@ -1614,11 +1609,12 @@
                   <w>ὁ</w>
                   <w>ἄγγελος</w>
                   <w>τοῦ</w>
-                  <w>
-                     <abbr type="nomSac">
+                  <w><choice>
+                     <abbr>
                         <hi rend="overline">θυ</hi>
-                     </abbr>
+                     </abbr><expan>θεοῦ</expan></choice>
                   </w>
+                  
                   <pc>.</pc>
                   <w>λαβὼν</w>
                   <w>φασιν</w>
@@ -1683,10 +1679,10 @@
                   <w>ἐποιεῖτε</w>
                   <w>θυγατράσιν</w>
                   <lb/>
-                  <w>
-                     <abbr type="nomSac">
+                  <w><choice>
+                     <abbr>
                         <hi rend="overline">ιηλ</hi>
-                     </abbr>
+                     </abbr><expan>Ισραηλ</expan></choice>
                   </w>
                   <w>κακεῖναι</w>
                   <w>φοβούμεναι</w>
@@ -1754,10 +1750,10 @@
                   <w>ὁ</w>
                   <w>ἄγγελος</w>
                   <w>τοῦ</w>
-                  <w>
-                     <abbr type="nomSac">
+                  <w><choice>
+                     <abbr>
                         <hi rend="overline">θυ</hi>
-                     </abbr>
+                     </abbr><expan>θεοῦ</expan></choice>
                   </w>
                   <pc>.</pc>
                   <w>την</w>
@@ -1785,7 +1781,10 @@
                   <pb n="P1r-Q" type="folio"/>
                   <cb n="2"/>
                   <lb/>
-               </ab>
+               </ab> <pb n="P768-Q" type="page"/>
+               <cb n="P768C-Q"/>
+               <lb n="P768CL-Q"/>
+               
                <ab n="B53K1V61" xml:id="Sus.1.61.P768.I1">
                   <w>καὶ</w>
                   <w>εὐλόγησαν</w>
@@ -1870,13 +1869,17 @@
                   <w>αὐτοῦ</w>
                   <pc>.</pc>
                   <w>ἤνεσαν</w>
-                  <w>τὸν</w>
-                  <w>
-                     <abbr type="nomSac">
-                        <hi rend="overline">θν</hi>
-                     </abbr>
-                  </w>
-                  <pc>.</pc>
+                  <app>
+                     <lem>
+                        <w>τὸν</w>
+                        <w>
+                           <choice><abbr type="nomSac">
+                              <hi rend="overline">θν</hi>
+                           </abbr><expan>θεὸν</expan></choice>
+                        </w>
+                        <pc>.</pc>
+                     </lem>  <rdg wit="Z"></rdg>
+                  </app>
                   <w>περὶ</w>
                   <w> Σου <lb break="no"/> σάννας </w>
                   <w>τῆς</w>
@@ -2054,7 +2057,7 @@
                   <w>σου</w>
                   <pc>·</pc>
                   <lb n="P7CL-Q"/>
-                  <w>κὰι</w>
+                  <w>καὶ</w>
                   <w>πᾶσαι</w>
                   <w>αἶ</w>
                   <w>κρίσεις</w>
@@ -2946,7 +2949,7 @@
                <ab n="B54K3V70" xml:id="Dan.3.70.P789.I1">
                   <w><pb n=""/>ευλογεῖτε</w>
                   <w>πάχναι</w>
-                  <w>κὰι</w>
+                  <w>καὶ</w>
                   <w>χιόνες</w>
                   <w>τὸν</w>
                   <w>
@@ -3059,7 +3062,7 @@
                   </w>
                   <pc>.</pc>
                   <w>ὐμνεῖτε</w>
-                  <w>κὰι</w>
+                  <w>καὶ</w>
                   <w>ὐπερυ<lb break="no"/>ψοῦτε</w>
                   <w>ἀυτὸν</w>
                   <w>ἐις</w>
