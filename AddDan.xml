@@ -1,28 +1,49 @@
-<?xml-model href="https://epidoc.stoa.org/schema/9.5/tei-epidoc.rng"schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://epidoc.stoa.org/schema/9.5/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="document" n="Q">Q</title>
+        <title type="document" n="QAddDan">Codex Marchalianus: Vatican City, Biblioteca Apostolica
+          Vaticana, Vat. gr. 2125</title>
+        <author>Anonymous</author>
+        <editor>Ken Penner</editor>
+        <respStmt>
+          <resp>Transcriber</resp>
+          <name>Ken Penner</name>
+          <name>Connor Sutherland</name>
+          <name>Ella Ray</name>
+          <name>Demarquis Moss</name>
+          <name>Dionne Lynch</name>
+        </respStmt>
       </titleStmt>
       <publicationStmt>
+        <publisher>Pinakes Project - Institut de Recherche et d'Histoire des Textes
+          (IRHT)</publisher>
+        <pubPlace>Paris, France</pubPlace>
+        <date when="2024"/>
+        <idno type="Pinakes">68755</idno>
+        <idno type="Shelf">Vat. gr. 2125</idno>
+        <idno type="Rahlfs">Q</idno>
+        <availability>
+          <licence>
+            <p>Freely available for academic use. Digitized version available through the Vatican
+              Library Digital Collections.</p>
+            <ptr target="https://digi.vatlib.it/view/MSS_Vat.gr.2125"/>
+          </licence>
+          <p>(C) 2024 St. Francis Xavier University</p>
+          <p> This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported
+            License </p>
+        </availability>
         <publisher>
           <name type="org">The Institut für neutestamentliche Textforschung</name>
         </publisher>
-        <availability>
-          <p>
-            <![CDATA[ (C) 2024 St. Francis Xavier University ]]>
-          </p>
-          <p>
-            <![CDATA[ This work is licensed under a <a rel="license" target="_blank" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_US">Creative Commons Attribution-ShareAlike 3.0 Unported License<br/><span style="float:right;"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/80x15.png" /></span></a> ]]>
-          </p>
-        </availability>
       </publicationStmt>
       <sourceDesc>
-        <msDesc>
+        <msDesc xml:id="BAV_VatGr2125">
           <msIdentifier>
-            <country>Vatican</country>
-            <settlement>Vatican City</settlement>
+            <institution>Biblioteca Apostolica Vaticana <country>Vatican</country>
+              <settlement>Vatican City</settlement></institution>
             <repository>The Vatican Library</repository>
             <idno>Vat. gr. 2125</idno>
             <msName xml:lang="grc">Codex Marchalianus</msName>
@@ -32,60 +53,1877 @@
           </msIdentifier>
           <msContents>
             <msItem>
-              <title type="uniform" xml:lang="en">Codex Marchalianus</title>
-              <textLang mainLang="grc">Ancient Greek</textLang>
+              <title>Septuagint Old Testament (Prophets)</title>
+              <note type="locus">fols. 1r-416v</note>
+              <note type="date">6th century</note>
+            </msItem>
+            <msItem>
+              <title>Catena Patrum Graecorum in Prophetas (Patristic Commentaries on
+                Prophets)</title>
+              <note type="locus">fols. 417r-435v</note>
+              <note>7th century scholia and commentary</note>
+            </msItem>
+            <msItem>
+              <title>Pseudo-Eusebius, De vitis prophetarum</title>
+              <note type="locus">pp. 1–10</note>
+            </msItem>
+            <msItem>
+              <title>Anonymous vitae prophetarum</title>
+              <note type="locus">pp. 11–24</note>
+            </msItem>
+            <msItem>
+              <title>Duodecim prophetae</title>
+              <note type="locus">pp. 25–170</note>
+            </msItem>
+            <msItem>
+              <title>Isaias</title>
+              <note type="locus">pp. 171–338</note>
+            </msItem>
+            <msItem>
+              <title>Corpus Ieremiae</title>
+              <note type="locus">pp. 341–567</note>
+            </msItem>
+            <msItem>
+              <title>Ezechiel</title>
+              <note type="locus">pp. 568–760</note>
+            </msItem>
+            <msItem>
+              <title>Daniel θ</title>
+              <note type="locus">pp. 761–832</note>
             </msItem>
           </msContents>
           <physDesc>
             <objectDesc form="codex">
-              <layoutDesc>
-                <layout columns="1"> 
+              <supportDesc>
+                <support>Parchment</support>
+                <extent>
+                  <measure type="folia">416 folios</measure>
                   <dimensions>
                     <height unit="mm">295</height>
                     <width unit="mm">179</width>
                   </dimensions>
+                </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout columns="1">
+                  <dimensions>
+                    <height unit="mm">295</height>
+                    <width unit="mm">179</width>
+                  </dimensions>
+                  <p>Text in one column per page with approximately 29 lines per page.</p>
                 </layout>
               </layoutDesc>
             </objectDesc>
             <handDesc>
-              <p>Written in <term>Uncial letters</term>.</p>
+              <handNote>
+                <p>Majuscule script (Coptic Majuscule), primarily from a single scribe with
+                  contributions by different hands in the scholia.</p>
+                <p>Written in <term>Uncial letters</term>.</p>
+              </handNote>
             </handDesc>
+            <decoDesc>
+              <decoNote>Contains marginal notes and symbols indicating lectionary divisions,
+                cross-references, and patristic scholia.</decoNote>
+            </decoDesc>
           </physDesc>
           <history>
             <origin>
-              <origPlace>Egypt</origPlace>
-              <origDate notBefore="0600-01-01" notAfter="0700-12-31"> Sixth century to
-                Seventh Century </origDate>
+              <origDate notBefore="0501" notAfter="0700">6th to 7th century</origDate>
+              <origPlace>
+                <settlement>Egypt</settlement>
+              </origPlace>
             </origin>
             <provenance>
-              <name>Rene Marchal</name>
-              <date>second half 16th century</date>
-            </provenance>
-            <provenance>
-              <name>Cardinal F. Rochefoucaud</name>
-              <date>1636</date>
-            </provenance>
-            <provenance>
-              <name>Jesuit College of Clermont in Paris</name>
-              <date>17th century</date>
-            </provenance>
-            <provenance>
-              <name>The Vatican</name>
-              <date>1785</date>
+              <p>The codex likely did not come to Europe before the 9th century. It arrived in Lower
+                Italy before the 12th century, then moved to the Abbey of S. Denis in Paris, France.
+                It was owned by René Marchal in the second half of the 16th century and Cardinal F.
+                Rochefoucaud in 1636, who donated it to the Jesuit College of Clermont in Paris. The
+                manuscript came to the Vatican in 1785.</p>
+              <p>Owners: René Marchal, Cardinal F. Rochefoucaud.</p>
             </provenance>
           </history>
         </msDesc>
       </sourceDesc>
-      
     </fileDesc>
     <profileDesc>
       <langUsage>
-        <language ident="grc"/>
+        <language ident="grc">Greek</language>
       </langUsage>
     </profileDesc>
   </teiHeader>
-  <text xml:lang="grc">
+
+
+  <text>
     <body>
+      <listBibl>
+        <msDesc>
+          <msIdentifier>
+            <settlement>where is it</settlement>
+            <repository>repository name</repository>
+            <idno>identifier</idno>
+          </msIdentifier>
+        </msDesc>
+      </listBibl>
+      <div type="textpart" n="B53">
+        <div type="textpart" n="B53K1">
+          <ab n="B53K1V1" xml:id="Sus.1.1.P761.I1">
+            <w>καὶ</w>
+            <w>ἦν</w>
+            <w>ἀνὴρ</w>
+            <w>οἰκῶν</w>
+            <w>ἐν</w>
+            <w>Βαβυλῶνι</w>
+            <pc>˙</pc>
+            <lb/>
+            <w>καὶ</w>
+            <w>ὄνομα</w>
+            <w>αὐτῷ</w>
+            <w>Ϊωακειμ·</w>
+          </ab>
+          <ab n="B53K1V2" xml:id="Sus.1.2.P761.I1">
+            <w>καὶ</w>
+            <w>ἕλαβεν</w>
+            <lb/>
+            <w>γυναῖκα</w>
+            <w>ἧ</w>
+            <w>ὂνομα</w>
+            <w>Σουσάννα</w>
+            <w>θυγάτηρ</w>
+            <lb/>
+            <w>Χελκίου</w>
+            <w>καλὴ</w>
+            <w>σφόδρα</w>
+            <w>καὶ</w>
+            <w>φοβου<lb break="no"/>μένη</w>
+            <w>τον</w>
+            <w>
+              <abbr type="nomSac">
+                <hi rend="overline">κν</hi>
+              </abbr>
+            </w>
+            <pc>·</pc>
+          </ab>
+          <ab n="B53K1V3" xml:id="Sus.1.3.P761.I1">
+            <w>καὶ</w>
+            <w>ὁι</w>
+            <w>γονεῖς</w>
+            <w>αὐτῆς</w>
+            <pc>.</pc>
+            <lb/>
+            <w>δίκαιοι</w>
+            <w>καὶ</w>
+            <w>ἐδίδαξαν</w>
+            <w>τὴν</w>
+            <w>θυγατέ<lb break="no"/>ρα</w>
+            <w>αυτῶν</w>
+            <pc>.</pc>
+            <w>κατὰ</w>
+            <w>τὸν</w>
+            <w>νόμον</w>
+            <w>Μωῡσῆ</w>
+            <pc>˙</pc>
+            <lb/>
+          </ab>
+          <ab n="B53K1V4" xml:id="Sus.1.4.P761.I1">
+            <w>καὶ</w>
+            <w>ἦν</w>
+            <w>Ϊωακειμ</w>
+            <pc>.</pc>
+            <w>πλούσιος</w>
+            <w>σφόδρα·</w>
+            <lb/>
+            <w>καὶ</w>
+            <w>ἦν</w>
+            <w>αὐτῶ</w>
+            <w>παράδεισος</w>
+            <w>γ<hi rend="displaced-below">ε</hi>ιτνιῶν</w>
+            <lb/>
+            <w>τῶ</w>
+            <w>οἴκω</w>
+            <w>αὐτοῦ</w>
+            <w>καὶ</w>
+            <w>πρὸς</w>
+            <w>αὐτὸν</w>
+            <w>συνη</w>
+            <lb/>
+            <w>γοντο</w>
+            <w>οἱ</w>
+            <w>Ϊουδαῖοι</w>
+            <w>διὰ</w>
+            <w>τὸ</w>
+            <w>εἶναι</w>
+            <w>αὐτὸν</w>
+            <lb/>
+            <w>ἐνδοξότερον</w>
+            <w>πάντων</w>
+            <pc>˙</pc>
+          </ab>
+          <ab n="B53K1V5" xml:id="Sus.1.5.P761.I1">
+            <w>καὶ</w>
+            <w>ἀπε<lb break="no"/>δείχθησαν </w>
+            <w>δύο</w>
+            <w>πρεσβύτεροι</w>
+            <w>ἐκ</w>
+            <w>τοῦ</w>
+            <lb/>
+            <w>λαοῦ</w>
+            <w>κριταὶ</w>
+            <pc>.</pc>
+            <w>ἐν</w>
+            <w>τῶ</w>
+            <w>ἐνιαὺτῶ</w>
+            <w>ἐκείνω</w>
+            <pc>·</pc>
+            <lb/>
+            <w>περὶ</w>
+            <w>ὧν</w>
+            <w>ἐλάλησεν</w>
+            <w>ὁ</w>
+            <w>δεσπότης</w>
+            <pc>.</pc>
+            <w>ὅτι</w>
+            <lb/>
+            <w>ἐξῆλθεν</w>
+            <w>ἀνομία</w>
+            <w>ἐκ</w>
+            <w>βαβυλῶνος</w>
+            <lb/>
+            <w>ἐκ</w>
+            <w>πρεσβυτέρων</w>
+            <w>κριτῶν</w>
+            <pc>.</pc>
+            <w>οἳ</w>
+            <w> ἐδό <lb break="no"/> κουν </w>
+            <w>κυβερνᾶν</w>
+            <w>τὸν</w>
+            <w>λαόν</w>
+          </ab>
+          <ab n="B53K1V6" xml:id="Sus.1.6.P761.I1">
+            <w>οὗτοι</w>
+            <lb/>
+            <w>προς</w>
+            <w> ἐκα <hi rend="displaced-above">ρ</hi> τέρουν </w>
+            <pc>.</pc>
+            <w>ἐν</w>
+            <w>τῆ</w>
+            <w>οἰκία</w>
+            <w> Ϊωα <lb break="no"/> κειμ </w>
+            <w>κὰι</w>
+            <w>ήρχοντο</w>
+            <w>πρὸς</w>
+            <w>αὐτοὺς</w>
+            <pc>.</pc>
+            <w> πάν <lb break="no"/> τες </w>
+            <w>οἱ</w>
+            <w>κρινόμενοι</w>
+            <pc>˙</pc>
+          </ab>
+          <ab n="B53K1V7" xml:id="Sus.1.7.P761.I1">
+            <w>καὶ</w>
+            <w>ἐγένετο</w>
+            <lb/>
+            <w>ἡνίκα</w>
+            <w>ἀπέτρεχεν</w>
+            <w>ὁ</w>
+            <w>λαὸς</w>
+            <w>μέσον</w>
+            <w> ἡμε <lb break="no"/> ρας </w>
+            <pc>.</pc>
+            <w>εἰσεπορεύετο</w>
+            <w>Σουσάννα</w>
+            <pc>.</pc>
+            <w>κὰι</w>
+            <w> πε <lb break="no"/> ριεπάτει </w>
+            <w>ἐν</w>
+            <w>τῶ</w>
+            <w>παραδείσω</w>
+            <w>τοῦ</w>
+            <w> ἀν <lb break="no"/> δρὸς </w>
+            <w>αὐτῆς·</w>
+          </ab>
+          <ab n="B53K1V8" xml:id="Sus.1.8.P761.I1">
+            <w>καὶ</w>
+            <w>ἐθεώρουν</w>
+            <w>αὐτὴν</w>
+            <lb/>
+            <w>οἰ</w>
+            <w>δύο</w>
+            <w>πρεσβύτεροι</w>
+            <pc>.</pc>
+            <w>καθ</w>
+            <w>ημέραν</w>
+            <w> εἰσ <lb break="no"/> πορευομένην: </w>
+            <w>καὶ</w>
+            <w>περιπατοῦσαν</w>
+            <pc>·</pc>
+            <lb/>
+            <w>καὶ</w>
+            <w>ἐγένοντο</w>
+            <w>ἐν</w>
+            <w>επιθυμία</w>
+            <w>αὐτῆς</w>
+            <pc>·</pc>
+            <lb/>
+          </ab>
+          <ab n="B53K1V9" xml:id="Sus.1.9.P761.I1">
+            <w>καὶ</w>
+            <w>διέστρεψαν</w>
+            <w>τὸν</w>
+            <w>ἑαυτῶν</w>
+            <w>νοῦν</w>
+          </ab>
+          <ab n="B53K1V9" xml:id="Sus.1.9.P762.I1">
+            <w>καὶ</w>
+            <w>ἐξέκλιναν</w>
+            <w>τοὺς</w>
+            <w>οφθαλμοὺς</w>
+            <lb/>
+            <w>αὐτῶν</w>
+            <pc>.</pc>
+            <w>τοῦ</w>
+            <w>μὴ</w>
+            <w>βλέπειν</w>
+            <w>εἰς</w>
+            <w>τὸν</w>
+            <w>οὐρα</w>
+            <lb/>
+            <w>νὸν</w>
+            <pc>.</pc>
+            <w>μὴδὲ</w>
+            <w>μνημονεύειν</w>
+            <w> κριμά <lb break="no"/> των </w>
+            <w>δικάιων</w>
+          </ab>
+          <ab n="B53K1V10" xml:id="Sus.1.10.P762.I1">
+            <w>καὶ</w>
+            <w>ῆσαν</w>
+            <w> ἀμφότε <lb break="no"/> ροι </w>
+            <pc>.</pc>
+            <w>κατανενυγμένοι</w>
+            <w>περὶ</w>
+            <w>αὐτῆς·</w>
+            <lb/>
+            <w>καὶ</w>
+            <w>οὐκ</w>
+            <w>απήγγελλον</w>
+            <w>ἀλλήλοις</w>
+            <w>τὴν</w>
+            <lb/>
+            <pc>·</pc>
+            <w>ὀδυνην</w>
+            <w>αὐτῶν</w>
+            <pc>.</pc>
+          </ab>
+          <ab n="B53K1V11" xml:id="Sus.1.11.P762.I1">
+            <w>ὅτι</w>
+            <w>ησχύνοντο</w>
+            <lb/>
+            <w>ἀπαγγεῖλαι</w>
+            <w>τὴν</w>
+            <w>ἐπιθυμίαν</w>
+            <w>αὐτῶν</w>
+            <pc>.</pc>
+            <lb/>
+            <w>ὅτι</w>
+            <w>ήθελον</w>
+            <w>συγγενέσθαι</w>
+            <w>αὐτῆ·</w>
+          </ab>
+          <ab n="B53K1V12" xml:id="Sus.1.12.P762.I1">
+            <w>καὶ</w>
+            <lb/>
+            <w>παρετηροῦσαν</w>
+            <pc>.</pc>
+            <w>φιλοτίμως</w>
+            <w>καθ</w>
+            <w> η <lb break="no"/> μέραν </w>
+            <w>ὁρᾶν</w>
+            <w>αὐτή</w>
+            <w>ν·</w>
+          </ab>
+          <ab n="B53K1V13" xml:id="Sus.1.13.P762.I1">
+            <w>καὶ</w>
+            <w>εἶπεν</w>
+            <w> ἕτε <lb break="no"/> ρος </w>
+            <w>τῶ</w>
+            <w>ἑτέρω·</w>
+            <w>Πορευθῶμεν</w>
+            <w>δη</w>
+            <lb/>
+            <w>εἰς</w>
+            <w>οἶκον</w>
+            <pc>.</pc>
+            <w>ὅτι</w>
+            <w>ἀρίστου</w>
+            <w>ὥρα</w>
+            <w>ἐστίν·</w>
+            <lb/>
+            <w>καὶ</w>
+            <w>ἐξελθόντες</w>
+            <pc>.</pc>
+            <w>διεχωρίσθησαν</w>
+            <w>ἀπ'</w>
+            <w> ἀλ <lb break="no"/> λήλων· </w>
+          </ab>
+          <ab n="B53K1V14" xml:id="Sus.1.14.P762.I1">
+            <w>καὶ</w>
+            <w>ἀνακάμψαντες</w>
+            <pc>.</pc>
+            <w> ἦλ <lb break="no"/> θον </w>
+            <w>ἐπὶ</w>
+            <w>τὸ</w>
+            <w>αὐτό·</w>
+            <w>καὶ</w>
+            <w>ἀνετάζοντες</w>
+            <lb/>
+            <w>ἀλλήλους</w>
+            <w>τὴν</w>
+            <w>αιτίαν</w>
+            <pc>.</pc>
+            <w> ὡμολόγη <lb break="no"/> σαν </w>
+            <w>τὴν</w>
+            <w>ἐπιθυμίαν</w>
+            <w>αὐτῶν·</w>
+            <lb/>
+            <w>καὶ</w>
+            <w>τότε</w>
+            <w>κοινῆ</w>
+            <w>συνετάξαντο</w>
+            <w> καίρο <abbr type="%CE%BA%CE%B1%CE%B9%CF%81%CE%BF%CE%BD">
+                <hi rend="overline">ν</hi>
+              </abbr>
+            </w>
+            <pc>.</pc>
+            <lb/>
+            <w>ὅτε</w>
+            <w>δυνήσονται</w>
+            <w>αὐτὴν</w>
+            <w>εὑρεῖν</w>
+            <w>
+              <abbr type="-%CE%BD">
+                <hi rend="overline">μόνη</hi>
+              </abbr> · </w>
+            <lb/>
+          </ab>
+          <ab n="B53K1V15" xml:id="Sus.1.15.P762.I1">
+            <w>καὶ</w>
+            <w>ἐγένετο</w>
+            <w>ἐν</w>
+            <w>τῶ</w>
+            <w>παρατηρεῖν</w>
+            <w> αὐ <lb break="no"/> τοὺς </w>
+            <w>ἡμέραν</w>
+            <w>ευθετον</w>
+            <pc>.</pc>
+            <w>εἰσῆλθέν</w>
+            <lb/>
+            <w>ποτε</w>
+            <pc>.</pc>
+            <w>καθως</w>
+            <w>ἐχθὲς</w>
+            <w>καὶ</w>
+            <w>τρίτην</w>
+            <w> ἡμέ <lb break="no"/> ραν </w>
+            <pc>.</pc>
+            <w>μετ</w>
+            <w>δύο</w>
+            <w>κορασίων</w>
+            <w>μόνων</w>
+            <pc>·</pc>
+            <lb/>
+            <w>καὶ</w>
+            <w>ἐπεθύμησεν</w>
+            <w>λούσασθαι</w>
+            <w>ἐν</w>
+            <w>τῶ</w>
+            <lb/>
+            <w>παραδείσω</w>
+            <pc>.</pc>
+            <w>ὅτι</w>
+            <w>καῦμα</w>
+            <w>ἦν</w>
+            <pc>·</pc>
+          </ab>
+          <ab n="B53K1V16" xml:id="Sus.1.16.P762.I1">
+            <w>καὶ</w>
+            <w> οὐ <lb break="no"/> κ </w>
+            <w>ἦν</w>
+            <w>οὐδεἶς</w>
+            <w>ἐκεῖ</w>
+            <pc>·</pc>
+            <w>πλην</w>
+            <w>οἱ</w>
+            <w>δύο</w>
+            <w> πρε <lb break="no"/> σβυτεροι </w>
+            <w>κεκρυμμένοι</w>
+            <pc>.</pc>
+            <w>καὶ</w>
+            <w> παρατη <lb break="no"/> ροῦντες </w>
+            <w>αὐτνήν</w>
+            <pc>·</pc>
+          </ab>
+          <ab n="B53K1V17" xml:id="Sus.1.17.P763.I1">
+            <w>ρασίοις</w>
+            <w>αὐτῆς·</w>
+            <w>Ἐνέγκατε</w>
+            <w>δή</w>
+            <w>μοι</w>
+            <w>ἔλαιον</w>
+            <lb/>
+            <w>καὶ</w>
+            <w>σμῆγμα·</w>
+            <w>καὶ</w>
+            <w>τὰς</w>
+            <w>θύρας</w>
+            <w>τοῦ</w>
+            <w> παρα <lb break="no"/> δείσου </w>
+            <w>κλείσατε</w>
+            <pc>.</pc>
+            <w>ὅπως</w>
+            <w>λούσωμαι·</w>
+            <lb/>
+          </ab>
+          <ab n="B53K1V17" xml:id="Sus.1.17.P762.I1">
+            <w>καὶ</w>
+            <w>εἶπεν</w>
+            <w>τοῖς</w>
+            <w>κο</w>
+          </ab>
+          <ab n="B53K1V18" xml:id="Sus.1.18.P763.I1">
+            <w>καὶ</w>
+            <w>ἐποίησαν</w>
+            <pc>.</pc>
+            <w>καθ</w>
+            <w>ὡς</w>
+            <w>εῖπεν</w>
+            <pc>·</pc>
+            <w>καὶ</w>
+            <w> ἀπέκλει <lb break="no"/> σαν </w>
+            <w>τὰς</w>
+            <w>θύρας</w>
+            <w>τοῦ</w>
+            <w>παραδέισου</w>
+            <w>καὶ</w>
+            <w> ἐ <lb break="no"/> ξῆλθον </w>
+            <w>κατὰ</w>
+            <w>τὰς</w>
+            <w>πλαγίας</w>
+            <w>θύρας</w>
+            <pc>.</pc>
+            <w> ἐ <lb break="no"/> νέγκαι </w>
+            <w>τὰ</w>
+            <w>προστεταγμένα</w>
+            <w>αὐταῖς·</w>
+            <lb/>
+            <w>καὶ</w>
+            <w>ὀυκ</w>
+            <w>
+              <unclear reason="faded ink">ειδοσαν</unclear>
+            </w>
+            <w>τοὺς</w>
+            <w>πρεσβυτέρους</w>
+            <pc>.</pc>
+            <w>ὅτι</w>
+            <lb/>
+            <w>ἦσαν</w>
+            <w>κεκρυμμένοι·</w>
+          </ab>
+          <ab n="B53K1V19" xml:id="Sus.1.19.P763.I1">
+            <w>καὶ</w>
+            <w>ἐγενέτο</w>
+            <lb/>
+            <w>ὡς</w>
+            <w>ἐξήλθον</w>
+            <w>τὰ</w>
+            <w>κοράσια</w>
+            <pc>.</pc>
+            <w>καὶ</w>
+            <w> ἀνέστη <lb break="no"/> σαν </w>
+            <w>ὁι</w>
+            <w>δύο</w>
+            <w>πρεσβύτεροι</w>
+            <pc>.</pc>
+            <w>καὶ</w>
+            <w> ἐπέδρα <lb break="no"/> μον </w>
+            <w>ἀυτῆ·</w>
+          </ab>
+          <ab n="B53K1V20" xml:id="Sus.1.20.P763.I1">
+            <w>καὶ</w>
+            <w>εἶπον</w>
+            <w>Ϊδοὺ</w>
+            <w>αἱ</w>
+            <w>θύραι</w>
+            <lb/>
+            <w>τοῦ</w>
+            <w>παραδείσου</w>
+            <w> κέκλε <unclear reason="faded ink">ι</unclear> νται </w>
+            <pc>.</pc>
+            <w>καὶ</w>
+            <w> ὀυ <lb break="no"/> δεῖς </w>
+            <w>θεωρεῖ</w>
+            <w>ἡμᾶς</w>
+            <pc>·</pc>
+            <w>καὶ</w>
+            <w>ἐν</w>
+            <w>επιθυμία</w>
+            <lb/>
+            <w>σου</w>
+            <w>ἐσμέν·</w>
+            <w>διὅ</w>
+            <w> συγκατ <hi rend="displaced-above">α</hi> θου </w>
+            <w>ἡμῖν</w>
+            <pc>.</pc>
+            <lb/>
+            <w>καὶ</w>
+            <w>γενοῦ</w>
+            <w>μεθ'</w>
+            <w>ἡμῶν</w>
+            <pc>·</pc>
+          </ab>
+          <ab n="B53K1V21" xml:id="Sus.1.21.P763.I1">
+            <w>εἰ</w>
+            <w>δὲ</w>
+            <w>μήγε</w>
+            <pc>.</pc>
+            <lb/>
+            <w>καταμαρτυρήσομέν</w>
+            <w>σου</w>
+            <pc>.</pc>
+            <w>ὅτι</w>
+            <w>ἦν</w>
+            <lb/>
+            <w>μετὰ</w>
+            <w>σοῦ</w>
+            <w>νεανίσκος</w>
+            <pc>.</pc>
+            <w>καὶ</w>
+            <w>διὰ</w>
+            <w>τοῦτο</w>
+            <lb/>
+            <w>ἐξαπέστειλας</w>
+            <w>τὰ</w>
+            <w>κοράσια</w>
+            <w>ἀπὸ</w>
+            <w>σοῦ</w>
+            <pc>˙</pc>
+            <lb/>
+          </ab>
+          <ab n="B53K1V22" xml:id="Sus.1.22.P763.I1">
+            <w>καὶ</w>
+            <w>ἀνεστέναξεν</w>
+            <w>Σουσάννα</w>
+            <pc>.</pc>
+            <w>κὰι</w>
+            <w> ἐῖ <lb break="no"/> πεν </w>
+            <pc>˙</pc>
+            <w>Στενά</w>
+            <w>μοι</w>
+            <w>πάντοθεν</w>
+            <pc>˙</pc>
+            <w>ἐάν</w>
+            <w>τε</w>
+            <w>γὰρ</w>
+            <lb/>
+            <w>τοῦτο</w>
+            <w>πράξω</w>
+            <w>θάνατός</w>
+            <w>μοί</w>
+            <w>ἐστιν</w>
+            <pc>˙</pc>
+            <lb/>
+            <w>ἐάν</w>
+            <w>τε</w>
+            <w>μὴ</w>
+            <w>πράξω</w>
+            <pc>.</pc>
+            <w>ὀυκ</w>
+            <w>ἐκφεύξομαι</w>
+            <lb/>
+            <w>τὰς</w>
+            <w>χεῖρας</w>
+            <w>ὑμῶν</w>
+            <pc>˙</pc>
+          </ab>
+          <ab n="B53K1V23" xml:id="Sus.1.23.P763.I1">
+            <w>αιρετόν</w>
+            <w>μοί</w>
+            <w>
+              <abbr type="-%CE%BD">
+                <hi rend="overline">ἐστι</hi>
+              </abbr>
+            </w>
+            <lb/>
+            <w>μη</w>
+            <w>πράξασαν</w>
+            <w>ἐμπεσεῖν</w>
+            <w>εἰς</w>
+            <w>τὰς</w>
+            <w> χεῖ <lb break="no"/> ρας </w>
+            <w>ὑμῶν</w>
+            <pc>.</pc>
+            <w>ἠ</w>
+            <w>ἁμαρτεῖν</w>
+            <w>με</w>
+            <w> ἐνώπι <lb break="no"/> ον </w>
+            <w>
+              <abbr type="nomSac">
+                <hi rend="overline">κυ·</hi>
+              </abbr>
+            </w>
+          </ab>
+          <ab n="B53K1V24" xml:id="Sus.1.24.P763.I1">
+            <w>κὰι</w>
+            <w>ἀνεβόησεν</w>
+            <w>φωνῆ</w>
+            <w> με <lb break="no"/> γάλη </w>
+            <w>Σουσάννα</w>
+            <pc>·</pc>
+            <w>ἀνεβόησαν</w>
+            <w>δὲ</w>
+            <w>κὰι</w>
+            <w>οἱ</w>
+            <lb/>
+            <w>δυό</w>
+            <w>πρεσβύτεροι</w>
+            <w>κατέναντι</w>
+            <w>αὐτῆς</w>
+            <pc>˙</pc>
+            <pb n="P1r-Q" type="folio"/>
+            <cb n="2"/>
+            <lb/>
+          </ab>
+          <ab n="B53K1V25" xml:id="Sus.1.25.P764.I1">
+            <w>καὶ</w>
+            <w>δραμὼν</w>
+            <w>ὁ</w>
+            <w>εἷς</w>
+            <pc>.</pc>
+            <w>ήνοιξεν</w>
+            <w>τὰς</w>
+            <w> θύ <lb break="no"/> ρας </w>
+            <w>τοῦ</w>
+            <w>παραδείσου</w>
+            <pc>·</pc>
+          </ab>
+          <ab n="B53K1V26" xml:id="Sus.1.26.P764.I1">
+            <w>ὡς</w>
+            <w>δὲ</w>
+            <w>ἤκουσαν</w>
+            <lb/>
+            <w>τὴν</w>
+            <w>κραυγὴν</w>
+            <w>ἐν</w>
+            <w>τῶ</w>
+            <w>παραδείσω</w>
+            <pc>.</pc>
+            <lb/>
+            <w>οἱ</w>
+            <w>ἐκ</w>
+            <w>τῆς</w>
+            <w>οἰκίας</w>
+            <w>εἰσεπηδήσαν</w>
+            <w>δια</w>
+            <lb/>
+            <w>τῆς</w>
+            <w>πλαγίας</w>
+            <w>θύρας</w>
+            <w>ἰδεῖν</w>
+            <pc>.</pc>
+            <w>τὸ</w>
+            <w> συμβε <lb break="no"/> βηκὸς </w>
+            <w>αὐτῆ</w>
+            <pc>·</pc>
+          </ab>
+          <ab n="B53K1V27" xml:id="Sus.1.27.P764.I1">
+            <w>ἡνίκα</w>
+            <w>δὲ</w>
+            <w>εἶπαν</w>
+            <w>οἱ</w>
+            <w> πρε <lb break="no"/> σβύτεροι </w>
+            <w>τοὺς</w>
+            <w>λόγους</w>
+            <w>ἀυτῶν</w>
+            <pc>.</pc>
+            <w> κατη <lb break="no"/>
+              <hi rend="displaced-above">σ</hi> χύνθησαν </w>
+            <w>οἱ</w>
+            <w>δοῦλοι</w>
+            <w>σφόδρα</w>
+            <w>ὄτι</w>
+            <lb/>
+            <w>πώποτε</w>
+            <w>οὐκ</w>
+            <w> ερρέθ <hi rend="displaced-above">η</hi>
+            </w>
+            <w>λόγος</w>
+            <w>τοιοῦτος</w>
+            <lb/>
+            <w>περι</w>
+            <w>Σουσάννας</w>
+          </ab>
+          <ab n="B53K1V28" xml:id="Sus.1.28.P764.I1">
+            <w>καὶ</w>
+            <w>ἐγένετο</w>
+            <w>τῆ</w>
+            <w> ἐπαύ <lb break="no"/> ριον </w>
+            <pc>.</pc>
+            <w>ὡς</w>
+            <w>συνῆλθεν</w>
+            <w>ὁ</w>
+            <w>λαὸς</w>
+            <w>πρὸς</w>
+            <w>τὸν</w>
+            <w> ἄν <lb break="no"/> δρα </w>
+            <w> αὐτῆ <hi rend="displaced-above">ς</hi>
+            </w>
+            <w>Ϊωακιμ</w>
+            <w>ῆλθον</w>
+            <w>ὀι</w>
+            <w>δύο</w>
+            <w> πρε <lb break="no"/> σβύτεροι </w>
+            <w>πλήρεις</w>
+            <w>τῆς</w>
+            <w>ἀνόμου</w>
+            <w> ἐννοί <lb break="no"/> ας </w>
+            <w>κατα</w>
+            <w>Σουσάννας</w>
+            <pc>.</pc>
+            <w>τοῦ</w>
+            <w>θανατῶσαι</w>
+            <lb/>
+            <w>αὐτήν</w>
+            <pc>·</pc>
+            <w>καὶ</w>
+            <w>εἶπαν</w>
+            <w>έμπροσθεν</w>
+            <w>τοῦ</w>
+            <w> λα <lb break="no"/> οῦ </w>
+            <pc>·</pc>
+          </ab>
+          <ab n="B53K1V29" xml:id="Sus.1.29.P764.I1">
+            <w>Ἀποστείλατε</w>
+            <w>ἐπι</w>
+            <w>Σουσανναν</w>
+            <w> θυ <lb break="no"/> γὰτέρα </w>
+            <w>Χελκίου</w>
+            <w>ἥ</w>
+            <w>ἐστιν</w>
+            <w>γυνὴ</w>
+            <w> Ϊω <lb break="no"/> ακειμ </w>
+            <pc>·</pc>
+            <w>οἱ</w>
+            <w>δὲ</w>
+            <w>ἀπέστειλαν</w>
+            <pc>·</pc>
+          </ab>
+          <ab n="B53K1V30" xml:id="Sus.1.30.P764.I1">
+            <w>καὶ</w>
+            <w> ῆλθε <abbr type="%CE%B7%CE%BB%CE%B8%CE%B5%CE%BD">
+                <hi rend="overline">ν</hi>
+              </abbr>
+            </w>
+            <lb/>
+            <w>αὐτὴ</w>
+            <pc>.</pc>
+            <w>καὶ</w>
+            <w>ὀι</w>
+            <w>γονεῖς</w>
+            <w>αὐτῆς</w>
+            <pc>·</pc>
+            <w>καὶ</w>
+            <w>τὰ</w>
+            <w> τέ <lb break="no"/> κνα </w>
+            <w>αὐτῆς</w>
+            <pc>·</pc>
+            <w>καὶ</w>
+            <w>πάντες</w>
+            <w>ὁι</w>
+            <w>συγγενεῖς</w>
+            <lb/>
+            <w>αὐτῆς</w>
+            <pc>·</pc>
+          </ab>
+          <ab n="B53K1V31" xml:id="Sus.1.31.P764.I1">
+            <w>ἡ</w>
+            <w>δὲ</w>
+            <w>Σουσάννα</w>
+            <w>ἦν</w>
+            <w> τρυφερὰ <lb break="no"/> σφόδρα </w>
+            <pc>.</pc>
+            <w>καὶ</w>
+            <w>καλὴ</w>
+            <w>τῶ</w>
+            <w>εἴδει</w>
+            <pc>·</pc>
+          </ab>
+          <ab n="B53K1V32" xml:id="Sus.1.32.P764.I1">
+            <w>ὁι</w>
+            <w>δὲ</w>
+            <w> πα <lb break="no"/> ράνομοι </w>
+            <pc>.</pc>
+            <w>ἐκέλευσαν</w>
+            <w> ἀποκαλυφθῆ <lb break="no"/> ναι </w>
+            <w>αὐτὴν</w>
+            <pc>.</pc>
+            <w>ἦν</w>
+            <w>γὰρ</w>
+            <w>περι</w>
+            <w> κεκαλυμ <lb break="no"/> μένη </w>
+            <pc>.</pc>
+            <w>ὅπως</w>
+            <w>ἐμπλησθῶσιν</w>
+            <w>τοῦ</w>
+            <lb/>
+            <w>κάλλους</w>
+            <w>αὐτῆς</w>
+            <pc>·</pc>
+          </ab>
+          <ab n="B53K1V33" xml:id="Sus.1.33.P764.I1">
+            <w>ἔκλαιον</w>
+            <w>δὲ</w>
+            <w>οἱ</w>
+            <w>παρ'</w>
+            <w> αὐ <lb break="no"/> τῆς </w>
+            <pc>.</pc>
+            <w>καὶ</w>
+            <w>πάντες</w>
+            <w>οἱ</w>
+            <w>ἐιδόντες</w>
+            <w>αὐτὴν</w>
+            <pc>·</pc>
+            <lb/>
+          </ab>
+          <ab n="B53K1V34" xml:id="Sus.1.34.P764.I1">
+            <w>αναστάντες</w>
+            <w>δὲ</w>
+            <w>ὁι</w>
+            <w>δύο</w>
+            <w>πρεσβύτεροι</w>
+            <pc>.</pc>
+            <w>ἐν</w>
+            <lb/>
+            <w>μέσω</w>
+            <w>τοῦ</w>
+            <w>λαοῦ</w>
+            <w>ἔθηκαν</w>
+            <w>τὰς</w>
+            <w>χεῖρας</w>
+            <w>ἀυ</w>
+          </ab>
+          <ab n="B53K1V34" xml:id="Sus.1.34.P765.I1">
+            <w>τῶν</w>
+            <pc>.</pc>
+            <w>ἐπὶ</w>
+            <w>τὴν</w>
+            <w>κεφαλὴν</w>
+            <w>αὐτῆς</w>
+            <pc>·</pc>
+            <lb/>
+          </ab>
+          <ab n="B53K1V35" xml:id="Sus.1.35.P765.I1">
+            <w>ἡ</w>
+            <w>δὲ</w>
+            <w>κλαίουσα</w>
+            <w>ἀνέβλεψεν</w>
+            <w>εἰς</w>
+            <w>τόν</w>
+            <w> ου <lb break="no"/> ρανόν </w>
+            <pc>˙</pc>
+            <w>ὅτι</w>
+            <w>ἦν</w>
+            <w>ἡ</w>
+            <w>καρδία</w>
+            <w>αὐτῆς</w>
+            <pc>.</pc>
+            <w> πε <lb break="no"/> ποιθυῖα </w>
+            <w>ἐπὶ</w>
+            <w>τῶ</w>
+            <w>
+              <abbr type="nomSac">
+                <hi rend="overline">κω</hi>
+              </abbr>
+            </w>
+            <pc>˙</pc>
+          </ab>
+          <ab n="B53K1V36" xml:id="Sus.1.36.P765.I1">
+            <w>εῖπαν</w>
+            <w>δὲ</w>
+            <lb/>
+            <w>οἱ</w>
+            <w>πρεσβύτεροι</w>
+            <pc>˙</pc>
+            <w>περιπατούντων</w>
+            <lb/>
+            <w>ἡμῶν</w>
+            <w>ἐν</w>
+            <w>τῶ</w>
+            <w>παραδείσω</w>
+            <w>μόνων</w>
+            <pc>.</pc>
+            <lb/>
+            <w>εἰσῆλθεν</w>
+            <w>αὕτη</w>
+            <w>μετα</w>
+            <w>δύο</w>
+            <w>παιδισκῶν</w>
+            <pc>˙</pc>
+            <lb/>
+            <w>καὶ</w>
+            <w>ἀπέκλεισεν</w>
+            <w>τὰς</w>
+            <w>θύρας</w>
+            <w>τοῦ</w>
+            <w>παραδείσου</w>
+            <pc>.</pc>
+            <lb/>
+            <w>καὶ</w>
+            <w>ἀπέλυσεν</w>
+            <w>τὰς</w>
+            <w>παιδίσκας</w>
+            <pc>˙</pc>
+          </ab>
+          <ab n="B53K1V37" xml:id="Sus.1.37.P765.I1">
+            <w>καὶ</w>
+            <w> ἦλ <lb break="no"/> θεν </w>
+            <w>πρὸς</w>
+            <w>αὐτὴν</w>
+            <w>νεανίσκος</w>
+            <pc>.</pc>
+            <w>ὃς</w>
+            <w>ἦν</w>
+            <w> κε <lb break="no"/> κρυμμένος </w>
+            <pc>.</pc>
+            <w>καὶ</w>
+            <w>ἀνέπεσεν</w>
+            <w>μετ</w>
+            <pc>ʼ</pc>
+            <w> αὐ <lb break="no"/> της </w>
+            <pc>˙</pc>
+          </ab>
+          <ab n="B53K1V38" xml:id="Sus.1.38.P765.I1">
+            <w>ἡμεῖς</w>
+            <w>δὲ</w>
+            <w>ὄντες</w>
+            <w>ἐν</w>
+            <w>τῆ</w>
+            <w>γωνία</w>
+            <lb/>
+            <w>τοῦ</w>
+            <w>παραδείσου</w>
+            <pc>.</pc>
+            <w>ἰδόντες</w>
+            <w>τὴν</w>
+            <w> ἀνομί <lb break="no"/> ἀν </w>
+            <pc>.</pc>
+            <w>ἐπεδράμομεν</w>
+            <w>επ</w>
+            <pc>ʼ</pc>
+            <w>αυτούς</w>
+          </ab>
+          <ab n="B53K1V39" xml:id="Sus.1.39.P765.I1">
+            <seg type="margin" subtype="pageright">
+              <w>καὶ</w>
+              <w>ἴδοντες</w>
+              <w>συγγινομενους</w>
+              <w>αυτους</w>
+              <pc>.</pc>
+            </seg>
+            <w> ἐκεί <lb break="no"/> νου </w>
+            <w>μὲν</w>
+            <pc>.</pc>
+            <w>οὐκ</w>
+            <w>ἠδυνήθημεν</w>
+            <w> ἐγκρα <lb break="no"/> τεῖς </w>
+            <w>γενέσθαι</w>
+            <w>διὰ</w>
+            <w>τὸ</w>
+            <w>ἰσχύειν</w>
+            <w>αὐτὸν</w>
+            <lb/>
+            <w>ϋπερ</w>
+            <w>ἠμᾶς</w>
+            <pc>.</pc>
+            <w>καὶ</w>
+            <w>ἀνοίξαντα</w>
+            <w>τὰς</w>
+            <w>θύρας</w>
+            <lb/>
+            <w>ἐκπεπηδηκέναι</w>
+            <pc>˙</pc>
+          </ab>
+          <ab n="B53K1V40" xml:id="Sus.1.40.P765.I1">
+            <w>ταύτης</w>
+            <w>δὲ</w>
+            <w> ἐπιλα <lb break="no"/> βόμενοι </w>
+            <pc>.</pc>
+            <w>ἐπηρωτῶμεν</w>
+            <pc>.</pc>
+            <w>τίς</w>
+            <w>ἦν</w>
+            <w>ὁ</w>
+            <w> νε <lb break="no"/> ανίσκος </w>
+          </ab>
+          <ab n="B53K1V41" xml:id="Sus.1.41.P765.I1">
+            <w>καὶ</w>
+            <w>οὐκ</w>
+            <w>ηθέλησεν</w>
+            <w> ἀπαγγεῖ <lb break="no"/> λαι </w>
+            <w>ἡμῖν</w>
+            <pc>˙</pc>
+            <w>ταῦτα</w>
+            <w>μαρτυροῦμεν</w>
+            <pc>˙</pc>
+            <lb/>
+            <w>καὶ</w>
+            <w>ἐπίστευσεν</w>
+            <w>αὐτοῖς</w>
+            <w>ἡ</w>
+            <w>συναγωγὴ</w>
+            <pc>.</pc>
+            <lb/>
+            <w>ὡς</w>
+            <w>πρεσβυτέροις</w>
+            <w>τοῦ</w>
+            <w>λαοῦ</w>
+            <w>καὶ</w>
+            <w>κριταῖς</w>
+            <pc>˙</pc>
+            <lb/>
+            <w>καὶ</w>
+            <w>κατέκριναν</w>
+            <w>αὐτὴν</w>
+            <w>αποθανεῖν</w>
+            <pc>˙</pc>
+            <lb/>
+          </ab>
+          <ab n="B53K1V42" xml:id="Sus.1.42.P765.I1">
+            <w>ανεβόησεν</w>
+            <w>δὲ</w>
+            <w>φωνῆ</w>
+            <w>μεγάλη</w>
+            <w> Σουσαν <lb break="no"/> να </w>
+            <pc>.</pc>
+            <w>καὶ</w>
+            <w>εἶπεν</w>
+            <pc>˙</pc>
+            <w>ὁ</w>
+            <w>
+              <abbr type="nomSac">
+                <hi rend="overline">θς</hi>
+              </abbr>
+            </w>
+            <w>ὁ</w>
+            <w>αιώνιος</w>
+            <pc>.</pc>
+            <w>ὁ</w>
+            <w>τῶν</w>
+            <lb/>
+            <w>κρυπτῶν</w>
+            <w>γνώστης</w>
+            <pc>.</pc>
+            <w>ὁ</w>
+            <w>εἰδὼς</w>
+            <w>τὰ</w>
+            <w> παν <lb break="no"/> τα </w>
+            <w>πρὶν</w>
+            <w>γενέσεως</w>
+            <w>αὐτῶν</w>
+          </ab>
+          <ab n="B53K1V43" xml:id="Sus.1.43.P765.I1">
+            <w>σὺ</w>
+            <w> ἐπίστα <lb break="no"/> σαι </w>
+            <pc>.</pc>
+            <w>ὅτι</w>
+            <w>ψευδῆ</w>
+            <w>μου</w>
+            <w>κατεμαρτύρησαν</w>
+            <pc>˙</pc>
+            <pb n="P1r-Q" type="folio"/>
+            <cb n="2"/>
+            <lb/>
+          </ab>
+          <ab n="B53K1V43" part="F" xml:id="Sus.1.43.P766.I1">
+            <w>καὶ</w>
+            <w>ἰδοὺ</w>
+            <w>ἀποθνήσκω</w>
+            <pc>.</pc>
+            <w>μὴ</w>
+            <w>ποιήσασα</w>
+            <lb/>
+            <w>μηδὲν</w>
+            <pc>.</pc>
+            <w>ὧν</w>
+            <w>οῦτοι</w>
+            <w>επονηρεύσαντο</w>
+            <lb/>
+            <w>κατ</w>
+            <pc>ʼ</pc>
+            <w>ἐμοῦ</w>
+            <pc>˙</pc>
+          </ab>
+          <ab n="B53K1V44" xml:id="Sus.1.44.P766.I1">
+            <w>καὶ</w>
+            <w>εἰσήκουσεν</w>
+            <w>
+              <abbr type="nomSac">
+                <hi rend="overline">κς</hi>
+              </abbr>
+            </w>
+            <w>τῆς</w>
+            <lb/>
+            <w>φωνῆς</w>
+            <w>αὐτῆς</w>
+            <pc>˙</pc>
+          </ab>
+          <ab n="B53K1V45" xml:id="Sus.1.45.P766.I1">
+            <w>καὶ</w>
+            <w>ἀπαγομένης</w>
+            <lb/>
+            <w>αὐτῆς</w>
+            <w>ἀπολέσθαι</w>
+            <pc>.</pc>
+            <w>ἐξήγειρεν</w>
+            <w>ὁ</w>
+            <w>
+              <abbr type="nomSac">
+                <hi rend="overline">θς</hi>
+              </abbr>
+            </w>
+            <lb/>
+            <w>τὸ</w>
+            <w>
+              <abbr type="%CF%80%CE%B1%CE%BD%CF%84%CE%B1">
+                <hi rend="overline">πνα</hi>
+              </abbr>
+            </w>
+            <w>τὸ</w>
+            <w>ἅγιον</w>
+            <pc>.</pc>
+            <w>παιδαρίου</w>
+            <w> νεωτέ <lb break="no"/> ρου </w>
+            <w>ὧ</w>
+            <w>ὄνομα</w>
+            <w>Δανιήλ</w>
+            <pc>.</pc>
+          </ab>
+          <ab n="B53K1V46" xml:id="Sus.1.46.P766.I1">
+            <w>καὶ</w>
+            <w>ἐβόησεν</w>
+            <lb/>
+            <w>φωνῆ</w>
+            <w>μεγάλη</w>
+            <w>καὶ</w>
+            <w>εἶπεν</w>
+            <pc>˙</pc>
+            <w>καθαρὸς</w>
+            <lb/>
+            <w>εγὼ</w>
+            <pc>.</pc>
+            <w>ἀπὸ</w>
+            <w>τοῦ</w>
+            <w>αἵματος</w>
+            <w>ταύτης</w>
+            <pc>˙</pc>
+            <lb/>
+          </ab>
+          <ab n="B53K1V47" xml:id="Sus.1.47.P766.I1">
+            <w>επέστρεψεν</w>
+            <w>δὲ</w>
+            <w>πᾶς</w>
+            <w>ὁ</w>
+            <w>λαὸς</w>
+            <w>πρὸς</w>
+            <w> αὐ <lb break="no"/> τὸν </w>
+            <w>καὶ</w>
+            <w>εἶπαν</w>
+            <pc>˙</pc>
+            <w>τίς</w>
+            <w>ὁ</w>
+            <w>λόγος</w>
+            <w>οὗτος</w>
+            <w>ὃν</w>
+            <w>σὺ</w>
+            <lb/>
+            <w>λελάληκας</w>
+            <pc>˙</pc>
+          </ab>
+          <ab n="B53K1V48" xml:id="Sus.1.48.P766.I1">
+            <w>ὁ</w>
+            <w>δὲ</w>
+            <w>στὰς</w>
+            <w>ἐν</w>
+            <w>μέσω</w>
+            <w>αὐτῶν</w>
+            <lb/>
+            <w>εἶπεν</w>
+            <w>οὕτως</w>
+            <w>μωροὶ</w>
+            <w>οἱ</w>
+            <w>υἱοὶ</w>
+            <w>
+              <abbr type="proper%20noun">
+                <hi rend="overline">Ιηλ</hi>
+              </abbr>
+            </w>
+            <w> οὐ <lb break="no"/> κ </w>
+            <pc>ʼ</pc>
+            <w>ἀνακρίναντες</w>
+            <pc>.</pc>
+            <w>οὐδε</w>
+            <seg type="margin" subtype="pageleft">
+              <w>το</w>
+            </seg>
+            <w>σαφὲς</w>
+            <w> ἐπιγνὸν <lb break="no"/> τες </w>
+            <pc>.</pc>
+            <w>κατεκρίνατε</w>
+            <w>θυγατέρα</w>
+            <w>
+              <abbr type="nomSac">
+                <hi rend="overline">Ιηλ</hi>
+              </abbr>
+            </w>
+            <pc>;</pc>
+          </ab>
+          <ab n="B53K1V49" xml:id="Sus.1.49.P766.I1">
+            <w> ἀνα <lb break="no"/> στρεψατε </w>
+            <w>δὴ</w>
+            <w>εἰς</w>
+            <w>τὸ</w>
+            <w>κριτήριον</w>
+            <pc>˙</pc>
+            <w> ψευ <lb break="no"/> δῆ </w>
+            <w>γὰρ</w>
+            <w>οὗτοι</w>
+            <w>κατεμαρτύρησαν</w>
+            <w>αὐτῆς</w>
+            <pc>˙</pc>
+            <lb/>
+          </ab>
+          <ab n="B53K1V50" xml:id="Sus.1.50.P766.I1">
+            <w>καὶ</w>
+            <w>ἀνέστρεψεν</w>
+            <w>ὁ</w>
+            <w>λαὸς</w>
+            <pc>.</pc>
+            <w>μετὰ</w>
+            <w>σπουδῆς</w>
+            <pc>˙</pc>
+            <lb/>
+            <w>καὶ</w>
+            <w>εἶπαν</w>
+            <w>αὐτῶ</w>
+            <w>οἱ</w>
+            <w>πρεσβύτεροι</w>
+            <pc>˙</pc>
+            <w>δεῦρο</w>
+            <lb/>
+            <w>καὶ</w>
+            <w>κάθισον</w>
+            <app>
+              <rdg type="orig" hand="firsthand">
+                <w>εμ</w>
+              </rdg>
+              <rdg type="corr" hand="corrector" rend="strikethrough">
+                <seg type="line" subtype="above" n="@P7CL-Q">
+                  <w>εν</w>
+                </seg>
+              </rdg>
+            </app>
+            <w>μέσω</w>
+            <w>ἤμῶν</w>
+            <w>καὶ</w>
+            <w> ἀ <lb break="no"/> πάγγειλον </w>
+            <w>ἡμῖν</w>
+            <pc>.</pc>
+            <w>ὄτι</w>
+            <w>σοὶ</w>
+            <w>ἔδωκεν</w>
+            <lb/>
+            <w>ὁ</w>
+            <w>
+              <abbr type="nomSac">
+                <hi rend="overline">θς</hi>
+              </abbr>
+            </w>
+            <w>τὸ</w>
+            <app type="I">
+              <rdg type="orig" hand="firsthand">
+                <w>πρεσβυτερῖον</w>
+              </rdg>
+              <rdg type="corr" hand="corrector" rend="other">
+                <seg part="I" type="line" subtype="above" n="@P7CL-Q">
+                  <w>πρεσβυτερεῖον</w>
+                </seg>
+              </rdg>
+            </app>
+            <pc>˙</pc>
+          </ab>
+          <ab n="B53K1V51" xml:id="Sus.1.51.P766.I1">
+            <w>καὶ</w>
+            <w>εἶπεν</w>
+            <w>πρὸς</w>
+            <lb/>
+            <w>αὐτοὺς</w>
+            <w>Δανιήλ</w>
+            <pc>˙</pc>
+            <w>διαχωρίσατε</w>
+            <w>αὐτοὺς</w>
+            <lb/>
+            <w>ἀπ</w>
+            <pc>ʼ</pc>
+            <w>ἀλλήλων</w>
+            <w>μακράν</w>
+            <pc>.</pc>
+            <w>καὶ</w>
+            <w>ἀνακρινῶ</w>
+            <lb/>
+            <w>αὐτούς</w>
+            <pc>˙</pc>
+          </ab>
+          <ab n="B53K1V52" xml:id="Sus.1.52.P766.I1">
+            <w>ὠς</w>
+            <w>δε</w>
+            <w>διεχωρίσθησαν</w>
+            <pc>.</pc>
+            <w>εἷς</w>
+            <w>ἀπὸ</w>
+            <lb/>
+            <w>του</w>
+            <w>ἑνός</w>
+            <pc>.</pc>
+            <w>ἐκάλεσεν</w>
+            <w>τὸν</w>
+            <w>ἔνα</w>
+            <w>αὐτῶν</w>
+            <pc>.</pc>
+            <lb/>
+            <w>καὶ</w>
+            <w>εἶπεν</w>
+            <w>πρὸς</w>
+            <w>αὐτόν</w>
+            <pc>˙</pc>
+            <w> πεπαλαιω <lb break="no"/> μένε </w>
+            <w>ἡμερῶν</w>
+            <w>κακῶν</w>
+            <app>
+              <rdg type="orig" hand="firsthand">
+                <w>νυν</w>
+              </rdg>
+              <rdg type="corr" hand="firsthand">
+                <seg part="I" type="margin" subtype="pageright" n="@P7-Q">
+                  <w>νυν</w>
+                </seg>
+              </rdg>
+            </app>
+            <w>ήκασιν</w>
+            <w>αἰ</w>
+            <w> ἀ <lb break="no"/> μαρτίαι </w>
+            <w>σου</w>
+            <pc>.</pc>
+            <w>ἃς</w>
+            <w>ἐποίεις</w>
+            <w>τὸ</w>
+            <w>πρότερον</w>
+            <pc>.</pc>
+          </ab>
+          <ab n="B53K1V53" xml:id="Sus.1.53.P767.I1">
+            <w>κρίνων</w>
+            <w>κρίσεις</w>
+            <w>ἀδίκους</w>
+            <pc>.</pc>
+            <w>καὶ</w>
+            <w>τοὺς</w>
+            <lb/>
+            <w>μεν</w>
+            <w>ἀθώους</w>
+            <w>κατακρίνων</w>
+            <pc>.</pc>
+            <w>ἀπολύων</w>
+            <lb/>
+            <w>δε</w>
+            <w>τοὺς</w>
+            <w>ἀιτίους</w>
+            <pc>˙</pc>
+            <w>λέγοντος</w>
+            <w>τοῦ</w>
+            <w>
+              <abbr type="nomSac">
+                <hi rend="overline">κυ</hi>
+              </abbr>
+            </w>
+            <pc>.</pc>
+            <w> ἀθῶ <lb break="no"/> ον </w>
+            <w>καὶ</w>
+            <w>δίκαιον</w>
+            <w>οὐκ</w>
+            <w>ἀποκτενεῖς</w>
+            <pc>˙</pc>
+          </ab>
+          <ab n="B53K1V54" xml:id="Sus.1.54.P767.I1">
+            <w>νῦν</w>
+            <lb/>
+            <w>οὖν</w>
+            <w>ταύτην</w>
+            <w>εἴπερ</w>
+            <w>ἴδες</w>
+            <w>εἴπον</w>
+            <w>ὐπὸ</w>
+            <lb/>
+            <w>τί</w>
+            <w>δένδρον</w>
+            <w>ἴδες</w>
+            <w>αὐτοὺς</w>
+            <w>ὁμιλοῦντας</w>
+            <lb/>
+            <w>ἀλλήλοις</w>
+            <pc>˙</pc>
+            <w>ὁ</w>
+            <w>δὲ</w>
+            <w>εἴπεν</w>
+            <pc>.</pc>
+            <w>ῡπο</w>
+            <w>σχῖνον</w>
+            <pc>˙</pc>
+            <lb break="no"/>
+          </ab>
+          <ab n="B53K1V55" xml:id="Sus.1.55.P767.I1">
+            <w>εἶπεν</w>
+            <w>δε</w>
+            <w>Δανιήλ</w>
+            <pc>˙</pc>
+            <w>ὁρθῶς</w>
+            <w>ἐψέυσω</w>
+            <lb/>
+            <w>εἰς</w>
+            <w>τὴν</w>
+            <w>σεἀυτοῦ</w>
+            <w>κεφαλήν</w>
+            <pc>˙</pc>
+            <w>μένει</w>
+            <lb/>
+            <w>γὰρ</w>
+            <w>ὁ</w>
+            <w>ἄγγελος</w>
+            <w>τοῦ</w>
+            <w>
+              <abbr type="nomSac">
+                <hi rend="overline">θυ</hi>
+              </abbr>
+            </w>
+            <pc>.</pc>
+            <w>λαβὼν</w>
+            <w>φασιν</w>
+            <lb/>
+            <w>παρὰ</w>
+            <w>τοῦ</w>
+            <w>
+              <abbr type="nomSac">
+                <hi rend="overline">θυ</hi>
+              </abbr>
+            </w>
+            <w>σχίσαι</w>
+            <w>σἐ</w>
+            <w>μέσον</w>
+            <pc>˙</pc>
+            <lb/>
+          </ab>
+          <ab n="B53K1V56" xml:id="Sus.1.56.P767.I1">
+            <w>καὶ</w>
+            <w>μετὰστήσας</w>
+            <w>αὐτόν</w>
+            <pc>.</pc>
+            <w>ἐκλέυσεν</w>
+            <lb/>
+            <w>πρὸσαγαγεῖν</w>
+            <w>τὸν</w>
+            <w>έτερον</w>
+            <pc>˙</pc>
+            <w>καὶ</w>
+            <w>εἶπεν</w>
+            <lb/>
+            <w>αὐτῶ</w>
+            <pc>˙</pc>
+            <w>σπέρμα</w>
+            <w>Χαναὰν</w>
+            <w>καὶ</w>
+            <w>οὐχ</w>
+            <pc>ʼ</pc>
+            <w>Ïούδα</w>
+            <pc>.</pc>
+            <lb/>
+            <w>τὸ</w>
+            <w>κάλλος</w>
+            <pc>.</pc>
+            <w>ἐξηπάτησέν</w>
+            <w>σε</w>
+            <pc>˙</pc>
+            <w>καὶ</w>
+            <w>ἡ</w>
+            <w> ἐπι <lb break="no"/> θυμία </w>
+            <pc>.</pc>
+            <w>διέστρεψεν</w>
+            <w>τὴν</w>
+            <w>καρδίαν</w>
+            <lb/>
+            <w>σου</w>
+            <pc>˙</pc>
+          </ab>
+          <ab n="B53K1V57" xml:id="Sus.1.57.P767.I1">
+            <w>οὕτως</w>
+            <w>γὰρ</w>
+            <w>ἐποιεῖτε</w>
+            <w>θυγατράσιν</w>
+            <lb/>
+            <w>
+              <abbr type="nomSac">
+                <hi rend="overline">ιηλ</hi>
+              </abbr>
+            </w>
+            <w>κακεῖναι</w>
+            <w>φοβούμεναι</w>
+            <pc>.</pc>
+            <w> ωμί <lb break="no"/> λουν </w>
+            <w>ὐμῖν</w>
+            <pc>˙</pc>
+            <w>ἀλλ</w>
+            <pc>ʼ</pc>
+            <w>οὐ</w>
+            <w>θυγάτηρ</w>
+            <w>Ῑούδα</w>
+            <w> ὑ <lb break="no"/> πέμεινἐν </w>
+            <w>τὴν</w>
+            <w>ἀνομίαν</w>
+            <w>ὔμῶν</w>
+            <pc>˙</pc>
+            <lb/>
+          </ab>
+          <ab n="B53K1V58" xml:id="Sus.1.58.P767.I1">
+            <w>νῦν</w>
+            <w>οῦν</w>
+            <w>λέγε</w>
+            <w>μοι</w>
+            <pc>.</pc>
+            <w>ὐπο</w>
+            <w>τί</w>
+            <w>δένδρον</w>
+            <lb/>
+            <w>κατέλαβες</w>
+            <w>αὐτοὺς</w>
+            <pc>.</pc>
+            <w>ὁμιλοῦντας</w>
+            <pc>˙</pc>
+            <lb/>
+            <w>ὁ</w>
+            <w>δὲ</w>
+            <w>εἶπεν</w>
+            <pc>.</pc>
+            <w>ὐπο</w>
+            <w>πρῖνον</w>
+            <pc>˙</pc>
+          </ab>
+          <ab n="B53K1V59" xml:id="Sus.1.59.P767.I1">
+            <w>εἶπεν</w>
+            <w>δὲ</w>
+            <lb/>
+            <w>αὐτῶ</w>
+            <w>Δανιήλ</w>
+            <pc>˙</pc>
+            <w>ὁρθῶς</w>
+            <w>ἐψεύσώ</w>
+            <w>καὶ</w>
+            <lb/>
+            <w>σὺ</w>
+            <pc>.</pc>
+            <w>εἰς</w>
+            <w>τὴν</w>
+            <w>σεαυτοῦ</w>
+            <w>κεφαλήν</w>
+            <pc>˙</pc>
+            <w>μένει</w>
+            <lb/>
+            <w>γαρ</w>
+            <w>ὁ</w>
+            <w>ἄγγελος</w>
+            <w>τοῦ</w>
+            <w>
+              <abbr type="nomSac">
+                <hi rend="overline">θυ</hi>
+              </abbr>
+            </w>
+            <pc>.</pc>
+            <w>την</w>
+            <w>ρομφαίαν</w>
+            <lb/>
+            <w>ἔχων</w>
+            <pc>.</pc>
+            <w>πρίσαι</w>
+            <w>σε</w>
+            <w>μέσον</w>
+            <pc>.</pc>
+            <w>ὅπως</w>
+            <w> εξολε <lb break="no"/> θρεύση </w>
+            <w>ὔμᾶς</w>
+            <pc>˙</pc>
+          </ab>
+          <ab n="B53K1V60" xml:id="Sus.1.60.P767.I1">
+            <w>καὶ</w>
+            <w>ἀνεβόησεν</w>
+            <w> πᾶσα <lb break="no"/> ἡ </w>
+            <w>συναγωγὴ</w>
+            <w>φωνῆ</w>
+            <w>μεγάλη</w>
+            <pc>˙</pc>
+            <pb n="P1r-Q" type="folio"/>
+            <cb n="2"/>
+            <lb/>
+          </ab>
+          <ab n="B53K1V61" xml:id="Sus.1.61.P768.I1">
+            <w>καὶ</w>
+            <w>εὐλόγησαν</w>
+            <w>τὸν</w>
+            <w>
+              <abbr type="nomSac">
+                <hi rend="overline">θν</hi>
+              </abbr>
+            </w>
+            <w>τὸν</w>
+            <w>σώζοντα</w>
+            <lb/>
+            <w>τοὺς</w>
+            <w>ἑλπίζοντας</w>
+            <w>ἐπ</w>
+            <pc>ʼ</pc>
+            <w>αὐτόν</w>
+            <pc>˙</pc>
+            <lb/>
+          </ab>
+          <ab n="B53K1V61" xml:id="Sus.1.61.P768.I2">
+            <w>καὶ</w>
+            <w>ἀνέστησαν</w>
+            <w>ἐπι</w>
+            <w>τοὺς</w>
+            <w>δύο</w>
+            <w> πρεσβυτέ <lb break="no"/> ρους </w>
+            <pc>.</pc>
+            <w>ὅτι</w>
+            <w>συνέστησεν</w>
+            <w>αὐτοὺς</w>
+            <w>Δανιὴλ</w>
+            <pc>.</pc>
+            <lb/>
+            <w>ἐκ</w>
+            <w>τοῦ</w>
+            <w>στόματος</w>
+            <w>αὐτῶν</w>
+            <pc>.</pc>
+            <w> ψευδομαρ <lb break="no"/> τυρήσαντας </w>
+            <pc>˙</pc>
+            <w>καὶ</w>
+            <w>ἐποίησαν</w>
+            <w>αυτοῖς</w>
+            <pc>.</pc>
+            <lb/>
+            <w>ὃν</w>
+            <w>τρόπον</w>
+            <w>ἐπονηρεύσαντο</w>
+            <w> ποιῆ <lb break="no"/> σαι </w>
+            <w>τῶ</w>
+            <w>πλησίον</w>
+          </ab>
+          <ab n="B53K1V62" xml:id="Sus.1.62.P768.I1">
+            <w>κατὰ</w>
+            <w>τὸν</w>
+            <w>νόμον</w>
+            <lb/>
+            <w>Μωϋσῆ</w>
+            <pc>˙</pc>
+            <w>καὶ</w>
+            <w>ἀπέκτειναν</w>
+            <w>αὐτούς</w>
+            <pc>˙</pc>
+            <lb/>
+            <w>καὶ</w>
+            <w>ἐσώθη</w>
+            <w>αἷμα</w>
+            <w>ἀναίτιον</w>
+            <w>ἐν</w>
+            <w>τῆ</w>
+            <w> ἡ <lb break="no"/> μέρα </w>
+            <w>ἐκείνη</w>
+            <pc>˙</pc>
+          </ab>
+          <ab n="B53K1V63" xml:id="Sus.1.63.P768.I1">
+            <w>Χελκίας</w>
+            <w>δὲ</w>
+            <w>καὶ</w>
+            <w>ἡ</w>
+            <w> γυ <lb break="no"/> νὴ </w>
+            <w>αὐτοῦ</w>
+            <pc>.</pc>
+            <w>ἤνεσαν</w>
+            <w>τὸν</w>
+            <w>
+              <abbr type="nomSac">
+                <hi rend="overline">θν</hi>
+              </abbr>
+            </w>
+            <pc>.</pc>
+            <w>περὶ</w>
+            <w> Σου <lb break="no"/> σάννας </w>
+            <w>τῆς</w>
+            <w>θυγατρὸς</w>
+            <w>αὐτῶν</w>
+            <pc>.</pc>
+            <w>μετὰ</w>
+            <lb/>
+            <w>Ῑωακειμ</w>
+            <w>τοῦ</w>
+            <w>ἀνδρὸς</w>
+            <w>αὐτῆς</w>
+            <pc>.</pc>
+            <w>καὶ</w>
+            <w>τῶν</w>
+            <lb/>
+            <w>συγγενῶν</w>
+            <pc>˙</pc>
+            <w>πάντων</w>
+            <pc>.</pc>
+            <w>ὅτι</w>
+            <w>οὐχ</w>
+            <pc>ʼ</pc>
+            <w> εὑρέ <lb break="no"/> θη </w>
+            <w>ἐν</w>
+            <w>αὐτῆ</w>
+            <w>ἄσχημον</w>
+            <w>πρᾶγμα</w>
+            <pc>˙</pc>
+            <lb/>
+          </ab>
+          <ab n="B53K1V64" xml:id="Sus.1.64.P768.I1">
+            <w>καὶ</w>
+            <w>Δανιὴλ</w>
+            <w>ἐγένετο</w>
+            <w>μέγας</w>
+            <w>ἐνώπιον</w>
+            <lb/>
+            <w>τοῦ</w>
+            <w>λαοῦ</w>
+            <pc>.</pc>
+            <w>ἀπὸ</w>
+            <w>τῆς</w>
+            <w>ἡμέρας</w>
+            <w>ἐκείνης</w>
+            <lb/>
+            <w>καὶ</w>
+            <w>ἐπέκεινα</w>
+            <pc>˙</pc>
+            <pb n="P1r-Q" type="folio"/>
+            <cb n="2"/>
+            <lb/>
+          </ab>
+        </div>
+      </div>
       <div type="textpart" n="B54">
         <div type="textpart" n="B54K3">
           <ab n="B54K3V24" xml:id="Dan.3.24.P784.I1">
@@ -222,8 +2060,7 @@
             <pc>.</pc>
             <w>καὶ</w>
             <w>ἐπι</w>
-            <w><abbr type="abbreviation%20"><hi rend="overline">την</hi></abbr><lb break="no"
-              /></w>
+            <w><abbr type="abbreviation%20"><hi rend="overline">την</hi></abbr><lb break="no"/></w>
             <w>πόλιν</w>
             <w>τὴν</w>
             <w>ἀγιάν</w>
@@ -411,11 +2248,10 @@
             <w>σου</w>
           </ab>
           <ab n="B54K3V35" xml:id="Dan.3.35.P785.I1">
-            <w>καὶ</w> 
-            <w>μὴ</w> 
-            <w>ἀποστήσῃς</w>> 
-            <w>τὸ</w> 
-            <w>ἔλεός</w> 
+            <w>καὶ</w>
+            <w>μὴ</w>
+            <w>ἀποστήσῃς</w>> <w>τὸ</w>
+            <w>ἔλεός</w>
             <w>σου</w>
             <w>αφ'</w>
             <w>ημῶν</w>
@@ -1020,12 +2856,12 @@
             <w>τους</w>
             <w>αιωνας</w>
             <lb break="no"/>
-            <w>ὐμνεῖτε</w> 
-            <w>καὶ</w> 
-            <w>ὑπερυψοῦτε</w> 
-            <w>αὐτὸν</w> 
-            <w>εἰς</w> 
-            <w>τοὺς</w> 
+            <w>ὐμνεῖτε</w>
+            <w>καὶ</w>
+            <w>ὑπερυψοῦτε</w>
+            <w>αὐτὸν</w>
+            <w>εἰς</w>
+            <w>τοὺς</w>
             <w>αἰῶνας</w>
             <pc>·</pc>
           </ab>
@@ -1065,8 +2901,8 @@
             </w>
             <w>υμνειτε</w>
             <lb/>
-            <w>καὶ</w> 
-            <w>ὑπερυψοῦτε</w> 
+            <w>καὶ</w>
+            <w>ὑπερυψοῦτε</w>
             <w>αὐτὸν</w>
             <w>εις</w>
             <w>τους</w>
@@ -1822,6 +3658,985 @@
             <w>εἰς</w>
             <w>τὸν</w>
             <pc>.</pc>
+          </ab>
+        </div>
+      </div>
+      <div type="textpart" n="B55">
+        <div type="textpart" n="B55K1">
+          <ab n="B55K1V1" xml:id="Bel.1.1.P827.I1">
+            <w>Καὶ</w>
+            <w>ὁ</w>
+            <w>βασιλευς</w>
+            <w>Αστυάγης</w>
+            <w>προσετέθη</w>
+            <w>προς</w>
+            <lb n="P8CL-Q"/>
+            <w>τοὺς</w>
+            <w>
+              <abbr type="%CF%80%CE%B1%CF%84%CE%B5%CF%81%CE%B1%CF%82">
+                <hi rend="overline">πρας</hi>
+              </abbr>
+            </w>
+            <w>αυτοῦ</w>
+            <pc>·</pc>
+            <w>καὶ</w>
+            <w>παρέλαβεν</w>
+            <w>Κῦρος</w>
+            <lb n="P8CL-Q"/>
+            <w>ὁ</w>
+            <w>Πέρσης</w>
+            <w>την</w>
+            <w>βασιλέιαν</w>
+            <w>ἁυτοῦ</w>
+            <pc>·</pc>
+          </ab>
+          <ab n="B55K1V2">
+            <w>καὶ</w>
+            <w>ἡν</w>
+            <lb n="P8CL-Q"/>
+            <w>Δανιὴλ</w>
+            <w>συμβιωτης</w>
+            <w>τοῦ</w>
+            <w>βασιλέως</w>
+            <lb n="P8CL-Q"/>
+            <w>καὶ</w>
+            <w>ἑνδοξος</w>
+            <w>υπερ</w>
+            <w>πάντας</w>
+            <w>τους</w>
+            <w>φίλους</w>
+            <lb n="P8CL-Q"/>
+            <w>ἁυτοῦ</w>
+            <pc>·</pc>
+          </ab>
+          <ab n="B55K1V3">
+            <w>καὶ</w>
+            <w>ῆν</w>
+            <w>ἑίδωλον</w>
+            <w>τοῖς</w>
+            <w>Βαβυλω</w>
+            <pb n="P8-Q" type="page"/>
+            <cb n="P8C-Q"/>
+            <lb n="P8CL-Q"/>
+            <ab type="book" n="B55">
+              <ab type="chapter" n="B55K1">
+                <ab n="B55K1V3">
+                  <w>νίοις</w>
+                  <w>ᾧ</w>
+                  <w>ὄνομα</w>
+                  <w>Βήλ</w>
+                  <w>καὶ</w>
+                  <w>ἐδαπανῶ<lb n="P8CL-Q" break="no"/>το</w>
+                  <w>εἰς</w>
+                  <w>αὐτὸ</w>
+                  <w>ἑκάστης</w>
+                  <w>ἡμέρας</w>
+                  <pc>.</pc>
+                  <w>σεμιδάλε<lb n="P8CL-Q" break="no"/>ως</w>
+                  <w>αρτάβαι</w>
+                  <w>δώδεκα</w>
+                  <w>καὶ</w>
+                  <w>πρόβατα</w>
+                  <w>τεσ<lb n="P8CL-Q" break="no"/>σαράκοντα</w>
+                  <w>καὶ</w>
+                  <w>οἴνου</w>
+                  <w>μετρηταὶ</w>
+                  <w>ἕξ</w>
+                  <pc>·</pc>
+                  <lb n="P8CL-Q" break="no"/>
+                </ab>
+              </ab>
+            </ab>
+            <ab n="B55K1V4">
+              <w>καὶ</w>
+              <w>ὁ</w>
+              <w>βασιλὲυς</w>
+              <w>ἐσέβετο</w>
+              <w>ἀυτόν</w>
+              <pc>·</pc>
+              <w>καὶ</w>
+              <w>ἐπο<lb n="P8CL-Q" break="no"/>ρέυετο</w>
+              <w>καθ</w>
+              <w>εκάστην</w>
+              <w>ἡμεραν</w>
+              <pc>.</pc>
+              <w>προσκυ<lb n="P8CL-Q" break="no"/>νεῖν</w>
+              <w>ἀυτῶ</w>
+              <pc>·</pc>
+              <w>Δανιὴλ</w>
+              <w>δὲ</w>
+              <w>προσεκύνει</w>
+              <w>τῶ</w>
+              <lb n="P8CL-Q"/>
+              <w>
+                <abbr type="nomSac">
+                  <hi rend="overline">θω</hi>
+                </abbr>
+              </w>
+              <w>ἀυτοῦ</w>
+              <pc>·</pc>
+              <w>καὶ</w>
+              <w>εἶπεν</w>
+              <w>ἀυτῶ</w>
+              <w>ὁ</w>
+              <w>βασιλεὺς</w>
+              <lb n="P8CL-Q"/>
+              <w>διὰ</w>
+              <w>τί</w>
+              <w>οὺ</w>
+              <w>προσκυνεῖς</w>
+              <w>τῶ</w>
+              <w>Βηλ</w>
+              <pc>·</pc>
+            </ab>
+            <ab n="B55K1V5">
+              <w>ὁ</w>
+              <w>δὲ</w>
+              <w>εἶπε</w>
+              <lb n="P8CL-Q"/>
+              <w>ὁτι</w>
+              <w>οὐ</w>
+              <w>σέβομαι</w>
+              <w>ἔιδωλα</w>
+              <w>χειρόποιητα</w>
+              <lb n="P8CL-Q"/>
+              <w>ἀλλὰ</w>
+              <w>τὸν</w>
+              <w>ζῶντα</w>
+              <w>
+                <abbr type="nomSac">
+                  <hi rend="overline">θν</hi>
+                </abbr>
+              </w>
+              <w>τον</w>
+              <w>κτίσαντα</w>
+              <w>το</w>
+              <lb n="P8CL-Q"/>
+              <w>
+                <abbr type="common%20long%20word%20%CE%BF%CF%85%CF%81%CE%B1%CE%BD%CE%BF%CE%BD">
+                  <hi rend="overline">oυνον</hi>
+                </abbr>
+              </w>
+              <pc>·</pc>
+              <w>και</w>
+              <w>τὴν</w>
+              <w>γῆν</w>
+              <pc>,</pc>
+              <w>καὶ</w>
+              <w>ἔχοντα</w>
+              <w>πάσης</w>
+              <lb n="P8CL-Q"/>
+              <w>σαρκὸς</w>
+              <w>κυρίαν</w>
+              <pc>·</pc>
+            </ab>
+            <ab n="B55K1V6">
+              <w>καὶ</w>
+              <w>εἶπεν</w>
+              <w>ἀυτῶ</w>
+              <w>ὁ</w>
+              <w>βασι<lb n="P8CL-Q" break="no"/>λεύς</w>
+              <w>οὐ</w>
+              <w>δοκεῖ</w>
+              <w>σοι</w>
+              <w>ὁ</w>
+              <w>Βὴλ</w>
+              <w>εἶναι</w>
+              <w>ζῶν</w>
+              <w>θεός</w>
+              <lb n="P8CL-Q"/>
+              <w>ἠ</w>
+              <w>ὀυχ</w>
+              <w>ὁρᾶς</w>
+              <w>ὅσα</w>
+              <w>ἐσθίει</w>
+              <w>καὶ</w>
+              <w>πίνει</w>
+              <w>καθ</w>
+              <w>εκάστή</w>
+              <lb n="P8CL-Q"/>
+              <w>ἡμέραν</w>
+              <pc>·</pc>
+            </ab>
+            <ab n="B55K1V7">
+              <w>καὶ</w>
+              <w>εἶπεν</w>
+              <w>Δανιὴλ</w>
+              <w>γελάσας</w>
+              <pc>·</pc>
+              <lb n="P8CL-Q"/>
+              <w>μὴ</w>
+              <w>πλανῶ</w>
+              <w>βασιλεῦ</w>
+              <w>οὗτος</w>
+              <w>γὰρ</w>
+              <pc>.</pc>
+              <w>ἔσωθεν</w>
+              <w>με</w>
+              <lb n="P8CL-Q"/>
+              <w>ἐστιν</w>
+              <w>πηλός</w>
+              <pc>.</pc>
+              <w>ἔξωθεν</w>
+              <w>δε</w>
+              <w>χαλκός</w>
+              <pc>·</pc>
+              <w>καὶ</w>
+              <w>οὐ</w>
+              <lb n="P8CL-Q"/>
+              <w>βέβρωκεν</w>
+              <w>ὀυδε</w>
+              <w>πέπωκεν</w>
+              <w>πώποτε</w>
+              <lb n="P8CL-Q" break="no"/>
+            </ab>
+            <ab n="B55K1V8">
+              <w>καὶ</w>
+              <w>θυμωθεὶς</w>
+              <w>ὁ</w>
+              <w>βασιλὲυς</w>
+              <pc>.</pc>
+              <w>ἐκάλεσεν</w>
+              <w>τοὺς</w>
+              <lb n="P8CL-Q"/>
+              <w>ϊερεῖς</w>
+              <w>ἀυτοῦ</w>
+              <pc>.</pc>
+              <w>καὶ</w>
+              <w>εἶπεν</w>
+              <w>ἀυτοῖς</w>
+              <pc>·</pc>
+              <w>ἔαν</w>
+              <w>μὴ</w>
+              <lb n="P8CL-Q"/>
+              <w>εἶπητέ</w>
+              <w>μοι</w>
+              <w>τίς</w>
+              <w>ὁ</w>
+              <w>κατεσθίων</w>
+              <w>τὴν</w>
+              <w>δα<lb n="P8CL-Q" break="no"/>πάνην</w>
+              <w>τάυτην</w>
+              <w>ἀποθανεῖσθε</w>
+              <pc>·</pc>
+            </ab>
+            <ab n="B55K1V9">
+              <w>ἔαν</w>
+              <w>δε</w>
+              <lb n="P8CL-Q"/>
+              <w>ἀπο</w>
+              <w>δείξητε</w>
+              <w>ὅτι</w>
+              <w>ὁ</w>
+              <w>Βὴλ</w>
+              <w>κατεσθίει</w>
+              <w>ἀυτά</w>
+              <lb n="P8CL-Q"/>
+              <w>αποθανεῖται</w>
+              <w>Δανιήλ</w>
+              <w>ὅτι</w>
+              <w>ἐβλασφήμη<lb n="P8CL-Q" break="no"/>σεν</w>
+              <w>ἐις</w>
+              <w>τὸν</w>
+              <w>Βηλ</w>
+              <pc>·</pc>
+              <w>καὶ</w>
+              <w>εἶπεν</w>
+              <w>Δανιηλ</w>
+              <app>
+                <rdg type="orig" hand="firsthand"> </rdg>
+                <rdg type="corr" hand="corrector">
+                  <seg type="margin" subtype="lineright" n="@P8CL-Q">
+                    <w>τω</w>
+                    <w>βασιλει</w>
+                  </seg>
+                </rdg>
+              </app>
+              <w>γι<lb n="P8CL-Q" break="no"/>νέσθω</w>
+              <w>κατὰ</w>
+              <w>τὸ</w>
+              <w>ρῆμά</w>
+              <w>σου</w>
+              <pc>·</pc>
+            </ab>
+            <ab n="B55K1V10">
+              <w>καὶ</w>
+              <w>ἦσαν</w>
+              <w>ὁι</w>
+              <w>ῑε<lb n="P8CL-Q" break="no"/>ρεῖς</w>
+              <w>τοῦ</w>
+              <w>Βηλ</w>
+              <w>ἑβδομήκοντα</w>
+              <w>ἐκτὸς</w>
+              <w>γυ<lb n="P8CL-Q" break="no"/>ναικῶν</w>
+              <w>καὶ</w>
+              <w>τέκνων</w>
+              <pc>·</pc>
+              <w>καὶ</w>
+              <w>ῆλθεν</w>
+              <w>ὁ</w>
+              <w>βα</w>
+            </ab>
+            <pb n="P8-Q" type="page"/>
+            <cb n="P8C-Q"/>
+            <lb n="P8CL-Q"/>
+            <ab type="book" n="B55">
+              <ab type="chapter" n="B55K1">
+                <ab n="B55K1V10">
+                  <w>σιλεὺς</w>
+                  <w>μετα</w>
+                  <w>Δανιηλ</w>
+                  <pc>.</pc>
+                  <w>ἔποῖκον</w>
+                  <w>τοῦ</w>
+                  <w>Βηλ</w>
+                  <pc>·</pc>
+                  <lb n="P8CL-Q"/>
+                </ab>
+              </ab>
+            </ab>
+            <ab n="B55K1V11">
+              <w>καὶ</w>
+              <w>εἶπαν</w>
+              <w>οἱ</w>
+              <w>ερεῖς</w>
+              <w>τοῦ</w>
+              <w>Βηλ'</w>
+              <pc>·</pc>
+              <w>ῑδοῦ</w>
+              <w>ἡμεις</w>
+              <lb n="P8CL-Q"/>
+              <w>ἀποτρέχομεν</w>
+              <w>ἔξω</w>
+              <pc>·</pc>
+              <w>συ</w>
+              <w>δὲ</w>
+              <w>βασιλεῦ</w>
+              <pc>.</pc>
+              <w>παρά<lb n="P8CL-Q" break="no"/>θες</w>
+              <w>τὰ</w>
+              <w>βρώματα</w>
+              <pc>·</pc>
+              <w>και</w>
+              <w>τὸν</w>
+              <w>οῖνον</w>
+              <w>κεράσας</w>
+              <w>θές</w>
+              <lb n="P8CL-Q"/>
+              <w>καὶ</w>
+              <app>
+                <rdg type="orig" hand="firsthand">
+                  <w>ἀπόκλεισον</w>
+                </rdg>
+                <rdg type="corr" hand="corrector" rend="vertical_line">
+                  <seg type="other" subtype="inbetween" n="@P8CL-Q">
+                    <w>ε</w>
+                  </seg>
+                </rdg>
+              </app>
+              <w>τὴν</w>
+              <w>θύραν</w>
+              <pc>.</pc>
+              <w>καὶ</w>
+              <w>σφράγι<lb n="P8CL-Q" break="no"/>σον</w>
+              <w>ἐν</w>
+              <w>τῶ</w>
+              <w>δακτυλίω</w>
+              <w>σου</w>
+              <pc>·</pc>
+            </ab>
+            <ab n="B55K1V12">
+              <w>καὶ</w>
+              <w>ἐλθῶν</w>
+              <lb n="P8CL-Q"/>
+              <w>πρωι</w>
+              <pc>.</pc>
+              <w>ἔαν</w>
+              <w>μὴ</w>
+              <w>έυρης</w>
+              <w>πάντα</w>
+              <w>βεβρω<lb n="P8CL-Q" break="no"/>μένα</w>
+              <w>ύπο</w>
+              <w>τοῦ</w>
+              <w>Βηλ</w>
+              <pc>.</pc>
+              <w>ἀποθανόυμεθα</w>
+              <pc>·</pc>
+              <lb n="P8CL-Q"/>
+              <w>ἠ</w>
+              <w>Δανιὴλ</w>
+              <pc>.</pc>
+              <w>ὁ</w>
+              <w>ψευσάμενος</w>
+              <app>
+                <rdg type="orig" hand="firsthand">
+                  <w>καθ</w>
+                </rdg>
+                <rdg type="corr" hand="corrector">
+                  <seg type="line" subtype="above" n="@P8CL-Q">
+                    <w>κα</w>
+                  </seg>
+                </rdg>
+              </app>
+              <w>
+                <abbr type="-%CE%BD">
+                  <hi rend="overline">ἡμω</hi>
+                </abbr>
+              </w>
+            </ab>
+            <ab n="B55K1V13">
+              <lb n="P8CL-Q"/>
+              <w>αυτοὶ</w>
+              <w>δὲ</w>
+              <w>κατεφρόνουν</w>
+              <pc>.</pc>
+              <w>ὅτι</w>
+              <w>πεποιήκει<lb n="P8CL-Q" break="no"/>σαν</w>
+              <w>ῡπο</w>
+              <w>τὴν</w>
+              <w>τράπεζαν</w>
+              <pc>.</pc>
+              <w>
+                <abbr type="-%CE%BD">
+                  <hi rend="overline">κεκρυμμένη</hi>
+                </abbr>
+              </w>
+              <lb n="P8CL-Q"/>
+              <w>είσοδον</w>
+              <pc>.</pc>
+              <w>και</w>
+              <w>δι</w>
+              <pc>'</pc>
+              <w>ἀυτῆς</w>
+              <app>
+                <rdg type="orig" hand="firsthand">
+                  <w>ἐισεπορευοντο</w>
+                </rdg>
+                <rdg type="corr" hand="corrector" rend="vertical_line">
+                  <seg type="line" subtype="above" n="@P8CL-Q">
+                    <w>ἐισεπορευοντο</w>
+                  </seg>
+                </rdg>
+              </app>
+              <lb n="P8CL-Q"/>
+              <w>διόλου</w>
+              <pc>.</pc>
+              <w>καὶ</w>
+              <w>ἀνήλισκον</w>
+              <w>ἀυτά</w>
+              <pc>·</pc>
+            </ab>
+            <ab n="B55K1V14">
+              <w>καὶ</w>
+              <app>
+                <rdg type="orig" hand="firsthand">
+                  <w>ἐγνε</w>
+                </rdg>
+                <rdg type="corr" hand="corrector">
+                  <seg type="line" subtype="above" n="@P8CL-Q">
+                    <w>ἐγενε</w>
+                  </seg>
+                </rdg>
+              </app>
+              <lb n="P8CL-Q" break="no"/>
+              <w>το</w>
+              <w>ὡς</w>
+              <w>ἐξήλθοσαν</w>
+              <w>ἐκεῖνοι</w>
+              <pc>.</pc>
+              <w>και</w>
+              <w>ὁ</w>
+              <w>βασιλεὺς</w>
+              <lb n="P8CL-Q"/>
+              <w>παρέθηκεν</w>
+              <w>τὰ</w>
+              <w>βρώματα</w>
+              <w>τῶ</w>
+              <w>Βήλ</w>
+              <lb n="P8CL-Q"/>
+              <w>καὶ</w>
+              <app>
+                <rdg type="orig" hand="firsthand">
+                  <w>ἐπεξν</w>
+                </rdg>
+                <rdg type="corr" hand="corrector">
+                  <seg type="line" subtype="above" n="@P8CL-Q">
+                    <w>ἐπεταξεν</w>
+                  </seg>
+                </rdg>
+              </app>
+              <w>Δανιὴλ</w>
+              <w>τοῖς</w>
+              <w>παίδαριοις</w>
+              <lb n="P8CL-Q"/>
+              <w>ἀυτοῦ</w>
+              <pc>.</pc>
+              <w>καὶ</w>
+              <w>ήνεγκαν</w>
+              <w>τέφραν</w>
+              <pc>.</pc>
+              <w>καὶ</w>
+              <w>κατέ<lb n="P8CL-Q" break="no"/>σησαν</w>
+              <w>ὅλον</w>
+              <w>τὸν</w>
+              <w>ναὸν</w>
+              <pc>·</pc>
+              <w>ενώπιον</w>
+              <pc>.</pc>
+              <w>τοῦ</w>
+              <lb n="P8CL-Q"/>
+              <w>βασιλέως</w>
+              <pc>·</pc>
+              <w>καὶ</w>
+              <w>ἒξελθόντες</w>
+              <pc>,</pc>
+              <app>
+                <rdg type="orig" hand="firsthand">
+                  <w>ἔκλισαν</w>
+                </rdg>
+                <rdg type="corr" hand="corrector">
+                  <seg type="other" subtype="inbetween" n="@P8CL-Q">
+                    <w>ἔκλεισαν</w>
+                  </seg>
+                </rdg>
+              </app>
+              <w>
+                <abbr type="-%CE%BD">
+                  <hi rend="overline">τη</hi>
+                </abbr>
+              </w>
+              <lb n="P8CL-Q"/>
+              <w>θύραν</w>
+              <w>καὶ</w>
+              <w>ἐσφραγίσαντο</w>
+              <w>ἐν</w>
+              <w>τῶ</w>
+              <w>
+                <unclear reason="faded ink">δακτυ</unclear>
+                <lb n="P8CL-Q" break="no"/>λίω</w>
+              <w>τοῦ</w>
+              <w>βασιλεως</w>
+              <pc>.</pc>
+              <w>καὶ</w>
+              <w>ἀπῆλθον</w>
+              <pc>·</pc>
+            </ab>
+            <ab n="B55K1V15">
+              <w>οἱ</w>
+              <w>δὲ</w>
+              <lb n="P8CL-Q"/>
+              <w>ιερεῖς</w>
+              <pc>.</pc>
+              <app>
+                <rdg type="orig" hand="firsthand"> </rdg>
+                <rdg type="corr" hand="corrector">
+                  <seg type="margin" subtype="pageleft" n="@P8-Q">
+                    <w>εις</w>
+                  </seg>
+                </rdg>
+              </app>
+              <w>ηλθον</w>
+              <w>ἐις</w>
+              <w>τὴν</w>
+              <w>νύκτα</w>
+              <pc>·</pc>
+              <w>κατα</w>
+              <w>τὸ</w>
+              <w>ἐ<lb n="P8CL-Q" break="no"/>θος</w>
+              <w>ἀυτῶν</w>
+              <pc>·</pc>
+              <w>καὶ</w>
+              <w>ἁι</w>
+              <w>γυναῖκες</w>
+              <pc>,</pc>
+              <w>καὶ</w>
+              <w>τὰ</w>
+              <w>τέ<lb n="P8CL-Q" break="no"/>κνα</w>
+              <w>ἀυτῶν</w>
+              <pc>.</pc>
+              <w>καὶ</w>
+              <w>κατέφαγον</w>
+              <w>πάντα</w>
+              <lb n="P8CL-Q"/>
+              <w>καὶ</w>
+              <w>ἐπιον</w>
+              <pc>·</pc>
+            </ab>
+            <ab n="B55K1V16">
+              <w>και</w>
+              <w>ώρθρισεν</w>
+              <w>ὁ</w>
+              <w>βασιλεὺς</w>
+              <lb n="P8CL-Q"/>
+              <w>τὸ</w>
+              <w>πρωῑκαὶ</w>
+              <w>Δανιὴλ</w>
+              <w>μετ'</w>
+              <w>ἀυτοῦ</w>
+              <pc>·</pc>
+              <lb n="P8CL-Q"/>
+            </ab>
+            <ab n="B55K1V17">
+              <w>καὶ</w>
+              <w>εἶπεν</w>
+              <w>ὁ</w>
+              <w>βασιλέυς</w>
+              <pc>·</pc>
+              <w>σῶοι</w>
+              <w>ἁι</w>
+              <w>σφραγῖδες</w>
+              <lb n="P8CL-Q"/>
+              <w>Δανιήλ</w>
+              <pc>.</pc>
+              <w>ὁ</w>
+              <w>δε</w>
+              <w>εἶπεν</w>
+              <w>σῶοι</w>
+              <w>βασιλεῦ</w>
+              <pc>·</pc>
+            </ab>
+            <ab n="B55K1V18">
+              <w>καὶ</w>
+              <lb n="P8CL-Q"/>
+              <w>ἐγενετο</w>
+              <w>ἅμα</w>
+              <w>τῶ</w>
+              <w>ἀνοῖξαι</w>
+              <w>τὰς</w>
+              <w>θύρας</w>
+              <w>ἐπιβλέψας</w>
+              <w>ὁ</w>
+              <w>βασιλεὺς</w>
+              <w>ἐπὶ</w>
+              <w>τὴν</w>
+              <w>τράπεζαν</w>
+              <pc>.</pc>
+              <lb n="P8CL-Q"/>
+              <w>ἐβόησεν</w>
+              <w>φωνῆ</w>
+              <w>μεγάλη</w>
+              <pc>.</pc>
+              <w>μέγας</w>
+              <w>εἶ</w>
+              <w>Βηλ</w>
+              <pc>˙</pc>
+              <lb n="P8CL-Q"/>
+              <w>καὶ</w>
+              <w>οὐκ</w>
+              <w>ἔστιν</w>
+              <w>παρὰ</w>
+              <w>σοὶ</w>
+              <w>δόλος</w>
+              <w>οὐδὲ</w>
+              <w>εἷς</w>
+              <pc>˙</pc>
+              <ab n="B55K1V19">
+                <w>καὶ</w>
+                <w>ἐ<lb n="P8CL-Q" break="no"/>γέλασεν</w>
+                <w>Δανιήλ</w>
+                <w>καὶ</w>
+                <w>ἐκράτησεν</w>
+                <w>τὸν</w>
+                <w>βα<lb n="P8CL-Q" break="no"/>σιλέα</w>
+                <pc>.</pc>
+                <w>τοῦ</w>
+                <w>μὴ</w>
+                <w>εἰσελθεῖν</w>
+                <w>αὐτὸν</w>
+                <w>ἔσω</w>
+                <pc>˙</pc>
+                <w>καὶ</w>
+                <w>εἶπεν</w>
+                <pc>˙</pc>
+                <lb n="P8CL-Q"/>
+                <w>ἰδὲ</w>
+                <w>δὴ</w>
+                <w>τὸ</w>
+                <w>έδαφος</w>
+                <pc>.</pc>
+                <w>καὶ</w>
+                <w>γνῶθι</w>
+                <pc>.</pc>
+                <app>
+                  <rdg type="orig" hand="firsthand">
+                    <w>÷</w>
+                  </rdg>
+                  <rdg type="corr" hand="corrector">
+                    <seg type="margin" subtype="lineright" n="@P8CL-Q">
+                      <w>τινος</w>
+                    </seg>
+                  </rdg>
+                </app>
+                <w>τὰ</w>
+                <w>ἴχνη</w>
+                <lb n="P8CL-Q"/>
+                <w>ταῦτα</w>
+                <pc>˙</pc>
+              </ab>
+              <ab n="B55K1V20">
+                <w>καὶ</w>
+                <w>εἶπεν</w>
+                <w>ὁ</w>
+                <w>βασιλεύς</w>
+                <w>ὁρω</w>
+                <w>τὰ</w>
+                <w>ἴχνη</w>
+                <pc>.</pc>
+                <lb n="P8CL-Q"/>
+                <w>ἀνδρῶν</w>
+                <w>καὶ</w>
+                <w>γυναικῶν</w>
+                <w>καὶ</w>
+                <w>παιδίων</w>
+                <pc>˙</pc>
+                <lb n="P8CL-Q"/>
+              </ab>
+              <ab n="B55K1V21">
+                <w>καὶ</w>
+                <w>ὀργ</w>
+                <app>
+                  <rdg type="orig" hand="firsthand">
+                    <w>ισθε</w>
+                  </rdg>
+                  <rdg type="corr" hand="corrector">
+                    <w>οργισθεισ</w>
+                  </rdg>
+                </app>
+                <w>ις</w>
+                <w>ὁ</w>
+                <w>βασιλεὺς</w>
+                <w>τότε</w>
+                <w>συνελάβε</w>
+                <w>το</w>
+                <lb n="P8CL-Q"/>
+                <w>toῦς</w>
+                <w>ιερεῖς</w>
+                <w>καὶ</w>
+                <w>τὰς</w>
+                <w>γυναῖκας</w>
+                <w>καὶ</w>
+                <w>τὰ</w>
+                <w>τέκνα</w>
+                <lb n="P8CL-Q"/>
+                <w>αὐτῶν</w>
+                <w>καὶ</w>
+                <w>έδειξαν</w>
+                <w>αὐτω</w>
+                <w>τὰς</w>
+                <w>κρυπτὰς</w>
+                <lb n="P8CL-Q"/>
+                <w>θύρας</w>
+                <pc>.</pc>
+                <w>δι</w>
+                <pc>ʼ</pc>
+                <w>ῶν</w>
+                <w>εἰσεπορεύοντο</w>
+                <pc>.</pc>
+                <w>καὶ</w>
+                <w>ἐδαπα<lb n="P8CL-Q" break="no"/>νων</w>
+                <w>τὰ</w>
+                <w>ἐπι</w>
+                <w>τῆ</w>
+                <w>τραπέζη</w>
+                <pc>˙</pc>
+              </ab>
+              <ab n="B55K1V22">
+                <w>καὶ</w>
+                <w>ἀπέκτει<lb n="P8CL-Q" break="no"/>νεν</w>
+                <w>αὐτοὺς</w>
+                <w>ὁ</w>
+                <w>βασιλέυς</w>
+                <pc>˙</pc>
+                <w>καὶ</w>
+                <w>ἔδωκεν</w>
+                <w>τὸν</w>
+                <lb n="P8CL-Q"/>
+                <w>Βὴλ</w>
+                <pc>.</pc>
+                <w>ἔκδοτον</w>
+                <w>τῶ</w>
+                <w>Δανιήλ</w>
+                <w>καὶ</w>
+                <w>κατέ<lb n="P8CL-Q" break="no"/>στρεψεν</w>
+                <w>αὐτόν</w>
+                <w>καὶ</w>
+                <w>το</w>
+                <app>
+                  <rdg type="orig" hand="firsthand">
+                    <w>νναον</w>
+                  </rdg>
+                  <rdg type="corr" hand="corrector" rend="erased">
+                    <seg type="line" subtype="above" n="@P8CL-Q">
+                      <w>ιερον<ex>Swete</ex>
+                      </w>
+                    </seg>
+                  </rdg>
+                </app>
+                <w>αὐτοῦ</w>
+                <pc>˙</pc>
+              </ab>
+            </ab>
+          </ab>
+        </div>
+      </div>
+      <pb n="P8-Q" type="page" break="no"/>
+      <cb n="P8C-Q"/>
+      <lb n="P8CL-Q"/>
+      <div type="textpart" n="B55">
+        <div type="textpart" n="B55K1">
+          <ab n="B55K1V23" part="I">
+            <w>Και</w>
+            <w>ην</w>
+            <w>δράκων</w>
+            <w>μέγας</w>
+            <w>ἐν</w>
+            <app>
+              <rdg type="orig" hand="firsthand">
+                <w>÷</w>
+              </rdg>
+              <rdg type="corr" hand="corrector" rend="other">
+                <seg type="margin" subtype="lineright" n="@P8CL-Q">
+                  <w>αυτω</w>
+                </seg>
+              </rdg>
+            </app>
+            <w>τῶ</w>
+            <w>τὸπω</w>
+            <w>καὶ</w>
+            <lb n="P8CL-Q"/>
+            <w>εσέβοντο</w>
+            <w>αὐτὸν</w>
+            <w>οἱ</w>
+            <w>Βαβυλώνιοι</w>
+            <pc>˙</pc>
+          </ab>
+          <ab n="B55K1V24">
+            <w>καὶ</w>
+            <w>εῖ<lb n="P8CL-Q" break="no"/>πεν</w>
+            <pc>˙</pc>
+            <w>ὁ</w>
+            <w>βασιλεὺς</w>
+            <w>τῶ</w>
+            <w>Δανιήλ</w>
+            <pc>˙</pc>
+            <w>μὴ</w>
+            <w>καὶ</w>
+            <w>τοῦ</w>
+            <lb n="P8CL-Q"/>
+            <w>τον</w>
+            <w>ερεῖς</w>
+            <pc>.</pc>
+            <w>ὀτι</w>
+            <w>χαλκοῦς</w>
+            <w>ἐστιν</w>
+            <pc>.</pc>
+            <w>ἰδοὺ</w>
+            <w>ζῆ</w>
+            <pc>˙</pc>
+            <w>καὶ</w>
+            <lb n="P8CL-Q"/>
+            <w>ἐσθιέι</w>
+            <pc>.</pc>
+            <w>καὶ</w>
+            <w>πίνει</w>
+            <pc>˙</pc>
+            <w>οὑ</w>
+            <w>δύνασαι</w>
+            <w>ἐιπεῖν</w>
+            <pc>.</pc>
+            <lb n="P8CL-Q"/>
+            <w>ὁτι</w>
+            <w>οὐκ</w>
+            <w>έστιν</w>
+            <w>οὗτος</w>
+            <w>
+              <abbr type="nomSac">
+                <hi rend="overline">θς</hi>
+              </abbr>
+            </w>
+            <w>ζῶν</w>
+            <w>καὶ</w>
+            <w>προσκύ<lb n="P8CL-Q" break="no"/>νησον</w>
+            <w>αὐτῶ</w>
+            <pc>;</pc>
+          </ab>
+          <ab n="B55K1V25">
+            <w>καὶ</w>
+            <w>εἶπεν</w>
+            <w>Δανιήλ</w>
+            <pc>˙</pc>
+            <w>
+              <abbr type="nomSac">
+                <hi rend="overline">κω</hi>
+              </abbr>
+            </w>
+            <lb n="P8CL-Q"/>
+            <w>τῶ</w>
+            <w>
+              <abbr type="nomSac">
+                <hi rend="overline">θω</hi>
+              </abbr>
+            </w>
+            <w>μου</w>
+            <w>προσκυνήσω</w>
+            <pc>.</pc>
+            <w>ὅτι</w>
+            <w>οὗτός</w>
+            <w>ἔστιν</w>
+            <lb n="P8CL-Q"/>
+            <w>
+              <abbr type="nomSac">
+                <hi rend="overline">θς</hi>
+              </abbr>
+            </w>
+            <w>ζῶν</w>
+            <pc>˙</pc>
+          </ab>
+          <ab n="B55K1V26">
+            <w>συ</w>
+            <w>δὲ</w>
+            <w>βασιλεῦ</w>
+            <pc>.</pc>
+            <w>δός</w>
+            <w>μοι</w>
+            <w>ἐξουσίαν</w>
+            <pc>.</pc>
+            <lb n="P8CL-Q"/>
+            <w>καὶ</w>
+            <w>αποκτένῶ</w>
+            <w>τὸν</w>
+            <w>δράκοντα</w>
+            <pc>.</pc>
+            <w>ἄνευ</w>
+            <lb n="P8CL-Q"/>
+            <w>μαχαίρας</w>
+            <w>καὶ</w>
+            <w>ράβδου</w>
+            <pc>˙</pc>
+            <w>καὶ</w>
+            <w>εἶπεν</w>
+            <w>ὁ</w>
+            <w>βα</w>
+            <lb n="P8CL-Q"/>
+            <w>σιλεύς</w>
+            <w>δίδωμι</w>
+            <w>σοι</w>
+            <pc>˙</pc>
+          </ab>
+          <ab n="B55K1V27" part="I">
+            <w>και</w>
+            <w>ελαβεν</w>
+            <w>Δανι<lb n="P8CL-Q" break="no"/>ὴλ</w>
+            <pc>.</pc>
+            <w>πίσσαν</w>
+            <w>και</w>
+            <w>στέαρ</w>
+            <pc>.</pc>
+            <w>καὶ</w>
+            <w>τρίχας</w>
+            <pc>.</pc>
+            <w>καὶ</w>
+            <w>ἠ</w>
           </ab>
         </div>
       </div>
