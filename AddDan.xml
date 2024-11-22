@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://epidoc.stoa.org/schema/9.5/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="https://epidoc.stoa.org/schema/9.5/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -1881,13 +1879,13 @@
                   <w>αὐτοῦ</w>
                   <pc>.</pc>
                   <w>ἤνεσαν</w>
-                  <w>τὸν</w>
+                  <app><lem><w>τὸν</w>
                   <w>
                      <abbr type="nomSac">
                         <hi rend="overline">θν</hi>
                      </abbr>
                   </w>
-                  <pc>.</pc>
+                  <pc>.</pc></lem><rdg wit="Z">-</rdg></app>
                   <w>περὶ</w>
                   <w> Σου <lb break="no"/> σάννας </w>
                   <w>τῆς</w>
@@ -3727,8 +3725,7 @@
                   <w>λίαν</w>
                   <pc>˙</pc>
                   <w>καὶ</w>
-                  <w>συνε<lb n="P8CL-Q" break="no"/>στ<unclear reason="faded ink"
-                     >ρ</unclear>αφησὰν</w>
+                  <w>συνε<lb n="P8CL-Q" break="no"/>στ<unclear reason="faded ink">ρ</unclear>αφησὰν</w>
                   <w>ἐπι</w>
                   <w>τὸν</w>
                   <w>βασιλέα</w>
