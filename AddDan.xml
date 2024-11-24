@@ -1492,7 +1492,7 @@
             <w lemma="δίδωμι" msd="VAAI3S">ἔδωκεν</w>
             <lb/>
             <w lemma="ὁ" msd="NMSN">ὁ</w>
-            <w>
+            <w lemma="θεός" msd="NMSN">
               <abbr type="nomSac">
                 <hi rend="overline">θς</hi>
               </abbr>
@@ -3085,7 +3085,7 @@
             <w lemma="καί" msd="C">καὶ</w>
             <w lemma="δρόσος" msd="NNSF">δρόσος</w>
             <w lemma="ὁ" msd="DASM">τὸν</w>
-            <w>
+            <w lemma="κύριος" msd="NMSM">
               <abbr type="nomSac">
                 <hi rend="overline">κν</hi>
               </abbr>
@@ -3094,7 +3094,7 @@
             <w lemma="ὑμνέω" msd="VPAI2P">ὕμνεῖτε</w>
             <w lemma="καί" msd="C">καὶ</w>
             <w lemma="ὑπερυψόω" msd="VPAI2P">ύπερῡψοῦτε</w>
-            <w>
+            <w lemma="κύριος" msd="NMSM">
               <abbr type="nomSac">
                 <hi rend="overline">κν</hi>
               </abbr>
@@ -3273,7 +3273,7 @@
             <w lemma="ὁ" msd="NFSN">ἡ</w>
             <w lemma="γῆ" msd="NFSN">γῆ</w>
             <w lemma="ὁ" msd="DASM">τὸν</w>
-            <w>
+            <w lemma="κύριος" msd="NMSA">
               <abbr type="nomSac">
                 <hi rend="overline">κν</hi>
               </abbr>
