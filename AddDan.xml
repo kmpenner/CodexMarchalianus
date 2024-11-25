@@ -4209,16 +4209,13 @@
                   <ab n="B55K1V14">
                      <w>καὶ</w>
                      <w><app>
-                           <rdg type="orig" hand="firsthand">
-                              <w>ἐγνε</w>
-                           </rdg>
+                           <rdg type="orig" hand="firsthand">ἐγνε</rdg>
                            <rdg type="corr" hand="corrector">
-                              <seg type="line" subtype="above" n="@P8CL-Q">
-                                 <w>ἐγενε</w>
-                              </seg>
+                              <seg type="line" subtype="above" n="@P8CL-Q">ἐγενε</seg>
                            </rdg>
-                        </app><note>This correction needs reencoding.</note>
+                        </app>
                         <lb n="P8CL-Q" break="no"/>το</w>
+                     <note>This correction needs reencoding.</note>
                      <w>ὡς</w>
                      <w>ἐξήλθοσαν</w>
                      <w>ἐκεῖνοι</w>
@@ -4234,16 +4231,13 @@
                      <w>Βήλ</w>
                      <lb n="P8CL-Q"/>
                      <w>καὶ</w>
-                     <app>
-                        <rdg type="orig" hand="firsthand">
-                           <w>ἐπεξν</w>
-                        </rdg>
-                        <rdg type="corr" hand="corrector">
-                           <seg type="line" subtype="above" n="@P8CL-Q">
-                              <w>ἐπεταξεν</w>
-                           </seg>
-                        </rdg>
-                     </app><note>This correction needs reencoding as choice/sic+corr</note>
+                     <w><app>
+                           <rdg type="orig" hand="firsthand">ἐπεξν</rdg>
+                           <rdg type="corr" hand="corrector">
+                              <seg type="line" subtype="above" n="@P8CL-Q">ἐπεταξεν</seg>
+                           </rdg>
+                        </app></w>
+                     <note>This correction needs reencoding as choice/sic+corr</note>
                      <w>Δανιὴλ</w>
                      <w>τοῖς</w>
                      <w>παίδαριοις</w>
@@ -4269,21 +4263,20 @@
                      <w>καὶ</w>
                      <w>ἒξελθόντες</w>
                      <pc>,</pc>
-                     <app>
-                        <rdg type="orig" hand="firsthand">
-                           <w>ἔκλισαν</w>
-                        </rdg>
-                        <rdg type="corr" hand="corrector">
-                           <seg type="other" subtype="inbetween" n="@P8CL-Q">
-                              <w>ἔκλεισαν</w>
-                           </seg>
-                        </rdg>
-                     </app><note>This correction needs reencoding as choice/sic+corr</note>
+                     <w><app>
+                           <rdg type="orig" hand="firsthand">ἔκλισαν</rdg>
+                           <rdg type="corr" hand="corrector">
+                              <seg type="other" subtype="inbetween" n="@P8CL-Q">ἔκλεισαν</seg>
+                           </rdg>
+                        </app></w>
+                     <note>This correction needs reencoding as choice/sic+corr</note>
                      <w>
                         <abbr type="-%CE%BD">
                            <hi rend="overline">τη</hi>
                         </abbr>
                      </w>
+                     <note>Encode the abbreviation as choice/abbr+expan, or just transcribe as
+                        ν</note>
                      <lb n="P8CL-Q"/>
                      <w>θύραν</w>
                      <w>καὶ</w>
@@ -4556,13 +4549,9 @@
                      <pc>˙</pc>
                   </ab>
                </ab>
-            </div>
-         </div>
-         <pb n="P8-Q" type="page" break="no"/>
-         <cb n="P8C-Q"/>
-         <lb n="P8CL-Q"/>
-         <div type="textpart" n="B55">
-            <div type="textpart" n="B55K1">
+               <pb n="P8-Q" type="page" break="no"/>
+               <cb n="P8C-Q"/>
+               <lb n="P8CL-Q"/>
                <ab n="B55K1V23" part="I">
                   <w lemma="καί" msd="C">Και</w>
                   <w lemma="εἰμί" msd="VIAI3S">ην</w>
@@ -4640,7 +4629,7 @@
                   <w lemma="καί" msd="C">καὶ</w>
                   <w lemma="προσκυνέω" msd="VAAI2S">προσκύ<lb n="P8CL-Q" break="no"/>νησον</w>
                   <w lemma="αὐτός" msd="RPDSM">αὐτῶ</w>
-                  <pc>;</pc>
+                  <pc>;</pc><note>check this punctuation</note>
                </ab>
                <ab n="B55K1V25">
                   <w lemma="καὶ" msd="C">καὶ</w>
@@ -4798,17 +4787,7 @@
                   <w lemma="καί" msd="C">καὶ</w>
                   <w lemma="ὁ" msd="DAM">τὸν</w>
                   <w lemma="δράκων" msd="NAM">δράκοντα</w>
-                  <w lemma="ἀποκτείνω" msd="VAAI3S">ἀπέ<lb n="P8CL-Q" break="no"/>κτεινε</w>
-                  <app>
-                     <rdg type="orig" hand="firsthand">
-                        <w lemma="ν" msd="N">ν</w>
-                     </rdg>
-                     <rdg type="corr" hand="corrector">
-                        <seg type="line" subtype="above" n="@P8CL-Q">
-                           <w lemma="ν" msd="N">ν</w>
-                        </seg>
-                     </rdg>
-                  </app>
+                  <w lemma="ἀποκτείνω" msd="VAAI3S">ἀπέ<lb n="P8CL-Q" break="no"/>κτεινεν</w>
                   <w lemma="καί" msd="C">καὶ</w>
                   <w lemma="ὁ" msd="DMPA">τοῦς</w>
                   <w lemma="ἱερεύς" msd="NMPA">
