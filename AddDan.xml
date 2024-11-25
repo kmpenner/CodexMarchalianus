@@ -823,10 +823,10 @@
                   <w lemma="κατέναντι" msd="P">κατέναντι</w>
                   <w lemma="αὐτός" msd="RP3FS">αὐτῆς</w>
                   <pc>˙</pc>
-                  <pb n="P1r-Q" type="folio"/>
-                  <cb n="1"/>
-                  <lb n="1"/>
                </ab>
+               <pb n="P1r-Q" type="page"/>
+               <cb n="1"/>
+               <lb n="1"/>
                <ab n="B53K1V25" xml:id="Sus.1.25.P764.I1">
                   <w lemma="καὶ" msd="C">καὶ</w>
                   <w lemma="τρέχω" msd="VPAAP-SNM">δραμὼν</w>
@@ -1294,7 +1294,7 @@
                   <w lemma="ἐγώ" msd="RP1GS">μου</w>
                   <w lemma="καταμαρτυρέω" msd="VAAI3P">κατεμαρτύρησαν</w>
                   <pc>˙</pc>
-                  <pb n="P1r-Q" type="folio"/>
+                  <pb n="P1-Q" type="page"/>
                   <cb n="1"/>
                   <lb n="1"/>
                </ab>
@@ -1846,7 +1846,7 @@
                   <w lemma="φωνή" msd="NDSF">φωνῆ</w>
                   <w lemma="μέγας" msd="JDSF">μεγάλη</w>
                   <pc>˙</pc>
-                  <pb n="P1r-Q" type="folio"/>
+                  <pb n="P1r-Q" type="page"/>
                   <cb n="1"/>
                   <lb n="1"/>
                </ab>
@@ -1993,7 +1993,7 @@
                   <w lemma="καί" msd="C">καὶ</w>
                   <w lemma="ἐπέκεινα" msd="B">ἐπέκεινα</w>
                   <pc>˙</pc>
-                  <pb n="P1r-Q" type="folio"/>
+                  <pb n="P1r-Q" type="page"/>
                   <cb n="1"/>
                   <lb n="1"/>
                </ab>
@@ -3801,8 +3801,8 @@
                   <w lemma="ὁ" msd="DDPM">τοῖς</w>
                   <w lemma="Βαβυλών" msd="NDSM">Βαβυλω</w>
                   <pb n="P8-Q" type="page"/>
-                  <cb n="P8C-Q"/>
-                  <lb n="P8CL-Q"/>
+                  <cb n="P8C1-Q"/>
+                  <lb n="P8C1L1-Q"/>
                   <ab type="book" n="B55">
                      <ab type="chapter" n="B55K1">
                         <ab n="B55K1V3">
@@ -4065,8 +4065,8 @@
                      <w lemma="βασιλεύς" msd="NMSN">βα</w>
                   </ab>
                   <pb n="P8-Q" type="page"/>
-                  <cb n="P8C-Q"/>
-                  <lb n="P8CL-Q"/>
+                  <cb n="P8C1-Q"/>
+                  <lb n="P8C1L1-Q"/>
                   <ab type="book" n="B55">
                      <ab type="chapter" n="B55K1">
                         <ab n="B55K1V10">
@@ -4561,9 +4561,9 @@
                      <pc>˙</pc>
                   </ab>
                </ab>
-               <pb n="P8-Q" type="page" break="no"/>
-               <cb n="P8C-Q"/>
-               <lb n="P8CL-Q"/>
+               <pb n="P8-Q" type="page"/>
+               <cb n="P8C1-Q"/>
+               <lb n="P8C1L1-Q"/>
                <ab n="B55K1V23" part="I">
                   <w lemma="καί" msd="C">Και</w>
                   <w lemma="εἰμί" msd="VIAI3S">ην</w>
@@ -5091,7 +5091,7 @@
                   <w lemma="ὁ" msd="DASM">τὸν</w>
                   <w lemma="λάκκος" msd="NASM">λάκ</w>
                   <pb n="P1-Q" type="page"/>
-                  <cb n="1"/>
+                  <cb n="P1C1-Q"/>
                   <lb n="1"/>
                   <w lemma="κον" msd="NNSM">κον</w>
                   <w lemma="ὁ" msd="DGPM">τῶν</w>
