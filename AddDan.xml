@@ -4207,70 +4207,75 @@
                      <pc>·</pc>
                   </ab>
                   <ab n="B55K1V14">
-                     <w>καὶ</w>
-                     <w><app>
+                     <w lemma="καί" msd="C">καὶ</w>
+                     <w lemma="γίνομαι" msd="VAMI3S">
+                        <app>
                            <rdg type="orig" hand="firsthand">ἐγνε</rdg>
                            <rdg type="corr" hand="corrector">
                               <seg type="line" subtype="above" n="@P8CL-Q">ἐγενε</seg>
                            </rdg>
                         </app>
-                        <lb n="P8CL-Q" break="no"/>το</w>
+                        <lb n="P8CL-Q" break="no"/>το </w>
                      <note>This correction needs reencoding.</note>
-                     <w>ὡς</w>
-                     <w>ἐξήλθοσαν</w>
-                     <w>ἐκεῖνοι</w>
+                     <w lemma="ὡς" msd="C">ὡς</w>
+                     <w lemma="ἐξέρχομαι" msd="VAAI3P">ἐξήλθοσαν</w>
+                     <w lemma="ἐκεῖνος" msd="RDMPN">ἐκεῖνοι</w>
                      <pc>.</pc>
-                     <w>και</w>
-                     <w>ὁ</w>
-                     <w>βασιλεὺς</w>
+                     <w lemma="καί" msd="C">και</w>
+                     <w lemma="ὁ" msd="NMSN">ὁ</w>
+                     <w lemma="βασιλεύς" msd="NMSN">βασιλεὺς</w>
                      <lb n="P8CL-Q"/>
-                     <w>παρέθηκεν</w>
-                     <w>τὰ</w>
-                     <w>βρώματα</w>
-                     <w>τῶ</w>
-                     <w>Βήλ</w>
+                     <w lemma="παρατίθημι" msd="VAAI3S">παρέθηκεν</w>
+                     <w lemma="ὁ" msd="DAPN">τὰ</w>
+                     <w lemma="βρῶμα" msd="NAPN">βρώματα</w>
+                     <w lemma="ὁ" msd="DSM">τῶ</w>
+                     <w lemma="Βήλ" msd="NMSD">Βήλ</w>
                      <lb n="P8CL-Q"/>
-                     <w>καὶ</w>
-                     <w><app>
+                     <w lemma="καί" msd="C">καὶ</w>
+                     <w lemma="ἐπιτάσσω" msd="VAAI3S">
+                        <app>
                            <rdg type="orig" hand="firsthand">ἐπεξν</rdg>
                            <rdg type="corr" hand="corrector">
                               <seg type="line" subtype="above" n="@P8CL-Q">ἐπεταξεν</seg>
                            </rdg>
-                        </app></w>
+                        </app>
+                     </w>
                      <note>This correction needs reencoding as choice/sic+corr</note>
-                     <w>Δανιὴλ</w>
-                     <w>τοῖς</w>
-                     <w>παίδαριοις</w>
+                     <w lemma="Δανιήλ" msd="NMSN">Δανιὴλ</w>
+                     <w lemma="ὁ" msd="DMPD">τοῖς</w>
+                     <w lemma="παίδαριον" msd="NMPD">παίδαριοις</w>
                      <lb n="P8CL-Q"/>
-                     <w>ἀυτοῦ</w>
+                     <w lemma="αὐτός" msd="RP3MSG">ἀυτοῦ</w>
                      <pc>.</pc>
-                     <w>καὶ</w>
-                     <w>ήνεγκαν</w>
-                     <w>τέφραν</w>
+                     <w lemma="καί" msd="C">καὶ</w>
+                     <w lemma="φέρω" msd="VAAI3P">ήνεγκαν</w>
+                     <w lemma="τέφρα" msd="NASF">τέφραν</w>
                      <pc>.</pc>
-                     <w>καὶ</w>
-                     <w>κατέ<lb n="P8CL-Q" break="no"/>σησαν</w>
-                     <w>ὅλον</w>
-                     <w>τὸν</w>
-                     <w>ναὸν</w>
+                     <w lemma="καί" msd="C">καὶ</w>
+                     <w lemma="κατασῴζω" msd="VAAI3P">κατέ<lb n="P8CL-Q" break="no"/>σησαν</w>
+                     <w lemma="ὅλος" msd="JASM">ὅλον</w>
+                     <w lemma="ὁ" msd="DASM">τὸν</w>
+                     <w lemma="ναός" msd="NASM">ναὸν</w>
                      <pc>·</pc>
-                     <w>ενώπιον</w>
+                     <w lemma="ἐνώπιον" msd="P">ενώπιον</w>
                      <pc>.</pc>
-                     <w>τοῦ</w>
+                     <w lemma="ὁ" msd="GSM">τοῦ</w>
                      <lb n="P8CL-Q"/>
-                     <w>βασιλέως</w>
+                     <w lemma="βασιλεύς" msd="GSM">βασιλέως</w>
                      <pc>·</pc>
-                     <w>καὶ</w>
-                     <w>ἒξελθόντες</w>
+                     <w lemma="καί" msd="C">καὶ</w>
+                     <w lemma="ἐξέρχομαι" msd="VPAPMPN">ἒξελθόντες</w>
                      <pc>,</pc>
-                     <w><app>
+                     <w lemma="κλείω" msd="VAAI3P">
+                        <app>
                            <rdg type="orig" hand="firsthand">ἔκλισαν</rdg>
                            <rdg type="corr" hand="corrector">
                               <seg type="other" subtype="inbetween" n="@P8CL-Q">ἔκλεισαν</seg>
                            </rdg>
-                        </app></w>
+                        </app>
+                     </w>
                      <note>This correction needs reencoding as choice/sic+corr</note>
-                     <w>
+                     <w lemma="ν" msd="N">
                         <abbr type="-%CE%BD">
                            <hi rend="overline">τη</hi>
                         </abbr>
@@ -4278,19 +4283,19 @@
                      <note>Encode the abbreviation as choice/abbr+expan, or just transcribe as
                         ν</note>
                      <lb n="P8CL-Q"/>
-                     <w>θύραν</w>
-                     <w>καὶ</w>
-                     <w>ἐσφραγίσαντο</w>
-                     <w>ἐν</w>
-                     <w>τῶ</w>
-                     <w>
+                     <w lemma="θύρα" msd="NASF">θύραν</w>
+                     <w lemma="καί" msd="C">καὶ</w>
+                     <w lemma="σφραγίζω" msd="VAMI3P">ἐσφραγίσαντο</w>
+                     <w lemma="ἐν" msd="P">ἐν</w>
+                     <w lemma="ὁ" msd="DSM">τῶ</w>
+                     <w lemma="δακτύλιος" msd="DSM">
                         <unclear reason="faded ink">δακτυ</unclear>
-                        <lb n="P8CL-Q" break="no"/>λίω</w>
-                     <w>τοῦ</w>
-                     <w>βασιλεως</w>
+                        <lb n="P8CL-Q" break="no"/>λίω </w>
+                     <w lemma="ὁ" msd="GSM">τοῦ</w>
+                     <w lemma="βασιλεύς" msd="GSM">βασιλεως</w>
                      <pc>.</pc>
-                     <w>καὶ</w>
-                     <w>ἀπῆλθον</w>
+                     <w lemma="καί" msd="C">καὶ</w>
+                     <w lemma="ἀπέρχομαι" msd="VAAI3P">ἀπῆλθον</w>
                      <pc>·</pc>
                   </ab>
                   <ab n="B55K1V15">
@@ -4617,7 +4622,7 @@
                   <w lemma="οὐ" msd="D">οὐκ</w>
                   <w lemma="εἰμί" msd="VPAI3S">έστιν</w>
                   <w lemma="οὗτος" msd="RPNSM">οὗτος</w>
-                  <w>
+                  <w lemma="θεός" msd="NNSM">
                      <choice>
                         <abbr type="nomSac">
                            <hi rend="overline">θς</hi>
@@ -4629,7 +4634,8 @@
                   <w lemma="καί" msd="C">καὶ</w>
                   <w lemma="προσκυνέω" msd="VAAI2S">προσκύ<lb n="P8CL-Q" break="no"/>νησον</w>
                   <w lemma="αὐτός" msd="RPDSM">αὐτῶ</w>
-                  <pc>;</pc><note>check this punctuation</note>
+                  <pc>;</pc>
+                  <note>check this punctuation</note>
                </ab>
                <ab n="B55K1V25">
                   <w lemma="καὶ" msd="C">καὶ</w>
