@@ -178,8 +178,8 @@
             <w lemma="καί" msd="C">καὶ</w>
             <w lemma="ὄνομα" msd="NNSN">ὄνομα</w>
             <w lemma="αὐτός" msd="RP3DSM">αὐτῷ</w>
-            <w><choice>
-                <orig><w lemma="Ἰωακείμ" msd="NPM">Ϊωακειμ</w></orig>
+            <w lemma="Ἰωακείμ" msd="NPM"><choice>
+                <orig>Ϊωακειμ</orig>
                 <reg>Ιωακιμ</reg>
               </choice></w>
             <pc>˙</pc>
@@ -4599,7 +4599,7 @@
                         <w>ἦν</w>
                         <w>δράκων</w>
                         <w>μέγας</w>
-                        <choice><pc>,</pc></choice>
+                      <choice><orig></orig><reg><pc>,</pc></reg> </choice>
                         <w><app><lem>ἐν</lem><rdg wit='Z'></rdg></app></w>
                         <w><app><lem>αὐτῷ</lem><rdg wit='Z'></rdg></app></w>
                         <w><app><lem>τῷ</lem><rdg wit='Z'></rdg></app></w>
@@ -4752,7 +4752,7 @@
    <w>τοῦ</w>
    <w>δρά<lb n="P8CL-Q" break="no"/>κοντος</w>
    <pc><choice><orig></orig><reg>,</reg></choice></pc>
-   <choice><sic>κὶ</sic><corr>καὶ</corr></choice>
+                  <w><choice><sic>κὶ</sic><corr>καὶ</corr></choice></w>
    <w>
    <unclear reason="faded ink">διερράγη</unclear>
   </w>
