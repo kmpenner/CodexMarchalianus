@@ -188,7 +188,7 @@
                     </ab>
                     <ab n="B55K1V24">
                         <w>καὶ</w>
-                        <w>εἶ<lb n="3"/>πεν</w>
+                        <w>εἶ<lb n="3" break="no"/>πεν</w>
                         <pc><choice><orig>˙</orig><reg>.</reg></choice></pc>
                         <w>ὁ</w>
                         <w>βασιλεὺς</w>
@@ -231,7 +231,7 @@
                         <w><app><lem>ζῶν</lem><rdg wit='Q'></rdg></app></w>
                         <pc><choice><orig></orig><reg>˙</reg></choice></pc>
                         <w><app><lem>καὶ</lem><rdg wit='Q'></rdg></app></w>
-                        <w>προσκύ<lb n="7"/>νησον</w>
+                        <w>προσκύ<lb n="7" break='no'/>νησον</w>
                         <w><choice><orig>αὐτῶ</orig><reg>αὐτῷ</reg></choice></w>
                         <pc><choice><orig>;</orig><reg>.</reg></choice></pc>
                     </ab>
@@ -301,14 +301,14 @@
                         <pc><choice><orig>.</orig><reg></reg></choice></pc>
                         <w>καὶ</w>
                         <w>ἢ</w>
-                        <lb n="14"/>
+                        <lb n="14" break='no'/>
       <w>ψησεν</w>
       <w>ἐπὶ</w>
       <w>τὸ</w>
       <w>αὐτὸ</w>
       <w>καὶ</w>
       <w><choice><orig>ἐποίησεν</orig><reg>ἐποίησε</reg></choice></w>
-      <w>μά<lb n="15"/>ζας</w>
+      <w>μά<lb n="15" break='no'/>ζας</w>
       <w>καὶ</w>
       <w>ἔδωκεν</w>
       <w>
@@ -321,7 +321,7 @@
     <unclear reason="faded ink">στόμα</unclear>
    </w>
    <w>τοῦ</w>
-   <w>δρά<lb n="16"/>κοντος</w>
+   <w>δρά<lb n="16" break='no'/>κοντος</w>
    <pc><choice><orig></orig><reg>,</reg></choice></pc>
    <choice><sic>κὶ</sic><corr>καὶ</corr></choice>
    <w>
@@ -353,13 +353,13 @@
  <w>ὡς</w>
  <w>ἢκουσαν</w>
  <w>οἱ</w>
- <w>Βαβυλώ<lb n="19"/>νιοι</w>
+ <w>Βαβυλώ<lb n="19" break='no'/>νιοι</w>
     <pc><choice><orig>.</orig><reg>,</reg></choice></pc>
  <w>ἡγανάκτησαν</w>
  <w>λίαν</w>
     <pc><choice><orig>˙</orig><reg></reg></choice></pc>
  <w>καὶ</w>
-    <w><choice><orig>συνε<lb n="20"/>στ<unclear reason="faded ink">ρ</unclear>αφησὰν</orig><reg>συνεστράφησαν</reg></choice></w>
+    <w><choice><orig>συνε<lb n="20" break='no'/>στραφησὰν</orig><reg>συνεστράφησαν</reg></choice></w>
  <w>ἐπὶ</w>
  <w>τὸν</w>
  <w>βασιλέα</w>
@@ -367,7 +367,7 @@
  <w>καὶ</w>
     <w><choice><orig>εἶπον</orig><reg>εἶπαν</reg></choice></w>
  <lb n="21"/>
- <w>Ἱο<unclear reason="faded ink">υδαῖος</unclear>
+ <w>Ἱουδαῖος
 </w>
 <w>γέγονεν</w>
 <w>ὁ</w>
@@ -385,9 +385,7 @@
 <choice><sic>ν</sic><corr>ἁπέκτεινεν</corr></choice></w>
 <w>καὶ</w>
 <w>τοὺς</w>
-<w>
-<unclear reason="faded ink">ἰερεῖς</unclear>
-</w>
+<w>ἰερεῖς</w>
     <w><choice><orig>κατέσφαξεν</orig><reg>κατέσφαξε</reg></choice></w>
     <pc><choice><orig>˙</orig><reg>.</reg></choice></pc>
 <lb n="24"/>
@@ -408,7 +406,7 @@
  <w>δὲ</w>
  <w>μή</w>
  <pc><choice><orig></orig><reg>,</reg></choice></pc>
- <w>ἁπο<lb n="26"/>κτενοῦμέν</w>
+ <w>ἁπο<lb n="26" break='no'/>κτενοῦμέν</w>
  <w>σε</w>
  <w>καὶ</w>
  <w>τὸν</w>
@@ -480,7 +478,7 @@
  <pc><choice><orig>.</orig><reg></reg></choice></pc>
  <w>καὶ</w>
  <w>δύο</w>
- <w>π<unclear reason="faded ink">ρό</unclear>βατα</w>
+ <w>προβατα</w>
  <pc>˙</pc>
  <lb n="34"/>
  <w>τότε</w>
@@ -490,11 +488,7 @@
  <w>αὐτοῖς</w>
  <pc><choice><orig>.</orig><reg>,</reg></choice></pc>
  <w>ἵνα</w>
- <w>κατα<unclear>φά</unclear>
-</w>
-<lb n="35"/>
-<w>γωσι<unclear reason="faded ink">ν</unclear>
-</w>
+ <w>καταφά<lb n="35" break='no'/>γωσιν</w>
 <w><choice><orig>τον</orig><reg>τὸν</reg></choice></w>
 <w><choice><orig>Δανιήλ</orig><reg>Δανιηλ</reg></choice></w>
 <pc><choice><orig></orig><reg>.</reg></choice></pc>
@@ -510,13 +504,12 @@
  <w>Ἱουδαια</w>
  <pc><choice><orig></orig><reg>,</reg></choice></pc>
  <w>καὶ</w>
- <w>
- <unclear reason="faded ink">α</unclear>ὐ<lb n="37"/>τος</w>
+ <w>αὐ<lb n="37" break='no'/>τος</w>
  <w>ἢψησεν</w>
  <w>ἒψεμα</w>
  <pc><choice><orig>˙</orig><reg></reg></choice></pc>
  <w>καὶ</w>
- <w>ἐνέ<unclear reason="faded ink">θ</unclear>ρυψεν</w>
+ <w>ἐνέθρυψεν</w>
  <lb n="38"/>
  <w>ἄρτους</w>
  <w>εἰς</w>
@@ -532,7 +525,7 @@
  <pc><choice><orig>.</orig><reg></reg></choice></pc>
  <w><choice><sic>ἀπεν</sic><corr>ἀπενέγκαι</corr></choice></w>
  <w>τοῖς</w>
- <w>θερι<lb n="40"/>σταῖς</w>
+ <w>θερι<lb n="40" break='no'/>σταῖς</w>
  <pc><choice><orig>˙</orig><reg>.</reg></choice></pc>
 </ab>
 <ab n="B55K1V34">
@@ -541,14 +534,14 @@
  <w>ἄγγελος</w>
  <w><choice><abbr><hi rend='overline'>κυ</hi></abbr><expan>κυρίου</expan></choice></w>
  <w><app><lem>πρός</lem><rdg wit='Z'>τῷ</rdg></app></w>
-<w>Αμβα<lb n="41"/>κουμ</w>
+<w>Αμβα<lb n="41" break='no'/>κουμ</w>
 <pc><choice><orig>˙</orig><reg></reg></choice></pc>
 <w><app><lem>απένεγκαι</lem><rdg wit='Z'>Ἁπένεγκε</rdg></app></w>
 <w>τὸ</w>
 <w>ἄριστον</w>
 <pc><choice><orig></orig><reg>,</reg></choice></pc>
 <w><choice><orig>ὁ</orig><reg>ὂ</reg></choice></w>
-<w><unclear reason="faded ink">ἒχεις</unclear></w>
+<w>ἒχεις</w>
 <pc><choice><orig>.</orig><reg>,</reg></choice></pc>
 <lb n="42"/>
 <w>εἰς</w>
@@ -560,9 +553,8 @@
 <w>λάκ</w>
 <pb n="832" facs='http://206.12.93.167/community/mssimages/thumbs/22125/787_49_10.jpg'/>
 <cb n="P1rC-Q"/>
-<lb n="43"/>
+<lb n="43" break='no'/>
 </ab>
-                    <lb n="44"/>
                     <div type="book" n="B55">
                         <div type="chapter" n="B55K1">
                             <ab n="B55K1V34" part="F">
@@ -574,7 +566,7 @@
                             <ab n="B55K1V35">
                                 <w>καὶ</w>
                                 <w>εἶπεν</w>
-                                <w>Αμβα<lb n="45"/>κουμ</w>
+                                <w>Αμβα<lb n="44" break='no'/>κουμ</w>
                                 <w><choice><abbr><hi rend='overline'>κε</hi></abbr><expan>Κύριε</expan></choice>
                                 <pc><choice><orig>.</orig><reg>,</reg></choice></pc>
                                 <w>Βαβυλῶνα</w>
@@ -582,14 +574,14 @@
                                 <w>ἑόρακα</w>
                                 <w>καὶ</w>
                                 <w><choice><orig>τον</orig><reg>τὸν</reg></choice></w>
-                                <lb n="46"/>
+                                <lb n="45"/>
                                 <w>λάκκον</w>
                                     <w><app><lem>τῶν</lem><rdg wit='Z'></rdg></app></w>
                                     <w><app><lem>λέοντων</lem><rdg wit='Z'></rdg></app></w>
                                 <w>οὺ</w>
                                 <w>γινώσκω</w>
                                 <pc>.</pc>
-                                <lb n="47"/>
+                                <lb n="46"/>
                             </w></ab>
                             <ab n="B55K1V36">
                                 <w>καὶ</w>
@@ -599,7 +591,7 @@
                                 <w><choice><abbr><hi rend='overline'>κυ</hi></abbr><expan>κυρίου</expan></choice></w>
                                 <w>τῆς</w>
                                 <w>κορυφῆς</w>
-                                <lb n="48"/>
+                                <lb n="47"/>
                                 <w>αὐτοῦ</w>
                                 <pc><choice><orig>.</orig><reg></reg></choice></pc>
                                 <w>καὶ</w>
@@ -607,13 +599,13 @@
                                 <w>τῆς</w>
                                 <w>κόμης</w>
                                 <w>τῆς</w>
-                                <w>κε<lb n="49"/>φαλῆς</w>
+                                <w>κε<lb n="48" break='no'/>φαλῆς</w>
                                 <w>αὐτοῦ</w>
                                 <pc><choice><orig>.</orig><reg></reg></choice></pc>
                                 <w>ἒθηκεν</w>
                                 <w>αὐτὸν</w>
                                 <w>εἰς</w>
-                                <w>Βαβυ<lb n="50"/>λῶνα</w>
+                                <w>Βαβυ<lb n="49" break='no'/>λῶνα</w>
                                 <pc><choice><orig>.</orig><reg></reg></choice></pc>
                                 <w>ἐπάνω</w>
                                 <w>τοῦ</w>
@@ -621,7 +613,7 @@
                                 <pc>.</pc>
                                 <w>ἐν</w>
                                 <w><choice><orig>τῶ</orig><reg>τῷ</reg></choice></w>
-                                <lb n="51"/>
+                                <lb n="50"/>
                                 <w><choice><orig>ῥοίζω</orig><reg>ῥοίζῳ</reg></choice></w>
                                 <w>τοῦ</w>
                                 <w><choice><abbr><hi rend='overline'>πνς</hi></abbr><expan>πνεύματος</expan></choice></w>
@@ -631,14 +623,14 @@
                             <ab n="B55K1V37">
                                 <w>καὶ</w>
                                 <w>ἐβόησεν</w>
-                                <lb n="52"/>
+                                <lb n="51"/>
                                 <w><choice><orig>Αμβακὸυμ</orig><reg>Αμβακουμ</reg></choice></w>
                                 <w>λέγων</w>
                                 <pc><choice><orig>.</orig><reg></reg></choice></pc>
                                 <w><choice><orig>Δανιήλ</orig><reg>Δανιηλ</reg></choice></w>
                                 <w><choice><orig>Δανιήλ</orig><reg>Δανιηλ</reg></choice></w>
                                 <pc><choice><orig></orig><reg>,</reg></choice></pc>
-                                <lb n="53"/>
+                                <lb n="52"/>
                                 <w>λάβε</w>
                                 <w>τὸ</w>
                                 <w>ἂριστον</w>
@@ -657,7 +649,7 @@
                                 <w>γάρ</w>
                                 <w>μου</w>
                                 <pc><choice><orig></orig><reg>,</reg></choice></pc>
-                                <lb n="54"/>
+                                <lb n="53"/>
                                 <w>ὁ</w>
                                 <w><choice><abbr><hi rend='overline'>θς</hi></abbr><expan>θεός</expan></choice></w>
                                 <pc><choice><orig></orig><reg>,</reg></choice></pc>
@@ -665,7 +657,7 @@
                                 <w>οὐκ</w>
                                 <w>ἐγκατέλειπες</w>
                                 <w>τοὺς</w>
-                                <w>ἀγα<lb n="55"/>πῶντάς</w>
+                                <w>ἀγα<lb n="54" break='no'/>πῶντάς</w>
                                 <w><app><lem>σοι</lem><rdg wit='Z'>σε</rdg></app></w>
                                 <pc>.</pc>
                             </ab>
@@ -673,7 +665,7 @@
                                 <w>καὶ</w>
                                 <w>ἀναστὰς</w>
                                 <w><choice><orig>Δανιήλ</orig><reg>Δανιηλ</reg></choice></w>
-                                <lb n="56"/>
+                                <lb n="55"/>
                                 <w>ἒφαγεν</w>
                                 <pc>·</pc>
                                 <w>ὁ</w>
@@ -681,10 +673,10 @@
                                 <w>ἂγγελος</w>
                                 <w>τοῦ</w>
                                 <w><choice><abbr><hi rend='overline'>θυ</hi></abbr><expan>θεοῦ</expan></choice></w>
-                                <w><choice><orig>ἁπεκα<lb n="57"/>τέστησεν</orig><reg>ἀπεκατέστησε</reg></choice></w>
+                                <w><choice><orig>ἁπεκα<lb n="56" break='no'/>τέστησεν</orig><reg>ἀπεκατέστησε</reg></choice></w>
                                 <w>τὸν</w>
                                 <w>Αμβακουμ</w>
-                                <w>παραχρῆ<lb n="58"/>μα</w>
+                                <w>παραχρῆ<lb n="57" break='no'/>μα</w>
                                 <pc><choice><orig>.</orig><reg></reg></choice></pc>
                                 <w><app><lem>ἑπὶ</lem><rdg wit='Z'>εἰς</rdg></app></w>
                                 <w>τὸν</w>
@@ -695,21 +687,21 @@
                             <ab n="B55K1V40">
                                 <w>ὁ</w>
                                 <w>δὲ</w>
-                                <w>βασι<lb n="59"/>λεὺς</w>
+                                <w>βασι<lb n="58" break='no'/>λεὺς</w>
                                 <pc><choice><orig>.</orig><reg></reg></choice></pc>
                                 <w><choice><orig>ἦλθεν</orig><reg>ἦλθε</reg></choice></w>
                                 <w><choice><orig>τῆ</orig><reg>τῇ</reg></choice></w>
                                 <w>ἡμέρα</w>
                                 <w><choice><orig>τῆ</orig><reg>τῇ</reg></choice></w>
                                 <w>ἑβδόμη</w>
-                                <lb n="60"/>
+                                <lb n="59"/>
                                 <w>πενθῆσαι</w>
                                 <w>τὸν</w>
                                 <w><choice><orig>Δανιήλ</orig><reg>Δανιηλ</reg></choice></w>
                                 <pc>·</pc>
                                 <w>καὶ</w>
                                 <w>ἦλθεν</w>
-                                <lb n="61"/>
+                                <lb n="60"/>
                                 <w>ἑπὶ</w>
                                 <w>τὸν</w>
                                 <w>λάκκον</w>
@@ -717,13 +709,13 @@
                                 <w>καὶ</w>
                                 <w><choice><orig>ἐνέβλεψεν</orig><reg>ἐνέβλεψε</reg></choice></w>
                                 <pc><choice><orig>.</orig><reg>,</reg></choice></pc>
-                                <lb n="62"/>
+                                <lb n="61"/>
                                 <w>καὶ</w>
                                 <w><choice><orig>ϊδοὺ</orig><reg>ἰδοὺ</reg></choice></w>
                                 <w><choice><orig>Δανιήλ</orig><reg>Δανιηλ</reg></choice></w>
                                 <w>καθήμενος</w>
                                 <pc><choice><orig></orig><reg>.</reg></choice></pc>
-                                <lb n="63"/>
+                                <lb n="62"/>
                             </ab>
                             <ab n="B55K1V41">
                                 <w>καὶ</w>
@@ -731,7 +723,7 @@
                                 <w><app><lem>ὁ</lem><rdg wit='Z'></rdg></app></w>
                                 <w><app><lem>βασιλὲυς</lem><rdg wit='Z'></rdg></app></w>
                                 <w><choice><orig>φωνη</orig><reg>φωνῇ</reg></choice></w>
-                                <w><choice><orig>με<lb n="64"/>γάλη</orig><reg>μεγάλῃ</reg></choice></w>
+                                <w><choice><orig>με<lb n="63" break='no'/>γάλη</orig><reg>μεγάλῃ</reg></choice></w>
                                 <w><choice><orig>εἶπεν</orig><reg>εἶπε</reg></choice></w>
                                 <w>μέγας</w>
                                 <w><choice><orig>ἑι</orig><reg>εἶ</reg></choice></w>
@@ -743,7 +735,7 @@
                                 <w>Δανιηλ</w>
                                 <pc><choice><orig></orig><reg>,</reg></choice></pc>
                                 <w><app><lem></lem><rdg wit='Z'>καὶ οὐκ ἔστι πλὴν σοῦ ἄλλος.</rdg></app></w>
-                                <lb n="65"/>
+                                <lb n="64"/>
                             </ab>
                             <ab n="B55K1V42">
                                 <w>καὶ</w>
@@ -752,19 +744,19 @@
                                 <w>τοὺς</w>
                                 <w>δὲ</w>
                                 <w>αἰτίους</w>
-                                <lb n="66"/>
+                                <lb n="65"/>
                                 <w>τῆς</w>
                                 <w>ἀπωλέιας</w>
                                 <w>αὐτοῦ</w>
                                 <w>ἑνέβαλεν</w>
                                 <w>ἑις</w>
-                                <lb n="67"/>
+                                <lb n="66"/>
                                 <w>τὸν</w>
                                 <w>λάκκον</w>
                                 <pc><choice><orig>·</orig><reg>,</reg></choice></pc>
                                 <w>καὶ</w>
                                 <w>κατεβρώθησαν</w>
-                                <lb n="68"/>
+                                <lb n="67"/>
                                 <w>παραχρῆμα</w>
                                 <w>ἑνώπιον</w>
                                 <w>αὐτοῦ</w>
