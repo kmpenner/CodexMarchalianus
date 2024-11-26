@@ -1,9 +1,10 @@
 <?xml-model href="teipublisher_odds.xsd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:pb="http://teipublisher.com/1.0" xml:lang="en">
+<TEI xmlns:pb="http://teipublisher.com/1.0" xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Codex Marchalianus 
+                    
                     <desc>For StFX Digital Methods course</desc>
                 </title>
             </titleStmt>
@@ -77,21 +78,37 @@
                             <param name="label" value="lb/@n"/>
                         </model>
                         <model behaviour="inline" useSourceRendition="true">
-                            <param name="content" value="lb/n"/>
+                            <param name="content" value="lb/@n"/>
                             <outputRendition xml:space="preserve">
-                position: absolute; left: -10%; display: inline-block; margin-right: 100%; color: gray;
+                position: absolute; left: -10%; display: inline-block; margin-right: 100%; color: blue;
                 </outputRendition>
                         </model>
-                        <model behaviour="pass-through">
+                        <model output="web" predicate="@lemma" behaviour="alternate">
+                            <param name="alternate" value="concat(@lemma,&#34; &#34;,@msd)"/>
+                            <param name="default" value="."/>
+                            <outputRendition xml:space="preserve">
+                color: brown;
+                </outputRendition>
+                        </model>
+                        <model predicate="not(@lemma)" behaviour="pass-through">
                             <desc>if this word has a line break in it, break before the current
                                 word</desc>
+                            <outputRendition xml:space="preserve">
+                color: red;
+                </outputRendition>
                         </model>
                     </modelSequence>
                     <model output="web" predicate="@lemma" behaviour="alternate">
-                        <param name="alternate" value="concat(@lemma,&#34; &#34;,@msd)"/>
+                        <desc>Set this alternate:=concat(@lemma," ",@msd) to display the lemma and msd on hover; set its alternate to blank for output as print CSS</desc>
+                        <param name="alternate"/>
                         <param name="default" value="."/>
                         <outputRendition xml:space="preserve">
-            color: orange;
+            color: pink;
+            </outputRendition>
+                    </model>
+                    <model predicate="@lemma" behaviour="text">
+                        <outputRendition xml:space="preserve">
+            
             </outputRendition>
                     </model>
                 </elementSpec>
@@ -219,7 +236,7 @@
                     <model predicate="@rend='overline'" behaviour="inline" useSourceRendition="true">
                         <desc>overline</desc>
                         <outputRendition xml:space="preserve">
-            text-decoration: overline; 
+            text-decoration: overline;
             </outputRendition>
                     </model>
                     <model behaviour="inline" useSourceRendition="true">
