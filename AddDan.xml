@@ -157,9 +157,9 @@
       <listBibl>
         <msDesc>
           <msIdentifier>
-            <settlement>where is it</settlement>
-            <repository>repository name</repository>
-            <idno>identifier</idno>
+            <settlement>Vat.</settlement>
+            <repository>gr.</repository>
+            <idno>2125</idno>
           </msIdentifier>
         </msDesc>
       </listBibl>
@@ -170,15 +170,14 @@
           <w lemma="ἀνήρ" msd="NVSM">ἀνὴρ</w>
           <w lemma="οἰκέω" msd="VPAPNSM">οἰκῶν</w>
           <w lemma="ἐν" msd="P">ἐν</w>
-          <w lemma="Βαβυλών" msd="NDSF">Βαβυλῶνι</w>
-          <pc>,</pc>
+          <w lemma="Βαβυλών" msd="NDSF">Βαβυλῶνι</w><pc>,</pc>
           <lb n="1"/>
           <w lemma="καί" msd="C">καὶ</w>
           <w lemma="ὄνομα" msd="NNSN">ὄνομα</w>
           <w lemma="αὐτός" msd="RP3DSM">αὐτῷ</w>
           <w>
             <choice>
-              <orig><w lemma="Ἰωακείμ" msd="NPM">Ϊωακειμ</w></orig>
+              <orig><w lemma="Ιωακιμ" msd="NPM">Ϊωακειμ</w></orig>
               <reg>Ιωακιμ</reg>
             </choice>
           </w>
