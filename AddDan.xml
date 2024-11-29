@@ -558,394 +558,394 @@
             <abbr type="-%CE%BD"><hi rend="overline">ἡμω</hi></abbr>
             <expan>ἡμων</expan>
           </choice></w>
-        <ab n="B55K1V13">
-          <lb n="10"/>
-          <w lemma="αὐτός" msd="RP1MP">αυτοὶ</w>
-          <w lemma="δέ" msd="C">δὲ</w>
-          <w lemma="καταφρονέω" msd="VIAI3P">κατεφρόνουν</w>
-          <pc>.</pc>
-          <w lemma="ὅτι" msd="C">ὅτι</w>
-          <w lemma="ποιέω" msd="VLAI3P">πεποιήκει<lb n="11" break="no"/>σαν</w>
-          <w lemma="ὑπό" msd="P">ῡπο</w>
-          <w lemma="ὁ" msd="DASF">τὴν</w>
-          <w lemma="τράπεζα" msd="NASF">τράπεζαν</w>
-          <pc>.</pc>
-          <w lemma="κρύπτω" msd="VPPNSF">
-            <abbr type="-%CE%BD">
-              <hi rend="overline">κεκρυμμένη</hi>
-            </abbr>
-          </w>
-          <lb n="12"/>
-          <w lemma="εἴσοδος" msd="NASF">είσοδον</w>
-          <pc>.</pc>
-          <w lemma="καί" msd="C">και</w>
-          <w lemma="διά" msd="P">δι</w>
-          <pc>'</pc>
-          <w lemma="αὐτός" msd="RP3FS">ἀυτῆς</w>
-          <app>
-            <rdg type="orig" hand="firsthand">
+      </ab>
+      <ab n="B55K1V13">
+        <lb n="10"/>
+        <w lemma="αὐτός" msd="RP1MP">αυτοὶ</w>
+        <w lemma="δέ" msd="C">δὲ</w>
+        <w lemma="καταφρονέω" msd="VIAI3P">κατεφρόνουν</w>
+        <pc>.</pc>
+        <w lemma="ὅτι" msd="C">ὅτι</w>
+        <w lemma="ποιέω" msd="VLAI3P">πεποιήκει<lb n="11" break="no"/>σαν</w>
+        <w lemma="ὑπό" msd="P">ῡπο</w>
+        <w lemma="ὁ" msd="DASF">τὴν</w>
+        <w lemma="τράπεζα" msd="NASF">τράπεζαν</w>
+        <pc>.</pc>
+        <w lemma="κρύπτω" msd="VPPNSF">
+          <abbr type="-%CE%BD">
+            <hi rend="overline">κεκρυμμένη</hi>
+          </abbr>
+        </w>
+        <lb n="12"/>
+        <w lemma="εἴσοδος" msd="NASF">είσοδον</w>
+        <pc>.</pc>
+        <w lemma="καί" msd="C">και</w>
+        <w lemma="διά" msd="P">δι</w>
+        <pc>'</pc>
+        <w lemma="αὐτός" msd="RP3FS">ἀυτῆς</w>
+        <app>
+          <rdg type="orig" hand="firsthand">
+            <w lemma="εἰσέρχομαι" msd="VIMI3P">ἐισεπορευοντο</w>
+          </rdg>
+          <rdg type="corr" hand="corrector" rend="vertical_line">
+            <seg type="line" subtype="above" n="@P8CL-Q">
               <w lemma="εἰσέρχομαι" msd="VIMI3P">ἐισεπορευοντο</w>
-            </rdg>
-            <rdg type="corr" hand="corrector" rend="vertical_line">
-              <seg type="line" subtype="above" n="@P8CL-Q">
-                <w lemma="εἰσέρχομαι" msd="VIMI3P">ἐισεπορευοντο</w>
-              </seg>
-            </rdg>
-          </app>
-          <lb n="13"/>
-          <w lemma="διόλου" msd="B">διόλου</w>
-          <pc>.</pc>
-          <w lemma="καί" msd="C">καὶ</w>
-          <w lemma="ἀναλίσκω" msd="VIAI3P">ἀνήλισκον</w>
-          <w lemma="αὐτός" msd="RP3NP">ἀυτά</w>
-          <pc>·</pc>
-        </ab>
-        <ab n="B55K1V14">
-          <w lemma="καί" msd="C">καὶ</w>
-          <w lemma="γίνομαι" msd="VAMI3S">
-            <app>
-              <rdg type="orig" hand="firsthand">ἐγνε</rdg>
-              <rdg type="corr" hand="corrector">
-                <seg type="line" subtype="above" n="@P8CL-Q">ἐγενε</seg>
-              </rdg>
-            </app>
-            <lb n="14" break="no"/>το </w>
-          <note>This correction needs reencoding.</note>
-          <w lemma="ὡς" msd="C">ὡς</w>
-          <w lemma="ἐξέρχομαι" msd="VAAI3P">ἐξήλθοσαν</w>
-          <w lemma="ἐκεῖνος" msd="RDMPN">ἐκεῖνοι</w>
-          <pc>.</pc>
-          <w lemma="καί" msd="C">και</w>
-          <w lemma="ὁ" msd="NMSN">ὁ</w>
-          <w lemma="βασιλεύς" msd="NMSN">βασιλεὺς</w>
-          <lb n="15"/>
-          <w lemma="παρατίθημι" msd="VAAI3S">παρέθηκεν</w>
-          <w lemma="ὁ" msd="DAPN">τὰ</w>
-          <w lemma="βρῶμα" msd="NAPN">βρώματα</w>
-          <w lemma="ὁ" msd="DSM">τῶ</w>
-          <w lemma="Βήλ" msd="NMSD">Βήλ</w>
-          <lb n="16"/>
-          <w lemma="καί" msd="C">καὶ</w>
-          <w lemma="ἐπιτάσσω" msd="VAAI3S">
-            <app>
-              <rdg type="orig" hand="firsthand">ἐπεξν</rdg>
-              <rdg type="corr" hand="corrector">
-                <seg type="line" subtype="above" n="@P8CL-Q">ἐπεταξεν</seg>
-              </rdg>
-            </app>
-          </w>
-          <note>This correction needs reencoding as choice/sic+corr</note>
-          <w lemma="Δανιήλ" msd="NMSN">Δανιὴλ</w>
-          <w lemma="ὁ" msd="DMPD">τοῖς</w>
-          <w lemma="παίδαριον" msd="NMPD">παίδαριοις</w>
-          <lb n="17"/>
-          <w lemma="αὐτός" msd="RP3MSG">ἀυτοῦ</w>
-          <pc>.</pc>
-          <w lemma="καί" msd="C">καὶ</w>
-          <w lemma="φέρω" msd="VAAI3P">ήνεγκαν</w>
-          <w lemma="τέφρα" msd="NASF">τέφραν</w>
-          <pc>.</pc>
-          <w lemma="καί" msd="C">καὶ</w>
-          <w lemma="κατασῴζω" msd="VAAI3P">κατέ<lb n="18" break="no"/>σησαν</w>
-          <w lemma="ὅλος" msd="JASM">ὅλον</w>
-          <w lemma="ὁ" msd="DASM">τὸν</w>
-          <w lemma="ναός" msd="NASM">ναὸν</w>
-          <pc>·</pc>
-          <w lemma="ἐνώπιον" msd="P">ενώπιον</w>
-          <pc>.</pc>
-          <w lemma="ὁ" msd="GSM">τοῦ</w>
-          <lb n="19"/>
-          <w lemma="βασιλεύς" msd="GSM">βασιλέως</w>
-          <pc>·</pc>
-          <w lemma="καί" msd="C">καὶ</w>
-          <w lemma="ἐξέρχομαι" msd="VPAPMPN">ἒξελθόντες</w>
-          <pc>,</pc>
-          <w lemma="κλείω" msd="VAAI3P">
-            <app>
-              <rdg type="orig" hand="firsthand">ἔκλισαν</rdg>
-              <rdg type="corr" hand="corrector">
-                <seg type="other" subtype="inbetween" n="@P8CL-Q">ἔκλεισαν</seg>
-              </rdg>
-            </app>
-          </w>
-          <note>This correction needs reencoding as choice/sic+corr</note>
-          <w lemma="ν" msd="N">
-            <abbr type="-%CE%BD">
-              <hi rend="overline">τη</hi>
-            </abbr>
-          </w>
-          <note>Encode the abbreviation as choice/abbr+expan, or just transcribe as ν</note>
-          <lb n="20"/>
-          <w lemma="θύρα" msd="NASF">θύραν</w>
-          <w lemma="καί" msd="C">καὶ</w>
-          <w lemma="σφραγίζω" msd="VAMI3P">ἐσφραγίσαντο</w>
-          <w lemma="ἐν" msd="P">ἐν</w>
-          <w lemma="ὁ" msd="DSM">τῶ</w>
-          <w lemma="δακτύλιος" msd="DSM">
-            <unclear reason="faded ink">δακτυ</unclear>
-            <lb n="21" break="no"/>λίω </w>
-          <w lemma="ὁ" msd="GSM">τοῦ</w>
-          <w lemma="βασιλεύς" msd="GSM">βασιλεως</w>
-          <pc>.</pc>
-          <w lemma="καί" msd="C">καὶ</w>
-          <w lemma="ἀπέρχομαι" msd="VAAI3P">ἀπῆλθον</w>
-          <pc>·</pc>
-        </ab>
-        <ab n="B55K1V15">
-          <w lemma="ὁ" msd="DNPM">οἱ</w>
-          <w lemma="δέ" msd="C">δὲ</w>
-          <lb n="22"/>
-          <w lemma="ἱερεύς" msd="NMPN">ιερεῖς</w>
-          <pc>.</pc>
+            </seg>
+          </rdg>
+        </app>
+        <lb n="13"/>
+        <w lemma="διόλου" msd="B">διόλου</w>
+        <pc>.</pc>
+        <w lemma="καί" msd="C">καὶ</w>
+        <w lemma="ἀναλίσκω" msd="VIAI3P">ἀνήλισκον</w>
+        <w lemma="αὐτός" msd="RP3NP">ἀυτά</w>
+        <pc>·</pc>
+      </ab>
+      <ab n="B55K1V14">
+        <w lemma="καί" msd="C">καὶ</w>
+        <w lemma="γίνομαι" msd="VAMI3S">
           <app>
-            <rdg type="orig" hand="firsthand"> </rdg>
+            <rdg type="orig" hand="firsthand">ἐγνε</rdg>
             <rdg type="corr" hand="corrector">
-              <seg type="margin" subtype="pageleft" n="@P8-Q">
-                <w lemma="εἰς" msd="P">εις</w>
-              </seg>
+              <seg type="line" subtype="above" n="@P8CL-Q">ἐγενε</seg>
             </rdg>
           </app>
-          <w lemma="ἔρχομαι" msd="VAAI3P">ηλθον</w>
-          <w lemma="εἰς" msd="P">ἐις</w>
-          <w lemma="ὁ" msd="DASF">τὴν</w>
-          <w lemma="νύξ" msd="NASF">νύκτα</w>
-          <pc>·</pc>
-          <w lemma="κατά" msd="P">κατα</w>
-          <w lemma="ὁ" msd="DASN">τὸ</w>
-          <w lemma="ἔθος" msd="NASN">ἐ<lb n="23" break="no"/>θος</w>
-          <w lemma="αὐτός" msd="RP3GP">ἀυτῶν</w>
-          <pc>·</pc>
-          <w lemma="καί" msd="C">καὶ</w>
-          <w lemma="ὁ" msd="DNPF">ἁι</w>
-          <w lemma="γυνή" msd="NFPF">γυναῖκες</w>
-          <pc>,</pc>
-          <w lemma="καί" msd="C">καὶ</w>
-          <w lemma="ὁ" msd="DANP">τὰ</w>
-          <w lemma="τέκνον" msd="NANP">τέ<lb n="24" break="no"/>κνα</w>
-          <w lemma="αὐτός" msd="RP3GP">ἀυτῶν</w>
-          <pc>.</pc>
-          <w lemma="καί" msd="C">καὶ</w>
-          <w lemma="καταφαγείνω" msd="VAAI3P">κατέφαγον</w>
-          <w lemma="πᾶς" msd="JAPN">πάντα</w>
-          <lb n="25"/>
-          <w lemma="καί" msd="C">καὶ</w>
-          <w lemma="πίνω" msd="VAAI3P">ἐπιον</w>
-          <pc>·</pc>
-        </ab>
-        <ab n="B55K1V16">
-          <w lemma="καί" msd="C">και</w>
-          <w lemma="ὀρθρίζω" msd="VAAI3S">ώρθρισεν</w>
-          <w lemma="ὁ" msd="DNSM">ὁ</w>
-          <w lemma="βασιλεύς" msd="NNSM">βασιλεὺς</w>
-          <lb n="26"/>
-          <w lemma="ὁ" msd="DASN">τὸ</w>
-          <w lemma="πρωΐ" msd="NDSN">πρωῑκαὶ</w>
-          <w lemma="Δανιήλ" msd="NNSM">Δανιὴλ</w>
-          <w lemma="μετά" msd="P">μετ'</w>
-          <w lemma="αὐτός" msd="RP3MSG">ἀυτοῦ</w>
-          <pc>·</pc>
-          <lb n="27"/>
-        </ab>
-        <ab n="B55K1V17">
-          <w lemma="καί" msd="C">καὶ</w>
-          <w lemma="εἶπον" msd="VAAI3S">εἶπεν</w>
-          <w lemma="ὁ" msd="NMSN">ὁ</w>
-          <w lemma="βασιλεύς" msd="NMSN">βασιλέυς</w>
-          <pc>·</pc>
-          <w lemma="σῶος" msd="JNPM">σῶοι</w>
-          <w lemma="ἡ" msd="NFPF">ἁι</w>
-          <w lemma="σφραγίς" msd="NFPF">σφραγῖδες</w>
-          <lb n="28"/>
-          <w lemma="Δανιήλ" msd="NMSN">Δανιήλ</w>
-          <pc>.</pc>
-          <w lemma="ὁ" msd="NMSN">ὁ</w>
-          <w lemma="δέ" msd="C">δε</w>
-          <w lemma="εἶπον" msd="VAAI3S">εἶπεν</w>
-          <w lemma="σῶος" msd="VMSN">σῶοι</w>
-          <w lemma="βασιλεύς" msd="VMSN">βασιλεῦ</w>
-          <pc>·</pc>
-        </ab>
-        <ab n="B55K1V18">
-          <w lemma="καί" msd="C">καὶ</w>
-          <lb n="29"/>
-          <w lemma="γίνομαι" msd="VAMI3S">ἐγενετο</w>
-          <w lemma="ἅμα" msd="D">ἅμα</w>
-          <w lemma="ὁ" msd="DDSN">τῶ</w>
-          <w lemma="ἀνοίγω" msd="VAN">ἀνοῖξαι</w>
-          <w lemma="ὁ" msd="DAPF">τὰς</w>
-          <w lemma="θύρα" msd="NAPF">θύρας</w>
-          <w lemma="ἐπιβλέπω" msd="VPAPNSM">ἐπιβλέψας</w>
-          <w lemma="ὁ" msd="NNSM">ὁ</w>
-          <w lemma="βασιλεύς" msd="NNSM">βασιλεὺς</w>
-          <w lemma="ἐπί" msd="P">ἐπὶ</w>
-          <w lemma="ὁ" msd="DASF">τὴν</w>
-          <w lemma="τράπεζα" msd="NASF">τράπεζαν</w>
-          <pc>.</pc>
-          <lb n="30"/>
-          <w lemma="βοάω" msd="VAAI3S">ἐβόησεν</w>
-          <w lemma="φωνή" msd="NASF">φωνῆ</w>
-          <w lemma="μέγας" msd="JASF">μεγάλη</w>
-          <pc>.</pc>
-          <w lemma="μέγας" msd="JNSM">μέγας</w>
-          <w lemma="εἰμί" msd="VPAI2S">εἶ</w>
-          <w lemma="Βῆλος" msd="NNSM">Βηλ</w>
-          <pc>˙</pc>
-          <lb n="31"/>
-          <w lemma="καί" msd="C">καὶ</w>
-          <w lemma="οὐ" msd="D">οὐκ</w>
-          <w lemma="εἰμί" msd="VPAI3S">ἔστιν</w>
-          <w lemma="παρά" msd="P">παρὰ</w>
-          <w lemma="σύ" msd="RP2DS">σοὶ</w>
-          <w lemma="δόλος" msd="NNSM">δόλος</w>
-          <w lemma="οὐδέ" msd="C">οὐδὲ</w>
-          <w lemma="εἷς" msd="A-NSM">εἷς</w>
-          <pc>˙</pc>
-        </ab>
-        <ab n="B55K1V19">
-          <w lemma="καί" msd="C">καὶ</w>
-          <w lemma="ἐγγελάω" msd="VAAI3S">ἐ<lb n="32" break="no"/>γέλασεν</w>
-          <w lemma="Δανιήλ" msd="NMSN">Δανιήλ</w>
-          <w lemma="καί" msd="C">καὶ</w>
-          <w lemma="κρατέω" msd="VAAI3S">ἐκράτησεν</w>
-          <w lemma="ὁ" msd="DASM">τὸν</w>
-          <w lemma="βασιλεύς" msd="NASM">βα<lb n="33" break="no"/>σιλέα</w>
-          <pc>.</pc>
-          <w lemma="ὁ" msd="GSM">τοῦ</w>
-          <w lemma="μή" msd="G">μὴ</w>
-          <w lemma="εἰσέρχομαι" msd="VAN">εἰσελθεῖν</w>
-          <w lemma="αὐτός" msd="RPASM">αὐτὸν</w>
-          <w lemma="ἔσω" msd="B">ἔσω</w>
-          <pc>˙</pc>
-          <w lemma="καί" msd="C">καὶ</w>
-          <w lemma="εἶπον" msd="VAAI3S">εἶπεν</w>
-          <pc>˙</pc>
-          <lb n="34"/>
-          <w lemma="ἰδού" msd="VAMM2S">ἰδὲ</w>
-          <w lemma="δή" msd="G">δὴ</w>
-          <w lemma="ὁ" msd="DASN">τὸ</w>
-          <w lemma="ἔδαφος" msd="NASN">έδαφος</w>
-          <pc>.</pc>
-          <w lemma="καί" msd="C">καὶ</w>
-          <w lemma="γιγνώσκω" msd="VAMM2S">γνῶθι</w>
-          <pc>.</pc>
+          <lb n="14" break="no"/>το </w>
+        <note>This correction needs reencoding.</note>
+        <w lemma="ὡς" msd="C">ὡς</w>
+        <w lemma="ἐξέρχομαι" msd="VAAI3P">ἐξήλθοσαν</w>
+        <w lemma="ἐκεῖνος" msd="RDMPN">ἐκεῖνοι</w>
+        <pc>.</pc>
+        <w lemma="καί" msd="C">και</w>
+        <w lemma="ὁ" msd="NMSN">ὁ</w>
+        <w lemma="βασιλεύς" msd="NMSN">βασιλεὺς</w>
+        <lb n="15"/>
+        <w lemma="παρατίθημι" msd="VAAI3S">παρέθηκεν</w>
+        <w lemma="ὁ" msd="DAPN">τὰ</w>
+        <w lemma="βρῶμα" msd="NAPN">βρώματα</w>
+        <w lemma="ὁ" msd="DSM">τῶ</w>
+        <w lemma="Βήλ" msd="NMSD">Βήλ</w>
+        <lb n="16"/>
+        <w lemma="καί" msd="C">καὶ</w>
+        <w lemma="ἐπιτάσσω" msd="VAAI3S">
           <app>
-            <rdg type="orig" hand="firsthand">
-              <pc>÷</pc>
-            </rdg>
+            <rdg type="orig" hand="firsthand">ἐπεξν</rdg>
             <rdg type="corr" hand="corrector">
-              <seg type="margin" subtype="lineright" n="@P8CL-Q">
-                <w lemma="τις" msd="X">τινος</w>
-              </seg>
+              <seg type="line" subtype="above" n="@P8CL-Q">ἐπεταξεν</seg>
             </rdg>
           </app>
-          <note>This correction needs reencoding as choice/sic+corr</note>
-          <w lemma="ὁ" msd="DAPN">τὰ</w>
-          <w lemma="ἴχνος" msd="NAPN">ἴχνη</w>
-          <lb n="35"/>
-          <w lemma="οὗτος" msd="RPAPN">ταῦτα</w>
-          <pc>˙</pc>
-        </ab>
-        <ab n="B55K1V20">
-          <w lemma="καί" msd="C">καὶ</w>
-          <w lemma="εἶπον" msd="VAAI3S">εἶπεν</w>
-          <w lemma="ὁ" msd="NMSN">ὁ</w>
-          <w lemma="βασιλεύς" msd="NMSN">βασιλεύς</w>
-          <w lemma="ὁράω" msd="VPAI1S">ὁρω</w>
-          <w lemma="ὁ" msd="DAPN">τὰ</w>
-          <w lemma="ἴχνος" msd="NAPN">ἴχνη</w>
-          <pc>.</pc>
-          <lb n="36"/>
-          <w lemma="ἀνήρ" msd="NGPM">ἀνδρῶν</w>
-          <w lemma="καί" msd="C">καὶ</w>
-          <w lemma="γυνή" msd="NGPF">γυναικῶν</w>
-          <w lemma="καί" msd="C">καὶ</w>
-          <w lemma="παῖς" msd="NGPN">παιδίων</w>
-          <pc>˙</pc>
-          <lb n="37"/>
-        </ab>
-        <ab n="B55K1V21">
-          <w lemma="καί" msd="C">καὶ</w>
-          <w lemma="ὀργή" msd="NASF">ὀργ</w>
+        </w>
+        <note>This correction needs reencoding as choice/sic+corr</note>
+        <w lemma="Δανιήλ" msd="NMSN">Δανιὴλ</w>
+        <w lemma="ὁ" msd="DMPD">τοῖς</w>
+        <w lemma="παίδαριον" msd="NMPD">παίδαριοις</w>
+        <lb n="17"/>
+        <w lemma="αὐτός" msd="RP3MSG">ἀυτοῦ</w>
+        <pc>.</pc>
+        <w lemma="καί" msd="C">καὶ</w>
+        <w lemma="φέρω" msd="VAAI3P">ήνεγκαν</w>
+        <w lemma="τέφρα" msd="NASF">τέφραν</w>
+        <pc>.</pc>
+        <w lemma="καί" msd="C">καὶ</w>
+        <w lemma="κατασῴζω" msd="VAAI3P">κατέ<lb n="18" break="no"/>σησαν</w>
+        <w lemma="ὅλος" msd="JASM">ὅλον</w>
+        <w lemma="ὁ" msd="DASM">τὸν</w>
+        <w lemma="ναός" msd="NASM">ναὸν</w>
+        <pc>·</pc>
+        <w lemma="ἐνώπιον" msd="P">ενώπιον</w>
+        <pc>.</pc>
+        <w lemma="ὁ" msd="GSM">τοῦ</w>
+        <lb n="19"/>
+        <w lemma="βασιλεύς" msd="GSM">βασιλέως</w>
+        <pc>·</pc>
+        <w lemma="καί" msd="C">καὶ</w>
+        <w lemma="ἐξέρχομαι" msd="VPAPMPN">ἒξελθόντες</w>
+        <pc>,</pc>
+        <w lemma="κλείω" msd="VAAI3P">
           <app>
-            <rdg type="orig" hand="firsthand">
-              <w lemma="ὀργίζομαι" msd="VPMI2P">ισθε</w>
-            </rdg>
+            <rdg type="orig" hand="firsthand">ἔκλισαν</rdg>
             <rdg type="corr" hand="corrector">
-              <w lemma="ὀργίζομαι" msd="VPAPNSF">οργισθεισ</w>
+              <seg type="other" subtype="inbetween" n="@P8CL-Q">ἔκλεισαν</seg>
             </rdg>
           </app>
-          <w lemma="εἰμί" msd="VPAI2S">ις</w>
-          <w lemma="ὁ" msd="DNSM">ὁ</w>
-          <w lemma="βασιλεύς" msd="NNSM">βασιλεὺς</w>
-          <w lemma="τότε" msd="B">τότε</w>
-          <w lemma="συλλαμβάνω" msd="VAAI3S">συνελάβε</w>
-          <w lemma="αὐτός" msd="RP3ASM">το</w>
-          <lb n="38"/>
-          <w lemma="ὁ" msd="DAPM">toῦς</w>
-          <w lemma="ἱερεύς" msd="NAPM">ιερεῖς</w>
-          <w lemma="καί" msd="C">καὶ</w>
-          <w lemma="ὁ" msd="DAPF">τὰς</w>
-          <w lemma="γυνή" msd="NAPF">γυναῖκας</w>
-          <w lemma="καί" msd="C">καὶ</w>
-          <w lemma="ὁ" msd="DAPN">τὰ</w>
-          <w lemma="τέκνον" msd="NAPN">τέκνα</w>
-          <lb n="39"/>
-          <w lemma="αὐτός" msd="RP3GPM">αὐτῶν</w>
-          <w lemma="καί" msd="C">καὶ</w>
-          <w lemma="δείκνυμι" msd="VAAI3P">έδειξαν</w>
-          <w lemma="αὐτός" msd="RP3DSM">αὐτω</w>
-          <w lemma="ὁ" msd="DAPF">τὰς</w>
-          <w lemma="κρυπτός" msd="JAPF">κρυπτὰς</w>
-          <lb n="40"/>
-          <w lemma="θύρα" msd="NAPF">θύρας</w>
-          <pc>.</pc>
-          <w lemma="διά" msd="P">δι</w>
-          <pc>ʼ</pc>
-          <w lemma="ὅς" msd="RP3GPN">ῶν</w>
-          <w lemma="εἰσπορεύομαι" msd="VIAI3P">εἰσεπορεύοντο</w>
-          <pc>.</pc>
-          <w lemma="καί" msd="C">καὶ</w>
-          <w lemma="δαπανάω" msd="VIAI3P">ἐδαπα<lb n="41" break="no"/>νων</w>
-          <w lemma="ὁ" msd="DAPN">τὰ</w>
-          <w lemma="ἐπί" msd="P">ἐπι</w>
-          <w lemma="ὁ" msd="DDSF">τῆ</w>
-          <w lemma="τράπεζα" msd="NDSF">τραπέζη</w>
-          <pc>˙</pc>
-        </ab>
-        <ab n="B55K1V22">
-          <w lemma="καί" msd="C">καὶ</w>
-          <w lemma="ἀποκτείνω" msd="VAAI3S">ἀπέκτει<lb n="42" break="no"/>νεν</w>
-          <w lemma="αὐτός" msd="RP3AP">αὐτοὺς</w>
-          <w lemma="ὁ" msd="NMSN">ὁ</w>
-          <w lemma="βασιλεύς" msd="NMSN">βασιλέυς</w>
-          <pc>˙</pc>
-          <w lemma="καί" msd="C">καὶ</w>
-          <w lemma="δίδωμι" msd="VAAI3S">ἔδωκεν</w>
-          <w lemma="ὁ" msd="DASM">τὸν</w>
-          <lb n="43"/>
-          <w lemma="Βήλ" msd="NMSA">Βὴλ</w>
-          <pc>.</pc>
-          <w lemma="ἔκδοτος" msd="AASM">ἔκδοτον</w>
-          <w lemma="ὁ" msd="DDSM">τῶ</w>
-          <w lemma="Δανιήλ" msd="NMSD">Δανιήλ</w>
-          <w lemma="καί" msd="C">καὶ</w>
-          <w lemma="καταστρέφω" msd="VAAI3S">κατέ<lb n="44" break="no"/>στρεψεν</w>
-          <w lemma="αὐτός" msd="RP3AS">αὐτόν</w>
-          <w lemma="καί" msd="C">καὶ</w>
-          <w lemma="ὁ" msd="DASN">το</w>
-          <app>
-            <rdg type="orig" hand="firsthand">
-              <w lemma="ναός" msd="NMSA">νναον</w>
-            </rdg>
-            <rdg type="corr" hand="corrector" rend="erased">
-              <seg type="line" subtype="above" n="@P8CL-Q">
-                <w lemma="ἱερόν" msd="NNSN">ιερον<ex>Swete</ex></w>
-              </seg>
-            </rdg>
-          </app>
-          <w lemma="αὐτός" msd="RP3GS">αὐτοῦ</w>
-          <pc>˙</pc>
-        </ab>
+        </w>
+        <note>This correction needs reencoding as choice/sic+corr</note>
+        <w lemma="ν" msd="N">
+          <abbr type="-%CE%BD">
+            <hi rend="overline">τη</hi>
+          </abbr>
+        </w>
+        <note>Encode the abbreviation as choice/abbr+expan, or just transcribe as ν</note>
+        <lb n="20"/>
+        <w lemma="θύρα" msd="NASF">θύραν</w>
+        <w lemma="καί" msd="C">καὶ</w>
+        <w lemma="σφραγίζω" msd="VAMI3P">ἐσφραγίσαντο</w>
+        <w lemma="ἐν" msd="P">ἐν</w>
+        <w lemma="ὁ" msd="DSM">τῶ</w>
+        <w lemma="δακτύλιος" msd="DSM">
+          <unclear reason="faded ink">δακτυ</unclear>
+          <lb n="21" break="no"/>λίω </w>
+        <w lemma="ὁ" msd="GSM">τοῦ</w>
+        <w lemma="βασιλεύς" msd="GSM">βασιλεως</w>
+        <pc>.</pc>
+        <w lemma="καί" msd="C">καὶ</w>
+        <w lemma="ἀπέρχομαι" msd="VAAI3P">ἀπῆλθον</w>
+        <pc>·</pc>
+      </ab>
+      <ab n="B55K1V15">
+        <w lemma="ὁ" msd="DNPM">οἱ</w>
+        <w lemma="δέ" msd="C">δὲ</w>
+        <lb n="22"/>
+        <w lemma="ἱερεύς" msd="NMPN">ιερεῖς</w>
+        <pc>.</pc>
+        <app>
+          <rdg type="orig" hand="firsthand"> </rdg>
+          <rdg type="corr" hand="corrector">
+            <seg type="margin" subtype="pageleft" n="@P8-Q">
+              <w lemma="εἰς" msd="P">εις</w>
+            </seg>
+          </rdg>
+        </app>
+        <w lemma="ἔρχομαι" msd="VAAI3P">ηλθον</w>
+        <w lemma="εἰς" msd="P">ἐις</w>
+        <w lemma="ὁ" msd="DASF">τὴν</w>
+        <w lemma="νύξ" msd="NASF">νύκτα</w>
+        <pc>·</pc>
+        <w lemma="κατά" msd="P">κατα</w>
+        <w lemma="ὁ" msd="DASN">τὸ</w>
+        <w lemma="ἔθος" msd="NASN">ἐ<lb n="23" break="no"/>θος</w>
+        <w lemma="αὐτός" msd="RP3GP">ἀυτῶν</w>
+        <pc>·</pc>
+        <w lemma="καί" msd="C">καὶ</w>
+        <w lemma="ὁ" msd="DNPF">ἁι</w>
+        <w lemma="γυνή" msd="NFPF">γυναῖκες</w>
+        <pc>,</pc>
+        <w lemma="καί" msd="C">καὶ</w>
+        <w lemma="ὁ" msd="DANP">τὰ</w>
+        <w lemma="τέκνον" msd="NANP">τέ<lb n="24" break="no"/>κνα</w>
+        <w lemma="αὐτός" msd="RP3GP">ἀυτῶν</w>
+        <pc>.</pc>
+        <w lemma="καί" msd="C">καὶ</w>
+        <w lemma="καταφαγείνω" msd="VAAI3P">κατέφαγον</w>
+        <w lemma="πᾶς" msd="JAPN">πάντα</w>
+        <lb n="25"/>
+        <w lemma="καί" msd="C">καὶ</w>
+        <w lemma="πίνω" msd="VAAI3P">ἐπιον</w>
+        <pc>·</pc>
+      </ab>
+      <ab n="B55K1V16">
+        <w lemma="καί" msd="C">και</w>
+        <w lemma="ὀρθρίζω" msd="VAAI3S">ώρθρισεν</w>
+        <w lemma="ὁ" msd="DNSM">ὁ</w>
+        <w lemma="βασιλεύς" msd="NNSM">βασιλεὺς</w>
+        <lb n="26"/>
+        <w lemma="ὁ" msd="DASN">τὸ</w>
+        <w lemma="πρωΐ" msd="NDSN">πρωῑκαὶ</w>
+        <w lemma="Δανιήλ" msd="NNSM">Δανιὴλ</w>
+        <w lemma="μετά" msd="P">μετ'</w>
+        <w lemma="αὐτός" msd="RP3MSG">ἀυτοῦ</w>
+        <pc>·</pc>
+        <lb n="27"/>
+      </ab>
+      <ab n="B55K1V17">
+        <w lemma="καί" msd="C">καὶ</w>
+        <w lemma="εἶπον" msd="VAAI3S">εἶπεν</w>
+        <w lemma="ὁ" msd="NMSN">ὁ</w>
+        <w lemma="βασιλεύς" msd="NMSN">βασιλέυς</w>
+        <pc>·</pc>
+        <w lemma="σῶος" msd="JNPM">σῶοι</w>
+        <w lemma="ἡ" msd="NFPF">ἁι</w>
+        <w lemma="σφραγίς" msd="NFPF">σφραγῖδες</w>
+        <lb n="28"/>
+        <w lemma="Δανιήλ" msd="NMSN">Δανιήλ</w>
+        <pc>.</pc>
+        <w lemma="ὁ" msd="NMSN">ὁ</w>
+        <w lemma="δέ" msd="C">δε</w>
+        <w lemma="εἶπον" msd="VAAI3S">εἶπεν</w>
+        <w lemma="σῶος" msd="VMSN">σῶοι</w>
+        <w lemma="βασιλεύς" msd="VMSN">βασιλεῦ</w>
+        <pc>·</pc>
+      </ab>
+      <ab n="B55K1V18">
+        <w lemma="καί" msd="C">καὶ</w>
+        <lb n="29"/>
+        <w lemma="γίνομαι" msd="VAMI3S">ἐγενετο</w>
+        <w lemma="ἅμα" msd="D">ἅμα</w>
+        <w lemma="ὁ" msd="DDSN">τῶ</w>
+        <w lemma="ἀνοίγω" msd="VAN">ἀνοῖξαι</w>
+        <w lemma="ὁ" msd="DAPF">τὰς</w>
+        <w lemma="θύρα" msd="NAPF">θύρας</w>
+        <w lemma="ἐπιβλέπω" msd="VPAPNSM">ἐπιβλέψας</w>
+        <w lemma="ὁ" msd="NNSM">ὁ</w>
+        <w lemma="βασιλεύς" msd="NNSM">βασιλεὺς</w>
+        <w lemma="ἐπί" msd="P">ἐπὶ</w>
+        <w lemma="ὁ" msd="DASF">τὴν</w>
+        <w lemma="τράπεζα" msd="NASF">τράπεζαν</w>
+        <pc>.</pc>
+        <lb n="30"/>
+        <w lemma="βοάω" msd="VAAI3S">ἐβόησεν</w>
+        <w lemma="φωνή" msd="NASF">φωνῆ</w>
+        <w lemma="μέγας" msd="JASF">μεγάλη</w>
+        <pc>.</pc>
+        <w lemma="μέγας" msd="JNSM">μέγας</w>
+        <w lemma="εἰμί" msd="VPAI2S">εἶ</w>
+        <w lemma="Βῆλος" msd="NNSM">Βηλ</w>
+        <pc>˙</pc>
+        <lb n="31"/>
+        <w lemma="καί" msd="C">καὶ</w>
+        <w lemma="οὐ" msd="D">οὐκ</w>
+        <w lemma="εἰμί" msd="VPAI3S">ἔστιν</w>
+        <w lemma="παρά" msd="P">παρὰ</w>
+        <w lemma="σύ" msd="RP2DS">σοὶ</w>
+        <w lemma="δόλος" msd="NNSM">δόλος</w>
+        <w lemma="οὐδέ" msd="C">οὐδὲ</w>
+        <w lemma="εἷς" msd="A-NSM">εἷς</w>
+        <pc>˙</pc>
+      </ab>
+      <ab n="B55K1V19">
+        <w lemma="καί" msd="C">καὶ</w>
+        <w lemma="ἐγγελάω" msd="VAAI3S">ἐ<lb n="32" break="no"/>γέλασεν</w>
+        <w lemma="Δανιήλ" msd="NMSN">Δανιήλ</w>
+        <w lemma="καί" msd="C">καὶ</w>
+        <w lemma="κρατέω" msd="VAAI3S">ἐκράτησεν</w>
+        <w lemma="ὁ" msd="DASM">τὸν</w>
+        <w lemma="βασιλεύς" msd="NASM">βα<lb n="33" break="no"/>σιλέα</w>
+        <pc>.</pc>
+        <w lemma="ὁ" msd="GSM">τοῦ</w>
+        <w lemma="μή" msd="G">μὴ</w>
+        <w lemma="εἰσέρχομαι" msd="VAN">εἰσελθεῖν</w>
+        <w lemma="αὐτός" msd="RPASM">αὐτὸν</w>
+        <w lemma="ἔσω" msd="B">ἔσω</w>
+        <pc>˙</pc>
+        <w lemma="καί" msd="C">καὶ</w>
+        <w lemma="εἶπον" msd="VAAI3S">εἶπεν</w>
+        <pc>˙</pc>
+        <lb n="34"/>
+        <w lemma="ἰδού" msd="VAMM2S">ἰδὲ</w>
+        <w lemma="δή" msd="G">δὴ</w>
+        <w lemma="ὁ" msd="DASN">τὸ</w>
+        <w lemma="ἔδαφος" msd="NASN">έδαφος</w>
+        <pc>.</pc>
+        <w lemma="καί" msd="C">καὶ</w>
+        <w lemma="γιγνώσκω" msd="VAMM2S">γνῶθι</w>
+        <pc>.</pc>
+        <app>
+          <rdg type="orig" hand="firsthand">
+            <pc>÷</pc>
+          </rdg>
+          <rdg type="corr" hand="corrector">
+            <seg type="margin" subtype="lineright" n="@P8CL-Q">
+              <w lemma="τις" msd="X">τινος</w>
+            </seg>
+          </rdg>
+        </app>
+        <note>This correction needs reencoding as choice/sic+corr</note>
+        <w lemma="ὁ" msd="DAPN">τὰ</w>
+        <w lemma="ἴχνος" msd="NAPN">ἴχνη</w>
+        <lb n="35"/>
+        <w lemma="οὗτος" msd="RPAPN">ταῦτα</w>
+        <pc>˙</pc>
+      </ab>
+      <ab n="B55K1V20">
+        <w lemma="καί" msd="C">καὶ</w>
+        <w lemma="εἶπον" msd="VAAI3S">εἶπεν</w>
+        <w lemma="ὁ" msd="NMSN">ὁ</w>
+        <w lemma="βασιλεύς" msd="NMSN">βασιλεύς</w>
+        <w lemma="ὁράω" msd="VPAI1S">ὁρω</w>
+        <w lemma="ὁ" msd="DAPN">τὰ</w>
+        <w lemma="ἴχνος" msd="NAPN">ἴχνη</w>
+        <pc>.</pc>
+        <lb n="36"/>
+        <w lemma="ἀνήρ" msd="NGPM">ἀνδρῶν</w>
+        <w lemma="καί" msd="C">καὶ</w>
+        <w lemma="γυνή" msd="NGPF">γυναικῶν</w>
+        <w lemma="καί" msd="C">καὶ</w>
+        <w lemma="παῖς" msd="NGPN">παιδίων</w>
+        <pc>˙</pc>
+        <lb n="37"/>
+      </ab>
+      <ab n="B55K1V21">
+        <w lemma="καί" msd="C">καὶ</w>
+        <w lemma="ὀργή" msd="NASF">ὀργ</w>
+        <app>
+          <rdg type="orig" hand="firsthand">
+            <w lemma="ὀργίζομαι" msd="VPMI2P">ισθε</w>
+          </rdg>
+          <rdg type="corr" hand="corrector">
+            <w lemma="ὀργίζομαι" msd="VPAPNSF">οργισθεισ</w>
+          </rdg>
+        </app>
+        <w lemma="εἰμί" msd="VPAI2S">ις</w>
+        <w lemma="ὁ" msd="DNSM">ὁ</w>
+        <w lemma="βασιλεύς" msd="NNSM">βασιλεὺς</w>
+        <w lemma="τότε" msd="B">τότε</w>
+        <w lemma="συλλαμβάνω" msd="VAAI3S">συνελάβε</w>
+        <w lemma="αὐτός" msd="RP3ASM">το</w>
+        <lb n="38"/>
+        <w lemma="ὁ" msd="DAPM">toῦς</w>
+        <w lemma="ἱερεύς" msd="NAPM">ιερεῖς</w>
+        <w lemma="καί" msd="C">καὶ</w>
+        <w lemma="ὁ" msd="DAPF">τὰς</w>
+        <w lemma="γυνή" msd="NAPF">γυναῖκας</w>
+        <w lemma="καί" msd="C">καὶ</w>
+        <w lemma="ὁ" msd="DAPN">τὰ</w>
+        <w lemma="τέκνον" msd="NAPN">τέκνα</w>
+        <lb n="39"/>
+        <w lemma="αὐτός" msd="RP3GPM">αὐτῶν</w>
+        <w lemma="καί" msd="C">καὶ</w>
+        <w lemma="δείκνυμι" msd="VAAI3P">έδειξαν</w>
+        <w lemma="αὐτός" msd="RP3DSM">αὐτω</w>
+        <w lemma="ὁ" msd="DAPF">τὰς</w>
+        <w lemma="κρυπτός" msd="JAPF">κρυπτὰς</w>
+        <lb n="40"/>
+        <w lemma="θύρα" msd="NAPF">θύρας</w>
+        <pc>.</pc>
+        <w lemma="διά" msd="P">δι</w>
+        <pc>ʼ</pc>
+        <w lemma="ὅς" msd="RP3GPN">ῶν</w>
+        <w lemma="εἰσπορεύομαι" msd="VIAI3P">εἰσεπορεύοντο</w>
+        <pc>.</pc>
+        <w lemma="καί" msd="C">καὶ</w>
+        <w lemma="δαπανάω" msd="VIAI3P">ἐδαπα<lb n="41" break="no"/>νων</w>
+        <w lemma="ὁ" msd="DAPN">τὰ</w>
+        <w lemma="ἐπί" msd="P">ἐπι</w>
+        <w lemma="ὁ" msd="DDSF">τῆ</w>
+        <w lemma="τράπεζα" msd="NDSF">τραπέζη</w>
+        <pc>˙</pc>
+      </ab>
+      <ab n="B55K1V22">
+        <w lemma="καί" msd="C">καὶ</w>
+        <w lemma="ἀποκτείνω" msd="VAAI3S">ἀπέκτει<lb n="42" break="no"/>νεν</w>
+        <w lemma="αὐτός" msd="RP3AP">αὐτοὺς</w>
+        <w lemma="ὁ" msd="NMSN">ὁ</w>
+        <w lemma="βασιλεύς" msd="NMSN">βασιλέυς</w>
+        <pc>˙</pc>
+        <w lemma="καί" msd="C">καὶ</w>
+        <w lemma="δίδωμι" msd="VAAI3S">ἔδωκεν</w>
+        <w lemma="ὁ" msd="DASM">τὸν</w>
+        <lb n="43"/>
+        <w lemma="Βήλ" msd="NMSA">Βὴλ</w>
+        <pc>.</pc>
+        <w lemma="ἔκδοτος" msd="AASM">ἔκδοτον</w>
+        <w lemma="ὁ" msd="DDSM">τῶ</w>
+        <w lemma="Δανιήλ" msd="NMSD">Δανιήλ</w>
+        <w lemma="καί" msd="C">καὶ</w>
+        <w lemma="καταστρέφω" msd="VAAI3S">κατέ<lb n="44" break="no"/>στρεψεν</w>
+        <w lemma="αὐτός" msd="RP3AS">αὐτόν</w>
+        <w lemma="καί" msd="C">καὶ</w>
+        <w lemma="ὁ" msd="DASN">το</w>
+        <app>
+          <rdg type="orig" hand="firsthand">
+            <w lemma="ναός" msd="NMSA">νναον</w>
+          </rdg>
+          <rdg type="corr" hand="corrector" rend="erased">
+            <seg type="line" subtype="above" n="@P8CL-Q">
+              <w lemma="ἱερόν" msd="NNSN">ιερον<ex>Swete</ex></w>
+            </seg>
+          </rdg>
+        </app>
+        <w lemma="αὐτός" msd="RP3GS">αὐτοῦ</w>
+        <pc>˙</pc>
       </ab>
     </body>
   </text>
