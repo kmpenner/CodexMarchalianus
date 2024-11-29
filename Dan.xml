@@ -3,12 +3,17 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="document" n="QAddDan3">Codex Marchalianus: Daniel</title>
+        <title type="document" n="QAddDan">Codex Marchalianus: Vatican City, Biblioteca Apostolica
+          Vaticana, Vat. gr. 2125</title>
         <author>Anonymous</author>
         <editor>Ken Penner</editor>
         <respStmt>
           <resp>Transcriber</resp>
+          <name>Ken Penner</name>
+          <name>Connor Sutherland</name>
+          <name>Ella Ray</name>
           <name>Demarquis Moss</name>
+          <name>Dionne Lynch</name>
         </respStmt>
       </titleStmt>
       <publicationStmt>
@@ -152,13 +157,13 @@
       <listBibl>
         <msDesc>
           <msIdentifier>
-            <settlement>where is it</settlement>
-            <repository>repository name</repository>
-            <idno>identifier</idno>
+            <settlement>Vat.</settlement>
+            <repository>gr.</repository>
+            <idno>2125</idno>
           </msIdentifier>
         </msDesc>
       </listBibl>
-      <div type="textpart" n="B5K3">
+      <div type="textpart" n="B54K3">
         <ab n="B54K3V24" xml:id="Dan.3.24.P784.I1">
           <w lemma="καὶ" msd="C">καὶ</w>
           <w lemma="περιπατέω" msd="VIIM3P">περιεπά<lb break="no" n="2"/>τουν</w>
@@ -363,8 +368,6 @@
                 >εν</hi></abbr></w>
           <pc>˙</pc>
           <lb n="22"/>
-        </ab>
-        <ab n="B54K3V30" xml:id="Dan.3.30.P784.I2">
           <w lemma="οὐδέ" msd="C">ουδε</w>
           <w lemma="συντηρέω" msd="VAAI1P">συνετηρήσαμεν</w>
           <pc>.</pc>
