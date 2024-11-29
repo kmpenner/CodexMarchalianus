@@ -3,17 +3,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="document" n="QAddDan">Codex Marchalianus: Vatican City, Biblioteca Apostolica
-          Vaticana, Vat. gr. 2125</title>
+        <title type="document" n="QAddDan">Codex Marchalianus: Bel</title>
         <author>Anonymous</author>
         <editor>Ken Penner</editor>
         <respStmt>
           <resp>Transcriber</resp>
-          <name>Ken Penner</name>
           <name>Connor Sutherland</name>
-          <name>Ella Ray</name>
-          <name>Demarquis Moss</name>
-          <name>Dionne Lynch</name>
         </respStmt>
       </titleStmt>
       <publicationStmt>
