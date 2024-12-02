@@ -241,6 +241,20 @@
             <param name="alternate" value="reg[1]"/>
         </model>
                 </elementSpec>
+                <elementSpec ident="app" mode="add">
+                    <model output="epub" behaviour="alternate">
+            <param name="alternate" value="concat(rdg/@wit,&#34;:&#34;,rdg)"/>
+            <param name="default" value="lem"/>
+        </model>
+                    <model output="epub" behaviour="note">
+            <param name="content" value="concat(lem,'] ',rdg,' ',rdg/@wit)"/>
+        </model>
+                </elementSpec>
+                <elementSpec ident="rdg" mode="add">
+                    <model behaviour="note">
+            <param name="content" value="concat(../lem, '] ', ., ' ', @wit)"/>
+        </model>
+                </elementSpec>
             </schemaSpec>
         </body>
     </text>
