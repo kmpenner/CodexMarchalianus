@@ -1936,15 +1936,13 @@
             <rdg wit="Swete">-</rdg>
           </app>
           <w lemma="περί" msd="P">περὶ</w>
-          <w>
-            <app>
-              <lem>
-                <w lemma="Σουσάννα" msd="NFSN">Σου<lb break="no" n="12"/>σάννας</w>
-              </lem>
-              <rdg wit="Z"><w>-</w></rdg>
-              <rdg wit="Swete"><w>-</w></rdg>
-            </app>
-          </w>
+          <app>
+            <lem>
+              <w lemma="Σουσάννα" msd="NFSN">Σου<lb break="no" n="12"/>σάννας</w>
+            </lem>
+            <rdg wit="Z">-</rdg>
+            <rdg wit="Swete">-</rdg>
+          </app>
           <w lemma="ὁ" msd="DFS">τῆς</w>
           <w lemma="θυγάτηρ" msd="NFSN">θυγατρὸς</w>
           <w lemma="αὐτός" msd="RP3GPM">αὐτῶν</w>
