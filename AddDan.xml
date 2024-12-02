@@ -4955,11 +4955,7 @@
         </choice>
         <w>διερράγη</w>
         <w>ὁ</w>
-        <w>δράκων</w>
-        <pc><choice>
-            <orig>˙</orig>
-            <reg>.</reg>
-          </choice></pc>
+        <w>δράκων</w><pc><choice><orig>˙</orig><reg>.</reg></choice></pc>
         <lb n="17"/>
         <w>καὶ</w>
         <w>εἶπεν</w>
