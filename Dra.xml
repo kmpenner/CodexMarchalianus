@@ -568,8 +568,7 @@
                     <w lemma="Ἰουδαῖος" msd="NMS">Ἱουδαῖος</w>
                     <w lemma="γίγνομαι" msd="VRAI3S">γέγονεν</w>
                     <w lemma="ὁ" msd="NMS">ὁ</w>
-                    <w lemma="βασιλεύς" msd="NMS">βασιλεύς</w>
-                    <pc>˙</pc>
+                    <w lemma="βασιλεύς" msd="NMS">βασιλεύς</w><pc>˙</pc>
                     <w lemma="ὁ" msd="AMS">τὸν</w>
                     <w lemma="Βήλ" msd="NMS"><choice>
                             <orig>Βὴλ</orig>
