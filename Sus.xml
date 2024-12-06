@@ -198,7 +198,7 @@
               </abbr>
               <expan>κύριον</expan>
             </choice>
-          </w><note>This should show the expansion.</note><pc>˙</pc>
+          </w><pc>˙</pc>
         </ab>
 
         <ab n="B53K1V3" xml:id="Sus.1.3.P761.I1">
@@ -1822,8 +1822,7 @@
           <w lemma="μέγας" msd="JASF">μεγάλη</w>
         </ab>
         <pb n="P768-Q" type="page"/>
-        <cb n="P768C-Q"/>
-        <lb n="P768CL-Q"/>
+        <lb n="1"/>
 
         <ab n="B53K1V61" xml:id="Sus.1.61.P768.I1">
           <w lemma="καί" msd="C">καὶ</w>
@@ -1937,15 +1936,13 @@
             <rdg wit="Swete">-</rdg>
           </app>
           <w lemma="περί" msd="P">περὶ</w>
-          <w>
-            <app>
-              <lem>
-                <w lemma="Σουσάννα" msd="NFSN">Σου<lb break="no" n="12"/>σάννας</w>
-              </lem>
-              <rdg wit="Z"><w>-</w></rdg>
-              <rdg wit="Swete"><w>-</w></rdg>
-            </app>
-          </w>
+          <app>
+            <lem>
+              <w lemma="Σουσάννα" msd="NFSN">Σου<lb break="no" n="12"/>σάννας</w>
+            </lem>
+            <rdg wit="Z">-</rdg>
+            <rdg wit="Swete">-</rdg>
+          </app>
           <w lemma="ὁ" msd="DFS">τῆς</w>
           <w lemma="θυγάτηρ" msd="NFSN">θυγατρὸς</w>
           <w lemma="αὐτός" msd="RP3GPM">αὐτῶν</w>

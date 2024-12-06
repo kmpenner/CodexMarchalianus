@@ -6648,7 +6648,7 @@
             <reg/>
           </choice></pc>
         <w>καὶ</w>
-        <w>ἢ<lb n="14" break="no"/>ψησεν</w>
+        <w>ἢ<pb n="831" facs="http://206.12.93.167/community/mssimages/thumbs/22125/787_49_10.jpg"/>ψησεν</w>
         <w>ἐπὶ</w>
         <w>τὸ</w>
         <w>αὐτὸ</w>
@@ -6660,12 +6660,8 @@
         <w>μά<lb n="15" break="no"/>ζας</w>
         <w>καὶ</w>
         <w>ἔδωκεν</w>
-        <w>
-          <unclear reason="faded ink">εἰς</unclear>
-        </w>
-        <w>
-          <unclear reason="faded ink">τὸ</unclear>
-        </w>
+        <w>εἰς</w>
+        <w>τὸ</w>
         <w>στόμα</w>
         <w>τοῦ</w>
         <w>δρά<lb n="16" break="no"/>κοντος</w>
@@ -6679,22 +6675,14 @@
         </choice>
         <w>διερράγη</w>
         <w>ὁ</w>
-        <w>δράκων</w>
-        <pc><choice>
-            <orig>˙</orig>
-            <reg>.</reg>
-          </choice></pc>
+        <w>δράκων</w><pc><choice><orig>˙</orig><reg>.</reg></choice></pc>
         <lb n="17"/>
         <w>καὶ</w>
         <w>εἶπεν</w>
         <w>ἴδετε</w>
         <w>τὰ</w>
         <w>σεβάσματα</w>
-        <w>ὑμῶν</w>
-        <pc><choice>
-            <orig>˙</orig>
-            <reg>.</reg>
-          </choice></pc>
+        <w>ὑμῶν</w><pc><choice><orig>˙</orig><reg>.</reg></choice></pc>
         <lb n="18"/>
       </ab>
       <ab n="B55K1V28">
