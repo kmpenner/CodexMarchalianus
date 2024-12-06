@@ -501,13 +501,7 @@
                     </w>
                     <w lemma="στόμα" msd="NASN">στόμα</w>
                     <w lemma="ὁ" msd="DGSM">τοῦ</w>
-                    <w lemma="δράκων" msd="NGSM">δρά<lb n="16" break="no"/>κοντος</w>
-                    <pc>
-                        <choice>
-                            <orig/>
-                            <reg>,</reg>
-                        </choice>
-                    </pc>
+                    <w lemma="δράκων" msd="NGSM">δρά<lb n="16" break="no"/>κοντος</w><pc><choice><orig/><reg>,</reg></choice></pc>
                     <choice>
                         <sic>κὶ</sic>
                         <corr>καὶ</corr>
