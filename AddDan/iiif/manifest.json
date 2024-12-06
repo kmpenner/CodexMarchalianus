@@ -62775,7 +62775,40 @@
 					"761"
 				]
 			},
-			"annotations": []
+			"annotations": [
+				{
+					"id": "http://people.stfx.ca/kpenner/Q/AddDan/iiif/canvas/f1530/annotationPage/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "http://people.stfx.ca/kpenner/Q/AddDan/iiif/canvas/f1530/annotationPage/1/annotation/0",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "http://people.stfx.ca/kpenner/Q/AddDan/tei/transcription/f1530.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "http://people.stfx.ca/kpenner/Q/AddDan/iiif/canvas/f1530"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "http://people.stfx.ca/kpenner/Q/AddDan/iiif/canvas/f1530/annotationPage/1/annotation/1",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "http://people.stfx.ca/kpenner/Q/AddDan/html/transcription/f1530.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "http://people.stfx.ca/kpenner/Q/AddDan/iiif/canvas/f1530"
+						}
+					]
+				}
+			]
 		},
 		{
 			"id": "http://people.stfx.ca/kpenner/Q/AddDan/iiif/canvas/f1531",
@@ -62857,7 +62890,40 @@
 					"762"
 				]
 			},
-			"annotations": []
+			"annotations": [
+				{
+					"id": "http://people.stfx.ca/kpenner/Q/AddDan/iiif/canvas/f1532/annotationPage/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "http://people.stfx.ca/kpenner/Q/AddDan/iiif/canvas/f1532/annotationPage/1/annotation/0",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "http://people.stfx.ca/kpenner/Q/AddDan/tei/transcription/f1532.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "http://people.stfx.ca/kpenner/Q/AddDan/iiif/canvas/f1532"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "http://people.stfx.ca/kpenner/Q/AddDan/iiif/canvas/f1532/annotationPage/1/annotation/1",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "http://people.stfx.ca/kpenner/Q/AddDan/html/transcription/f1532.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "http://people.stfx.ca/kpenner/Q/AddDan/iiif/canvas/f1532"
+						}
+					]
+				}
+			]
 		},
 		{
 			"id": "http://people.stfx.ca/kpenner/Q/AddDan/iiif/canvas/f1533",

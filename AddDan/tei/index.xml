@@ -11320,7 +11320,7 @@
 
   </facsimile>
 
-  <text>
+  <text xml:id="transcription">
     <body>
       <listBibl>
         <msDesc>
@@ -11332,6 +11332,7 @@
         </msDesc>
       </listBibl>
       <div type="textpart" n="B53K1">
+        <pb n="P761-Q" type="page" facs="#f1530"/>
         <ab n="B53K1V1" xml:id="Sus.1.1.P761.I1">
           <w lemma="καί" msd="C">καὶ</w>
           <w lemma="εἰμί" msd="VIAI3S">ἦν</w>
@@ -11542,7 +11543,7 @@
           <w lemma="ἑαυτοῦ" msd="RF3GPM">ἑαυτῶν</w>
           <w lemma="νοῦς" msd="NASM">νοῦν</w>
         </ab>
-        <pb n="P762-Q" type="page"/>
+        <pb n="P762-Q" type="page" facs="#f1532"/>
         <cb n="P762C-Q"/>
         <lb n="P762CL-Q"/>
         <ab n="B53K1V9" xml:id="Sus.1.9.P762.I1">
