@@ -168,11 +168,7 @@
                     <w lemma="καί" msd="C">Καὶ</w>
                     <w lemma="εἰμί" msd="VIAI3S">ἦν</w>
                     <w lemma="δράκων" msd="NNSM">δράκων</w>
-                    <w lemma="μέγας" msd="JNSM">μέγας</w>
-                    <choice>
-                        <orig/>
-                        <reg><pc>,</pc></reg>
-                    </choice>
+                    <w lemma="μέγας" msd="JNSM">μέγας<choice><orig/><reg><pc>,</pc></reg></choice></w>
                     <w lemma="ἐν" msd="P"><app>
                             <lem>ἐν</lem>
                             <rdg wit="Z"/>
