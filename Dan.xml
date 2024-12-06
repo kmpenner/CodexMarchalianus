@@ -184,7 +184,7 @@
             </abbr>
           </w>
           <pc>·</pc>
-          <lb break="no" n="4"/>
+          <lb n="4"/>
         </ab>
         <ab n="B54K3V25" xml:id="Dan.3.25.P784.I1">
           <w lemma="καί" msd="C">καὶ</w>
@@ -298,7 +298,7 @@
               <hi rend="overline">την</hi>
             </abbr>
           </w>
-          <lb break="no" n="15"/>
+          <lb n="15"/>
           <w lemma="πόλις" msd="NASF">πόλιν</w>
           <w lemma="ὁ" msd="DASF">τὴν</w>
           <w lemma="ἅγιος" msd="AASF">ἀγιάν</w>

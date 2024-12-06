@@ -494,21 +494,14 @@
                     <w lemma="μάζα" msd="NAPF">μά<lb n="15" break="no"/>ζας</w>
                     <w lemma="καί" msd="C">καὶ</w>
                     <w lemma="δίδωμι" msd="VAAI3S">ἔδωκεν</w>
-                    <w lemma="εἰς" msd="P">
+                    <w lemma="εἰς" msd="P"></w>
                         <unclear reason="faded ink">εἰς</unclear>
-                    </w>
                     <w lemma="ὁ" msd="DASN">
                         <unclear reason="faded ink">τὸ</unclear>
                     </w>
                     <w lemma="στόμα" msd="NASN">στόμα</w>
                     <w lemma="ὁ" msd="DGSM">τοῦ</w>
-                    <w lemma="δράκων" msd="NGSM">δρά<lb n="16" break="no"/>κοντος</w>
-                    <pc>
-                        <choice>
-                            <orig/>
-                            <reg>,</reg>
-                        </choice>
-                    </pc>
+                    <w lemma="δράκων" msd="NGSM">δρά<lb n="16" break="no"/>κοντος</w><pc><choice><orig/><reg>,</reg></choice></pc>
                     <choice>
                         <sic>κὶ</sic>
                         <corr>καὶ</corr>
@@ -575,8 +568,7 @@
                     <w lemma="Ἰουδαῖος" msd="NMS">Ἱουδαῖος</w>
                     <w lemma="γίγνομαι" msd="VRAI3S">γέγονεν</w>
                     <w lemma="ὁ" msd="NMS">ὁ</w>
-                    <w lemma="βασιλεύς" msd="NMS">βασιλεύς</w>
-                    <pc>˙</pc>
+                    <w lemma="βασιλεύς" msd="NMS">βασιλεύς</w><pc>˙</pc>
                     <w lemma="ὁ" msd="AMS">τὸν</w>
                     <w lemma="Βήλ" msd="NMS"><choice>
                             <orig>Βὴλ</orig>
