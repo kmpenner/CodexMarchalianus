@@ -494,9 +494,8 @@
                     <w lemma="μάζα" msd="NAPF">μά<lb n="15" break="no"/>ζας</w>
                     <w lemma="καί" msd="C">καὶ</w>
                     <w lemma="δίδωμι" msd="VAAI3S">ἔδωκεν</w>
-                    <w lemma="εἰς" msd="P">
+                    <w lemma="εἰς" msd="P"></w>
                         <unclear reason="faded ink">εἰς</unclear>
-                    </w>
                     <w lemma="ὁ" msd="DASN">
                         <unclear reason="faded ink">τὸ</unclear>
                     </w>
