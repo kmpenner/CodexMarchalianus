@@ -348,7 +348,7 @@
           <w lemma="γάρ" msd="C">γὰρ</w>
           <pc>.</pc>
           <w lemma="ἔσωθεν" msd="B">ἔσωθεν</w>
-          <w lemma="ἐγώ" msd="RP1AS">με</w>
+          <w lemma="ἐγώ" msd="RP1AS">μεν</w>
           <lb n="18"/>
           <w lemma="εἰμί" msd="VPAI3S">ἐστιν</w>
           <w lemma="πηλός" msd="NMSN">πηλός</w>
@@ -775,6 +775,8 @@
           <w lemma="ἀνοίγω" msd="VAN">ἀνοῖξαι</w>
           <w lemma="ὁ" msd="DAPF">τὰς</w>
           <w lemma="θύρα" msd="NAPF">θύρας</w>
+          <pb n="830" type="page"/>
+          <lb n="1"/>
           <w lemma="ἐπιβλέπω" msd="VPAPNSM">ἐπιβλέψας</w>
           <w lemma="ὁ" msd="NNSM">ὁ</w>
           <w lemma="βασιλεύς" msd="NNSM">βασιλεὺς</w>
@@ -782,7 +784,7 @@
           <w lemma="ὁ" msd="DASF">τὴν</w>
           <w lemma="τράπεζα" msd="NASF">τράπεζαν</w>
           <pc>.</pc>
-          <lb n="30"/>
+          <lb n="2"/>
           <w lemma="βοάω" msd="VAAI3S">ἐβόησεν</w>
           <w lemma="φωνή" msd="NASF">φωνῆ</w>
           <w lemma="μέγας" msd="JASF">μεγάλη</w>
@@ -791,7 +793,7 @@
           <w lemma="εἰμί" msd="VPAI2S">εἶ</w>
           <w lemma="Βῆλος" msd="NNSM">Βηλ</w>
           <pc>˙</pc>
-          <lb n="31"/>
+          <lb n="3"/>
           <w lemma="καί" msd="C">καὶ</w>
           <w lemma="οὐ" msd="D">οὐκ</w>
           <w lemma="εἰμί" msd="VPAI3S">ἔστιν</w>
@@ -804,12 +806,12 @@
         </ab>
         <ab n="B55K1V19">
           <w lemma="καί" msd="C">καὶ</w>
-          <w lemma="ἐγγελάω" msd="VAAI3S">ἐ<lb n="32" break="no"/>γέλασεν</w>
+          <w lemma="ἐγγελάω" msd="VAAI3S">ἐ<lb n="4" break="no"/>γέλασεν</w>
           <w lemma="Δανιήλ" msd="NMSN">Δανιήλ</w>
           <w lemma="καί" msd="C">καὶ</w>
           <w lemma="κρατέω" msd="VAAI3S">ἐκράτησεν</w>
           <w lemma="ὁ" msd="DASM">τὸν</w>
-          <w lemma="βασιλεύς" msd="NASM">βα<lb n="33" break="no"/>σιλέα</w>
+          <w lemma="βασιλεύς" msd="NASM">βα<lb n="5" break="no"/>σιλέα</w>
           <pc>.</pc>
           <w lemma="ὁ" msd="GSM">τοῦ</w>
           <w lemma="μή" msd="G">μὴ</w>
@@ -820,7 +822,7 @@
           <w lemma="καί" msd="C">καὶ</w>
           <w lemma="εἶπον" msd="VAAI3S">εἶπεν</w>
           <pc>˙</pc>
-          <lb n="34"/>
+          <lb n="6"/>
           <w lemma="ἰδού" msd="VAMM2S">ἰδὲ</w>
           <w lemma="δή" msd="G">δὴ</w>
           <w lemma="ὁ" msd="DASN">τὸ</w>
@@ -842,7 +844,7 @@
           <note>This correction needs reencoding as choice/sic+corr</note>
           <w lemma="ὁ" msd="DAPN">τὰ</w>
           <w lemma="ἴχνος" msd="NAPN">ἴχνη</w>
-          <lb n="35"/>
+          <lb n="7"/>
           <w lemma="οὗτος" msd="RPAPN">ταῦτα</w>
           <pc>˙</pc>
         </ab>
@@ -855,14 +857,14 @@
           <w lemma="ὁ" msd="DAPN">τὰ</w>
           <w lemma="ἴχνος" msd="NAPN">ἴχνη</w>
           <pc>.</pc>
-          <lb n="36"/>
+          <lb n="8"/>
           <w lemma="ἀνήρ" msd="NGPM">ἀνδρῶν</w>
           <w lemma="καί" msd="C">καὶ</w>
           <w lemma="γυνή" msd="NGPF">γυναικῶν</w>
           <w lemma="καί" msd="C">καὶ</w>
           <w lemma="παῖς" msd="NGPN">παιδίων</w>
           <pc>˙</pc>
-          <lb n="37"/>
+          <lb n="9"/>
         </ab>
         <ab n="B55K1V21">
           <w lemma="καί" msd="C">καὶ</w>
@@ -881,7 +883,7 @@
           <w lemma="τότε" msd="B">τότε</w>
           <w lemma="συλλαμβάνω" msd="VAAI3S">συνελάβε</w>
           <w lemma="αὐτός" msd="RP3ASM">το</w>
-          <lb n="38"/>
+          <lb n="10"/>
           <w lemma="ὁ" msd="DAPM">toῦς</w>
           <w lemma="ἱερεύς" msd="NAPM">ιερεῖς</w>
           <w lemma="καί" msd="C">καὶ</w>
@@ -890,14 +892,14 @@
           <w lemma="καί" msd="C">καὶ</w>
           <w lemma="ὁ" msd="DAPN">τὰ</w>
           <w lemma="τέκνον" msd="NAPN">τέκνα</w>
-          <lb n="39"/>
+          <lb n="11"/>
           <w lemma="αὐτός" msd="RP3GPM">αὐτῶν</w>
           <w lemma="καί" msd="C">καὶ</w>
           <w lemma="δείκνυμι" msd="VAAI3P">έδειξαν</w>
           <w lemma="αὐτός" msd="RP3DSM">αὐτω</w>
           <w lemma="ὁ" msd="DAPF">τὰς</w>
           <w lemma="κρυπτός" msd="JAPF">κρυπτὰς</w>
-          <lb n="40"/>
+          <lb n="12"/>
           <w lemma="θύρα" msd="NAPF">θύρας</w>
           <pc>.</pc>
           <w lemma="διά" msd="P">δι</w>
@@ -906,7 +908,7 @@
           <w lemma="εἰσπορεύομαι" msd="VIAI3P">εἰσεπορεύοντο</w>
           <pc>.</pc>
           <w lemma="καί" msd="C">καὶ</w>
-          <w lemma="δαπανάω" msd="VIAI3P">ἐδαπα<lb n="41" break="no"/>νων</w>
+          <w lemma="δαπανάω" msd="VIAI3P">ἐδαπα<lb n="13" break="no"/>νων</w>
           <w lemma="ὁ" msd="DAPN">τὰ</w>
           <w lemma="ἐπί" msd="P">ἐπι</w>
           <w lemma="ὁ" msd="DDSF">τῆ</w>
@@ -915,7 +917,7 @@
         </ab>
         <ab n="B55K1V22">
           <w lemma="καί" msd="C">καὶ</w>
-          <w lemma="ἀποκτείνω" msd="VAAI3S">ἀπέκτει<lb n="42" break="no"/>νεν</w>
+          <w lemma="ἀποκτείνω" msd="VAAI3S">ἀπέκτει<lb n="14" break="no"/>νεν</w>
           <w lemma="αὐτός" msd="RP3AP">αὐτοὺς</w>
           <w lemma="ὁ" msd="NMSN">ὁ</w>
           <w lemma="βασιλεύς" msd="NMSN">βασιλέυς</w>
@@ -923,14 +925,14 @@
           <w lemma="καί" msd="C">καὶ</w>
           <w lemma="δίδωμι" msd="VAAI3S">ἔδωκεν</w>
           <w lemma="ὁ" msd="DASM">τὸν</w>
-          <lb n="43"/>
+          <lb n="15"/>
           <w lemma="Βήλ" msd="NMSA">Βὴλ</w>
           <pc>.</pc>
           <w lemma="ἔκδοτος" msd="AASM">ἔκδοτον</w>
           <w lemma="ὁ" msd="DDSM">τῶ</w>
           <w lemma="Δανιήλ" msd="NMSD">Δανιήλ</w>
           <w lemma="καί" msd="C">καὶ</w>
-          <w lemma="καταστρέφω" msd="VAAI3S">κατέ<lb n="44" break="no"/>στρεψεν</w>
+          <w lemma="καταστρέφω" msd="VAAI3S">κατέ<lb n="16" break="no"/>στρεψεν</w>
           <w lemma="αὐτός" msd="RP3AS">αὐτόν</w>
           <w lemma="καί" msd="C">καὶ</w>
           <w lemma="ὁ" msd="DASN">το</w>
@@ -940,13 +942,63 @@
             </rdg>
             <rdg type="corr" hand="corrector" rend="erased">
               <seg type="line" subtype="above" n="@P8CL-Q">
-                <w lemma="ἱερόν" msd="NNSN">ιερον<ex>Swete</ex></w>
+                <w lemma="ἱερόν" msd="NNSN">ιερον</w>
               </seg>
             </rdg>
           </app>
           <w lemma="αὐτός" msd="RP3GS">αὐτοῦ</w>
           <pc>˙</pc>
         </ab>
+      </div>
+      <div type="translation" n="B55">
+        <div type="textpart" n="B55K1">
+          <ab n="B55K1V1" corresp="#Bel.1.1.P827.I1">
+            <ab n="B55K1V1" corresp="#Bel.1.1.P827.I1">
+              And King Astyages was added beside his fathers and Cyrus the Persian received his kingdom.</ab>
+            <ab n="B55K1V2" corresp="Bel.1.2.P827.I1">
+              And Daniel was a companion of the king and was esteemed above all his friends.</ab>
+            <ab n="B55K1V3" corresp="Bel.1.3.P827.I1">
+              And there was an idol to the Babylonians called Bel, and every day into him consumed twelve artaba of fine wheaten flour and forty sheep and six measures of wine.</ab>
+            <ab n="B55K1V4" corresp="Bel.1.4.P828.I1">
+              And the king worshipped it. And every day Daniel fell down making obeisance to God, but he made obeisance to his God. And he said to the king he would not make obeisance to Bel.</ab>
+            <ab n="B55K1V5" corresp="Bel.1.5.P828.I1"> 
+              And he said, "That I worship not an idol made by human hands, but the living God builder of heaven and earth, and lord of all flesh things.</ab>
+            <ab n="B55K1V6" corresp="Bel.1.6.P828.I1">
+              And the king said to him, "Does it not seem to you Bel is a living god, not see or much as eat and drink according to every day?</ab>
+            <ab n="B55K1V7" corresp="Bel.1.7.P828.I1">
+              And Daniel laughing said, "Do not be led astray, king, for it is clay from within indeed, from without but copper, and has never ate.</ab>
+            <ab n="B55K1V8" corresp="Bel.1.8.P828.I1"> 
+              And the king, being angered, summoned his priests and said to them, "If none says to me who devours this spent expenditure, you will die,</ab>
+            <ab n="B55K1V9" corresp="Bel.1.9.P828.I1">
+              but if you bring to light Bel devours it, Daniel will die, he that blasphemes Bel." And Daniel said to the king, "Begin according to what you say."</ab>
+            <ab n="B55K1V10" corresp="Bel.1.10.P828.I1">
+              And seventy priests of Bel go outside with their wives and children, and the king goes with Daniel, stranger of Bel.</ab>
+            <ab n="B55K1V11" corresp="Bel.1.11.P829.I1">
+              And the priests of Bel say, "Look! We run out, but you, O king, set before the food and mingle wine, closing the door and sealing it with your ring!</ab>
+            <ab n="B55K1V12" corresp="Bel.1.12.P829.I1">
+              And if coming early in the day you may not find all eaten up by Bel, we die, or Daniel the deceiver against us.</ab>
+            <ab n="B55K1V13" corresp="Bel.1.13.P829.I1">
+              And they despised, because they had hidden under the table an entrance, and would enter through it altogether and eat.</ab>
+            <ab n="B55K1V14" corresp="Bel.1.14.P829.I1">
+              And it happened as they came out that they, and the king put them beside the food to Bel. And Daniel ordered his servants and they carried ashes, and shook them across the temple in the presence of only the king, and going out shut the door and sealed it in by the ring of the king, and went away.</ab>
+            <ab n="B55K1V15" corresp="Bel.1.15.P829.I1">
+              But the priests and their wives and children went at night according to their habit, and ate up all and drank.</ab>
+            <ab n="B55K1V16" corresp="Bel.1.16.P829.I1">
+              And early in the morning the king awoke, and Daniel with him.</ab>
+            <ab n="B55K1V17" corresp="Bel.1.17.P829.I1">
+              And they said, "Safe seals, Daniel?" and he said, "Safe, king."</ab>
+            <ab n="B55K1V18" corresp="Bel.1.18.P829.I1">
+              And they began at once to open the door,  the king looking upon the table shouted in a loud voice, "You are great, Bel, and it is not treachery beside nor into you."</ab>
+            <ab n="B55K1V19" corresp="Bel.1.19.P830.I1">
+              And Daniel laughed, and taking possesion of himself the king did not go into him, and he said, "Look indeed at the ground, and know whose footprints these are!</ab>
+            <ab n="B55K1V20" corresp="Bel.1.20.P830.I1">
+              And the king said, "I see the footsteps of the men and the women and the children." </ab>
+            <ab n="B55K1V21" corresp="Bel.1.21.P830.I1">
+              And the king was growing angry then collected the priests and the wives and children of them, and brought to light the door hidden by them through which they would enter and consume the food upon the table.</ab>
+            <ab n="B55K1V22" corresp="Bel.1.22.P830.I1">
+              And the king killed them, and gave up Bel to Daniel, and overturned him and his temple.</ab>
+          </ab>
+        </div>
       </div>
     </body>
   </text>
