@@ -332,7 +332,8 @@
                     <w lemma="καί" msd="C">καὶ</w>
                     <w lemma="θρίξ" msd="NAPF">τρίχας</w><pc><choice><orig>.</orig><reg/></choice></pc>
                     <w lemma="καί" msd="C">καὶ</w>
-                    <w lemma="ἤψησα" msd="VAAI3S">ἢ pb n="831"facs="http://206.12.93.167/community/mssimages/thumbs/22125/787_49_10.jpg"/><lb n="1" break="no"/>ψησεν</w>
+                    <w lemma="ἤψησα" msd="VAAI3S">ἢ <pb n="830"
+                        facs="http://206.12.93.167/community/mssimages/thumbs/22125/787_49_10.jpg"/>ψησεν</w>
                     <w lemma="ἐπί" msd="P">ἐπὶ</w>
                     <w lemma="ὁ" msd="DASN">τὸ</w>
                     <w lemma="αὐτός" msd="RASN">αὐτὸ</w>
