@@ -162,45 +162,43 @@
         <ab n="B54K3V24" xml:id="Dan.3.24.P784.I1">
           <w lemma="καὶ" msd="C">καὶ</w>
           <w lemma="περιπατέω" msd="VIIM3P">περιεπά<lb break="no" n="2"/>τουν</w>
-          <w lemma="ἐν" msd="P">ὲν</w>
-          <w lemma="μέσος" msd="NDSN">μέσω</w>
+          <w lemma="ἐν" msd="P">ὲν<choice><orig>ὲν</orig><reg>ἐν</reg></choice></w>
+          <w lemma="μέσος" msd="NDSN"><choice><orig>μέσω</orig><reg>μέσῳ</reg></choice></w>
           <w lemma="ὁ" msd="DFS">τῆς</w>
           <w lemma="φλόξ" msd="NDFS">φλογὸς</w>
-          <pc>.</pc>
+          <choice><orig><pc>.</pc></orig><reg> </reg></choice>
           <w lemma="ὑμνέω" msd="VPPMNP">ύμοῦν<lb break="no" n="3"/>τες</w>
           <w lemma="ὁ" msd="DASM">τὸν</w>
-          <w lemma="θεός" msd="NMSA">
+          <w lemma="θεός" msd="NMSA"><choice>
             <abbr type="nomSac">
-              <hi rend="overline">θν</hi>
-            </abbr>
+              <hi rend="overline">θν</hi></abbr><expan>θεὸν</expan></choice>
           </w>
-          <pc>.</pc>
+          <choice><orig><pc>.</pc></orig><reg> </reg></choice>
           <w lemma="καὶ" msd="C">καὶ</w>
-          <w lemma="εὐλογέω" msd="VPPMNP">εὐλογουντες</w>
+          <w lemma="εὐλογέω" msd="VPPMNP"><choice><orig>εὐλογουντες</orig><reg>εὐλογοῦντες</reg></choice></w>
           <w lemma="ὁ" msd="DASM">τὸν</w>
-          <w lemma="κύριος" msd="NMSA">
+          <w lemma="κύριος" msd="NMSA"><choice>
             <abbr type="nomSac">
-              <hi rend="overline">κν</hi>
-            </abbr>
+              <hi rend="overline">κν</hi></abbr><expan>κύριον</expan></choice>
           </w>
-          <pc>·</pc>
+          <choice><orig><pc>·</pc></orig><reg><pc>.</pc></reg></choice>
           <lb n="4"/>
         </ab>
         <ab n="B54K3V25" xml:id="Dan.3.25.P784.I1">
           <w lemma="καί" msd="C">καὶ</w>
           <w lemma="συνίστημι" msd="VPAPNSM">συστὰς</w>
-          <w lemma="Ἀζαρίας" msd="NNSM">Ἀζαριας</w>
-          <pc>.</pc>
-          <w lemma="προσεύχομαι" msd="VAMI3S">προσηὒξατο</w>
+          <w lemma="Ἀζαρίας" msd="NNSM">Ἀζαρίας</w>
+          <choice><orig><pc>.</pc></orig></choice>
+          <w lemma="προσεύχομαι" msd="VAMI3S"><choice><orig>προσηὒξατο</orig><reg>προσηύξατο</reg></choice></w>
           <w lemma="οὕτως" msd="D">οὒ<lb break="no" n="5"/>τως</w>
           <w lemma="καί" msd="C">καὶ</w>
-          <w lemma="ἀνοίγνυμι" msd="VPAPNSM">ἀνοίξας</w>
+          <w lemma="ἀνοίγνυμι" msd="VPAPNSM"><choice><orig>ἀνόιξας</orig><reg>ἀνοίξας</reg></choice></w>
           <w lemma="ὁ" msd="DASM">τὸ</w>
           <w lemma="στόμα" msd="NASN">στόμα</w>
-          <w lemma="αὐτοῦ" msd="RP3GSM">ἀυτου</w>
+          <w lemma="αὐτοῦ" msd="RP3GSM"><choice><orig>ἀυτου</orig><reg>ἑαυτοῦ</reg></choice></w><note> swete's version uses ἑαυτοῦ</note>
           <lb n="6"/>
           <w lemma="ἐν" msd="P">ἐν</w>
-          <w lemma="μέσος" msd="NDSM">μέσω</w>
+          <w lemma="μέσος" msd="NDSM"><choice><orig>μέσω</orig><reg>μέσῳ</reg></choice></w>
           <w lemma="ὁ" msd="DGSM">τοῦ</w>
           <w lemma="πῦρ" msd="NGSN">πυρὸς</w>
           <w lemma="εἶπον" msd="VAAI3S">εἶπεν</w>
