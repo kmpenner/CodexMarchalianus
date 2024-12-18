@@ -913,7 +913,7 @@
             <ab n="B55K1V2" corresp="Bel.1.2.P827.I1"> And Daniel was a companion of the king and
               was esteemed above all his friends.</ab>
             <ab n="B55K1V3" corresp="Bel.1.3.P827.I1"> And there was an idol to the Babylonians
-              called Bel, and every day into him consumed twelve artaba of fine wheaten flour and
+              called Bel, and every day into him consumed twelve artaba<anchor n="1" xml:id="B55K1V3-note-1"/> fine wheaten flour and
               forty sheep and six measures of wine.</ab>
             <ab n="B55K1V4" corresp="Bel.1.4.P828.I1"> And the king worshipped it. And every day
               Daniel fell down making obeisance to God, but he made obeisance to his God. And he
@@ -966,6 +966,7 @@
               table.</ab>
             <ab n="B55K1V22" corresp="Bel.1.22.P830.I1"> And the king killed them, and gave up Bel
               to Daniel, and overturned him and his temple.</ab>
+            <note corresp="B54K1V3-note-1">It took a bit of research, but it turns out an "artaba" is itself a unit of measurement</note>
           </ab>
         </div>
       </div>
