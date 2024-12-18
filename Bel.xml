@@ -158,8 +158,8 @@
           conjecture. The purpose of this edition of the text is to introduce another source within
           the textual history of the apocryphal additions to Daniel to a wider audience of scholars
           than those who previously had access to it, and to allow those scholars who did have
-          access to it some easier reading. It is this accessibility and readability informed
-          approach which most informed this edition of the text, which was also buttressed by an
+          access to it some easier reading. It is this accessibility and my ideal of a 1:1
+          translation which most informed this edition of the text, which was also buttressed by an
           interest in accuracy to the original manuscript. It is worthy of note that in service of
           readability, where an individual word crosses over from one line to the next, a hyphen has
           been added, and is indicated as being an addition by the current editors by its orange
@@ -962,7 +962,7 @@
               himself the king did not go into him, and he said, "Look indeed at the ground, and
               know whose footprints these are!</ab>
             <ab n="B55K1V20" corresp="Bel.1.20.P830.I1"> And the king said, "I see the footsteps of
-              the men and the women and the children." </ab>
+              the men and the women and the children."<anchor n="6" xml:id="B55K1V20-note-6"/></ab>
             <ab n="B55K1V21" corresp="Bel.1.21.P830.I1"> And the king was growing angry then
               collected the priests and the wives and children of them, and brought to light the
               door hidden by them through which they would enter and consume the food upon the
@@ -976,13 +976,16 @@
             <note corresp="B55K1V3-note-3">This, however, is translated from the Greek word for a
               generic unit of measurement.</note>
             <note corresp="B55K1V5-note-4">In the spirit of the original text, I have rendered
-              "πάσης σαρκὸς" as "flesh things" because while "things" does not technically appear in the original Greek,
-              it feels odd to say that God is the "lord of all flesh", as that makes it sound like
-              God is implied as being only the lord of the material things are made out of rather
-              than the things God is lording over being made of flesh, which I cannot fathom as
-              being the intended meaning</note>
+              "πάσης σαρκὸς" as "flesh things" because while "things" does not technically appear in
+              the original Greek, it feels odd to say that God is the "lord of all flesh", as that
+              makes it sound like God is implied as being only the lord of the material things are
+              made out of rather than the things God is lording over being made of flesh, which I
+              cannot fathom as being the intended meaning</note>
             <note corresp="B55K1V13-note-5">This is an awkward translation, but it is the closest to
               how I could understand the text.</note>
+            <note corresp="B55K1V20-note-6">Or, "the men and the wives and the children." The
+              translation I included is much more literal, which by the guiding principles of my
+              transcription and translation is ideal.</note>
           </ab>
         </div>
       </div>
