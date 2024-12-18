@@ -915,14 +915,14 @@
               was esteemed above all his friends.</ab>
             <ab n="B55K1V3" corresp="Bel.1.3.P827.I1"> And there was an idol to the Babylonians
               called Bel, and every day into him consumed twelve artaba<anchor n="2"
-                xml:id="B55K1V3-note-2"/> fine wheaten flour and forty sheep and six measures of
-              wine.</ab>
+                xml:id="B55K1V3-note-2"/> fine wheaten flour and forty sheep and six measures<anchor
+                n="3" xml:id="B55K1V3-note-3"/> of wine.</ab>
             <ab n="B55K1V4" corresp="Bel.1.4.P828.I1"> And the king worshipped it. And every day
               Daniel fell down making obeisance to God, but he made obeisance to his God. And he
               said to the king he would not make obeisance to Bel.</ab>
             <ab n="B55K1V5" corresp="Bel.1.5.P828.I1"> And he said, "That I worship not an idol made
               by human hands, but the living God builder of heaven and earth, and lord of all flesh
-              things.</ab>
+                things<anchor n="4" xml:id="B55K1V5-note-4"/>".</ab>
             <ab n="B55K1V6" corresp="Bel.1.6.P828.I1"> And the king said to him, "Does it not seem
               to you Bel is a living god, not see or much as eat and drink according to every
               day?</ab>
@@ -942,8 +942,8 @@
               sealing it with your ring!</ab>
             <ab n="B55K1V12" corresp="Bel.1.12.P829.I1"> And if coming early in the day you may not
               find all eaten up by Bel, we die, or Daniel the deceiver against us.</ab>
-            <ab n="B55K1V13" corresp="Bel.1.13.P829.I1"> And they despised<anchor n="3"
-                xml:id="B55K1V13-note-3"/>, because they had hidden under the table an entrance, and
+            <ab n="B55K1V13" corresp="Bel.1.13.P829.I1"> And they despised<anchor n="5"
+                xml:id="B55K1V13-note-5"/>, because they had hidden under the table an entrance, and
               would enter through it altogether and eat.</ab>
             <ab n="B55K1V14" corresp="Bel.1.14.P829.I1"> And it happened as they came out that they,
               and the king put them beside the food to Bel. And Daniel ordered his servants and they
@@ -972,9 +972,16 @@
             <note corresp="B54K1V1-note-1">I chose to render this as "added beside his fathers" as
               opposed to something like "died" because that would have removed the euphemistic
               quality found within the original text.</note>
-            <note corresp="B54K1V3-note-2">It took a bit of research, but it turns out an "artaba"
-              is itself a unit of measurement.</note>
-            <note corresp="B55K1V13-note-3">This is an awkward translation, but it is the closest to
+            <note corresp="B54K1V3-note-2">An "artaba" is a Persian unit of measurement.</note>
+            <note corresp="B55K1V3-note-3">This, however, is translated from the Greek word for a
+              generic unit of measurement.</note>
+            <note corresp="B55K1V5-note-4">In the spirit of the original text, I have rendered
+              "πάσης σαρκὸς" as "flesh things" because while "things" does not technically appear in the original Greek,
+              it feels odd to say that God is the "lord of all flesh", as that makes it sound like
+              God is implied as being only the lord of the material things are made out of rather
+              than the things God is lording over being made of flesh, which I cannot fathom as
+              being the intended meaning</note>
+            <note corresp="B55K1V13-note-5">This is an awkward translation, but it is the closest to
               how I could understand the text.</note>
           </ab>
         </div>
