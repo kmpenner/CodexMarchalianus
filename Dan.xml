@@ -162,82 +162,153 @@
         <ab n="B54K3V24" xml:id="Dan.3.24.P784.I1">
           <w lemma="καὶ" msd="C">καὶ</w>
           <w lemma="περιπατέω" msd="VIIM3P">περιεπά<lb n="2"/>τουν</w>
-          <w lemma="ἐν" msd="P">ὲν<choice><orig>ὲν</orig><reg>ἐν</reg></choice></w>
-          <w lemma="μέσος" msd="NDSN"><choice><orig>μέσω</orig><reg>μέσῳ</reg></choice></w>
+          <w lemma="ἐν" msd="P">ὲν<choice>
+              <orig>ὲν</orig>
+              <reg>ἐν</reg>
+            </choice></w>
+          <w lemma="μέσος" msd="NDSN"><choice>
+              <orig>μέσω</orig>
+              <reg>μέσῳ</reg>
+            </choice></w>
           <w lemma="ὁ" msd="DFS">τῆς</w>
           <w lemma="φλόξ" msd="NDFS">φλογὸς</w>
-          <choice><orig><pc>.</pc></orig><reg> </reg></choice>
+          <choice>
+            <orig><pc>.</pc></orig>
+            <reg> </reg>
+          </choice>
           <w lemma="ὑμνέω" msd="VPPMNP">ύμοῦν<lb n="3"/>τες</w>
           <w lemma="ὁ" msd="DASM">τὸν</w>
           <w lemma="θεός" msd="NMSA"><choice>
-            <abbr type="nomSac">
-              <hi rend="overline">θν</hi></abbr><expan>θεὸν</expan></choice>
+              <abbr type="nomSac">
+                <hi rend="overline">θν</hi></abbr>
+              <expan>θεὸν</expan>
+            </choice>
           </w>
-          <choice><orig><pc>.</pc></orig><reg> </reg></choice>
+          <choice>
+            <orig><pc>.</pc></orig>
+            <reg> </reg>
+          </choice>
           <w lemma="καὶ" msd="C">καὶ</w>
-          <w lemma="εὐλογέω" msd="VPPMNP"><choice><orig>εὐλογουντες</orig><reg>εὐλογοῦντες</reg></choice></w>
+          <w lemma="εὐλογέω" msd="VPPMNP"><choice>
+              <orig>εὐλογουντες</orig>
+              <reg>εὐλογοῦντες</reg>
+            </choice></w>
           <w lemma="ὁ" msd="DASM">τὸν</w>
           <w lemma="κύριος" msd="NMSA"><choice>
-            <abbr type="nomSac">
-              <hi rend="overline">κν</hi></abbr><expan>κύριον</expan></choice>
+              <abbr type="nomSac">
+                <hi rend="overline">κν</hi></abbr>
+              <expan>κύριον</expan>
+            </choice>
           </w>
-          <choice><orig><pc>·</pc></orig><reg><pc>.</pc></reg></choice>
+          <choice>
+            <orig><pc>·</pc></orig>
+            <reg><pc>.</pc></reg>
+          </choice>
           <lb n="4"/>
         </ab>
         <ab n="B54K3V25" xml:id="Dan.3.25.P784.I1">
           <w lemma="καί" msd="C">καὶ</w>
-          <w lemma="συνίστημι" msd="VPAPNSM"><choice><sic>συνστὰς</sic><corr>συστὰς</corr></choice></w><note> author missing ν</note>
+          <w lemma="συνίστημι" msd="VPAPNSM"><choice>
+              <sic>συνστὰς</sic>
+              <corr>συστὰς</corr>
+            </choice></w><note> author missing ν</note>
           <w lemma="Ἀζαρίας" msd="NNSM">Ἀζαρίας</w>
-          <choice><orig><pc>.</pc></orig><reg> </reg></choice>
-          <w lemma="προσεύχομαι" msd="VAMI3S"><choice><orig>προσηὒξατο</orig><reg>προσηύξατο</reg></choice></w>
+          <choice>
+            <orig><pc>.</pc></orig>
+            <reg> </reg>
+          </choice>
+          <w lemma="προσεύχομαι" msd="VAMI3S"><choice>
+              <orig>προσηὒξατο</orig>
+              <reg>προσηύξατο</reg>
+            </choice></w>
           <w lemma="οὕτως" msd="D">οὒ<lb n="5"/>τως</w>
           <w lemma="καί" msd="C">καὶ</w>
-          <w lemma="ἀνοίγνυμι" msd="VPAPNSM"><choice><orig>ἀνόιξας</orig><reg>ἀνοίξας</reg></choice></w>
+          <w lemma="ἀνοίγνυμι" msd="VPAPNSM"><choice>
+              <orig>ἀνόιξας</orig>
+              <reg>ἀνοίξας</reg>
+            </choice></w>
           <w lemma="ὁ" msd="DASM">τὸ</w>
           <w lemma="στόμα" msd="NASN">στόμα</w>
-          <w lemma="αὐτοῦ" msd="RP3GSM"><choice><orig>ἀυτου</orig><reg>ἑαυτοῦ</reg></choice></w><note> swete's version uses ἑαυτοῦ</note>
+          <w lemma="αὐτοῦ" msd="RP3GSM"><choice>
+              <orig>ἀυτου</orig>
+              <reg>ἑαυτοῦ</reg>
+            </choice></w><note> swete's version uses ἑαυτοῦ</note>
           <lb n="6"/>
           <w lemma="ἐν" msd="P">ἐν</w>
-          <w lemma="μέσος" msd="NDSM"><choice><orig>μέσω</orig><reg>μέσῳ</reg></choice></w>
+          <w lemma="μέσος" msd="NDSM"><choice>
+              <orig>μέσω</orig>
+              <reg>μέσῳ</reg>
+            </choice></w>
           <w lemma="ὁ" msd="DGSM">τοῦ</w>
           <w lemma="πῦρ" msd="NGSN">πυρὸς</w>
           <w lemma="εἶπον" msd="VAAI3S">εἶπεν</w>
-          <choice><orig><pc>˙</pc></orig><reg> </reg></choice>
+          <choice>
+            <orig><pc>˙</pc></orig>
+            <reg> </reg>
+          </choice>
           <lb n="7"/>
         </ab>
         <ab n="B54K3V26" xml:id="Dan.3.26.P784.I1">
           <w lemma="εὐλογητός" msd="JNSM">ευλογητὸς</w>
           <w lemma="εἰμί" msd="VPAI2S">εῖ</w>
-          <choice><reg><pc>·</pc></reg></choice>
+          <choice>
+            <reg><pc>·</pc></reg>
+          </choice>
           <w lemma="κύριος" msd="NNSM"><choice>
-            <abbr type="nomSac">
-              <hi rend="overline">κε</hi></abbr><expan>Κύριε</expan></choice>
+              <abbr type="nomSac">
+                <hi rend="overline">κε</hi></abbr>
+              <expan>Κύριε</expan>
+            </choice>
           </w>
-          <choice><orig><pc>.</pc></orig><reg> </reg></choice>
+          <choice>
+            <orig><pc>.</pc></orig>
+            <reg> </reg>
+          </choice>
           <w lemma="ὁ" msd="DNSM">ο</w>
           <w lemma="θεός" msd="NNSM"><choice>
-            <abbr type="nomSac">
-              <hi rend="overline">θς</hi></abbr><expan>θεὸς</expan></choice>
+              <abbr type="nomSac">
+                <hi rend="overline">θς</hi></abbr>
+              <expan>θεὸς</expan>
+            </choice>
           </w>
           <w lemma="ὁ" msd="DGPM">τῶν</w>
           <w lemma="πατήρ" msd="NGPM"><choice>
-            <abbr>
-              <hi rend="overline">πρων</hi></abbr><expan>πατέρων</expan></choice></w>
+              <abbr>
+                <hi rend="overline">πρων</hi></abbr>
+              <expan>πατέρων</expan>
+            </choice></w>
           <w lemma="ἐγώ" msd="RP1GP"><choice>
-            <abbr><hi rend="overline">ἡμῶν</hi></abbr><expan>ἡμῶν</expan></choice>
+              <abbr><hi rend="overline">ἡμῶν</hi></abbr>
+              <expan>ἡμῶν</expan>
+            </choice>
           </w>
-          <choice><orig><pc>.</pc></orig><reg><pc>·</pc></reg></choice>
+          <choice>
+            <orig><pc>.</pc></orig>
+            <reg><pc>·</pc></reg>
+          </choice>
           <lb n="8"/>
           <w lemma="καί" msd="C">και</w>
-          <w lemma="αἰνετός" msd="JNSM"><choice><orig>ἀινετός</orig><reg>αἰνετός</reg></choice></w>
+          <w lemma="αἰνετός" msd="JNSM"><choice>
+              <orig>ἀινετός</orig>
+              <reg>αἰνετός</reg>
+            </choice></w>
           <pc>·</pc>
           <w lemma="καί" msd="C">και</w>
-          <w lemma="δοξάζω" msd="VPRPMS"><app><lem>δεδοξασμένος</lem><rdg wit="Q">δεδοξασμένος</rdg>
-            <rdg wit="Swete">δοξάζω</rdg></app></w>
-          <w lemma="εἰς" msd="P"><choice><orig>ἐις</orig><reg>εἰς</reg></choice></w>
+          <w lemma="δοξάζω" msd="VPRPMS"><app>
+              <lem>δεδοξασμένος</lem>
+              <rdg wit="Q">δεδοξασμένος</rdg>
+              <rdg wit="Swete">δοξάζω</rdg>
+            </app></w>
+          <w lemma="εἰς" msd="P"><choice>
+              <orig>ἐις</orig>
+              <reg>εἰς</reg>
+            </choice></w>
           <w lemma="ὁ" msd="DAPM">τοὺς</w>
           <lb n="9"/>
-          <w lemma="αἰών" msd="NAPM"><choice><orig>ἀιῶνας</orig><reg>αἰών</reg></choice></w>
+          <w lemma="αἰών" msd="NAPM"><choice>
+              <orig>ἀιῶνας</orig>
+              <reg>αἰών</reg>
+            </choice></w>
           <pc>·</pc>
         </ab>
         <ab n="B54K3V27" xml:id="Dan.3.27.P784.I1">
@@ -246,7 +317,11 @@
           <w lemma="εἰμί" msd="VPAI2S">εἶ</w>
           <w lemma="ἐπί" msd="P">ἐπι</w>
           <w lemma="πᾶς" msd="JDPN">πᾶσιν</w>
-          <choice><orig><pc>.</pc></orig><reg> </reg></choice> <note>removed comma used in text for better readibility</note>
+          <choice>
+            <orig><pc>.</pc></orig>
+            <reg> </reg>
+          </choice>
+          <note>removed comma used in text for better readibility</note>
           <w lemma="ὅς" msd="RPDP">ὁῖς</w>
           <lb n="10"/>
           <w lemma="ποιέω" msd="VAAI2S">εποίησας</w>
@@ -263,7 +338,10 @@
           <w lemma="καί" msd="C">καὶ</w>
           <w lemma="εὐθύς" msd="JNPF">ὲυθεῖαι</w>
           <w lemma="ὁ" msd="NDPF">ᾱι</w>
-          <w lemma="ὁδός" msd="NDPF"><choice><orig>οδοί</orig><reg>ὁδός</reg></choice></w>
+          <w lemma="ὁδός" msd="NDPF"><choice>
+              <orig>οδοί</orig>
+              <reg>ὁδός</reg>
+            </choice></w>
           <w lemma="σός" msd="RP2GS">σου</w>
           <pc>·</pc>
           <lb n="12"/>
@@ -292,34 +370,41 @@
           <pc>.</pc>
           <w lemma="καί" msd="C">καὶ</w>
           <w lemma="ἐπί" msd="P">ἐπι</w>
-           <w lemma="ὁ" msd="DASF"><choice>
-             <abbr><hi rend="overline">τη</hi><expan>την</expan>
-            </abbr></choice>
+          <w lemma="ὁ" msd="DASF"><choice>
+              <abbr><hi rend="overline">τη</hi><expan>την</expan>
+              </abbr>
+            </choice>
           </w>
           <lb n="15"/>
           <w lemma="πόλις" msd="NASF">πόλιν</w>
           <w lemma="ὁ" msd="DASF">τὴν</w>
           <w lemma="ἅγιος" msd="AASF">ἀγιάν</w>
-          <choice><orig><pc>.</pc></orig><reg> </reg></choice>
+          <choice>
+            <orig><pc>.</pc></orig>
+            <reg> </reg>
+          </choice>
           <w lemma="ὁ" msd="DASF">τὴν</w>
           <w lemma="ὁ" msd="DGPM">τῶν</w>
           <w lemma="πρότερος" msd="A-GPM"><choice>
-            <abbr><hi rend="overline">πρων</hi><expan>πατέρων</expan>
-            </abbr></choice>
-            </w>
+              <abbr><hi rend="overline">πρων</hi><expan>πατέρων</expan>
+              </abbr>
+            </choice>
+          </w>
           <lb n="16"/>
           <w lemma="ἐγώ" msd="RP1GP">ἠμῶν</w>
           <w lemma="Ἱερουσαλήμ" msd="N-PRI"><choice>
-            <abbr type="nomSac">
-              <hi rend="overline">Ϊλημ</hi><expan>Ἰερουσαλήμ</expan>
-            </abbr></choice>
+              <abbr type="nomSac">
+                <hi rend="overline">Ϊλημ</hi><expan>Ἰερουσαλήμ</expan>
+              </abbr>
+            </choice>
           </w>
           <pc>˙</pc>
           <w lemma="ὅτι" msd="C">οτι</w>
           <w lemma="ἐν" msd="P">ἐν</w>
           <w lemma="ἀλήθεια" msd="NDSF"><choice>
-            <orig>αληθεία</orig><reg>ἀλήθεια</reg>
-          </choice></w>
+              <orig>αληθεία</orig>
+              <reg>ἀλήθεια</reg>
+            </choice></w>
           <w lemma="καί" msd="C">καὶ</w>
           <w lemma="κρίσις" msd="NDSF">κρί<lb n="17"/>σει</w>
           <w lemma="ἐπάγω" msd="VAAI2S">ἐπήγαγας</w>
@@ -328,16 +413,16 @@
           <pc>.</pc>
           <w lemma="διὰ" msd="P">διὰ</w>
           <w lemma="ὁ" msd="DAPF">τὰς</w>
-          <w lemma="ἁμαρτία" msd="NAPF">ἀ
-          <lb n="18"/>μαρτιάς</w>
+          <w lemma="ἁμαρτία" msd="NAPF">ἀ <lb n="18"/>μαρτιάς</w>
           <w lemma="ἐγώ" msd="RP1GP">ἡμῶν</w>
           <pc>·</pc>
         </ab>
         <ab n="B54K3V29" xml:id="Dan.3.29.P784.I1">
           <w lemma="ὅτι" msd="C">ὃτι</w>
           <w lemma="ἁμαρτάνω" msd="VAAI1P"><choice>
-            <orig>ημάρτομεν</orig><reg>ἡμάρτομεν</reg>
-          </choice></w>
+              <orig>ημάρτομεν</orig>
+              <reg>ἡμάρτομεν</reg>
+            </choice></w>
           <pc>.</pc>
           <lb n="19"/>
           <w lemma="καί" msd="C">καὶ</w>
@@ -360,9 +445,11 @@
           <w lemma="ἐντολή" msd="NGPF">ἐντολῶν</w>
           <w lemma="σύ" msd="RP2GS">σου</w>
           <w lemma="οὐ" msd="D">όυκ</w>
-          <w lemma="ἀκούω" msd="VAAI1P"><choice><abbr>
-            <hi rend="overline">ἢκουσαμ</hi><expan>ἢκουσαμεν</expan>
-          </abbr></choice>
+          <w lemma="ἀκούω" msd="VAAI1P"><choice>
+              <abbr>
+                <hi rend="overline">ἢκουσαμ</hi><expan>ἢκουσαμεν</expan>
+              </abbr>
+            </choice>
           </w>
           <pc>˙</pc>
           <lb n="22"/>
@@ -382,7 +469,8 @@
           <w lemma="ἐγώ" msd="RP1DP">ἡμιν</w>
           <w lemma="γίγνομαι" msd="VAMI3S">γένηται</w>
           <choice>
-            <orig><pc>·</pc></orig><reg><pc>.</pc></reg>
+            <orig><pc>·</pc></orig>
+            <reg><pc>.</pc></reg>
           </choice>
         </ab>
         <ab n="B54K3V31" xml:id="Dan.3.31.P784.I1">
@@ -390,8 +478,10 @@
             <rdg type="orig" hand="firsthand">
               <w lemma="καί" msd="C">και</w>
               <w lemma="πᾶς" msd="JAPN">παντα</w>
-              <w lemma="ὅσος" msd="JAPN"><choice><orig>ὀσα</orig><reg>ὅσα</reg>
-              </choice></w>
+              <w lemma="ὅσος" msd="JAPN"><choice>
+                  <orig>ὀσα</orig>
+                  <reg>ὅσα</reg>
+                </choice></w>
               <w lemma="ἐγώ" msd="RP1DP">ημιν</w>
               <w lemma="ἐπάγω" msd="VAAI2S">επηγαγες</w>
               <w lemma="ἐγώ" msd="RP1DP">ημιν</w>
@@ -518,9 +608,9 @@
           <pc>·</pc>
           <w lemma="καί" msd="C">και</w>
           <w lemma="Ἰακώβ" msd="NPRI"><choice>
-            <abbr>
-              <hi rend="overline">Ιηλ</hi><expan>Ἰσραὴλ 
-              </expan></abbr></choice>
+              <abbr>
+                <hi rend="overline">Ιηλ</hi><expan>Ἰσραὴλ </expan></abbr>
+            </choice>
           </w>
           <pc>.</pc>
           <w lemma="ὁ" msd="NASM">τὸν</w>
@@ -632,8 +722,9 @@
           <pc>.</pc>
           <w lemma="καί" msd="C">και</w>
           <w lemma="πνεῦμα" msd="NDSN"><choice>
-            <abbr>
-              <hi rend="overline">πνι</hi><expan>πνεύματι </expan></abbr></choice>
+              <abbr>
+                <hi rend="overline">πνι</hi><expan>πνεύματι </expan></abbr>
+            </choice>
           </w>
           <w lemma="ταπείνωσις" msd="NGSF">ταπεινωσεως</w>
           <w lemma="προσδέχομαι" msd="VAPI1P">προσδε<lb n="51"/>χθείημεν</w>
@@ -772,15 +863,17 @@
           <w lemma="εἰμί" msd="VPAI2S">ει</w>
           <lb n="68"/>
           <w lemma="κύριος" msd="NVSM"><choice>
-            <abbr type="nomSac">
-              <hi rend="overline">κς</hi><expan>Κύριος</expan>
-              </abbr></choice>
-            </w>
+              <abbr type="nomSac">
+                <hi rend="overline">κς</hi><expan>Κύριος</expan>
+              </abbr>
+            </choice>
+          </w>
           <w lemma="ὁ" msd="DNSM">ο</w>
           <w lemma="θεός" msd="NVSM"><choice>
-            <abbr type="nomSac">
-              <hi rend="overline">θς</hi><expan>θεὸς</expan>
-            </abbr></choice>
+              <abbr type="nomSac">
+                <hi rend="overline">θς</hi><expan>θεὸς</expan>
+              </abbr>
+            </choice>
           </w>
           <w lemma="μόνος" msd="JNSM">μονος</w>
           <w lemma="καί" msd="C">και</w>
@@ -847,9 +940,9 @@
           <w lemma="δέ" msd="C">δε</w>
           <w lemma="ἄγγελος" msd="NNSM">αγγελος</w>
           <w lemma="κύριος" msd="NNSM"><choice>
-            <abbr>
-              <hi rend="overline">κυ</hi><expan>Κυρίου 
-              </expan></abbr></choice>
+              <abbr>
+                <hi rend="overline">κυ</hi><expan>Κυρίου </expan></abbr>
+            </choice>
           </w>
           <w lemma="συγκαταβαίνω" msd="VAAI3S">συγκατεβη</w>
           <w lemma="ἅμα" msd="D">αμα</w>
@@ -913,10 +1006,10 @@
           <lb n="86"/>
           <w lemma="ὁ" msd="DASM">τον</w>
           <w lemma="θεός" msd="NMSN"><choice>
-            <abbr>
-              <hi rend="overline">θν</hi><expan>θεὸν 
-              </expan></abbr></choice>
-            </w>
+              <abbr>
+                <hi rend="overline">θν</hi><expan>θεὸν </expan></abbr>
+            </choice>
+          </w>
           <w lemma="ἐν" msd="P">εν</w>
           <w lemma="ὁ" msd="DDSF">τῆ</w>
           <w lemma="κάμινος" msd="NDSF">καμινω</w>
@@ -927,22 +1020,22 @@
           <w lemma="εὐλογητός" msd="JNSM">ευλογητὸς</w>
           <w lemma="εἰμί" msd="VPAI2S">εῖ</w>
           <w lemma="κύριος" msd="NNSM"><choice>
-            <abbr>
-              <hi rend="overline">κε</hi><expan>Κύριε 
-              </expan></abbr></choice>
-            </w>
+              <abbr>
+                <hi rend="overline">κε</hi><expan>Κύριε </expan></abbr>
+            </choice>
+          </w>
           <w lemma="ὁ" msd="DNSM">ὁ</w>
           <w lemma="θεός" msd="NNSM"><choice>
-            <abbr>
-              <hi rend="overline">θς</hi><expan>θεὸς 
-              </expan></abbr></choice>
-           </w>
+              <abbr>
+                <hi rend="overline">θς</hi><expan>θεὸς </expan></abbr>
+            </choice>
+          </w>
           <w lemma="ὁ" msd="DMPG">τῶν</w>
           <w lemma="πατήρ" msd="NMPG"><choice>
-            <abbr>
-              <hi rend="overline">πρων</hi><expan>πατέρων 
-              </expan></abbr></choice>
-            </w>
+              <abbr>
+                <hi rend="overline">πρων</hi><expan>πατέρων </expan></abbr>
+            </choice>
+          </w>
           <lb n="88"/>
           <w lemma="ἐγώ" msd="RP1GP">ἡμῶν</w>
           <pc>.</pc>
@@ -1083,16 +1176,16 @@
           <w lemma="ὁ" msd="DAPN">τὰ</w>
           <w lemma="ἔργον" msd="NAPN">ἔργα</w>
           <w lemma="κύριος" msd="NMSN"><choice>
-            <abbr>
-              <hi rend="overline">κυ</hi><expan>Κυρίου 
-              </expan></abbr></choice>
-            </w>
+              <abbr>
+                <hi rend="overline">κυ</hi><expan>Κυρίου </expan></abbr>
+            </choice>
+          </w>
           <w lemma="ὁ" msd="DASM">τον</w>
           <w lemma="κύριος" msd="NMSA"><choice>
-            <abbr>
-              <hi rend="overline">κυ</hi><expan>κύριον 
-              </expan></abbr></choice>
-                      </w>
+              <abbr>
+                <hi rend="overline">κυ</hi><expan>κύριον </expan></abbr>
+            </choice>
+          </w>
           <pc>.</pc>
           <lb n="105"/>
           <w lemma="εἰς" msd="P">εις</w>
@@ -1112,16 +1205,16 @@
           <w lemma="εὐλογέω" msd="VPAI2P">εὐλογεῖτε</w>
           <w lemma="ἄγγελος" msd="NVPM">ἄγγελοι</w>
           <w lemma="κύριος" msd="NMSN"><choice>
-            <abbr>
-              <hi rend="overline">κυ</hi><expan>Κυρίου 
-              </expan></abbr></choice>
-            </w>
+              <abbr>
+                <hi rend="overline">κυ</hi><expan>Κυρίου </expan></abbr>
+            </choice>
+          </w>
           <w lemma="ὁ" msd="DASM">τὸν</w>
           <w lemma="κύριος" msd="NMSA"><choice>
-            <abbr>
-              <hi rend="overline">κν</hi><expan>κύριον 
-              </expan></abbr></choice>
-            </w>
+              <abbr>
+                <hi rend="overline">κν</hi><expan>κύριον </expan></abbr>
+            </choice>
+          </w>
           <pc>.</pc>
           <w lemma="ὑμνέω" msd="VPAI2P">ὐμνεῖ<lb n="107"/>τε</w>
           <w lemma="καί" msd="C">καὶ</w>
@@ -1138,10 +1231,10 @@
           <w lemma="οὐρανός" msd="NVPM">ουρανοι</w>
           <w lemma="ὁ" msd="DASM">τον</w>
           <w lemma="κύριος" msd="NMSM"><choice>
-            <abbr>
-              <hi rend="overline">κν</hi><expan>κύριον 
-              </expan></abbr></choice>
-           </w>
+              <abbr>
+                <hi rend="overline">κν</hi><expan>κύριον </expan></abbr>
+            </choice>
+          </w>
           <w lemma="ὑμνέω" msd="VPAI2P">υμνειτε</w>
           <lb n="109"/>
           <w lemma="καὶ" msd="C">καὶ</w>
@@ -1163,10 +1256,10 @@
           <w lemma="οὐρανός" msd="NGSM">ουρανοῦ</w>
           <w lemma="ὁ" msd="DAM">τὸν</w>
           <w lemma="κύριος" msd="NMSA"><choice>
-            <abbr>
-              <hi rend="overline">κν</hi><expan>κύριον 
-              </expan></abbr></choice>
-           </w>
+              <abbr>
+                <hi rend="overline">κν</hi><expan>κύριον </expan></abbr>
+            </choice>
+          </w>
           <pc>.</pc>
           <w lemma="ὑμνέω" msd="VPAI2P">ὐμνεῖτε</w>
           <w lemma="καί" msd="C">καὶ</w>
@@ -1183,18 +1276,21 @@
           <w lemma="εὐλογέω" msd="VPAI2P">ευλογεῖτε</w>
           <w lemma="πᾶς" msd="JNPF">πᾶσαι</w>
           <w lemma="ὁ" msd="NPNF">ἁι</w>
-          <w lemma="δύναμις" msd="NPNF">δυνάμεις</w> <note> "δυνάμεις῾ vs sweets "δύναμις"</note>
+          <w lemma="δύναμις" msd="NPNF">δυνάμεις</w>
+          <note> "δυνάμεις῾ vs sweets "δύναμις"</note>
           <w lemma="κύριος" msd="NMSN"><choice>
-            <abbr>
-              <hi rend="overline">κυ</hi><expan>Κυρίου <note> writer uses "κυ τον κν" where as in Swete it has "δύναμις τὸν κύριον" </note>
-              </expan></abbr></choice>
-            </w>
+              <abbr>
+                <hi rend="overline">κυ</hi><expan>Κυρίου <note> writer uses "κυ τον κν" where as in
+                    Swete it has "δύναμις τὸν κύριον" </note>
+                </expan></abbr>
+            </choice>
+          </w>
           <w lemma="ὁ" msd="DASM">τὸν</w>
           <w lemma="κύριος" msd="NMSA"><choice>
-            <abbr>
-              <hi rend="overline">κν</hi><expan>κύριον 
-              </expan></abbr></choice>
-            </w>
+              <abbr>
+                <hi rend="overline">κν</hi><expan>κύριον </expan></abbr>
+            </choice>
+          </w>
           <pc>.</pc>
           <lb n="113"/>
           <w lemma="ὑμνέω" msd="VPAI2P">ὐμνεῖτε</w>
@@ -1215,10 +1311,10 @@
           <w lemma="σελήνη" msd="NNSF">σεληνη</w>
           <w lemma="ὁ" msd="DASM">τον</w>
           <w lemma="κύριος" msd="NNSM"><choice>
-            <abbr>
-              <hi rend="overline">κν</hi><expan>κύριον 
-              </expan></abbr></choice>
-           </w>
+              <abbr>
+                <hi rend="overline">κν</hi><expan>κύριον </expan></abbr>
+            </choice>
+          </w>
           <lb n="116"/>
           <w lemma="ὑμνέω" msd="VPAI2P">υμνειτε</w>
           <w lemma="καί" msd="C">και</w>
@@ -1237,10 +1333,10 @@
           <w lemma="οὐρανός" msd="NGSM">ουρανοῦ</w>
           <w lemma="ὁ" msd="DASM">τὸν</w>
           <w lemma="κύριος" msd="NMSA"><choice>
-            <abbr>
-              <hi rend="overline">κν</hi><expan>κύριον 
-              </expan></abbr></choice>
-            </w>
+              <abbr>
+                <hi rend="overline">κν</hi><expan>κύριον </expan></abbr>
+            </choice>
+          </w>
           <pc>.</pc>
           <lb n="119"/>
           <w lemma="ὑμνέω" msd="VPAI2P">ῦμνεῖτε</w>
@@ -1262,19 +1358,19 @@
           <w lemma="δρόσος" msd="NNSF">δρόσος</w>
           <w lemma="ὁ" msd="DASM">τὸν</w>
           <w lemma="κύριος" msd="NMSM"><choice>
-            <abbr>
-              <hi rend="overline">κν</hi><expan>κύριον 
-              </expan></abbr></choice>
-            </w>
+              <abbr>
+                <hi rend="overline">κν</hi><expan>κύριον </expan></abbr>
+            </choice>
+          </w>
           <lb n="122"/>
           <w lemma="ὑμνέω" msd="VPAI2P">ὕμνεῖτε</w>
           <w lemma="καί" msd="C">καὶ</w>
           <w lemma="ὑπερυψόω" msd="VPAI2P">ύπερῡψοῦτε</w>
           <w lemma="κύριος" msd="NMSM"><choice>
-            <abbr>
-              <hi rend="overline">κν</hi><expan>κύριον 
-              </expan></abbr></choice>
-           </w>
+              <abbr>
+                <hi rend="overline">κν</hi><expan>κύριον </expan></abbr>
+            </choice>
+          </w>
           <lb n="123"/>
           <w lemma="εἰς" msd="P">ἐις</w>
           <w lemma="ὁ" msd="DAMP">τοὺς</w>
@@ -1289,10 +1385,10 @@
           <w lemma="πνεῦμα" msd="NAPN">πνεύματα</w>
           <w lemma="ὁ" msd="DASM">τὸν</w>
           <w lemma="κύριος" msd="NMSM"><choice>
-            <abbr>
-              <hi rend="overline">κν</hi><expan>κύριον 
-              </expan></abbr></choice>
-           </w>
+              <abbr>
+                <hi rend="overline">κν</hi><expan>κύριον </expan></abbr>
+            </choice>
+          </w>
           <lb n="125"/>
           <w lemma="ὑμνέω" msd="VPAM2P">ῡμνεῖτε</w>
           <w lemma="καί" msd="C">καὶ</w>
@@ -1312,9 +1408,9 @@
           <w lemma="καῦμα" msd="NNSN">καῦμα</w>
           <w lemma="ὁ" msd="DASM">τὸν</w>
           <w lemma="κύριος" msd="NNSM"><choice>
-            <abbr>
-              <hi rend="overline">κν</hi><expan>κύριον 
-              </expan></abbr></choice>
+              <abbr>
+                <hi rend="overline">κν</hi><expan>κύριον </expan></abbr>
+            </choice>
           </w>
           <lb n="128"/>
           <w lemma="ὑμνέω" msd="VPAI2P">ύμνεῖτε</w>
@@ -1335,10 +1431,10 @@
           <w lemma="καῦμα" msd="NNSN">καῦμα</w>
           <w lemma="ὁ" msd="DASM">τὸν</w>
           <w lemma="κύριος" msd="NMSM"><choice>
-            <abbr>
-              <hi rend="overline">κν</hi><expan>κύριον 
-              </expan></abbr></choice>
-            </w>
+              <abbr>
+                <hi rend="overline">κν</hi><expan>κύριον </expan></abbr>
+            </choice>
+          </w>
           <lb n="131"/>
           <w lemma="ὑμνέω" msd="VPAI2P">ὑμνεῖτε</w>
           <w lemma="καί" msd="C">καὶ</w>
@@ -1358,9 +1454,9 @@
           <w lemma="χιών" msd="NVPF">χιόνες</w>
           <w lemma="ὁ" msd="DASM">τὸν</w>
           <w lemma="κύριος" msd="NMSM"><choice>
-            <abbr>
-              <hi rend="overline">κν</hi><expan>κύριον 
-              </expan></abbr></choice>
+              <abbr>
+                <hi rend="overline">κν</hi><expan>κύριον </expan></abbr>
+            </choice>
           </w>
           <pc>.</pc>
           <lb n="134"/>
@@ -1382,9 +1478,9 @@
           <w lemma="ἡμέρα" msd="NVPF">ημεραι</w>
           <w lemma="ὁ" msd="DASM">τον</w>
           <w lemma="κύριος" msd="NMSM"><choice>
-            <abbr>
-              <hi rend="overline">κν</hi><expan>κύριον 
-              </expan></abbr></choice>
+              <abbr>
+                <hi rend="overline">κν</hi><expan>κύριον </expan></abbr>
+            </choice>
           </w>
           <lb n="137"/>
           <w lemma="ὑμνέω" msd="VPAI2P">υμνειτε</w>
@@ -1404,10 +1500,10 @@
           <w lemma="σκότος" msd="NNSN">σκότος</w>
           <w lemma="ὁ" msd="DASM">τὸν</w>
           <w lemma="κύριος" msd="NMSM"><choice>
-            <abbr>
-              <hi rend="overline">κν</hi><expan>κύριον 
-              </expan></abbr></choice>
-</w>
+              <abbr>
+                <hi rend="overline">κν</hi><expan>κύριον </expan></abbr>
+            </choice>
+          </w>
           <pc>.</pc>
           <lb n="140"/>
           <w lemma="ὑμνέω" msd="VPAI2P">ῡμνεῖτε</w>
@@ -1428,9 +1524,9 @@
           <lb n="142"/>
           <w lemma="ὁ" msd="DASM">τὸν</w>
           <w lemma="κύριος" msd="NMSM"><choice>
-            <abbr>
-              <hi rend="overline">κν</hi><expan>κύριον 
-              </expan></abbr></choice>
+              <abbr>
+                <hi rend="overline">κν</hi><expan>κύριον </expan></abbr>
+            </choice>
           </w>
           <pc>.</pc>
           <w lemma="ὑμνέω" msd="VPAI2P">ὐμνεῖτε</w>
@@ -1450,9 +1546,9 @@
           <w lemma="γῆ" msd="NFSN">γῆ</w>
           <w lemma="ὁ" msd="DASM">τὸν</w>
           <w lemma="κύριος" msd="NMSA"><choice>
-            <abbr>
-              <hi rend="overline">κν</hi><expan>κύριον 
-              </expan></abbr></choice>
+              <abbr>
+                <hi rend="overline">κν</hi><expan>κύριον </expan></abbr>
+            </choice>
           </w>
           <pc>.</pc>
           <w lemma="ὑμνέω" msd="VPAI3S">υμνεῖτω</w>
@@ -1473,10 +1569,9 @@
           <w lemma="βουνός" msd="NVPM">βουνοὶ</w>
           <w lemma="ὁ" msd="DASM">τὸν</w>
           <w lemma="κύριος" msd="NVSM"><choice>
-            <abbr>
-              <hi rend="overline">κν</hi><expan>κύριον 
-              </expan></abbr></choice>
-
+              <abbr>
+                <hi rend="overline">κν</hi><expan>κύριον </expan></abbr>
+            </choice>
           </w>
           <pc>.</pc>
           <lb n="147"/>
@@ -1502,10 +1597,9 @@
           <w lemma="γῆ" msd="NGSF">γῆς</w>
           <w lemma="ὁ" msd="DASM">τὸν</w>
           <w lemma="κύριος" msd="NMSA"><choice>
-            <abbr>
-              <hi rend="overline">κν</hi><expan>κύριον 
-              </expan></abbr></choice>
-
+              <abbr>
+                <hi rend="overline">κν</hi><expan>κύριον </expan></abbr>
+            </choice>
           </w>
           <pc>.</pc>
           <w lemma="ὑμνέω" msd="VPAI2P">ὐμνεῖτε</w>
@@ -1524,10 +1618,9 @@
           <w lemma="πηγή" msd="NFP">πηγαὶ</w>
           <w lemma="ὁ" msd="DASM">τον</w>
           <w lemma="κύριος" msd="NMS"><choice>
-            <abbr>
-              <hi rend="overline">κν</hi><expan>κύριον 
-              </expan></abbr></choice>
-
+              <abbr>
+                <hi rend="overline">κν</hi><expan>κύριον </expan></abbr>
+            </choice>
           </w>
           <pc>.</pc>
           <w lemma="ὑμνέω" msd="VPAI2P">ὐμνεῖτε</w>
@@ -1548,10 +1641,9 @@
           <w lemma="ποταμός" msd="NVPM">ποταμοὶ</w>
           <w lemma="ὁ" msd="DASM">τον</w>
           <w lemma="κύριος" msd="NMSN"><choice>
-            <abbr>
-              <hi rend="overline">κν</hi><expan>κύριον 
-              </expan></abbr></choice>
-
+              <abbr>
+                <hi rend="overline">κν</hi><expan>κύριον </expan></abbr>
+            </choice>
           </w>
           <pc>.</pc>
           <lb n="155"/>
@@ -1578,10 +1670,9 @@
           <w lemma="ὕδωρ" msd="NDP">ὐδασι</w>
           <w lemma="ὁ" msd="DASM">τὸν</w>
           <w lemma="κύριος" msd="NMSA"><choice>
-            <abbr>
-              <hi rend="overline">κν</hi><expan>κύριον 
-              </expan></abbr></choice>
-
+              <abbr>
+                <hi rend="overline">κν</hi><expan>κύριον </expan></abbr>
+            </choice>
           </w>
           <pc>.↵</pc>
           <w lemma="ὑμνέω" msd="VPAI2P">ῡμνεῖτε</w>
@@ -1605,10 +1696,9 @@
           <w lemma="οὐρανός" msd="GSM">ουρ<hi rend="displaced-above">αν</hi>οῦ</w>
           <w lemma="ὁ" msd="ASM">τὸν</w>
           <w lemma="κύριος" msd="NMSA"><choice>
-            <abbr>
-              <hi rend="overline">κν</hi><expan>κύριον 
-              </expan></abbr></choice>
-
+              <abbr>
+                <hi rend="overline">κν</hi><expan>κύριον </expan></abbr>
+            </choice>
           </w>
           <pc>.</pc>
           <w lemma="ὑμνέω" msd="VPAI2P">ὐμνεῖτε</w>
@@ -1631,10 +1721,9 @@
           <w lemma="κτῆνος" msd="NAPN">κτηνη</w>
           <w lemma="ὁ" msd="DASM">τὸν</w>
           <w lemma="κύριος" msd="NMSM"><choice>
-            <abbr>
-              <hi rend="overline">κν</hi><expan>κύριον 
-              </expan></abbr></choice>
-
+              <abbr>
+                <hi rend="overline">κν</hi><expan>κύριον </expan></abbr>
+            </choice>
           </w>
           <pc>.</pc>
           <w lemma="ὑμνέω" msd="VPAI2P">ὑμνεῖτε</w>
@@ -1658,10 +1747,9 @@
           </w>
           <w lemma="ὁ" msd="DAM">τὸν</w>
           <w lemma="κύριος" msd="NAM"><choice>
-            <abbr>
-              <hi rend="overline">κν</hi><expan>κύριον 
-              </expan></abbr></choice>
-
+              <abbr>
+                <hi rend="overline">κν</hi><expan>κύριον </expan></abbr>
+            </choice>
           </w>
           <pc>.</pc>
           <lb n="166"/>
@@ -1686,10 +1774,9 @@
           </w>
           <w lemma="ὁ" msd="DASM">τὸν</w>
           <w lemma="κύριος" msd="NASM"><choice>
-            <abbr>
-              <hi rend="overline">κν</hi><expan>κύριον 
-              </expan></abbr></choice>
-
+              <abbr>
+                <hi rend="overline">κν</hi><expan>κύριον </expan></abbr>
+            </choice>
           </w>
           <pc>.</pc>
           <w lemma="ὑμνέω" msd="VPAI2P">ῡμνείτε</w>
@@ -1707,16 +1794,15 @@
           <w lemma="εὐλογέω" msd="VPAI2P">ευλογεῖτε</w>
           <w lemma="ἱερεύς" msd="NVPM">ιερεις</w>
           <w lemma="κύριος" msd="NMSN"><choice>
-            <abbr>
-              <hi rend="overline">κυ</hi><expan>Κυρίου 
-              </expan></abbr></choice>
-            </w>
+              <abbr>
+                <hi rend="overline">κυ</hi><expan>Κυρίου </expan></abbr>
+            </choice>
+          </w>
           <w lemma="ὁ" msd="DASM">τον</w>
           <w lemma="κύριος" msd="NMSA"><choice>
-            <abbr>
-              <hi rend="overline">κν</hi><expan>κύριον 
-              </expan></abbr></choice>
-
+              <abbr>
+                <hi rend="overline">κν</hi><expan>κύριον </expan></abbr>
+            </choice>
           </w>
           <pc>.</pc>
           <w lemma="ὑμνέω" msd="VPAI2P">üμνείτε</w>
@@ -1734,10 +1820,9 @@
           <w lemma="εὐλογέω" msd="VPAM2P">ευλογεῖτε</w>
           <w lemma="δοῦλος" msd="NVPM">δοῦλοι</w>
           <w lemma="κύριος" msd="NMSN"><choice>
-            <abbr>
-              <hi rend="overline">κν</hi><expan>κύριον 
-              </expan></abbr></choice>
-
+              <abbr>
+                <hi rend="overline">κν</hi><expan>κύριον </expan></abbr>
+            </choice>
           </w>
           <pc>.</pc>
           <w lemma="ὑμνέω" msd="VPAM2P">ῡμνεῖτε</w>
@@ -1759,10 +1844,9 @@
           <w lemma="δίκαιος" msd="JGP">δι<lb n="175"/>καίων</w>
           <w lemma="ὁ" msd="DASM">τὸν</w>
           <w lemma="κύριος" msd="NMSA"><choice>
-            <abbr>
-              <hi rend="overline">κν</hi><expan>κύριον 
-              </expan></abbr></choice>
-
+              <abbr>
+                <hi rend="overline">κν</hi><expan>κύριον </expan></abbr>
+            </choice>
           </w>
           <pc>.</pc>
           <w lemma="ὑμνέω" msd="VPAI2P">ὐμνεῖτε</w>
@@ -1783,10 +1867,9 @@
           <w lemma="καρδία" msd="NDSF">καρ<lb n="178"/>δία</w>
           <w lemma="ὁ" msd="DASM">τὸν</w>
           <w lemma="κύριος" msd="NMSA"><choice>
-            <abbr>
-              <hi rend="overline">κν</hi><expan>κύριον 
-              </expan></abbr></choice>
-
+              <abbr>
+                <hi rend="overline">κν</hi><expan>κύριον </expan></abbr>
+            </choice>
           </w>
           <w lemma="ὑμνέω" msd="VPAI2P">υμνειτε</w>
           <w lemma="καί" msd="C">και</w>
@@ -1806,10 +1889,9 @@
           <lb n="181"/>
           <w lemma="ὁ" msd="DASM">τον</w>
           <w lemma="κύριος" msd="NMSV"><choice>
-            <abbr>
-              <hi rend="overline">κν</hi><expan>κύριον 
-              </expan></abbr></choice>
-
+              <abbr>
+                <hi rend="overline">κν</hi><expan>κύριον </expan></abbr>
+            </choice>
           </w>
           <w lemma="ὑμνέω" msd="VPAI2P">ὐμνεῖτε</w>
           <w lemma="καί" msd="C">καὶ</w>
@@ -1883,10 +1965,9 @@
           <w lemma="ὁ" msd="DNPM">ὁι</w>
           <w lemma="σέβομαι" msd="VPPNPM">σεβόμενοι</w>
           <w lemma="κύριος" msd="NMSN"><choice>
-            <abbr>
-              <hi rend="overline">κν</hi><expan>κύριον 
-              </expan></abbr></choice>
-
+              <abbr>
+                <hi rend="overline">κν</hi><expan>κύριον </expan></abbr>
+            </choice>
           </w>
           <pc>.</pc>
           <w lemma="ὁ" msd="DASM">τον</w>
@@ -1917,6 +1998,159 @@
           <w lemma="ὁ" msd="DASM">τὸν</w>
           <pc>.</pc>
         </ab>
+    
+      <div type="translation" n="B54">
+        <div type="textpart" n="B54K3">
+          <ab n="B54K3V24" corresp="#Dan.3.24.P784.I1"> And they were walking in the middle of the
+            flame. Singing to God. And praising the Lord. </ab>
+          <ab n="B54K3V25" corresp="#Dan.3.25.P784.I1"> Then presenting himself, Azariah prayed in
+            this way and opened his mouth in the midst of the fire and said </ab>
+          <ab n="B54K3V26" corresp="#Dan.3.26.P784.I1"> Blessed be Lord, O God, of our ancestors.
+            Both praiseworthy and glorified for eternity. </ab>
+          <ab n="B54K3V27" corresp="#Dan.3.27.P784.I1"> For you are righteous in all which you have
+            done for us. And all your works are true, and your ways straightforward, and all your
+            judgments true. </ab>
+          <ab n="B54K3V28" corresp="#Dan.3.28.P784.I1"> For you have performed judgments of truths
+            according to everything that you have brought upon us, and on the city of our ancestors,
+            Jerusalem, because you have brought all things by truth and judgement on account of our
+            sins. </ab>
+          <ab n="B54K3V29" corresp="#Dan.3.29.P784.I1"> Because we removed ourselves away you, we
+            are sinful and lawless, and we fail in everything. </ab>
+          <ab n="B54K3V30" corresp="#Dan.3.30.P784.I1"> Because we did not listen to your commands.
+            We did not keep them nor done as you had commanded us so we may become well. </ab>
+          <ab n="B54K3V31" corresp="#Dan.3.31.P784.I1"> For everything which you have brought upon
+            us and all that you had done to us you did by true judgment. </ab>
+          <ab n="B54K3V32" corresp="#Dan.3.32.P784.I1"> For you have delivered us into the hands of
+            wicked enemies and deserters and to an unjust king and evillest of all on earth. </ab>
+          <ab n="B54K3V33" corresp="Dan.3.33.P785.I1"> And now there is no shame for us to open our
+            mouth and your slaves have become reproachful to you and your worshippers. </ab>
+          <ab n="B54K3V34" corresp="Dan.3.34.P785.I1"> Surely you have not delivered us completely,
+            on account of your name, and you do not reject your covenant. </ab>
+          <ab n="B54K3V35" corresp="Dan.3.35.P785.I1"> So, do not take away your mercy for us, on
+            account of Abraham, who was loved by you, and on account of Issac your servant and
+            Isreal, your sacred, </ab>
+          <ab n="B54K3V36" corresp="Dan.3.36.P785.I1"> who you told to multiply their seed like the
+            stars of the heavens and like the sand at the lip of the sea. </ab>
+          <ab n="B54K3V37" corresp="Dan.3.37.P785.I1"> That, Oh Lord, we have become lesser than all
+            the nations and we are humble among all the earth today because of our sins. </ab>
+          <ab n="B54K3V38" corresp="Dan.3.38.P785.I1"> For at this time there is no ruler, nor
+            prophet that leads us, or burnt offerings or offerings or gift or incense, no place to
+            offer fruit before you and to find mercy; </ab>
+          <ab n="B54K3V39" corresp="Dan.3.39.P785.I1"> Yet, with a broken soul and spirit of
+            humility we may be accepted; </ab>
+          <ab n="B54K3V40" corresp="Dan.3.40.P786.I1"> as with the burnt offerings of lambs and
+            bulls and thousands of fat lambs. So let our offering be before you that for there is no
+            shame for those who have trusted in you </ab>
+          <ab n="B54K3V41" corresp="Dan.3.41.P786.I1"> And now we follow with our whole heart, and
+            we fear you, and we seek your face. </ab>
+          <ab n="B54K3V42" corresp="Dan.3.42.P786.I1"> Do not put us to shame, but deal with us
+            according to your gentleness and according to the multitude of your mercy. </ab>
+          <ab n="B54K3V43" corresp="Dan.3.43.P786.I1"> Lord, Deliver us according to your wonders
+            and give glory to your name. </ab>
+          <ab n="B54K3V44" corresp="Dan.3.44.P786.I1"> And let all those who show evil to your
+            servants be put to shame, and let them be disgraced from all power, and let their
+            strength be broken. </ab>
+          <ab n="B54K3V45" corresp="Dan.3.45.P786.I1"> And let them know that you alone are Lord
+            God, glorious over all the inhabited world. </ab>
+          <ab n="B54K3V46" corresp="Dan.3.46.P786.I1"> So the servants of the king who threw them in
+            did not cease, fueling the furnace with tow and vine branches. </ab>
+          <ab n="B54K3V47" corresp="Dan.3.47.P786.I1"> And the flame poured out above the furnace,
+            reaching forty-nine cubits high. </ab>
+          <ab n="B54K3V48" corresp="Dan.3.48.P786.I1"> And it passed through and set on fire those
+            of the Chaldeans which it found around the furnace. </ab>
+            
+            <ab n="B54K3V49"
+              corresp="Dan.3.48.P786.I1"> Αnd the angel of the Lord came down at once for Azariah in
+              the furnace and drove out the flame of the fire from the furnace. </ab>
+            <ab n="B54K3V50" corresp="Dan.3.50.P787.I1"> And it made the middle of the furnace like
+              a whistling wind of dew, and the fire did not touch them at all, nor did it disturb or
+              harm them. </ab>
+            <ab n="B54K3V51" corresp="Dan.3.51.P787.I1"> Then the three, as with one voice, were
+              singing and glorifying and praising God in the furnace saying. </ab>
+            <ab n="B54K3V52" corresp="Dan.3.52.P787.I1"> Blessed are you, Lord O God of our
+              ancestors, and praiseworthy and highly exalted into eternity. And blessed is the name
+              of your glorious holiness, and praiseworthy and highly exalted forever. </ab>
+            <ab n="B54K3V53" corresp="Dan.3.53.P787.I1"> Blessed are you in the temple of your holy
+              glory, and praiseworthy and exceedingly glorious forever. </ab>
+            <ab n="B54K3V54" corresp="Dan.3.54.P787.I1"> Blessed are you, who sees the depths, who
+              sits upon the cherubim, and praiseworthy, and exalted forever. </ab>
+            <ab n="B54K3V55" corresp="Dan.3.55.P787.I1"> Blessed are you on the throne of your
+              kingdom, and highly praised and exalted forever. </ab>
+            <ab n="B54K3V56" corresp="Dan.3.56.P787.I1"> Blessed are you in the firmament of heaven,
+              and praiseworthy and glorified forever. </ab>
+            <ab n="B54K3V57" corresp="Dan.3.57.P787.I1"> Bless the Lord, all works of the Lord,
+              forever; praise and exalt him forever. </ab>
+            <ab n="B54K3V58" corresp="Dan.3.58.P788.I1"> Bless the lord, O heavens, sing and highly
+              exalt him forever. </ab>
+            <ab n="B54K3V59" corresp="Dan.3.59.P788.I1"> Bless the Lord, angels of the Lord; praise
+              and exalt him forever. </ab>
+            <ab n="B54K3V60" corresp="Dan.3.60.P788.I1"> Bless the Lord, all the waters above the
+              heavens; praise and exalt him forever. </ab>
+            <ab n="B54K3V61" corresp="Dan.3.61.P788.I1"> Bless the Lord, all powers! Praise and
+              exalt him forever. </ab>
+            <ab n="B54K3V62" corresp="Dan.3.62.P788.I1"> Bless the Lord, sun and moon. Praise and
+              exalt him forever. </ab>
+            <ab n="B54K3V63" corresp="Dan.3.63.P788.I1"> Bless the Lord, stars of heaven. Praise and
+              exalt him forever. </ab>
+            <ab n="B54K3V64" corresp="Dan.3.64.P788.I1"> Bless the Lord. All rain and dew, praise
+              and exalt him forever. </ab>
+            <ab n="B54K3V65" corresp="Dan.3.65.P788.I1"> Bless the Lord, all spirits, praise and
+              exalt him forever. </ab>
+            <ab n="B54K3V66" corresp="Dan.3.66.P788.I1"> Bless the Lord, fire and heat. Praise and
+              exalt him forever. </ab>
+            <ab n="B54K3V67" corresp="Dan.3.67.P788.I1"> Bless the Lord, nights and days, praise and
+              exalt him forever. </ab>
+            <ab n="B54K3V68" corresp="Dan.3.68.P788.I1"> Bless the Lord, light and darkness. Praise
+              and exalt him forever. <note>struggled with this translationation</note>
+            </ab>
+            <ab n="B54K3V69" corresp="Dan.3.69.P789.I1"> Bless the Lord, cold and heat. Praise and
+              exalt him forever. </ab>
+            <ab n="B54K3V70" corresp="Dan.3.70.P789.I1"> Bless the Lord, frost and snow. Praise and
+              exalt him forever. </ab>
+            <ab n="B54K3V71" corresp="Dan.3.71.P789.I1"> Bless the Lord, lighting and stirring
+              clouds. Praise and exalt him forever. </ab>
+            <ab n="B54K3V72" corresp="Dan.3.72.P789.I1"> Let the earth bless the Lord. Let it praise
+              and exalt him forever. </ab>
+            <ab n="B54K3V73" corresp="Dan.3.73.P789.I1"> Bless the Lord, mountains and hills. Praise
+              and exalt him forever. </ab>
+            <ab n="B54K3V74" corresp="Dan.3.74.P789.I1"> Bless the Lord, seas and streams. Praise
+              and exalt him forever. </ab>
+            <ab n="B54K3V75" corresp="Dan.3.75.P789.I1"> Bless the Lord, seas and rivers. Praise and
+              exalt him forever. </ab>
+            <ab n="B54K3V76" corresp="Dan.3.76.P789.I1"> Bless the Lord, springs. Praise and exalt
+              him forever. </ab>
+            <ab n="B54K3V77" corresp="Dan.3.77.P789.I1"> Bless the Lord, all the fish swimming in
+              the waters. Praise and exalt him forever. </ab>
+            <ab n="B54K3V78" corresp="Dan.3.78.P789.I1"> Bless the Lord, all birds of the sky,
+              Praise and exalt him forever. </ab>
+            <ab n="B54K3V79" corresp="Dan.3.79.P789.I1"> Bless the Lord, every flock and wild
+              beasts. Praise and exalt him forever. </ab>
+            <ab n="B54K3V80" corresp="Dan.3.80.P789.I1"> Bless the Lord, sons of man. Praise and
+              exalt him forever. </ab>
+            <ab n="B54K3V81" corresp="Dan.3.81.P790.I1"> Bless the Lord, O Israel. Praise and exalt
+              him forever. </ab>
+            <ab n="B54K3V82" corresp="Dan.3.82.P790.I1"> Bless the Lord, priests of the Lord. Praise
+              and exalt him forever. </ab>
+            <ab n="B54K3V83" corresp="Dan.3.83.P790.I1"> Bless the Lord, servants of the Lord.
+              Praise and exalt him forever. </ab>
+            <ab n="B54K3V84" corresp="Dan.3.84.P790.I1"> Bless the lord, spirits and souls of
+              righteousness. Praise and exalt him forever. </ab>
+            <ab n="B54K3V85" corresp="Dan.3.85.P790.I1"> Bless the lord, holy and humble of heart.
+              Praise and exalt him forever. </ab>
+            <ab n="B54K3V86" corresp="Dan.3.86.P790.I1"> Bless the lord, spirits and souls of
+              righteousness. Praise and exalt him forever. </ab>
+            <ab n="B54K3V87" corresp="Dan.3.87.P790.I1"> Bless the lord, holy and humble of heart.
+              Praise and exalt him forever. </ab>
+            <ab n="B54K3V88" corresp="Dan.3.88.P790.I1"> Bless the Lord, Hananiah, Azariah, and
+              Mishael, praise and exalt him forever. For he has delivered us from Hades and saved us
+              from the hand of death; and he rescued us from the midst of the burning flame and
+              saved us from the midst of the fire. </ab>
+            <ab n="B54K3V89" corresp="Dan.3.89.P790.I1"> Give full thanks to the Lord, for he is
+              good. For his mercy endures forever. </ab>
+            <ab n="B54K3V90" corresp="Dan.3.90.P790.I1"> Bless the Lord, all you who fear the Lord,
+              the God of gods; praise and give thanks, for his mercy endures forever. </ab>
+        </div>
+        </div>
       </div>
     </body>
   </text>
