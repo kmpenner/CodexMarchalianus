@@ -147,6 +147,36 @@
   </teiHeader>
   <text>
     <body>
+      <div type="introduction">
+        <p>This manuscript copy of the text of Bel seems to have originally been copied over by a
+          single scribe. This single scribe’s work was then edited at an unknown point in time, with
+          visibly different hands writing in the margins and reintroducing dropped/skipped over
+          words. These corrections within Bel are always minor, never changing the meaning of the
+          text. The textual features might indicate the particular way the scribe spoke, as the
+          letter nu (ν) is dropped far more frequently than any other letter, with epsilon, the next
+          most frequently dropped letter far behind. However, that is ultimately just pure
+          conjecture. The purpose of this edition of the text is to introduce another source within
+          the textual history of the apocryphal additions to Daniel to a wider audience of scholars
+          than those who previously had access to it, and to allow those scholars who did have
+          access to it some easier reading. It is this accessibility and readability informed
+          approach which most informed this edition of the text, which was also buttressed by an
+          interest in accuracy to the original manuscript. It is worthy of note that in service of
+          readability, where an individual word crosses over from one line to the next, a hyphen has
+          been added, and is indicated as being an addition by the current editors by its orange
+          hue. The transcription employed was not intended to be 1:1, and curious textual variants
+          such as individual words not found in other editions of the text (e.g. Ziegler’s or
+          Swete’s editions of the text) were contained. When I say that it was not intended to be
+          1:1, what is meant is that scribal idiosyncrasies such as nu-dropping at the end of a line
+          were not retained. Swete’s edition of the text was used as a base-text to pull text from,
+          which was then compared to and altered to conform to the Codex Marchalianus manuscript.
+          Ziegler’s edition of the text was used for the purposes of versification, and the
+          punctuation contained within Ziegler was imposed upon the critical edition of the text to
+          improve readability. </p>
+      </div>
+    </body>
+  </text>
+  <text>
+    <body>
       <div type="textpart" n="B55K1">
         <ab n="B55K1V1" xml:id="Bel.1.1.P827.I1">
           <w lemma="καί" msd="C">Καὶ</w>
@@ -560,15 +590,10 @@
         </ab>
         <ab n="B55K1V14">
           <w lemma="καί" msd="C">καὶ</w>
-          <w lemma="γίνομαι" msd="VAMI3S">
-            <app>
-              <rdg type="orig" hand="firsthand">ἐγνε</rdg>
-              <rdg type="corr" hand="corrector">
-                <seg type="line" subtype="above" n="@P8CL-Q">ἐγενε</seg>
-              </rdg>
-            </app>
-            <lb n="14" break="no"/>το </w>
-          <note>This correction needs reencoding.</note>
+          <w lemma="γίνομαι" msd="VAMI3S"><choice>
+              <sic>ἐγνε<lb n="14" break="no"/>το</sic>
+              <corr>ἐγενε<lb n="14" break="no"/>το</corr>
+            </choice></w>
           <w lemma="ὡς" msd="C">ὡς</w>
           <w lemma="ἐξέρχομαι" msd="VAAI3P">ἐξήλθοσαν</w>
           <w lemma="ἐκεῖνος" msd="RDMPN">ἐκεῖνοι</w><pc>.</pc>
@@ -583,15 +608,10 @@
           <w lemma="Βήλ" msd="NMSD">Βήλ</w>
           <lb n="16"/>
           <w lemma="καί" msd="C">καὶ</w>
-          <w lemma="ἐπιτάσσω" msd="VAAI3S">
-            <app>
-              <rdg type="orig" hand="firsthand">ἐπεξν</rdg>
-              <rdg type="corr" hand="corrector">
-                <seg type="line" subtype="above" n="@P8CL-Q">ἐπεταξεν</seg>
-              </rdg>
-            </app>
-          </w>
-          <note>This correction needs reencoding as choice/sic+corr</note>
+          <w lemma="ἐπιτάσσω" msd="VAAI3S"><choice>
+              <sic>ἐπεξν</sic>
+              <corr>ἐπεταξεν</corr>
+            </choice></w>
           <w lemma="Δανιήλ" msd="NMSN">Δανιὴλ</w>
           <w lemma="ὁ" msd="DMPD">τοῖς</w>
           <w lemma="παίδαριον" msd="NMPD">παίδαριοις</w>
@@ -613,21 +633,11 @@
           <w lemma="καί" msd="C">καὶ</w>
           <w lemma="ἐξέρχομαι" msd="VPAPMPN">ἒξελθόντες</w>
           <pc>,</pc>
-          <w lemma="κλείω" msd="VAAI3P">
-            <app>
-              <rdg type="orig" hand="firsthand">ἔκλισαν</rdg>
-              <rdg type="corr" hand="corrector">
-                <seg type="other" subtype="inbetween" n="@P8CL-Q">ἔκλεισαν</seg>
-              </rdg>
-            </app>
-          </w>
-          <note>This correction needs reencoding as choice/sic+corr</note>
-          <w lemma="ν" msd="N">
-            <abbr type="-%CE%BD">
-              <hi rend="overline">τη</hi>
-            </abbr>
-          </w>
-          <note>Encode the abbreviation as choice/abbr+expan, or just transcribe as ν</note>
+          <w lemma="κλείω" msd="VAAI3P"><choice>
+              <sic>ἔκλισαν</sic>
+              <corr>>ἔκλεισαν</corr>
+            </choice></w>
+          <w lemma="ν" msd="N">την</w>
           <lb n="20"/>
           <w lemma="θύρα" msd="NASF">θύραν</w>
           <w lemma="καί" msd="C">καὶ</w>
@@ -783,17 +793,10 @@
           <w lemma="καί" msd="C">καὶ</w>
           <w lemma="γιγνώσκω" msd="VAMM2S">γνῶθι</w>
           <pc>.</pc>
-          <app>
-            <rdg type="orig" hand="firsthand">
-              <pc>÷</pc>
-            </rdg>
-            <rdg type="corr" hand="corrector">
-              <seg type="margin" subtype="lineright" n="@P8CL-Q">
-                <w lemma="τις" msd="X">τινος</w>
-              </seg>
-            </rdg>
-          </app>
-          <note>This correction needs reencoding as choice/sic+corr</note>
+          <choice>
+            <sic><pc>÷</pc></sic>
+            <corr><w lemma="τις" msd="X">τινος</w></corr>
+          </choice>
           <w lemma="ὁ" msd="DAPN">τὰ</w>
           <w lemma="ἴχνος" msd="NAPN">ἴχνη</w>
           <lb n="7"/>
@@ -905,50 +908,81 @@
       <div type="translation" n="B55">
         <div type="textpart" n="B55K1">
           <ab n="B55K1V1" corresp="#Bel.1.1.P827.I1">
-            <ab n="B55K1V1" corresp="#Bel.1.1.P827.I1">
-              And King Astyages was added beside his fathers and Cyrus the Persian received his kingdom.</ab>
-            <ab n="B55K1V2" corresp="Bel.1.2.P827.I1">
-              And Daniel was a companion of the king and was esteemed above all his friends.</ab>
-            <ab n="B55K1V3" corresp="Bel.1.3.P827.I1">
-              And there was an idol to the Babylonians called Bel, and every day into him consumed twelve artaba of fine wheaten flour and forty sheep and six measures of wine.</ab>
-            <ab n="B55K1V4" corresp="Bel.1.4.P828.I1">
-              And the king worshipped it. And every day Daniel fell down making obeisance to God, but he made obeisance to his God. And he said to the king he would not make obeisance to Bel.</ab>
-            <ab n="B55K1V5" corresp="Bel.1.5.P828.I1"> 
-              And he said, "That I worship not an idol made by human hands, but the living God builder of heaven and earth, and lord of all flesh things.</ab>
-            <ab n="B55K1V6" corresp="Bel.1.6.P828.I1">
-              And the king said to him, "Does it not seem to you Bel is a living god, not see or much as eat and drink according to every day?</ab>
-            <ab n="B55K1V7" corresp="Bel.1.7.P828.I1">
-              And Daniel laughing said, "Do not be led astray, king, for it is clay from within indeed, from without but copper, and has never ate.</ab>
-            <ab n="B55K1V8" corresp="Bel.1.8.P828.I1"> 
-              And the king, being angered, summoned his priests and said to them, "If none says to me who devours this spent expenditure, you will die,</ab>
-            <ab n="B55K1V9" corresp="Bel.1.9.P828.I1">
-              but if you bring to light Bel devours it, Daniel will die, he that blasphemes Bel." And Daniel said to the king, "Begin according to what you say."</ab>
-            <ab n="B55K1V10" corresp="Bel.1.10.P828.I1">
-              And seventy priests of Bel go outside with their wives and children, and the king goes with Daniel, stranger of Bel.</ab>
-            <ab n="B55K1V11" corresp="Bel.1.11.P829.I1">
-              And the priests of Bel say, "Look! We run out, but you, O king, set before the food and mingle wine, closing the door and sealing it with your ring!</ab>
-            <ab n="B55K1V12" corresp="Bel.1.12.P829.I1">
-              And if coming early in the day you may not find all eaten up by Bel, we die, or Daniel the deceiver against us.</ab>
-            <ab n="B55K1V13" corresp="Bel.1.13.P829.I1">
-              And they despised, because they had hidden under the table an entrance, and would enter through it altogether and eat.</ab>
-            <ab n="B55K1V14" corresp="Bel.1.14.P829.I1">
-              And it happened as they came out that they, and the king put them beside the food to Bel. And Daniel ordered his servants and they carried ashes, and shook them across the temple in the presence of only the king, and going out shut the door and sealed it in by the ring of the king, and went away.</ab>
-            <ab n="B55K1V15" corresp="Bel.1.15.P829.I1">
-              But the priests and their wives and children went at night according to their habit, and ate up all and drank.</ab>
-            <ab n="B55K1V16" corresp="Bel.1.16.P829.I1">
-              And early in the morning the king awoke, and Daniel with him.</ab>
-            <ab n="B55K1V17" corresp="Bel.1.17.P829.I1">
-              And they said, "Safe seals, Daniel?" and he said, "Safe, king."</ab>
-            <ab n="B55K1V18" corresp="Bel.1.18.P829.I1">
-              And they began at once to open the door,  the king looking upon the table shouted in a loud voice, "You are great, Bel, and it is not treachery beside nor into you."</ab>
-            <ab n="B55K1V19" corresp="Bel.1.19.P830.I1">
-              And Daniel laughed, and taking possesion of himself the king did not go into him, and he said, "Look indeed at the ground, and know whose footprints these are!</ab>
-            <ab n="B55K1V20" corresp="Bel.1.20.P830.I1">
-              And the king said, "I see the footsteps of the men and the women and the children." </ab>
-            <ab n="B55K1V21" corresp="Bel.1.21.P830.I1">
-              And the king was growing angry then collected the priests and the wives and children of them, and brought to light the door hidden by them through which they would enter and consume the food upon the table.</ab>
-            <ab n="B55K1V22" corresp="Bel.1.22.P830.I1">
-              And the king killed them, and gave up Bel to Daniel, and overturned him and his temple.</ab>
+            <ab n="B55K1V1" corresp="#Bel.1.1.P827.I1"> And King Astyages was added beside his
+                fathers<anchor n="1" xml:id="B55K1V1-note-1"/> and Cyrus the Persian received his
+              kingdom.</ab>
+            <ab n="B55K1V2" corresp="Bel.1.2.P827.I1"> And Daniel was a companion of the king and
+              was esteemed above all his friends.</ab>
+            <ab n="B55K1V3" corresp="Bel.1.3.P827.I1"> And there was an idol to the Babylonians
+              called Bel, and every day into him consumed twelve artaba<anchor n="2"
+                xml:id="B55K1V3-note-2"/> fine wheaten flour and forty sheep and six measures<anchor
+                n="3" xml:id="B55K1V3-note-3"/> of wine.</ab>
+            <ab n="B55K1V4" corresp="Bel.1.4.P828.I1"> And the king worshipped it. And every day
+              Daniel fell down making obeisance to God, but he made obeisance to his God. And he
+              said to the king he would not make obeisance to Bel.</ab>
+            <ab n="B55K1V5" corresp="Bel.1.5.P828.I1"> And he said, "That I worship not an idol made
+              by human hands, but the living God builder of heaven and earth, and lord of all flesh
+                things<anchor n="4" xml:id="B55K1V5-note-4"/>".</ab>
+            <ab n="B55K1V6" corresp="Bel.1.6.P828.I1"> And the king said to him, "Does it not seem
+              to you Bel is a living god, not see or much as eat and drink according to every
+              day?</ab>
+            <ab n="B55K1V7" corresp="Bel.1.7.P828.I1"> And Daniel laughing said, "Do not be led
+              astray, king, for it is clay from within indeed, from without but copper, and has
+              never ate.</ab>
+            <ab n="B55K1V8" corresp="Bel.1.8.P828.I1"> And the king, being angered, summoned his
+              priests and said to them, "If none says to me who devours this spent expenditure, you
+              will die,</ab>
+            <ab n="B55K1V9" corresp="Bel.1.9.P828.I1"> but if you bring to light Bel devours it,
+              Daniel will die, he that blasphemes Bel." And Daniel said to the king, "Begin
+              according to what you say."</ab>
+            <ab n="B55K1V10" corresp="Bel.1.10.P828.I1"> And seventy priests of Bel go outside with
+              their wives and children, and the king goes with Daniel, stranger of Bel.</ab>
+            <ab n="B55K1V11" corresp="Bel.1.11.P829.I1"> And the priests of Bel say, "Look! We run
+              out, but you, O king, set before the food and mingle wine, closing the door and
+              sealing it with your ring!</ab>
+            <ab n="B55K1V12" corresp="Bel.1.12.P829.I1"> And if coming early in the day you may not
+              find all eaten up by Bel, we die, or Daniel the deceiver against us.</ab>
+            <ab n="B55K1V13" corresp="Bel.1.13.P829.I1"> And they despised<anchor n="5"
+                xml:id="B55K1V13-note-5"/>, because they had hidden under the table an entrance, and
+              would enter through it altogether and eat.</ab>
+            <ab n="B55K1V14" corresp="Bel.1.14.P829.I1"> And it happened as they came out that they,
+              and the king put them beside the food to Bel. And Daniel ordered his servants and they
+              carried ashes, and shook them across the temple in the presence of only the king, and
+              going out shut the door and sealed it in by the ring of the king, and went away.</ab>
+            <ab n="B55K1V15" corresp="Bel.1.15.P829.I1"> But the priests and their wives and
+              children went at night according to their habit, and ate up all and drank.</ab>
+            <ab n="B55K1V16" corresp="Bel.1.16.P829.I1"> And early in the morning the king awoke,
+              and Daniel with him.</ab>
+            <ab n="B55K1V17" corresp="Bel.1.17.P829.I1"> And they said, "Safe seals, Daniel?" and he
+              said, "Safe, king."</ab>
+            <ab n="B55K1V18" corresp="Bel.1.18.P829.I1"> And they began at once to open the door,
+              the king looking upon the table shouted in a loud voice, "You are great, Bel, and it
+              is not treachery beside nor into you."</ab>
+            <ab n="B55K1V19" corresp="Bel.1.19.P830.I1"> And Daniel laughed, and taking possesion of
+              himself the king did not go into him, and he said, "Look indeed at the ground, and
+              know whose footprints these are!</ab>
+            <ab n="B55K1V20" corresp="Bel.1.20.P830.I1"> And the king said, "I see the footsteps of
+              the men and the women and the children." </ab>
+            <ab n="B55K1V21" corresp="Bel.1.21.P830.I1"> And the king was growing angry then
+              collected the priests and the wives and children of them, and brought to light the
+              door hidden by them through which they would enter and consume the food upon the
+              table.</ab>
+            <ab n="B55K1V22" corresp="Bel.1.22.P830.I1"> And the king killed them, and gave up Bel
+              to Daniel, and overturned him and his temple.</ab>
+            <note corresp="B54K1V1-note-1">I chose to render this as "added beside his fathers" as
+              opposed to something like "died" because that would have removed the euphemistic
+              quality found within the original text.</note>
+            <note corresp="B54K1V3-note-2">An "artaba" is a Persian unit of measurement.</note>
+            <note corresp="B55K1V3-note-3">This, however, is translated from the Greek word for a
+              generic unit of measurement.</note>
+            <note corresp="B55K1V5-note-4">In the spirit of the original text, I have rendered
+              "πάσης σαρκὸς" as "flesh things" because while "things" does not technically appear in the original Greek,
+              it feels odd to say that God is the "lord of all flesh", as that makes it sound like
+              God is implied as being only the lord of the material things are made out of rather
+              than the things God is lording over being made of flesh, which I cannot fathom as
+              being the intended meaning</note>
+            <note corresp="B55K1V13-note-5">This is an awkward translation, but it is the closest to
+              how I could understand the text.</note>
           </ab>
         </div>
       </div>
