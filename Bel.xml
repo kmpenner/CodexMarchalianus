@@ -293,7 +293,7 @@
         <ab n="B55K1V5">
           <w lemma="ὁ" msd="DNSM">ὁ</w>
           <w lemma="δέ" msd="C">δὲ</w>
-          <w lemma="εἶπον" msd="VAAI3S">εἶπε</w>
+          <w lemma="εἶπον" msd="VAAI3S"><choice><reg>εἶπεν</reg><orig>εἶπε</orig></choice></w>
           <lb n="10"/>
           <w lemma="ὅτι" msd="C">ὁτι</w>
           <w lemma="οὐ" msd="D">οὐ</w>
