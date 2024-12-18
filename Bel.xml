@@ -236,7 +236,10 @@
           <w lemma="καί" msd="C">καὶ</w>
           <w lemma="δαπανάω" msd="VIAI3S">ἐδαπανῶ<lb n="2" break="no"/>το</w>
           <w lemma="εἰς" msd="P">εἰς</w>
-          <w lemma="αὐτός" msd="RPASN">αὐτὸ</w>
+          <w lemma="αὐτός" msd="RPASN"><choice>
+              <reg>αὐτὸν</reg>
+              <orig>αὐτὸ</orig>
+            </choice></w>
           <w lemma="ἕκαστος" msd="JGSF">ἑκάστης</w>
           <w lemma="ἡμέρα" msd="NGSF">ἡμέρας</w><pc>.</pc>
           <w lemma="σεμίδαλις" msd="NFSN">σεμιδάλε<lb n="3" break="no"/>ως</w>
