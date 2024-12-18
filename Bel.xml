@@ -793,17 +793,10 @@
           <w lemma="καί" msd="C">καὶ</w>
           <w lemma="γιγνώσκω" msd="VAMM2S">γνῶθι</w>
           <pc>.</pc>
-          <app>
-            <rdg type="orig" hand="firsthand">
-              <pc>÷</pc>
-            </rdg>
-            <rdg type="corr" hand="corrector">
-              <seg type="margin" subtype="lineright" n="@P8CL-Q">
-                <w lemma="τις" msd="X">τινος</w>
-              </seg>
-            </rdg>
-          </app>
-          <note>This correction needs reencoding as choice/sic+corr</note>
+          <choice>
+            <sic><pc>÷</pc></sic>
+            <corr><w lemma="τις" msd="X">τινος</w></corr>
+          </choice>
           <w lemma="ὁ" msd="DAPN">τὰ</w>
           <w lemma="ἴχνος" msd="NAPN">ἴχνη</w>
           <lb n="7"/>
