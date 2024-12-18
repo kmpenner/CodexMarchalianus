@@ -637,12 +637,7 @@
               <sic>ἔκλισαν</sic>
               <corr>>ἔκλεισαν</corr>
             </choice></w>
-          <w lemma="ν" msd="N">
-            <abbr type="-%CE%BD">
-              <hi rend="overline">τη</hi>
-            </abbr>
-          </w>
-          <note>Encode the abbreviation as choice/abbr+expan, or just transcribe as ν</note>
+          <w lemma="ν" msd="N">την</w>
           <lb n="20"/>
           <w lemma="θύρα" msd="NASF">θύραν</w>
           <w lemma="καί" msd="C">καὶ</w>
