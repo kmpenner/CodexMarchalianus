@@ -633,15 +633,10 @@
           <w lemma="καί" msd="C">καὶ</w>
           <w lemma="ἐξέρχομαι" msd="VPAPMPN">ἒξελθόντες</w>
           <pc>,</pc>
-          <w lemma="κλείω" msd="VAAI3P">
-            <app>
-              <rdg type="orig" hand="firsthand">ἔκλισαν</rdg>
-              <rdg type="corr" hand="corrector">
-                <seg type="other" subtype="inbetween" n="@P8CL-Q">ἔκλεισαν</seg>
-              </rdg>
-            </app>
-          </w>
-          <note>This correction needs reencoding as choice/sic+corr</note>
+          <w lemma="κλείω" msd="VAAI3P"><choice>
+              <sic>ἔκλισαν</sic>
+              <corr>>ἔκλεισαν</corr>
+            </choice></w>
           <w lemma="ν" msd="N">
             <abbr type="-%CE%BD">
               <hi rend="overline">τη</hi>
