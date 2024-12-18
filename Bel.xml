@@ -608,15 +608,10 @@
           <w lemma="Βήλ" msd="NMSD">Βήλ</w>
           <lb n="16"/>
           <w lemma="καί" msd="C">καὶ</w>
-          <w lemma="ἐπιτάσσω" msd="VAAI3S">
-            <app>
-              <rdg type="orig" hand="firsthand">ἐπεξν</rdg>
-              <rdg type="corr" hand="corrector">
-                <seg type="line" subtype="above" n="@P8CL-Q">ἐπεταξεν</seg>
-              </rdg>
-            </app>
-          </w>
-          <note>This correction needs reencoding as choice/sic+corr</note>
+          <w lemma="ἐπιτάσσω" msd="VAAI3S"><choice>
+              <sic>ἐπεξν</sic>
+              <corr>ἐπεταξεν</corr>
+            </choice></w>
           <w lemma="Δανιήλ" msd="NMSN">Δανιὴλ</w>
           <w lemma="ὁ" msd="DMPD">τοῖς</w>
           <w lemma="παίδαριον" msd="NMPD">παίδαριοις</w>
