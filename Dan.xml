@@ -234,19 +234,19 @@
           <w lemma="καί" msd="C">και</w>
           <w lemma="δοξάζω" msd="VPRPMS"><app><lem>δεδοξασμένος</lem><rdg wit="Q">δεδοξασμένος</rdg>
             <rdg wit="Swete">δοξάζω</rdg></app></w>
-          <w lemma="εἰς" msd="P">εις</w>
+          <w lemma="εἰς" msd="P"><choice><orig>ἐις</orig><reg>εἰς</reg></choice></w>
           <w lemma="ὁ" msd="DAPM">τοὺς</w>
           <lb n="9"/>
-          <w lemma="αἰών" msd="NAPM">αιῶνας</w>
+          <w lemma="αἰών" msd="NAPM"><choice><orig>ἀιῶνας</orig><reg>αἰών</reg></choice></w>
           <pc>·</pc>
         </ab>
         <ab n="B54K3V27" xml:id="Dan.3.27.P784.I1">
-          <w lemma="ὅτι" msd="C">ὸτι</w>
+          <w lemma="ὅτι" msd="C">ὅτι</w>
           <w lemma="δίκαιος" msd="JNSM">δίκαιος</w>
           <w lemma="εἰμί" msd="VPAI2S">εἶ</w>
           <w lemma="ἐπί" msd="P">ἐπι</w>
           <w lemma="πᾶς" msd="JDPN">πᾶσιν</w>
-          <pc>.</pc>
+          <choice><orig><pc>.</pc></orig><reg> </reg></choice> <note>removed comma used in text for better readibility</note>
           <w lemma="ὅς" msd="RPDP">ὁῖς</w>
           <lb n="10"/>
           <w lemma="ποιέω" msd="VAAI2S">εποίησας</w>
@@ -255,7 +255,7 @@
           <w lemma="καί" msd="C">καὶ</w>
           <w lemma="πᾶς" msd="JAPN">πάντα</w>
           <w lemma="ὁ" msd="DAPN">τὰ</w>
-          <w lemma="ἔργον" msd="NAPN">έργά</w>
+          <w lemma="ἔργον" msd="NAPN">ἔργον</w>
           <lb n="11"/>
           <w lemma="σός" msd="RP2GS">σου</w>
           <w lemma="ἀληθινός" msd="JNAPN">ἀληθινά</w>
@@ -263,7 +263,7 @@
           <w lemma="καί" msd="C">καὶ</w>
           <w lemma="εὐθύς" msd="JNPF">ὲυθεῖαι</w>
           <w lemma="ὁ" msd="NDPF">ᾱι</w>
-          <w lemma="ὁδός" msd="NDPF">οδοί</w>
+          <w lemma="ὁδός" msd="NDPF"><choice><orig>οδοί</orig><reg>ὁδός</reg></choice></w>
           <w lemma="σός" msd="RP2GS">σου</w>
           <pc>·</pc>
           <lb n="12"/>
@@ -292,59 +292,61 @@
           <pc>.</pc>
           <w lemma="καί" msd="C">καὶ</w>
           <w lemma="ἐπί" msd="P">ἐπι</w>
-          <w lemma="ὁ" msd="DASF">
-            <abbr type="abbreviation%20">
-              <hi rend="overline">την</hi>
-            </abbr>
+           <w lemma="ὁ" msd="DASF"><choice>
+             <abbr><hi rend="overline">τη</hi><expan>την</expan>
+            </abbr></choice>
           </w>
           <lb n="15"/>
           <w lemma="πόλις" msd="NASF">πόλιν</w>
           <w lemma="ὁ" msd="DASF">τὴν</w>
           <w lemma="ἅγιος" msd="AASF">ἀγιάν</w>
-          <pc>.</pc>
+          <choice><orig><pc>.</pc></orig><reg> </reg></choice>
           <w lemma="ὁ" msd="DASF">τὴν</w>
           <w lemma="ὁ" msd="DGPM">τῶν</w>
-          <w lemma="πρότερος" msd="A-GPM">
-            <abbr type="nomSac">
-              <hi rend="overline">πρων</hi>
-            </abbr>
-          </w>
+          <w lemma="πρότερος" msd="A-GPM"><choice>
+            <abbr><hi rend="overline">πρων</hi><expan>πατέρων</expan>
+            </abbr></choice>
+            </w>
           <lb n="16"/>
           <w lemma="ἐγώ" msd="RP1GP">ἠμῶν</w>
-          <w lemma="Ἱερουσαλήμ" msd="N-PRI">
+          <w lemma="Ἱερουσαλήμ" msd="N-PRI"><choice>
             <abbr type="nomSac">
-              <hi rend="overline">Ϊλημ</hi>
-            </abbr>
+              <hi rend="overline">Ϊλημ</hi><expan>Ἰερουσαλήμ</expan>
+            </abbr></choice>
           </w>
           <pc>˙</pc>
           <w lemma="ὅτι" msd="C">οτι</w>
           <w lemma="ἐν" msd="P">ἐν</w>
-          <w lemma="ἀλήθεια" msd="NDSF">αληθεία</w>
+          <w lemma="ἀλήθεια" msd="NDSF"><choice>
+            <orig>αληθεία</orig><reg>ἀλήθεια</reg>
+          </choice></w>
           <w lemma="καί" msd="C">καὶ</w>
-          <w lemma="κρίσις" msd="NDSF">κρι<lb break="no" n="17"/>σει</w>
+          <w lemma="κρίσις" msd="NDSF">κρί<lb break="no" n="17"/>σει</w>
           <w lemma="ἐπάγω" msd="VAAI2S">ἐπήγαγας</w>
-          <w lemma="οὗτος" msd="DAPN">ταῦτα</w>
+          <w lemma="οὗτος" msd="DAPN">ταῦτα</w><note>Swete has παντα before ταυτα</note>
           <w lemma="πᾶς" msd="JAPN">πάντα</w>
           <pc>.</pc>
           <w lemma="διὰ" msd="P">διὰ</w>
           <w lemma="ὁ" msd="DAPF">τὰς</w>
-          <w lemma="ἀ" msd="X">ἀ</w>
-          <lb n="18"/>
-          <w lemma="ἁμαρτία" msd="NAPF">μαρτιάς</w>
-          <w lemma="ἐγώ" msd="RP1GP">ημῶν</w>
+          <w lemma="ἁμαρτία" msd="NAPF">ἀ
+          <lb n="18"/>μαρτιάς</w>
+          <w lemma="ἐγώ" msd="RP1GP">ἡμῶν</w>
           <pc>·</pc>
         </ab>
         <ab n="B54K3V29" xml:id="Dan.3.29.P784.I1">
           <w lemma="ὅτι" msd="C">ὃτι</w>
-          <w lemma="ἁμαρτάνω" msd="VAAI1P">ημάρτομεν</w>
+          <w lemma="ἁμαρτάνω" msd="VAAI1P"><choice>
+            <orig>ημάρτομεν</orig><reg>ἡμάρτομεν</reg>
+          </choice></w>
           <pc>.</pc>
           <lb n="19"/>
           <w lemma="καί" msd="C">καὶ</w>
           <w lemma="ἀνομέω" msd="VAAI1P">ὴνομήσαμεν</w>
           <w lemma="ἀφίστημι" msd="VPAPNPM">ἀποστάντες</w>
-          <w lemma="ἀπό" msd="P">απο</w>
+          <w lemma="ἀπό" msd="P">ἀπο</w>
           <lb n="20"/>
           <w lemma="σύ" msd="RP2GS">σοῦ</w>
+          <pc>·</pc>
           <w lemma="καί" msd="C">και</w>
           <w lemma="ἐξαμαρτάνω" msd="VAAI1P">ἐξημάρτομεν</w>
           <w lemma="ἐν" msd="P">εν</w>
@@ -357,14 +359,16 @@
           <w lemma="ὁ" msd="DGPM">τῶν</w>
           <w lemma="ἐντολή" msd="NGPF">ἐντολῶν</w>
           <w lemma="σύ" msd="RP2GS">σου</w>
-          <w lemma="οὐ" msd="D">όυχ</w>
-          <w lemma="ἀκούω" msd="VAAI1P">ἢκουσαμ<abbr type="abbreviation%20"><hi rend="overline"
-                >εν</hi></abbr></w>
+          <w lemma="οὐ" msd="D">όυκ</w>
+          <w lemma="ἀκούω" msd="VAAI1P"><choice><abbr>
+            <hi rend="overline">ἢκουσαμ</hi><expan>ἢκουσαμεν</expan>
+          </abbr></choice>
+          </w>
           <pc>˙</pc>
           <lb n="22"/>
           <w lemma="οὐδέ" msd="C">ουδε</w>
           <w lemma="συντηρέω" msd="VAAI1P">συνετηρήσαμεν</w>
-          <pc>.</pc>
+          <pc>·</pc>
           <w lemma="οὐδέ" msd="C">οὐδε</w>
           <w lemma="ποιέω" msd="VAAI1P">ἐποιή<lb break="no" n="23"/>σαμεν</w>
           <pc>.</pc>
@@ -374,19 +378,23 @@
           <pc>.</pc>
           <w lemma="ἵνα" msd="C">ῖνα</w>
           <lb n="24"/>
-          <w lemma="ἐν" msd="P">ἐν</w>
+          <w lemma="ἐν" msd="P">ἐυ</w>
           <w lemma="ἐγώ" msd="RP1DP">ἡμιν</w>
           <w lemma="γίγνομαι" msd="VAMI3S">γένηται</w>
-          <pc>·</pc>
+          <choice>
+            <orig><pc>·</pc></orig><reg><pc>.</pc></reg>
+          </choice>
         </ab>
         <ab n="B54K3V31" xml:id="Dan.3.31.P784.I1">
           <app>
             <rdg type="orig" hand="firsthand">
               <w lemma="καί" msd="C">και</w>
               <w lemma="πᾶς" msd="JAPN">παντα</w>
-              <w lemma="ὅσος" msd="JAPN">οσα</w>
+              <w lemma="ὅσος" msd="JAPN"><choice><orig>ὀσα</orig><reg>ὅσα</reg>
+              </choice></w>
               <w lemma="ἐγώ" msd="RP1DP">ημιν</w>
               <w lemma="ἐπάγω" msd="VAAI2S">επηγαγες</w>
+              <w lemma="ἐγώ" msd="RP1DP">ημιν</w>
             </rdg>
             <rdg type="corr" hand="corrector1">
               <seg type="margin" subtype="lineleft" n="@P7CL-Q">
@@ -509,10 +517,10 @@
           <w lemma="σύ" msd="RP2GS">σου</w>
           <pc>·</pc>
           <w lemma="καί" msd="C">και</w>
-          <w lemma="Ἰακώβ" msd="NPRI">
-            <abbr type="nomSac">
-              <hi rend="overline">Ιηλ</hi>
-            </abbr>
+          <w lemma="Ἰακώβ" msd="NPRI"><choice>
+            <abbr>
+              <hi rend="overline">Ιηλ</hi><expan>Ἰσραὴλ 
+              </expan></abbr></choice>
           </w>
           <pc>.</pc>
           <w lemma="ὁ" msd="NASM">τὸν</w>
@@ -623,10 +631,9 @@
           <w lemma="συντρίβω" msd="VPRPDSF">συντετριμμέ<lb break="no" n="50"/>νη</w>
           <pc>.</pc>
           <w lemma="καί" msd="C">και</w>
-          <w lemma="πνεῦμα" msd="NDSN">
-            <abbr type="%CF%80%CE%BD%CE%B5%CF%85%CE%BC%CE%B1%CF%84%CE%B9">
-              <hi rend="overline">πνι</hi>
-            </abbr>
+          <w lemma="πνεῦμα" msd="NDSN"><choice>
+            <abbr>
+              <hi rend="overline">πνι</hi><expan>πνεύματι </expan></abbr></choice>
           </w>
           <w lemma="ταπείνωσις" msd="NGSF">ταπεινωσεως</w>
           <w lemma="προσδέχομαι" msd="VAPI1P">προσδε<lb break="no" n="51"/>χθείημεν</w>
@@ -639,11 +646,7 @@
           <w lemma="ταῦρος" msd="NGPM">ταύρων</w>
           <w lemma="καί" msd="C">καὶ</w>
           <w lemma="ἐν" msd="P">ἐν</w>
-          <w lemma="μυριάς" msd="NDPF">
-            <abbr type="-%CE%BD">
-              <hi rend="overline">μυριάσι</hi>
-            </abbr>
-          </w>
+          <w lemma="μυριάς" msd="NDPF">μυριάσι</w>
           <lb n="53"/>
           <w lemma="ἀρνός" msd="NGPM">αρνῶν</w>
           <w lemma="πίων" msd="GAPM">πιόνων</w>
@@ -768,16 +771,16 @@
           <w lemma="σύ" msd="RP2NS">συ</w>
           <w lemma="εἰμί" msd="VPAI2S">ει</w>
           <lb n="68"/>
-          <w lemma="κύριος" msd="NVSM">
+          <w lemma="κύριος" msd="NVSM"><choice>
             <abbr type="nomSac">
-              <hi rend="overline">κς</hi>
-            </abbr>
-          </w>
+              <hi rend="overline">κς</hi><expan>Κύριος</expan>
+              </abbr></choice>
+            </w>
           <w lemma="ὁ" msd="DNSM">ο</w>
-          <w lemma="θεός" msd="NVSM">
+          <w lemma="θεός" msd="NVSM"><choice>
             <abbr type="nomSac">
-              <hi rend="overline">θς</hi>
-            </abbr>
+              <hi rend="overline">θς</hi><expan>θεὸς</expan>
+            </abbr></choice>
           </w>
           <w lemma="μόνος" msd="JNSM">μονος</w>
           <w lemma="καί" msd="C">και</w>
@@ -843,10 +846,10 @@
           <w lemma="ὁ" msd="DNSM">ο</w>
           <w lemma="δέ" msd="C">δε</w>
           <w lemma="ἄγγελος" msd="NNSM">αγγελος</w>
-          <w lemma="κύριος" msd="NNSM">
-            <abbr type="nomSac">
-              <hi rend="overline">κυ</hi>
-            </abbr>
+          <w lemma="κύριος" msd="NNSM"><choice>
+            <abbr>
+              <hi rend="overline">κυ</hi><expan>Κυρίου 
+              </expan></abbr></choice>
           </w>
           <w lemma="συγκαταβαίνω" msd="VAAI3S">συγκατεβη</w>
           <w lemma="ἅμα" msd="D">αμα</w>
@@ -909,11 +912,11 @@
           <w lemma="εὐλογέω" msd="VIAI3P">ἐυλόγουν</w>
           <lb n="86"/>
           <w lemma="ὁ" msd="DASM">τον</w>
-          <w lemma="θεός" msd="NMSN">
-            <abbr type="nomSac">
-              <hi rend="overline">θν</hi>
-            </abbr>
-          </w>
+          <w lemma="θεός" msd="NMSN"><choice>
+            <abbr>
+              <hi rend="overline">θν</hi><expan>θεὸν 
+              </expan></abbr></choice>
+            </w>
           <w lemma="ἐν" msd="P">εν</w>
           <w lemma="ὁ" msd="DDSF">τῆ</w>
           <w lemma="κάμινος" msd="NDSF">καμινω</w>
@@ -923,23 +926,23 @@
         <ab n="B54K3V52" xml:id="Dan.3.52.P787.I1">
           <w lemma="εὐλογητός" msd="JNSM">ευλογητὸς</w>
           <w lemma="εἰμί" msd="VPAI2S">εῖ</w>
-          <w lemma="κύριος" msd="NNSM">
-            <abbr type="nomSac">
-              <hi rend="overline">κε</hi>
-            </abbr>
-          </w>
+          <w lemma="κύριος" msd="NNSM"><choice>
+            <abbr>
+              <hi rend="overline">κε</hi><expan>Κύριε 
+              </expan></abbr></choice>
+            </w>
           <w lemma="ὁ" msd="DNSM">ὁ</w>
-          <w lemma="θεός" msd="NNSM">
-            <abbr type="nomSac">
-              <hi rend="overline">θς</hi>
-            </abbr>
-          </w>
+          <w lemma="θεός" msd="NNSM"><choice>
+            <abbr>
+              <hi rend="overline">θς</hi><expan>θεὸς 
+              </expan></abbr></choice>
+           </w>
           <w lemma="ὁ" msd="DMPG">τῶν</w>
-          <w lemma="πατήρ" msd="NMPG">
-            <abbr type="nomSac">
-              <hi rend="overline">πρων</hi>
-            </abbr>
-          </w>
+          <w lemma="πατήρ" msd="NMPG"><choice>
+            <abbr>
+              <hi rend="overline">πρων</hi><expan>πατέρων 
+              </expan></abbr></choice>
+            </w>
           <lb n="88"/>
           <w lemma="ἐγώ" msd="RP1GP">ἡμῶν</w>
           <pc>.</pc>
@@ -1079,17 +1082,17 @@
           <w lemma="πᾶς" msd="JAPN">πάντα</w>
           <w lemma="ὁ" msd="DAPN">τὰ</w>
           <w lemma="ἔργον" msd="NAPN">ἔργα</w>
-          <w lemma="κύριος" msd="NMSN">
-            <abbr type="nomSac">
-              <hi rend="overline">κυ</hi>
-            </abbr>
-          </w>
+          <w lemma="κύριος" msd="NMSN"><choice>
+            <abbr>
+              <hi rend="overline">κυ</hi><expan>Κυρίου 
+              </expan></abbr></choice>
+            </w>
           <w lemma="ὁ" msd="DASM">τον</w>
-          <w lemma="κύριος" msd="NMSA">
-            <abbr type="nomSac">
-              <hi rend="overline">κν</hi>
-            </abbr>
-          </w>
+          <w lemma="κύριος" msd="NMSA"><choice>
+            <abbr>
+              <hi rend="overline">κυ</hi><expan>κύριον 
+              </expan></abbr></choice>
+                      </w>
           <pc>.</pc>
           <lb n="105"/>
           <w lemma="εἰς" msd="P">εις</w>
@@ -1108,17 +1111,17 @@
         <ab n="B54K3V58" xml:id="Dan.3.58.P788.I1">
           <w lemma="εὐλογέω" msd="VPAI2P">εὐλογεῖτε</w>
           <w lemma="ἄγγελος" msd="NVPM">ἄγγελοι</w>
-          <w lemma="κύριος" msd="NMSN">
-            <abbr type="nomSac">
-              <hi rend="overline">κυ</hi>
-            </abbr>
-          </w>
+          <w lemma="κύριος" msd="NMSN"><choice>
+            <abbr>
+              <hi rend="overline">κυ</hi><expan>Κυρίου 
+              </expan></abbr></choice>
+            </w>
           <w lemma="ὁ" msd="DASM">τὸν</w>
-          <w lemma="κύριος" msd="NMSA">
-            <abbr type="nomSac">
-              <hi rend="overline">κν</hi>
-            </abbr>
-          </w>
+          <w lemma="κύριος" msd="NMSA"><choice>
+            <abbr>
+              <hi rend="overline">κν</hi><expan>κύριον 
+              </expan></abbr></choice>
+            </w>
           <pc>.</pc>
           <w lemma="ὑμνέω" msd="VPAI2P">ὐμνεῖ<lb break="no" n="107"/>τε</w>
           <w lemma="καί" msd="C">καὶ</w>
@@ -1134,11 +1137,11 @@
           <w lemma="εὐλογέω" msd="VPAI2P">ευλογειτε</w>
           <w lemma="οὐρανός" msd="NVPM">ουρανοι</w>
           <w lemma="ὁ" msd="DASM">τον</w>
-          <w lemma="κύριος" msd="NMSM">
-            <abbr type="nomSac">
-              <hi rend="overline">κν</hi>
-            </abbr>
-          </w>
+          <w lemma="κύριος" msd="NMSM"><choice>
+            <abbr>
+              <hi rend="overline">κν</hi><expan>κύριον 
+              </expan></abbr></choice>
+           </w>
           <w lemma="ὑμνέω" msd="VPAI2P">υμνειτε</w>
           <lb n="109"/>
           <w lemma="καὶ" msd="C">καὶ</w>
@@ -1159,11 +1162,11 @@
           <w lemma="ὁ" msd="DGSM">τοῦ</w>
           <w lemma="οὐρανός" msd="NGSM">ουρανοῦ</w>
           <w lemma="ὁ" msd="DAM">τὸν</w>
-          <w lemma="κύριος" msd="NMSA">
-            <abbr type="nomSac">
-              <hi rend="overline">κν</hi>
-            </abbr>
-          </w>
+          <w lemma="κύριος" msd="NMSA"><choice>
+            <abbr>
+              <hi rend="overline">κν</hi><expan>κύριον 
+              </expan></abbr></choice>
+           </w>
           <pc>.</pc>
           <w lemma="ὑμνέω" msd="VPAI2P">ὐμνεῖτε</w>
           <w lemma="καί" msd="C">καὶ</w>
@@ -1180,18 +1183,18 @@
           <w lemma="εὐλογέω" msd="VPAI2P">ευλογεῖτε</w>
           <w lemma="πᾶς" msd="JNPF">πᾶσαι</w>
           <w lemma="ὁ" msd="NPNF">ἁι</w>
-          <w lemma="δύναμις" msd="NPNF">δυνάμεις</w>
-          <w lemma="κύριος" msd="NMSN">
-            <abbr type="nomSac">
-              <hi rend="overline">κυ</hi>
-            </abbr>
-          </w>
+          <w lemma="δύναμις" msd="NPNF">δυνάμεις</w> <note> "δυνάμεις῾ vs sweets "δύναμις"</note>
+          <w lemma="κύριος" msd="NMSN"><choice>
+            <abbr>
+              <hi rend="overline">κυ</hi><expan>Κυρίου <note> writer uses "κυ τον κν" where as in Swete it has "δύναμις τὸν κύριον" </note>
+              </expan></abbr></choice>
+            </w>
           <w lemma="ὁ" msd="DASM">τὸν</w>
-          <w lemma="κύριος" msd="NMSA">
-            <abbr type="nomSac">
-              <hi rend="overline">κν</hi>
-            </abbr>
-          </w>
+          <w lemma="κύριος" msd="NMSA"><choice>
+            <abbr>
+              <hi rend="overline">κν</hi><expan>κύριον 
+              </expan></abbr></choice>
+            </w>
           <pc>.</pc>
           <lb n="113"/>
           <w lemma="ὑμνέω" msd="VPAI2P">ὐμνεῖτε</w>
@@ -1211,11 +1214,11 @@
           <w lemma="καί" msd="C">και</w>
           <w lemma="σελήνη" msd="NNSF">σεληνη</w>
           <w lemma="ὁ" msd="DASM">τον</w>
-          <w lemma="κύριος" msd="NNSM">
-            <abbr type="nomSac">
-              <hi rend="overline">κν</hi>
-            </abbr>
-          </w>
+          <w lemma="κύριος" msd="NNSM"><choice>
+            <abbr>
+              <hi rend="overline">κν</hi><expan>κύριον 
+              </expan></abbr></choice>
+           </w>
           <lb n="116"/>
           <w lemma="ὑμνέω" msd="VPAI2P">υμνειτε</w>
           <w lemma="καί" msd="C">και</w>
@@ -1233,11 +1236,11 @@
           <w lemma="ὁ" msd="DGSM">τοῦ</w>
           <w lemma="οὐρανός" msd="NGSM">ουρανοῦ</w>
           <w lemma="ὁ" msd="DASM">τὸν</w>
-          <w lemma="κύριος" msd="NMSA">
-            <abbr type="nomSac">
-              <hi rend="overline">κν</hi>
-            </abbr>
-          </w>
+          <w lemma="κύριος" msd="NMSA"><choice>
+            <abbr>
+              <hi rend="overline">κν</hi><expan>κύριον 
+              </expan></abbr></choice>
+            </w>
           <pc>.</pc>
           <lb n="119"/>
           <w lemma="ὑμνέω" msd="VPAI2P">ῦμνεῖτε</w>
@@ -1258,20 +1261,20 @@
           <w lemma="καί" msd="C">καὶ</w>
           <w lemma="δρόσος" msd="NNSF">δρόσος</w>
           <w lemma="ὁ" msd="DASM">τὸν</w>
-          <w lemma="κύριος" msd="NMSM">
-            <abbr type="nomSac">
-              <hi rend="overline">κν</hi>
-            </abbr>
-          </w>
+          <w lemma="κύριος" msd="NMSM"><choice>
+            <abbr>
+              <hi rend="overline">κν</hi><expan>κύριον 
+              </expan></abbr></choice>
+            </w>
           <lb n="122"/>
           <w lemma="ὑμνέω" msd="VPAI2P">ὕμνεῖτε</w>
           <w lemma="καί" msd="C">καὶ</w>
           <w lemma="ὑπερυψόω" msd="VPAI2P">ύπερῡψοῦτε</w>
-          <w lemma="κύριος" msd="NMSM">
-            <abbr type="nomSac">
-              <hi rend="overline">κν</hi>
-            </abbr>
-          </w>
+          <w lemma="κύριος" msd="NMSM"><choice>
+            <abbr>
+              <hi rend="overline">κν</hi><expan>κύριον 
+              </expan></abbr></choice>
+           </w>
           <lb n="123"/>
           <w lemma="εἰς" msd="P">ἐις</w>
           <w lemma="ὁ" msd="DAMP">τοὺς</w>
@@ -1285,11 +1288,11 @@
           <w lemma="ὁ" msd="DAPN">τὰ</w>
           <w lemma="πνεῦμα" msd="NAPN">πνεύματα</w>
           <w lemma="ὁ" msd="DASM">τὸν</w>
-          <w lemma="κύριος" msd="NMSM">
-            <abbr type="nomSac">
-              <hi rend="overline">κν</hi>
-            </abbr>
-          </w>
+          <w lemma="κύριος" msd="NMSM"><choice>
+            <abbr>
+              <hi rend="overline">κν</hi><expan>κύριον 
+              </expan></abbr></choice>
+           </w>
           <lb n="125"/>
           <w lemma="ὑμνέω" msd="VPAM2P">ῡμνεῖτε</w>
           <w lemma="καί" msd="C">καὶ</w>
@@ -1308,10 +1311,10 @@
           <w lemma="καὶ" msd="C">καὶ</w>
           <w lemma="καῦμα" msd="NNSN">καῦμα</w>
           <w lemma="ὁ" msd="DASM">τὸν</w>
-          <w lemma="κύριος" msd="NNSM">
-            <abbr type="nomSac">
-              <hi rend="overline">κν</hi>
-            </abbr>
+          <w lemma="κύριος" msd="NNSM"><choice>
+            <abbr>
+              <hi rend="overline">κν</hi><expan>κύριον 
+              </expan></abbr></choice>
           </w>
           <lb n="128"/>
           <w lemma="ὑμνέω" msd="VPAI2P">ύμνεῖτε</w>
@@ -1331,11 +1334,11 @@
           <w lemma="καί" msd="C">και</w>
           <w lemma="καῦμα" msd="NNSN">καῦμα</w>
           <w lemma="ὁ" msd="DASM">τὸν</w>
-          <w lemma="κύριος" msd="NMSM">
-            <abbr type="nomSac">
-              <hi rend="overline">κν</hi>
-            </abbr>
-          </w>
+          <w lemma="κύριος" msd="NMSM"><choice>
+            <abbr>
+              <hi rend="overline">κν</hi><expan>κύριον 
+              </expan></abbr></choice>
+            </w>
           <lb n="131"/>
           <w lemma="ὑμνέω" msd="VPAI2P">ὑμνεῖτε</w>
           <w lemma="καί" msd="C">καὶ</w>
@@ -1354,10 +1357,10 @@
           <w lemma="καί" msd="C">κὰι</w>
           <w lemma="χιών" msd="NVPF">χιόνες</w>
           <w lemma="ὁ" msd="DASM">τὸν</w>
-          <w lemma="κύριος" msd="NMSM">
-            <abbr type="nomSac">
-              <hi rend="overline">κν</hi>
-            </abbr>
+          <w lemma="κύριος" msd="NMSM"><choice>
+            <abbr>
+              <hi rend="overline">κν</hi><expan>κύριον 
+              </expan></abbr></choice>
           </w>
           <pc>.</pc>
           <lb n="134"/>
@@ -1378,10 +1381,10 @@
           <w lemma="καί" msd="C">και</w>
           <w lemma="ἡμέρα" msd="NVPF">ημεραι</w>
           <w lemma="ὁ" msd="DASM">τον</w>
-          <w lemma="κύριος" msd="NMSM">
-            <abbr type="nomSac">
-              <hi rend="overline">κν</hi>
-            </abbr>
+          <w lemma="κύριος" msd="NMSM"><choice>
+            <abbr>
+              <hi rend="overline">κν</hi><expan>κύριον 
+              </expan></abbr></choice>
           </w>
           <lb n="137"/>
           <w lemma="ὑμνέω" msd="VPAI2P">υμνειτε</w>
@@ -1400,11 +1403,11 @@
           <w lemma="καί" msd="C">καὶ</w>
           <w lemma="σκότος" msd="NNSN">σκότος</w>
           <w lemma="ὁ" msd="DASM">τὸν</w>
-          <w lemma="κύριος" msd="NMSM">
-            <abbr type="nomSac">
-              <hi rend="overline">κν</hi>
-            </abbr>
-          </w>
+          <w lemma="κύριος" msd="NMSM"><choice>
+            <abbr>
+              <hi rend="overline">κν</hi><expan>κύριον 
+              </expan></abbr></choice>
+</w>
           <pc>.</pc>
           <lb n="140"/>
           <w lemma="ὑμνέω" msd="VPAI2P">ῡμνεῖτε</w>
@@ -1424,10 +1427,10 @@
           <w lemma="νεφέλη" msd="NVPF">νεφέλαι</w>
           <lb n="142"/>
           <w lemma="ὁ" msd="DASM">τὸν</w>
-          <w lemma="κύριος" msd="NMSM">
-            <abbr type="nomSac">
-              <hi rend="overline">κν</hi>
-            </abbr>
+          <w lemma="κύριος" msd="NMSM"><choice>
+            <abbr>
+              <hi rend="overline">κν</hi><expan>κύριον 
+              </expan></abbr></choice>
           </w>
           <pc>.</pc>
           <w lemma="ὑμνέω" msd="VPAI2P">ὐμνεῖτε</w>
@@ -1446,10 +1449,10 @@
           <w lemma="ὁ" msd="NFSN">ἡ</w>
           <w lemma="γῆ" msd="NFSN">γῆ</w>
           <w lemma="ὁ" msd="DASM">τὸν</w>
-          <w lemma="κύριος" msd="NMSA">
-            <abbr type="nomSac">
-              <hi rend="overline">κν</hi>
-            </abbr>
+          <w lemma="κύριος" msd="NMSA"><choice>
+            <abbr>
+              <hi rend="overline">κν</hi><expan>κύριον 
+              </expan></abbr></choice>
           </w>
           <pc>.</pc>
           <w lemma="ὑμνέω" msd="VPAI3S">υμνεῖτω</w>
@@ -1469,10 +1472,11 @@
           <w lemma="καὶ" msd="C">καὶ</w>
           <w lemma="βουνός" msd="NVPM">βουνοὶ</w>
           <w lemma="ὁ" msd="DASM">τὸν</w>
-          <w lemma="κύριος" msd="NVSM">
-            <abbr type="nomSac">
-              <hi rend="overline">κν</hi>
-            </abbr>
+          <w lemma="κύριος" msd="NVSM"><choice>
+            <abbr>
+              <hi rend="overline">κν</hi><expan>κύριον 
+              </expan></abbr></choice>
+
           </w>
           <pc>.</pc>
           <lb n="147"/>
@@ -1497,10 +1501,11 @@
           <w lemma="ὁ" msd="DGFS">τῆς</w>
           <w lemma="γῆ" msd="NGSF">γῆς</w>
           <w lemma="ὁ" msd="DASM">τὸν</w>
-          <w lemma="κύριος" msd="NMSA">
-            <abbr type="nomSac">
-              <hi rend="overline">κν</hi>
-            </abbr>
+          <w lemma="κύριος" msd="NMSA"><choice>
+            <abbr>
+              <hi rend="overline">κν</hi><expan>κύριον 
+              </expan></abbr></choice>
+
           </w>
           <pc>.</pc>
           <w lemma="ὑμνέω" msd="VPAI2P">ὐμνεῖτε</w>
@@ -1518,10 +1523,11 @@
           <w lemma="ὁ" msd="NFP">ἁι</w>
           <w lemma="πηγή" msd="NFP">πηγαὶ</w>
           <w lemma="ὁ" msd="DASM">τον</w>
-          <w lemma="κύριος" msd="NMS">
-            <abbr type="nomSac">
-              <hi rend="overline">κν</hi>
-            </abbr>
+          <w lemma="κύριος" msd="NMS"><choice>
+            <abbr>
+              <hi rend="overline">κν</hi><expan>κύριον 
+              </expan></abbr></choice>
+
           </w>
           <pc>.</pc>
           <w lemma="ὑμνέω" msd="VPAI2P">ὐμνεῖτε</w>
@@ -1541,10 +1547,11 @@
           <w lemma="καὶ" msd="C">καὶ</w>
           <w lemma="ποταμός" msd="NVPM">ποταμοὶ</w>
           <w lemma="ὁ" msd="DASM">τον</w>
-          <w lemma="κύριος" msd="NMSN">
-            <abbr type="nomSac">
-              <hi rend="overline">κν</hi>
-            </abbr>
+          <w lemma="κύριος" msd="NMSN"><choice>
+            <abbr>
+              <hi rend="overline">κν</hi><expan>κύριον 
+              </expan></abbr></choice>
+
           </w>
           <pc>.</pc>
           <lb n="155"/>
@@ -1570,10 +1577,11 @@
           <w lemma="ὁ" msd="DDPM">τοῖς</w>
           <w lemma="ὕδωρ" msd="NDP">ὐδασι</w>
           <w lemma="ὁ" msd="DASM">τὸν</w>
-          <w lemma="κύριος" msd="NMSA">
-            <abbr type="nomSac">
-              <hi rend="overline">κν</hi>
-            </abbr>
+          <w lemma="κύριος" msd="NMSA"><choice>
+            <abbr>
+              <hi rend="overline">κν</hi><expan>κύριον 
+              </expan></abbr></choice>
+
           </w>
           <pc>.↵</pc>
           <w lemma="ὑμνέω" msd="VPAI2P">ῡμνεῖτε</w>
@@ -1596,10 +1604,11 @@
           <lb n="161"/>
           <w lemma="οὐρανός" msd="GSM">ουρ<hi rend="displaced-above">αν</hi>οῦ</w>
           <w lemma="ὁ" msd="ASM">τὸν</w>
-          <w lemma="κύριος" msd="NMSA">
-            <abbr type="nomSac">
-              <hi rend="overline">κν</hi>
-            </abbr>
+          <w lemma="κύριος" msd="NMSA"><choice>
+            <abbr>
+              <hi rend="overline">κν</hi><expan>κύριον 
+              </expan></abbr></choice>
+
           </w>
           <pc>.</pc>
           <w lemma="ὑμνέω" msd="VPAI2P">ὐμνεῖτε</w>
@@ -1621,10 +1630,11 @@
           <lb n="163"/>
           <w lemma="κτῆνος" msd="NAPN">κτηνη</w>
           <w lemma="ὁ" msd="DASM">τὸν</w>
-          <w lemma="κύριος" msd="NMSM">
-            <abbr type="nomSac">
-              <hi rend="overline">κν</hi>
-            </abbr>
+          <w lemma="κύριος" msd="NMSM"><choice>
+            <abbr>
+              <hi rend="overline">κν</hi><expan>κύριον 
+              </expan></abbr></choice>
+
           </w>
           <pc>.</pc>
           <w lemma="ὑμνέω" msd="VPAI2P">ὑμνεῖτε</w>
@@ -1647,10 +1657,11 @@
             </abbr>
           </w>
           <w lemma="ὁ" msd="DAM">τὸν</w>
-          <w lemma="κύριος" msd="NAM">
-            <abbr type="nomSac">
-              <hi rend="overline">κν</hi>
-            </abbr>
+          <w lemma="κύριος" msd="NAM"><choice>
+            <abbr>
+              <hi rend="overline">κν</hi><expan>κύριον 
+              </expan></abbr></choice>
+
           </w>
           <pc>.</pc>
           <lb n="166"/>
@@ -1674,10 +1685,11 @@
             </abbr>
           </w>
           <w lemma="ὁ" msd="DASM">τὸν</w>
-          <w lemma="κύριος" msd="NASM">
-            <abbr type="nomSac">
-              <hi rend="overline">κν</hi>
-            </abbr>
+          <w lemma="κύριος" msd="NASM"><choice>
+            <abbr>
+              <hi rend="overline">κν</hi><expan>κύριον 
+              </expan></abbr></choice>
+
           </w>
           <pc>.</pc>
           <w lemma="ὑμνέω" msd="VPAI2P">ῡμνείτε</w>
@@ -1700,10 +1712,11 @@
             </abbr>
           </w>
           <w lemma="ὁ" msd="DASM">τον</w>
-          <w lemma="κύριος" msd="NMSA">
-            <abbr type="nomSac">
-              <hi rend="overline">κν</hi>
-            </abbr>
+          <w lemma="κύριος" msd="NMSA"><choice>
+            <abbr>
+              <hi rend="overline">κν</hi><expan>κύριον 
+              </expan></abbr></choice>
+
           </w>
           <pc>.</pc>
           <w lemma="ὑμνέω" msd="VPAI2P">üμνείτε</w>
@@ -1720,10 +1733,11 @@
         <ab n="B54K3V85" xml:id="Dan.3.85.P790.I1">
           <w lemma="εὐλογέω" msd="VPAM2P">ευλογεῖτε</w>
           <w lemma="δοῦλος" msd="NVPM">δοῦλοι</w>
-          <w lemma="κύριος" msd="NMSN">
-            <abbr type="nomSac">
-              <hi rend="overline">κν</hi>
-            </abbr>
+          <w lemma="κύριος" msd="NMSN"><choice>
+            <abbr>
+              <hi rend="overline">κν</hi><expan>κύριον 
+              </expan></abbr></choice>
+
           </w>
           <pc>.</pc>
           <w lemma="ὑμνέω" msd="VPAM2P">ῡμνεῖτε</w>
@@ -1744,10 +1758,11 @@
           <w lemma="ψυχή" msd="NVPNA">ψυχὰι</w>
           <w lemma="δίκαιος" msd="JGP">δι<lb break="no" n="175"/>καίων</w>
           <w lemma="ὁ" msd="DASM">τὸν</w>
-          <w lemma="κύριος" msd="NMSA">
-            <abbr type="nomSac">
-              <hi rend="overline">κν</hi>
-            </abbr>
+          <w lemma="κύριος" msd="NMSA"><choice>
+            <abbr>
+              <hi rend="overline">κν</hi><expan>κύριον 
+              </expan></abbr></choice>
+
           </w>
           <pc>.</pc>
           <w lemma="ὑμνέω" msd="VPAI2P">ὐμνεῖτε</w>
@@ -1767,10 +1782,11 @@
           <w lemma="ταπεινός" msd="JNPM">ταπεινὸι</w>
           <w lemma="καρδία" msd="NDSF">καρ<lb break="no" n="178"/>δία</w>
           <w lemma="ὁ" msd="DASM">τὸν</w>
-          <w lemma="κύριος" msd="NMSA">
-            <abbr type="nomSac">
-              <hi rend="overline">κν</hi>
-            </abbr>
+          <w lemma="κύριος" msd="NMSA"><choice>
+            <abbr>
+              <hi rend="overline">κν</hi><expan>κύριον 
+              </expan></abbr></choice>
+
           </w>
           <w lemma="ὑμνέω" msd="VPAI2P">υμνειτε</w>
           <w lemma="καί" msd="C">και</w>
@@ -1789,10 +1805,11 @@
           <w lemma="Μισαήλ" msd="NMSV">Μισαηλ</w>
           <lb n="181"/>
           <w lemma="ὁ" msd="DASM">τον</w>
-          <w lemma="κύριος" msd="NMSV">
-            <abbr type="nomSac">
-              <hi rend="overline">κν</hi>
-            </abbr>
+          <w lemma="κύριος" msd="NMSV"><choice>
+            <abbr>
+              <hi rend="overline">κν</hi><expan>κύριον 
+              </expan></abbr></choice>
+
           </w>
           <w lemma="ὑμνέω" msd="VPAI2P">ὐμνεῖτε</w>
           <w lemma="καί" msd="C">καὶ</w>
@@ -1865,10 +1882,11 @@
           <lb n="190"/>
           <w lemma="ὁ" msd="DNPM">ὁι</w>
           <w lemma="σέβομαι" msd="VPPNPM">σεβόμενοι</w>
-          <w lemma="κύριος" msd="NMSN">
-            <abbr type="nomSac">
-              <hi rend="overline">κν</hi>
-            </abbr>
+          <w lemma="κύριος" msd="NMSN"><choice>
+            <abbr>
+              <hi rend="overline">κν</hi><expan>κύριον 
+              </expan></abbr></choice>
+
           </w>
           <pc>.</pc>
           <w lemma="ὁ" msd="DASM">τον</w>
