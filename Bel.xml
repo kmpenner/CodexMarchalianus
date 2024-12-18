@@ -590,15 +590,10 @@
         </ab>
         <ab n="B55K1V14">
           <w lemma="καί" msd="C">καὶ</w>
-          <w lemma="γίνομαι" msd="VAMI3S">
-            <app>
-              <rdg type="orig" hand="firsthand">ἐγνε</rdg>
-              <rdg type="corr" hand="corrector">
-                <seg type="line" subtype="above" n="@P8CL-Q">ἐγενε</seg>
-              </rdg>
-            </app>
-            <lb n="14" break="no"/>το </w>
-          <note>This correction needs reencoding.</note>
+          <w lemma="γίνομαι" msd="VAMI3S"><choice>
+              <sic>ἐγνε<lb n="14" break="no"/>το</sic>
+              <corr>ἐγενε<lb n="14" break="no"/>το</corr>
+            </choice></w>
           <w lemma="ὡς" msd="C">ὡς</w>
           <w lemma="ἐξέρχομαι" msd="VAAI3P">ἐξήλθοσαν</w>
           <w lemma="ἐκεῖνος" msd="RDMPN">ἐκεῖνοι</w><pc>.</pc>
