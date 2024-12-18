@@ -327,7 +327,10 @@
           <w lemma="πᾶς" msd="JGSF">πάσης</w>
           <lb n="13"/>
           <w lemma="σάρξ" msd="NGSF">σαρκὸς</w>
-          <w lemma="κυρία" msd="NASF"><choice><reg>κυριείαν</reg><orig>κυρίαν</orig></choice></w><pc>·</pc>
+          <w lemma="κυρία" msd="NASF"><choice>
+              <reg>κυριείαν</reg>
+              <orig>κυρίαν</orig>
+            </choice></w><pc>·</pc>
         </ab>
         <ab n="B55K1V6">
           <w lemma="καί" msd="C">καὶ</w>
@@ -352,7 +355,10 @@
           <w lemma="καί" msd="C">καὶ</w>
           <w lemma="πίνω" msd="VPAI3S">πίνει</w>
           <w lemma="κατά" msd="P">καθ</w>
-          <w lemma="ἕκαστος" msd="JASF">εκάστή</w>
+          <w lemma="ἕκαστος" msd="JASF"><choice>
+              <reg>εκάστήν</reg>
+              <orig>εκάστή</orig>
+            </choice></w>
           <lb n="16"/>
           <w lemma="ἡμέρα" msd="NASF">ἡμέραν</w><pc>·</pc>
         </ab>
