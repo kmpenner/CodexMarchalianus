@@ -909,12 +909,14 @@
         <div type="textpart" n="B55K1">
           <ab n="B55K1V1" corresp="#Bel.1.1.P827.I1">
             <ab n="B55K1V1" corresp="#Bel.1.1.P827.I1"> And King Astyages was added beside his
-              fathers and Cyrus the Persian received his kingdom.</ab>
+                fathers<anchor n="1" xml:id="B55K1V1-note-1"/> and Cyrus the Persian received his
+              kingdom.</ab>
             <ab n="B55K1V2" corresp="Bel.1.2.P827.I1"> And Daniel was a companion of the king and
               was esteemed above all his friends.</ab>
             <ab n="B55K1V3" corresp="Bel.1.3.P827.I1"> And there was an idol to the Babylonians
-              called Bel, and every day into him consumed twelve artaba<anchor n="1" xml:id="B55K1V3-note-1"/> fine wheaten flour and
-              forty sheep and six measures of wine.</ab>
+              called Bel, and every day into him consumed twelve artaba<anchor n="2"
+                xml:id="B55K1V3-note-2"/> fine wheaten flour and forty sheep and six measures of
+              wine.</ab>
             <ab n="B55K1V4" corresp="Bel.1.4.P828.I1"> And the king worshipped it. And every day
               Daniel fell down making obeisance to God, but he made obeisance to his God. And he
               said to the king he would not make obeisance to Bel.</ab>
@@ -940,8 +942,9 @@
               sealing it with your ring!</ab>
             <ab n="B55K1V12" corresp="Bel.1.12.P829.I1"> And if coming early in the day you may not
               find all eaten up by Bel, we die, or Daniel the deceiver against us.</ab>
-            <ab n="B55K1V13" corresp="Bel.1.13.P829.I1"> And they despised<anchor n="2" xml:id="B55K1V13-note-2"/>, because they had hidden
-              under the table an entrance, and would enter through it altogether and eat.</ab>
+            <ab n="B55K1V13" corresp="Bel.1.13.P829.I1"> And they despised<anchor n="3"
+                xml:id="B55K1V13-note-3"/>, because they had hidden under the table an entrance, and
+              would enter through it altogether and eat.</ab>
             <ab n="B55K1V14" corresp="Bel.1.14.P829.I1"> And it happened as they came out that they,
               and the king put them beside the food to Bel. And Daniel ordered his servants and they
               carried ashes, and shook them across the temple in the presence of only the king, and
@@ -966,8 +969,13 @@
               table.</ab>
             <ab n="B55K1V22" corresp="Bel.1.22.P830.I1"> And the king killed them, and gave up Bel
               to Daniel, and overturned him and his temple.</ab>
-            <note corresp="B54K1V3-note-1">It took a bit of research, but it turns out an "artaba" is itself a unit of measurement.</note>
-            <note corresp="B55K1V13-note-2">This is an awkward translation, but it is the closest to how I could understand the text.</note>
+            <note corresp="B54K1V1-note-1">I chose to render this as "added beside his fathers" as
+              opposed to something like "died" because that would have removed the euphemistic
+              quality found within the original text.</note>
+            <note corresp="B54K1V3-note-2">It took a bit of research, but it turns out an "artaba"
+              is itself a unit of measurement.</note>
+            <note corresp="B55K1V13-note-3">This is an awkward translation, but it is the closest to
+              how I could understand the text.</note>
           </ab>
         </div>
       </div>
