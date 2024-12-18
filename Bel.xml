@@ -293,7 +293,10 @@
         <ab n="B55K1V5">
           <w lemma="ὁ" msd="DNSM">ὁ</w>
           <w lemma="δέ" msd="C">δὲ</w>
-          <w lemma="εἶπον" msd="VAAI3S"><choice><reg>εἶπεν</reg><orig>εἶπε</orig></choice></w>
+          <w lemma="εἶπον" msd="VAAI3S"><choice>
+              <reg>εἶπεν</reg>
+              <orig>εἶπε</orig>
+            </choice></w>
           <lb n="10"/>
           <w lemma="ὅτι" msd="C">ὁτι</w>
           <w lemma="οὐ" msd="D">οὐ</w>
@@ -324,7 +327,7 @@
           <w lemma="πᾶς" msd="JGSF">πάσης</w>
           <lb n="13"/>
           <w lemma="σάρξ" msd="NGSF">σαρκὸς</w>
-          <w lemma="κυρία" msd="NASF">κυρίαν</w><pc>·</pc>
+          <w lemma="κυρία" msd="NASF"><choice><reg>κυριείαν</reg><orig>κυρίαν</orig></choice></w><pc>·</pc>
         </ab>
         <ab n="B55K1V6">
           <w lemma="καί" msd="C">καὶ</w>
