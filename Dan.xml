@@ -136,6 +136,22 @@
               <p>Owners: René Marchal, Cardinal F. Rochefoucaud.</p>
             </provenance>
           </history>
+          <additional>
+            <p>For my edition, I worked on the book of Daniel 3:24-90 using the manuscript Codex Marchalianus. 
+              Keeping in line with the manuscript tradition, my team and I have incorporated modern technology 
+              to ensure the continued proliferation of text through the ages. We used programs to transcribe 
+              the original into a digital form, after, each member of the team was assigned another team members 
+              text to help with the regularization step. Once done we then incorporated coding to help assign 
+              morphological tags for each word using an XML editor. This process made the translation stage a 
+              much smoother process. After the translation stage, we made two separate copies, one for a diplomatic translation, 
+              and another for publishing. Although we tried to align our English words to its corresponding Greek words, 
+              unfortunately the program was unable to handle too many characters, so we were unable to. Lastly, we used a public 
+              sharing code website (GitHub), to create a collaborative file sharing which ensured the team was always on the same page.
+              The text I covered dealt with the Prayer of Azariah, found in the Greek Septuagint; therefore, it is considered deuterocanonical 
+              in Catholic and Orthodox traditions. When considering its historical context, the Prayer reflects the concerns of the Jewish community 
+              during the Second Temple period. It’s themes of repentance and deliverance would have resonated with a persecuted community and their will to preserve. 
+            </p>
+          </additional>
         </msDesc>
       </sourceDesc>
     </fileDesc>
