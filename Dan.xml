@@ -513,7 +513,9 @@
           <w lemma="ἄδικος" msd="ADMS">ἀδίκω</w>
           <w lemma="καί" msd="C">και</w>
           <w lemma="πονηρός" msd="ADMS">πονη</w>
-          <pb n="785" facs="http://206.12.93.167/community/mssimages/thumbs/22125/787_49_10.jpg"></pb>
+         
+          <pb n="785" facs="http://206.12.93.167/community/mssimages/thumbs/22125/785_49_10.jpg"/>
+         
           <w lemma="πονηρός" msd="ADMS">ροτάτῳ</w>
           <w lemma="παρά" msd="P">παρα</w>
           <w lemma="πᾶς" msd="JASF">πᾶσαν</w>
@@ -742,8 +744,9 @@
           <w lemma="ἐνώπιον" msd="P">ενώπιον</w>
           <w lemma="σύ" msd="RP2GS">σου</w>
           <w lemma="ὅτι" msd="C">οτι</w>
-        
         </ab>
+      
+        <pb n="786" facs="http://206.12.93.167/community/mssimages/thumbs/22125/786_49_10.jpg"/>
         <ab n="B54K3V40" xml:id="Dan.3.40.P786.I1">
           <w lemma="οὐ" msd="D">οὐκ</w>
           <w lemma="εἰμί" msd="VPAI3S">ἔστιν</w>
@@ -954,6 +957,8 @@
           <w lemma="ὁ" msd="DGSF">της</w>
           <w lemma="κάμινος" msd="NGSF">καμινου</w>
         </ab>
+        
+        <pb n="787" facs="http://206.12.93.167/community/mssimages/thumbs/22125/787_49_10.jpg"/>
         <ab n="B54K3V50" xml:id="Dan.3.50.P787.I1">
           <w lemma="διασυρίζω" msd="VPPASN">διασυρίζον</w>
           <w lemma="καὶ" msd="C">καὶ</w>
@@ -1190,6 +1195,7 @@
           <w lemma="αἰών" msd="NAMP">αἰῶνας</w>
           <pc>·</pc>
         </ab>
+        <pb n="788" facs="http://206.12.93.167/community/mssimages/thumbs/22125/788_49_10.jpg"/>
         <ab n="B54K3V58" xml:id="Dan.3.58.P788.I1">
           <w lemma="εὐλογέω" msd="VPAI2P">εὐλογεῖτε</w>
           <w lemma="ἄγγελος" msd="NVPM">ἄγγελοι</w>
@@ -1413,8 +1419,9 @@
           <pc>·</pc>
           <lb n="130"/>
         </ab>
+        <pb n="789" facs="http://206.12.93.167/community/mssimages/thumbs/22125/789_49_10.jpg"/>
         <ab n="B54K3V69" xml:id="Dan.3.69.P789.I1">
-          <w lemma="εὐλογέω" msd="VPAI2P">εὐλογεῖ<hi rend="displaced-above">τε</hi></w>
+          <w lemma="εὐλογέω" msd="VPAI2P"><choice><sic>εὐλογεῖτε</sic><corr>εὐλογεῖ</corr></choice></w>
           <w lemma="ψῦχος" msd="NNSN">ψύχος</w>
           <w lemma="καί" msd="C">και</w>
           <w lemma="καῦμα" msd="NNSN">καῦμα</w>
@@ -1674,6 +1681,7 @@
           <w lemma="αἰών" msd="NAPM">ἀιῶνας</w>
           <pc>·</pc>
           <lb n="160"/>
+          <pb n="790" facs="http://206.12.93.167/community/mssimages/thumbs/22125/790_49_10.jpg"/>
         </ab>
         <ab n="B54K3V80" xml:id="Dan.3.80.P789.I1">
           <w lemma="εὐλογέω" msd="VPAI2P">ευλογεῖτε</w>
