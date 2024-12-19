@@ -572,10 +572,7 @@
               </seg>
             </rdg>
           </app>
-          <w lemma="ἐγώ" msd="RP1GP"><choice>
-              <abbr type="-%CE%BD"><hi rend="overline">ἡμω</hi></abbr>
-              <expan>ἡμων</expan>
-            </choice></w>
+          <w lemma="ἐγώ" msd="RP1GP">ἡμων</w>
         </ab>
         <ab n="B55K1V13">
           <lb n="10"/>
@@ -717,8 +714,12 @@
           <w lemma="πᾶς" msd="JAPN">πάντα</w>
           <lb n="25"/>
           <w lemma="καί" msd="C">καὶ</w>
-          <w lemma="πίνω" msd="VAAI3P">ἐπιον</w>
-          <pc>·</pc>
+          <app>
+            <lem>ἐπιον</lem>
+            <rdg wit="Ziegler">ἐξέπιον</rdg>
+            <rdg wit="R">ἐξέπιον</rdg>
+            <rdg><w lemma="πίνω" msd="VAAI3P">ἐπιον</w></rdg>
+          </app><pc>·</pc>
         </ab>
         <ab n="B55K1V16">
           <w lemma="καί" msd="C">και</w>
