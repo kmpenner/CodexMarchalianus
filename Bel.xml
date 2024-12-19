@@ -158,8 +158,8 @@
           conjecture. The purpose of this edition of the text is to introduce another source within
           the textual history of the apocryphal additions to Daniel to a wider audience of scholars
           than those who previously had access to it, and to allow those scholars who did have
-          access to it some easier reading. It is this accessibility and readability informed
-          approach which most informed this edition of the text, which was also buttressed by an
+          access to it some easier reading. It is this accessibility and my ideal of a 1:1
+          translation which most informed this edition of the text, which was also buttressed by an
           interest in accuracy to the original manuscript. It is worthy of note that in service of
           readability, where an individual word crosses over from one line to the next, a hyphen has
           been added, and is indicated as being an addition by the current editors by its orange
@@ -236,7 +236,10 @@
           <w lemma="καί" msd="C">καὶ</w>
           <w lemma="δαπανάω" msd="VIAI3S">ἐδαπανῶ<lb n="2" break="no"/>το</w>
           <w lemma="εἰς" msd="P">εἰς</w>
-          <w lemma="αὐτός" msd="RPASN">αὐτὸ</w>
+          <w lemma="αὐτός" msd="RPASN"><choice>
+              <reg>αὐτὸν</reg>
+              <orig>αὐτὸ</orig>
+            </choice></w>
           <w lemma="ἕκαστος" msd="JGSF">ἑκάστης</w>
           <w lemma="ἡμέρα" msd="NGSF">ἡμέρας</w><pc>.</pc>
           <w lemma="σεμίδαλις" msd="NFSN">σεμιδάλε<lb n="3" break="no"/>ως</w>
@@ -290,7 +293,10 @@
         <ab n="B55K1V5">
           <w lemma="ὁ" msd="DNSM">ὁ</w>
           <w lemma="δέ" msd="C">δὲ</w>
-          <w lemma="εἶπον" msd="VAAI3S">εἶπε</w>
+          <w lemma="εἶπον" msd="VAAI3S"><choice>
+              <reg>εἶπεν</reg>
+              <orig>εἶπε</orig>
+            </choice></w>
           <lb n="10"/>
           <w lemma="ὅτι" msd="C">ὁτι</w>
           <w lemma="οὐ" msd="D">οὐ</w>
@@ -321,7 +327,10 @@
           <w lemma="πᾶς" msd="JGSF">πάσης</w>
           <lb n="13"/>
           <w lemma="σάρξ" msd="NGSF">σαρκὸς</w>
-          <w lemma="κυρία" msd="NASF">κυρίαν</w><pc>·</pc>
+          <w lemma="κυρία" msd="NASF"><choice>
+              <reg>κυριείαν</reg>
+              <orig>κυρίαν</orig>
+            </choice></w><pc>·</pc>
         </ab>
         <ab n="B55K1V6">
           <w lemma="καί" msd="C">καὶ</w>
@@ -346,7 +355,10 @@
           <w lemma="καί" msd="C">καὶ</w>
           <w lemma="πίνω" msd="VPAI3S">πίνει</w>
           <w lemma="κατά" msd="P">καθ</w>
-          <w lemma="ἕκαστος" msd="JASF">εκάστή</w>
+          <w lemma="ἕκαστος" msd="JASF"><choice>
+              <reg>εκάστήν</reg>
+              <orig>εκάστή</orig>
+            </choice></w>
           <lb n="16"/>
           <w lemma="ἡμέρα" msd="NASF">ἡμέραν</w><pc>·</pc>
         </ab>
@@ -408,7 +420,10 @@
           <w lemma="ἐάν" msd="C">ἔαν</w>
           <w lemma="δέ" msd="C">δε</w>
           <lb n="24"/>
-          <w lemma="ἀπό" msd="P">ἀπο</w>
+          <w lemma="ἀπό" msd="P"><choice>
+              <reg/>
+              <orig>ἀπο</orig>
+            </choice></w>
           <w lemma="δεικνύω" msd="VAAS2P">δείξητε</w>
           <w lemma="ὅτι" msd="C">ὅτι</w>
           <w lemma="ὁ" msd="NMSN">ὁ</w>
@@ -467,7 +482,10 @@
               <w lemma="βασιλεύς" msd="NVSM">σιλεὺς</w>
               <w lemma="μετά" msd="P">μετα</w>
               <w lemma="Δανιήλ" msd="NPSM">Δανιηλ</w><pc>.</pc>
-              <w lemma="ἔποικος" msd="NASM">ἔποῖκον</w>
+              <w lemma="ἔποικος" msd="NASM"><choice>
+                  <reg>εἰς τὸν οἶκον</reg>
+                  <orig>ἔποῖκον</orig>
+                </choice></w>
               <w lemma="ὁ" msd="DGSM">τοῦ</w>
               <w lemma="Βῆλος" msd="NPSM">Βηλ</w><pc>·</pc>
               <lb n="2"/>
@@ -513,7 +531,10 @@
           <w lemma="θύρα" msd="ASF">θύραν</w><pc>.</pc>
           <w lemma="καί" msd="C">καὶ</w>
           <w lemma="σφραγίζω" msd="VAAI2S">σφράγι<lb n="6" break="no"/>σον</w>
-          <w lemma="ἐν" msd="P">ἐν</w>
+          <w lemma="ἐν" msd="P"><choice>
+              <reg/>
+              <orig>ἐν</orig>
+            </choice></w>
           <w lemma="ὁ" msd="DSM">τῶ</w>
           <w lemma="δακτύλιος" msd="DSM">δακτυλίω</w>
           <w lemma="σύ" msd="RP2GS">σου</w><pc>·</pc>
@@ -915,23 +936,24 @@
               was esteemed above all his friends.</ab>
             <ab n="B55K1V3" corresp="Bel.1.3.P827.I1"> And there was an idol to the Babylonians
               called Bel, and every day into him consumed twelve artaba<anchor n="2"
-                xml:id="B55K1V3-note-2"/> fine wheaten flour and forty sheep and six measures<anchor
-                n="3" xml:id="B55K1V3-note-3"/> of wine.</ab>
+                xml:id="B55K1V3-note-2"/>of fine wheaten flour and forty sheep and six
+                measures<anchor n="3" xml:id="B55K1V3-note-3"/> of wine.</ab>
             <ab n="B55K1V4" corresp="Bel.1.4.P828.I1"> And the king worshipped it. And every day
-              Daniel fell down making obeisance to God, but he made obeisance to his God. And he
-              said to the king he would not make obeisance to Bel.</ab>
+              Daniel fell down making obeisance<anchor n="4" xml:id="B55K1V4note-4"/>to God, but he
+              made obeisance to his God. And he said to the king he would not make obeisance to
+              Bel.</ab>
             <ab n="B55K1V5" corresp="Bel.1.5.P828.I1"> And he said, "That I worship not an idol made
               by human hands, but the living God builder of heaven and earth, and lord of all flesh
-                things<anchor n="4" xml:id="B55K1V5-note-4"/>".</ab>
+                things<anchor n="5" xml:id="B55K1V5-note-5"/>".</ab>
             <ab n="B55K1V6" corresp="Bel.1.6.P828.I1"> And the king said to him, "Does it not seem
               to you Bel is a living god, not see or much as eat and drink according to every
               day?</ab>
             <ab n="B55K1V7" corresp="Bel.1.7.P828.I1"> And Daniel laughing said, "Do not be led
               astray, king, for it is clay from within indeed, from without but copper, and has
               never ate.</ab>
-            <ab n="B55K1V8" corresp="Bel.1.8.P828.I1"> And the king, being angered, summoned his
-              priests and said to them, "If none says to me who devours this spent expenditure, you
-              will die,</ab>
+            <ab n="B55K1V8" corresp="Bel.1.8.P828.I1"> And the king, having been angered, <anchor
+                n="6" xml:id="B55K1V8-note-6"/> summoned his priests and said to them, "If none says
+              to me who devours this spent expenditure, you will die,</ab>
             <ab n="B55K1V9" corresp="Bel.1.9.P828.I1"> but if you bring to light Bel devours it,
               Daniel will die, he that blasphemes Bel." And Daniel said to the king, "Begin
               according to what you say."</ab>
@@ -942,8 +964,8 @@
               sealing it with your ring!</ab>
             <ab n="B55K1V12" corresp="Bel.1.12.P829.I1"> And if coming early in the day you may not
               find all eaten up by Bel, we die, or Daniel the deceiver against us.</ab>
-            <ab n="B55K1V13" corresp="Bel.1.13.P829.I1"> And they despised<anchor n="5"
-                xml:id="B55K1V13-note-5"/>, because they had hidden under the table an entrance, and
+            <ab n="B55K1V13" corresp="Bel.1.13.P829.I1"> And they despised<anchor n="7"
+                xml:id="B55K1V13-note-7"/>, because they had hidden under the table an entrance, and
               would enter through it altogether and eat.</ab>
             <ab n="B55K1V14" corresp="Bel.1.14.P829.I1"> And it happened as they came out that they,
               and the king put them beside the food to Bel. And Daniel ordered his servants and they
@@ -956,33 +978,53 @@
             <ab n="B55K1V17" corresp="Bel.1.17.P829.I1"> And they said, "Safe seals, Daniel?" and he
               said, "Safe, king."</ab>
             <ab n="B55K1V18" corresp="Bel.1.18.P829.I1"> And they began at once to open the door,
-              the king looking upon the table shouted in a loud voice, "You are great, Bel, and it
-              is not treachery beside nor into you."</ab>
+              the king looking upon the table shouted in a loud voice, "You are great, Bel, and
+              there is no treachery with nor in you."<anchor n="8" xml:id="B55K1V18-note-8"/></ab>
             <ab n="B55K1V19" corresp="Bel.1.19.P830.I1"> And Daniel laughed, and taking possesion of
               himself the king did not go into him, and he said, "Look indeed at the ground, and
               know whose footprints these are!</ab>
             <ab n="B55K1V20" corresp="Bel.1.20.P830.I1"> And the king said, "I see the footsteps of
-              the men and the women and the children." </ab>
+              the men and the women and the children."<anchor n="9" xml:id="B55K1V20-note-9"/></ab>
             <ab n="B55K1V21" corresp="Bel.1.21.P830.I1"> And the king was growing angry then
               collected the priests and the wives and children of them, and brought to light the
               door hidden by them through which they would enter and consume the food upon the
               table.</ab>
             <ab n="B55K1V22" corresp="Bel.1.22.P830.I1"> And the king killed them, and gave up Bel
-              to Daniel, and overturned him and his temple.</ab>
+              to Daniel, and overturned him<anchor n="10" xml:id="B55K1V22-note-10"/> and his
+              temple.</ab>
             <note corresp="B54K1V1-note-1">I chose to render this as "added beside his fathers" as
               opposed to something like "died" because that would have removed the euphemistic
               quality found within the original text.</note>
             <note corresp="B54K1V3-note-2">An "artaba" is a Persian unit of measurement.</note>
             <note corresp="B55K1V3-note-3">This, however, is translated from the Greek word for a
               generic unit of measurement.</note>
-            <note corresp="B55K1V5-note-4">In the spirit of the original text, I have rendered
-              "πάσης σαρκὸς" as "flesh things" because while "things" does not technically appear in the original Greek,
-              it feels odd to say that God is the "lord of all flesh", as that makes it sound like
-              God is implied as being only the lord of the material things are made out of rather
-              than the things God is lording over being made of flesh, which I cannot fathom as
-              being the intended meaning</note>
-            <note corresp="B55K1V13-note-5">This is an awkward translation, but it is the closest to
+            <note corresp="B55K1V4note-4">I specifically chose the word "obeisance" because to make
+              obeisance to some one or something is to show any amount of respect to something,
+              whereas "worship" evokes a more meaningful sense of devotion. By choosing obeisance, I
+              am trying to acturately portray Daniel's pure lack of respect for Bel and his priest,
+              as can be seen later in verse 19 when Daniel laughs in derision at the priest due to
+              them leaving footprints in the ashes Daniel had his servants spread.</note>
+            <note corresp="B55K1V5-note-5">In the spirit of the original text, I have rendered
+              "πάσης σαρκὸς" as "flesh things" because while "things" does not technically appear in
+              the original Greek, it feels odd to say that God is the "lord of all flesh", as that
+              makes it sound like God is implied as being only the lord of the material things are
+              made out of rather than the things God is lording over being made of flesh, which I
+              cannot fathom as being the intended meaning</note>
+            <note corresp="B55K1V8-note-6">After much internal debate, I translated this as "having
+              been angered" rather than "being angered" because the thing which caused the king to
+              be angry was not a continuous event, but had a firm start and end.</note>
+            <note corresp="B55K1V13-note-7">This is an awkward translation, but it is the closest to
               how I could understand the text.</note>
+            <note corresp="B55K1V18-note-8"> I debated translating this as "within nor into you",
+              but decided on "with nor in" because the double "in" conflates the two concepts that
+              are presumably meant to be put across, the priests being treacherous ("with... you")
+              and the idol of Bel itself being treacherous ("in you").</note>
+            <note corresp="B55K1V20-note-9">Or, "the men and the wives and the children." The
+              translation I included is much more literal, which by the guiding principles of my
+              transcription and translation is ideal.</note>
+            <note corresp="B55K1V22-note-10">"Him" in this instance refers to Bel, not Daniel. I
+              chose to leave it as "him" as that more closely follows the source text, rather than
+              specify it refering to Bel, as the name "Bel" is not used in this instance.</note>
           </ab>
         </div>
       </div>
