@@ -889,11 +889,11 @@
           <w lemma="αὐτός" msd="RP3GP">ἀυτῶν</w><pc>·</pc>
           <w lemma="καί" msd="C">καὶ</w>
           <w lemma="ὁ" msd="DNPF">ἁι</w>
-          <w lemma="γυνή" msd="NFPF">γυναῖκες</w><pc>,</pc>
+          <w lemma="γυνή" msd="NFPF">γυναῖκες</w><choice><orig><pc>,</pc></orig><reg/></choice>
           <w lemma="καί" msd="C">καὶ</w>
           <w lemma="ὁ" msd="DANP">τὰ</w>
           <w lemma="τέκνον" msd="NANP">τέ<lb n="24" break="no"/>κνα</w>
-          <w lemma="αὐτός" msd="RP3GP">ἀυτῶν</w><pc>.</pc>
+          <w lemma="αὐτός" msd="RP3GP">ἀυτῶν</w><choice><orig><pc>.</pc></orig><reg/></choice>
           <w lemma="καί" msd="C">καὶ</w>
           <w lemma="καταφαγείνω" msd="VAAI3P">κατέφαγον</w>
           <w lemma="πᾶς" msd="JAPN">πάντα</w>
@@ -904,7 +904,7 @@
             <rdg wit="Ziegler">ἐξέπιον</rdg>
             <rdg wit="R">ἐξέπιον</rdg>
             <rdg><w lemma="πίνω" msd="VAAI3P">ἐπιον</w></rdg>
-          </app><pc>·</pc>
+          </app><choice><orig><pc>·</pc></orig><reg><pc>.</pc></reg></choice>
         </ab>
         <ab n="B55K1V16">
           <w lemma="καί" msd="C">και</w>
@@ -917,14 +917,14 @@
           <w lemma="και" msd="C">καὶ</w>
           <w lemma="Δανιήλ" msd="NNSM">Δανιὴλ</w>
           <w lemma="μετά" msd="P">μετ'</w>
-          <w lemma="αὐτός" msd="RP3MSG">ἀυτοῦ</w><pc>·</pc>
+          <w lemma="αὐτός" msd="RP3MSG">ἀυτοῦ</w><choice><orig><pc>·</pc></orig><reg><pc>.</pc></reg></choice>
           <lb n="27"/>
         </ab>
         <ab n="B55K1V17">
           <w lemma="καί" msd="C">καὶ</w>
           <w lemma="εἶπον" msd="VAAI3S">εἶπεν</w>
           <w lemma="ὁ" msd="NMSN">ὁ</w>
-          <w lemma="βασιλεύς" msd="NMSN">βασιλέυς</w><pc>·</pc>
+          <w lemma="βασιλεύς" msd="NMSN">βασιλέυς</w><choice><orig><pc>·</pc></orig><reg><pc>.</pc></reg></choice>
           <w lemma="σῶος" msd="JNPM">σῶοι</w>
           <w lemma="ἡ" msd="NFPF">ἁι</w>
           <w lemma="σφραγίς" msd="NFPF">σφραγῖδες</w>
