@@ -482,7 +482,10 @@
               <w lemma="βασιλεύς" msd="NVSM">σιλεὺς</w>
               <w lemma="μετά" msd="P">μετα</w>
               <w lemma="Δανιήλ" msd="NPSM">Δανιηλ</w><pc>.</pc>
-              <w lemma="ἔποικος" msd="NASM">ἔποῖκον</w>
+              <w lemma="ἔποικος" msd="NASM"><choice>
+                  <reg>εἰς τὸν οἶκον</reg>
+                  <orig>ἔποῖκον</orig>
+                </choice></w>
               <w lemma="ὁ" msd="DGSM">τοῦ</w>
               <w lemma="Βῆλος" msd="NPSM">Βηλ</w><pc>·</pc>
               <lb n="2"/>
