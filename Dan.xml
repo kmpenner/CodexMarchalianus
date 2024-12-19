@@ -297,7 +297,7 @@
           <w lemma="δοξάζω" msd="VPRPMS"><app>
               <lem>δεδοξασμένος</lem>
               <rdg wit="Q">δεδοξασμένος</rdg>
-              <rdg wit="Swete">δοξάζω</rdg>
+             <note> Swete's version uses "δοξάζω" </note>
             </app></w>
           <w lemma="εἰς" msd="P"><choice>
               <orig>ἐις</orig>
@@ -474,9 +474,7 @@
           </choice>
         </ab>
         <ab n="B54K3V31" xml:id="Dan.3.31.P784.I1">
-          <app>
-            <rdg type="orig" hand="firsthand">
-              <w lemma="καί" msd="C">και</w>
+          <w lemma="καί" msd="C">και</w>
               <w lemma="πᾶς" msd="JAPN">παντα</w>
               <w lemma="ὅσος" msd="JAPN"><choice>
                   <orig>ὀσα</orig>
@@ -485,17 +483,6 @@
               <w lemma="ἐγώ" msd="RP1DP">ημιν</w>
               <w lemma="ἐπάγω" msd="VAAI2S">επηγαγες</w>
               <w lemma="ἐγώ" msd="RP1DP">ημιν</w>
-            </rdg>
-            <rdg type="corr" hand="corrector1">
-              <seg type="margin" subtype="lineleft" n="@P7CL-Q">
-                <w lemma="καί" msd="C">και</w>
-                <w lemma="πᾶς" msd="JAPN">παντα</w>
-                <w lemma="ὅσος" msd="JAPN">οσα</w>
-                <w lemma="ἐγώ" msd="RP1DP">ημιν</w>
-                <w lemma="ἐπάγω" msd="VAAI2S">επηγαγες</w>
-              </seg>
-            </rdg>
-          </app>
           <w lemma="καί" msd="C">και</w>
           <w lemma="πᾶς" msd="JAPN">πάντα</w>
           <w lemma="ὅσος" msd="JAPN">ὁσα</w>
@@ -526,6 +513,7 @@
           <w lemma="ἄδικος" msd="ADMS">ἀδίκω</w>
           <w lemma="καί" msd="C">και</w>
           <w lemma="πονηρός" msd="ADMS">πονη</w>
+          <pb n="785" facs="http://206.12.93.167/community/mssimages/thumbs/22125/787_49_10.jpg"></pb>
           <w lemma="πονηρός" msd="ADMS">ροτάτῳ</w>
           <w lemma="παρά" msd="P">παρα</w>
           <w lemma="πᾶς" msd="JASF">πᾶσαν</w>
@@ -754,6 +742,7 @@
           <w lemma="ἐνώπιον" msd="P">ενώπιον</w>
           <w lemma="σύ" msd="RP2GS">σου</w>
           <w lemma="ὅτι" msd="C">οτι</w>
+        
         </ab>
         <ab n="B54K3V40" xml:id="Dan.3.40.P786.I1">
           <w lemma="οὐ" msd="D">οὐκ</w>
