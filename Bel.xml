@@ -191,7 +191,7 @@
               <abbr><hi rend="overline">πρας</hi></abbr>
               <expan>πατερας</expan>
             </choice></w>
-          <w lemma="αὐτός" msd="RP3GPM">αυτοῦ</w><pc>·</pc>
+          <w lemma="αὐτός" msd="RP3GPM">αυτοῦ</w><choice><orig><pc>·</pc></orig><reg>,</reg></choice>
           <w lemma="καί" msd="C">καὶ</w>
           <w lemma="παραλαμβάνω" msd="VAAI3S">παρέλαβεν</w>
           <w lemma="Κῦρος" msd="NMSN">Κῦρος</w>
@@ -200,7 +200,7 @@
           <w lemma="Πέρσης" msd="NMSN">Πέρσης</w>
           <w lemma="ὁ" msd="DASF">την</w>
           <w lemma="βασιλεία" msd="NASF">βασιλέιαν</w>
-          <w lemma="αὐτός" msd="RP3GSF">ἁυτοῦ</w><pc>·</pc>
+          <w lemma="αὐτός" msd="RP3GSF">ἁυτοῦ</w><choice><orig><pc>·</pc></orig><reg>.</reg></choice>
         </ab>
         <ab n="B55K1V2">
           <w lemma="καί" msd="C">καὶ</w>
@@ -218,7 +218,7 @@
           <w lemma="ὁ" msd="DAPM">τους</w>
           <w lemma="φίλος" msd="NAPM">φίλους</w>
           <lb n="5"/>
-          <w lemma="αὐτοῦ" msd="RP3GSM">ἁυτοῦ</w><pc>·</pc>
+          <w lemma="αὐτοῦ" msd="RP3GSM">ἁυτοῦ</w><choice><orig><pc>·</pc></orig><reg>.</reg></choice>
         </ab>
         <ab n="B55K1V3">
           <w lemma="καί" msd="C">καὶ</w>
@@ -229,10 +229,10 @@
           <pb n="828" type="page"/>
           <cb n="P8C1-Q"/>
           <lb n="1"/>
-          <w lemma="υἱός" msd="NMPD">νίοις</w>
+          <w lemma="υἱός" msd="NMPD">νίοις</w><choice><orig></orig><reg>,</reg></choice>
           <w lemma="ὅς" msd="PRDSM">ᾧ</w>
           <w lemma="ὄνομα" msd="NNSN">ὄνομα</w>
-          <w lemma="Βήλ" msd="NNSM">Βήλ</w>
+          <w lemma="Βήλ" msd="NNSM">Βήλ</w><choice><orig></orig><reg>,</reg></choice>
           <w lemma="καί" msd="C">καὶ</w>
           <w lemma="δαπανάω" msd="VIAI3S">ἐδαπανῶ<lb n="2" break="no"/>το</w>
           <w lemma="εἰς" msd="P">εἰς</w>
@@ -241,7 +241,7 @@
               <orig>αὐτὸ</orig>
             </choice></w>
           <w lemma="ἕκαστος" msd="JGSF">ἑκάστης</w>
-          <w lemma="ἡμέρα" msd="NGSF">ἡμέρας</w><pc>.</pc>
+          <w lemma="ἡμέρα" msd="NGSF">ἡμέρας</w><choice><orig><pc>.</pc></orig><reg></reg></choice>
           <w lemma="σεμίδαλις" msd="NFSN">σεμιδάλε<lb n="3" break="no"/>ως</w>
           <w lemma="ἀρτάβη" msd="NFPD">αρτάβαι</w>
           <w lemma="δώδεκα" msd="MC">δώδεκα</w>
