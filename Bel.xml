@@ -372,37 +372,37 @@
           <w lemma="πλανάω" msd="VPAI2S">πλανῶ</w><choice><orig></orig><reg>,</reg></choice>
           <w lemma="βασιλεύς" msd="NMSV">βασιλεῦ</w><choice><orig></orig><reg>,</reg></choice>
           <w lemma="οὗτος" msd="RDMSN">οὗτος</w>
-          <w lemma="γάρ" msd="C">γὰρ</w><pc>.</pc>
+          <w lemma="γάρ" msd="C">γὰρ</w><choice><orig><pc>.</pc></orig><reg></reg></choice>
           <w lemma="ἔσωθεν" msd="B">ἔσωθεν</w>
           <w lemma="ἐγώ" msd="RP1AS">μεν</w>
           <lb n="18"/>
           <w lemma="εἰμί" msd="VPAI3S">ἐστιν</w>
-          <w lemma="πηλός" msd="NMSN">πηλός</w><pc>.</pc>
+          <w lemma="πηλός" msd="NMSN">πηλός</w><choice><orig><pc>.</pc></orig><reg></reg></choice>
           <w lemma="ἔξωθεν" msd="B">ἔξωθεν</w>
           <w lemma="δέ" msd="C">δε</w>
-          <w lemma="χαλκός" msd="NMSN">χαλκός</w><pc>·</pc>
+          <w lemma="χαλκός" msd="NMSN">χαλκός</w><choice><orig><pc>·</pc></orig><reg></reg></choice>
           <w lemma="καί" msd="C">καὶ</w>
           <w lemma="οὐ" msd="D">οὐ</w>
           <lb n="19"/>
           <w lemma="βιβρώσκω" msd="VRAI3S">βέβρωκεν</w>
           <w lemma="οὐδέ" msd="C">οὐδε</w>
           <w lemma="πίνω" msd="VRAI3S">πέπωκεν</w>
-          <w lemma="πώποτε" msd="B">πώποτε</w>
+          <w lemma="πώποτε" msd="B">πώποτε</w><choice><orig></orig><reg><pc>.</pc></reg></choice>
           <lb n="20" break="no"/>
         </ab>
         <ab n="B55K1V8">
           <w lemma="καὶ" msd="C">καὶ</w>
           <w lemma="θυμόω" msd="VPAP-SNM">θυμωθεὶς</w>
           <w lemma="ὁ" msd="DNSM">ὁ</w>
-          <w lemma="βασιλεύς" msd="NNSM">βασιλὲυς</w><pc>.</pc>
+          <w lemma="βασιλεύς" msd="NNSM">βασιλὲυς</w><choice><orig><pc>.</pc></orig><reg></reg></choice>
           <w lemma="καλέω" msd="VAAI3S">ἐκάλεσεν</w>
           <w lemma="ὁ" msd="DASM">τοὺς</w>
           <lb n="21"/>
           <w lemma="ἱερεύς" msd="NAMP">ϊερεῖς</w>
-          <w lemma="αὐτός" msd="RP3GSM">ἀυτοῦ</w><pc>.</pc>
+          <w lemma="αὐτός" msd="RP3GSM">ἀυτοῦ</w><choice><orig><pc>.</pc></orig><reg></reg></choice>
           <w lemma="καὶ" msd="C">καὶ</w>
           <w lemma="εἶπον" msd="VAAI3S">εἶπεν</w>
-          <w lemma="αὐτός" msd="RP3DPM">ἀυτοῖς</w><pc>·</pc>
+          <w lemma="αὐτός" msd="RP3DPM">ἀυτοῖς</w><choice><orig><pc>·</pc></orig><reg></reg></choice>
           <w lemma="ἐάν" msd="C">ἔαν</w>
           <w lemma="μή" msd="D">μὴ</w>
           <lb n="22"/>
