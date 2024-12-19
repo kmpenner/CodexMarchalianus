@@ -531,7 +531,10 @@
           <w lemma="θύρα" msd="ASF">θύραν</w><pc>.</pc>
           <w lemma="καί" msd="C">καὶ</w>
           <w lemma="σφραγίζω" msd="VAAI2S">σφράγι<lb n="6" break="no"/>σον</w>
-          <w lemma="ἐν" msd="P">ἐν</w>
+          <w lemma="ἐν" msd="P"><choice>
+              <reg/>
+              <orig>ἐν</orig>
+            </choice></w>
           <w lemma="ὁ" msd="DSM">τῶ</w>
           <w lemma="δακτύλιος" msd="DSM">δακτυλίω</w>
           <w lemma="σύ" msd="RP2GS">σου</w><pc>·</pc>
