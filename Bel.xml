@@ -420,10 +420,12 @@
           <w lemma="ἐάν" msd="C">ἔαν</w>
           <w lemma="δέ" msd="C">δε</w>
           <lb n="24"/>
-          <w lemma="ἀπό" msd="P"><choice>
-              <reg/>
-              <orig>ἀπο</orig>
-            </choice></w>
+          <app>
+            <lem>ἀπό</lem>
+            <rdg wit="Ziegler"/>
+            <rdg wit="Q"><w lemma="ἀπό" msd="P">ἀπο</w></rdg>
+            <rdg wit="R"/>
+          </app>
           <w lemma="δεικνύω" msd="VAAS2P">δείξητε</w>
           <w lemma="ὅτι" msd="C">ὅτι</w>
           <w lemma="ὁ" msd="NMSN">ὁ</w>
@@ -482,10 +484,12 @@
               <w lemma="βασιλεύς" msd="NVSM">σιλεὺς</w>
               <w lemma="μετά" msd="P">μετα</w>
               <w lemma="Δανιήλ" msd="NPSM">Δανιηλ</w><pc>.</pc>
-              <w lemma="ἔποικος" msd="NASM"><choice>
-                  <reg>εἰς τὸν οἶκον</reg>
-                  <orig>ἔποῖκον</orig>
-                </choice></w>
+              <w lemma="ἔποικος" msd="NASM"><app>
+                  <lem>ἔποῖκον</lem>
+                  <rdg wit="Ziegler">εἰς τὸν οἶκον</rdg>
+                  <rdg wit="Q"><w lemma="ἔποικος" msd="NASM">ἔποῖκον</w></rdg>
+                  <rdg wit="R">εἰς τὸν οἶκον</rdg>
+                </app></w>
               <w lemma="ὁ" msd="DGSM">τοῦ</w>
               <w lemma="Βῆλος" msd="NPSM">Βηλ</w><pc>·</pc>
               <lb n="2"/>
@@ -723,7 +727,8 @@
           <w lemma="βασιλεύς" msd="NNSM">βασιλεὺς</w>
           <lb n="26"/>
           <w lemma="ὁ" msd="DASN">τὸ</w>
-          <w lemma="πρωΐ" msd="NDSN">πρωῑκαὶ</w>
+          <w lemma="πρωΐ" msd="NDSN">πρωῑ</w>
+          <w lemma="και" msd="C">καὶ</w>
           <w lemma="Δανιήλ" msd="NNSM">Δανιὴλ</w>
           <w lemma="μετά" msd="P">μετ'</w>
           <w lemma="αὐτός" msd="RP3MSG">ἀυτοῦ</w>
@@ -914,7 +919,7 @@
           <w lemma="ὁ" msd="DASN">το</w>
           <app>
             <rdg type="orig" hand="firsthand">
-              <w lemma="ναός" msd="NMSA">νναον</w>
+              <w lemma="ναός" msd="NMSA">ναον</w>
             </rdg>
             <rdg type="corr" hand="corrector" rend="erased">
               <seg type="line" subtype="above" n="@P8CL-Q">
