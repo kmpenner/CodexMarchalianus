@@ -3,9 +3,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Normalized edition                    
-                    
-                  <desc>For StFX Digital Methods course</desc>
+                <title>Normalized edition <desc>For StFX Digital Methods course</desc>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -14,7 +12,7 @@
                     <licence target="https://www.gnu.org/licenses/gpl-3.0.en.html">Distributed under
                         GNU General Public License</licence>
                     <p>Copyright 2017 <ref target="http://existsolutions.com">eXistSolutions
-                        GmbH</ref>
+                            GmbH</ref>
                     </p>
                     <p>This program is free software: you can redistribute it and/or modify it under
                         the terms of the GNU General Public License as published by the Free
@@ -47,141 +45,173 @@
                 </elementSpec>
                 <elementSpec ident="ab" mode="change">
                     <modelSequence>
-            <model behaviour="inline">
-                <param name="content" value="substring-after(@n, 'V')"/>
-                <outputRendition xml:space="preserve">
+                        <model behaviour="inline">
+                            <param name="content" value="substring-after(@n, 'V')"/>
+                            <outputRendition xml:space="preserve">
                 color: green; vertical-align: super; font-size: smaller;
                 </outputRendition>
-            </model>
-            <model behaviour="inline"/>
-        </modelSequence>
+                        </model>
+                        <model behaviour="inline"/>
+                    </modelSequence>
                 </elementSpec>
                 <elementSpec ident="w" mode="change">
                     <model output="web" predicate="@lemma" behaviour="alternate">
-            <desc>Set this alternate:=concat(@lemma," ",@msd) to display the lemma and msd on hover; set its alternate to blank for output as print CSS</desc>
-            <param name="alternate" value="concat(@lemma,&#34; &#34;,@msd)"/>
-            <param name="default" value="."/>
-            <outputRendition xml:space="preserve">
+                        <desc>Set this alternate:=concat(@lemma," ",@msd) to display the lemma and
+                            msd on hover; set its alternate to blank for output as print CSS</desc>
+                        <param name="alternate" value="concat(@lemma,&#34; &#34;,@msd)"/>
+                        <param name="default" value="."/>
+                        <outputRendition xml:space="preserve">
             
             </outputRendition>
-        </model>
+                    </model>
                     <model behaviour="text">
-            <outputRendition xml:space="preserve">
+                        <outputRendition xml:space="preserve">
             
             </outputRendition>
-        </model>
+                    </model>
                 </elementSpec>
                 <elementSpec ident="pb" mode="change">
                     <model behaviour="omit"/>
                 </elementSpec>
                 <elementSpec ident="note" mode="change">
                     <model behaviour="note">
-            <param name="place" value="@place"/>
-            <param name="label" value="@n"/>
-        </model>
+                        <param name="place" value="@place"/>
+                        <param name="label" value="@n"/>
+                    </model>
                 </elementSpec>
                 <elementSpec ident="div" mode="change">
                     <modelSequence predicate="  @type='textpart' and substring-after(@n,'K')">
-            <desc>Chapter</desc>
-            <model behaviour="inline">
-                <desc>Chapter number</desc>
-                <param name="content" value="substring-after(@n,'K')"/>
-                <outputRendition xml:space="preserve">
+                        <desc>Chapter</desc>
+                        <model behaviour="inline">
+                            <desc>Chapter number</desc>
+                            <param name="content" value="substring-after(@n,'K')"/>
+                            <outputRendition xml:space="preserve">
                 color: green; font-size: larger;
                 </outputRendition>
-                <outputRendition xml:space="preserve" scope="after">
+                            <outputRendition xml:space="preserve" scope="after">
                 content: ".";
                 </outputRendition>
-            </model>
-            <model behaviour="inline">
-                <desc>Chapter text</desc>
-                <outputRendition xml:space="preserve">
+                        </model>
+                        <model behaviour="inline">
+                            <desc>Chapter text</desc>
+                            <outputRendition xml:space="preserve">
                 font-family: 'Times New Roman', serif;
                 </outputRendition>
-            </model>
-        </modelSequence>
+                        </model>
+                    </modelSequence>
                     <model predicate="@type='title_page'" behaviour="block">
-            <outputRendition xml:space="preserve">
+                        <outputRendition xml:space="preserve">
             border: 1px solid black; padding: 5px;
             </outputRendition>
-        </model>
-                    <model predicate="parent::body or parent::front or parent::back" behaviour="section"/>
+                    </model>
+                    <model predicate="parent::body or parent::front or parent::back"
+                        behaviour="section"/>
                     <model behaviour="block">
-            <outputRendition xml:space="preserve">
+                        <outputRendition xml:space="preserve">
             null
             </outputRendition>
-        </model>
+                    </model>
                 </elementSpec>
                 <elementSpec ident="title" mode="change">
                     <model predicate="$parameters?header='short'" behaviour="heading">
-            <param name="level" value="2"/>
-            <outputRendition xml:space="preserve">
+                        <param name="level" value="2"/>
+                        <outputRendition xml:space="preserve">
             text-align: center;
             </outputRendition>
-        </model>
+                    </model>
                     <modelSequence predicate="parent::titleStmt/parent::fileDesc">
-            <model predicate="preceding-sibling::title" behaviour="text">
-                <param name="content" value="' — '"/>
-            </model>
-            <model behaviour="inline">
-                <outputRendition xml:space="preserve">
+                        <model predicate="preceding-sibling::title" behaviour="text">
+                            <param name="content" value="' — '"/>
+                        </model>
+                        <model behaviour="inline">
+                            <outputRendition xml:space="preserve">
                 color: blue;
                 </outputRendition>
-            </model>
-        </modelSequence>
+                        </model>
+                    </modelSequence>
                     <model predicate="not(@level) and parent::bibl" behaviour="inline"/>
                     <modelSequence predicate="@level='m' or not(@level)">
-            <model behaviour="inline">
-                <outputRendition xml:space="preserve">
+                        <model behaviour="inline">
+                            <outputRendition xml:space="preserve">
                 font-style: italic;
                 </outputRendition>
-            </model>
-            <model predicate="ancestor::biblFull" behaviour="text">
-                <param name="content" value="', '"/>
-            </model>
-        </modelSequence>
+                        </model>
+                        <model predicate="ancestor::biblFull" behaviour="text">
+                            <param name="content" value="', '"/>
+                        </model>
+                    </modelSequence>
                     <modelSequence predicate="@level='s' or @level='j'">
-            <model behaviour="inline">
-                <outputRendition xml:space="preserve">
+                        <model behaviour="inline">
+                            <outputRendition xml:space="preserve">
                 font-style: italic;
                 </outputRendition>
-            </model>
-            <model predicate="following-sibling::* and     (  ancestor::biblFull)" behaviour="text">
-                <param name="content" value="', '"/>
-            </model>
-        </modelSequence>
+                        </model>
+                        <model predicate="following-sibling::* and     (  ancestor::biblFull)"
+                            behaviour="text">
+                            <param name="content" value="', '"/>
+                        </model>
+                    </modelSequence>
                     <modelSequence predicate="@level='u' or @level='a'">
-            <model behaviour="inline">
-                <outputRendition xml:space="preserve">
+                        <model behaviour="inline">
+                            <outputRendition xml:space="preserve">
                 font-style: italic;
                 </outputRendition>
-            </model>
-            <model predicate="following-sibling::* and     (    ancestor::biblFull)" behaviour="text">
-                <param name="content" value="'. '"/>
-            </model>
-        </modelSequence>
+                        </model>
+                        <model predicate="following-sibling::* and     (    ancestor::biblFull)"
+                            behaviour="text">
+                            <param name="content" value="'. '"/>
+                        </model>
+                    </modelSequence>
                     <model behaviour="inline">
-            <outputRendition xml:space="preserve">
+                        <outputRendition xml:space="preserve">
             font-style: italic;
             </outputRendition>
-        </model>
+                    </model>
                 </elementSpec>
                 <elementSpec ident="hi" mode="change">
                     <model predicate="@rend='overline'" behaviour="inline" useSourceRendition="true">
-            <desc>overline</desc>
-            <outputRendition xml:space="preserve">
+                        <desc>overline</desc>
+                        <outputRendition xml:space="preserve">
             text-decoration: overline;
             </outputRendition>
-        </model>
+                    </model>
                     <model behaviour="inline" useSourceRendition="true">
-            <outputRendition xml:space="preserve">
+                        <outputRendition xml:space="preserve">
             font-style: italic;
             </outputRendition>
-        </model>
+                    </model>
                 </elementSpec>
-            <elementSpec ident="body" mode="change"/>
+                <elementSpec ident="body" mode="change"/>
                 <elementSpec ident="cb" mode="change">
                     <model behaviour="omit"/>
+                </elementSpec>
+                <elementSpec ident="choice" mode="change">
+                    <model predicate="sic and corr" behaviour="alternate">
+                        <param name="default" value="sic[1]"/>
+                        <param name="alternate" value="corr[1]"/>
+                    </model>
+                    <model predicate="abbr and expan" behaviour="alternate">
+                        <param name="default" value="abbr[1]"/>
+                        <param name="alternate" value="expan[1]"/>
+                    </model>
+                    <model predicate="orig and reg" behaviour="alternate">
+                        <param name="default" value="orig[1]"/>
+                        <param name="alternate" value="reg[1]"/>
+                    </model>
+                </elementSpec>
+                <elementSpec ident="app" mode="add">
+                    <model output="epub" behaviour="alternate">
+                        <param name="alternate" value="concat(rdg/@wit,&#34;:&#34;,rdg)"/>
+                        <param name="default" value="lem"/>
+                    </model>
+                    <model output="epub" behaviour="note">
+                        <param name="content" value="concat(lem,'] ',rdg,' ',rdg/@wit)"/>
+                    </model>
+                </elementSpec>
+                <elementSpec ident="rdg" mode="add">
+                    <model behaviour="note">
+                        <param name="content" value="concat(../lem, '] ', ., ' ', @wit)"/>
+                    </model>
                 </elementSpec>
             </schemaSpec>
         </body>
