@@ -211,7 +211,7 @@
           <w lemma="συνίστημι" msd="VPAPNSM"><choice>
               <sic>συνστὰς</sic>
               <corr>συστὰς</corr>
-            </choice></w><note> author missing ν</note>
+          </choice><note> author missing ν</note></w>
           <w lemma="Ἀζαρίας" msd="NNSM">Ἀζαρίας</w>
           <choice>
             <orig><pc>.</pc></orig>
@@ -232,7 +232,8 @@
           <w lemma="αὐτοῦ" msd="RP3GSM"><choice>
               <orig>ἀυτου</orig>
               <reg>ἑαυτοῦ</reg>
-            </choice></w><note> swete's version uses ἑαυτοῦ</note>
+          </choice><note> Swete's transcription uses ἑαυτοῦ. The reflexive pronoun works better here, without it, the original translation reads slightly ambiguous who is performing the action here.</note>
+          </w>
           <lb n="6"/>
           <w lemma="ἐν" msd="P">ἐν</w>
           <w lemma="μέσος" msd="NDSM"><choice>
@@ -294,11 +295,9 @@
             </choice></w>
           <pc>·</pc>
           <w lemma="καί" msd="C">και</w>
-          <w lemma="δοξάζω" msd="VPRPMS"><app>
-              <lem>δεδοξασμένος</lem>
-              <rdg wit="Q">δεδοξασμένος</rdg>
+          <w lemma="δοξάζω" msd="VPRPMS">δεδοξασμένος
              <note> Swete's version uses "δοξάζω" </note>
-            </app></w>
+            </w>
           <w lemma="εἰς" msd="P"><choice>
               <orig>ἐις</orig>
               <reg>εἰς</reg>
@@ -408,8 +407,12 @@
           <w lemma="καί" msd="C">καὶ</w>
           <w lemma="κρίσις" msd="NDSF">κρί<lb n="17"/>σει</w>
           <w lemma="ἐπάγω" msd="VAAI2S">ἐπήγαγας</w>
-          <w lemma="οὗτος" msd="DAPN">ταῦτα</w><note>Swete has παντα before ταυτα</note>
-          <w lemma="πᾶς" msd="JAPN">πάντα</w>
+          <w lemma="οὗτος" msd="DAPN">
+            <app><lem>ταῦτα πάντα</lem>
+              <rdg wit="Q">ταῦτα πάντα</rdg>
+              <rdg wit="Swete">πάντα ταῦτα</rdg>
+            </app><note>The manuscript reads "you have brought this all" whereas Swete's version reads "you have brought all these things". I find the original reading less stiff with its wording  </note></w>
+         <w lemma="πᾶς" msd="JAPN">πάντα</w>
           <pc>.</pc>
           <w lemma="διὰ" msd="P">διὰ</w>
           <w lemma="ὁ" msd="DAPF">τὰς</w>
@@ -760,7 +763,11 @@
         <ab n="B54K3V41" xml:id="Dan.3.41.P786.I1">
           <w lemma="καί" msd="C">και</w>
           <w lemma="νῦν" msd="B">νυν</w>
-          <w lemma="ἐξακολουθέω" msd="VPAI1P">εξακολουθουμεν</w>
+          <w lemma="ἐξακολουθέω" msd="VPAI1P" >
+            <app><lem>εξακολουθουμεν</lem>
+              <rdg wit="Q">εξακολουθουμεν</rdg>
+              <rdg wit="Swete">ὁλοκαυτώσει</rdg>
+            </app><note>either singular or pluarl works here, but using the plural makes it easier to read </note></w>
           <lb n="56"/>
           <w lemma="ἐν" msd="P">εν</w>
           <w lemma="ὅλος" msd="JDSF">ολη</w>
@@ -890,13 +897,15 @@
           <w lemma="καίω" msd="VPAPNPM">καιοντες</w>
           <w lemma="ὁ" msd="ASF">την</w>
           <w lemma="κάμινος" msd="ASF">καμι<lb n="72"/>νον</w>
-          <w lemma="νάφθα" msd="N">ναφθαν</w>
+          <w lemma="νάφθα" msd="N">ναφθαν
+          <note>This is some form of fuel—possibly petroleum–used in Antiquity to help light flames </note></w>
           <w lemma="καί" msd="C">και</w>
           <w lemma="πίσσα" msd="ASF">πισσαν</w>
           <w lemma="καί" msd="C">και</w>
           <w lemma="στιππύον" msd="ASN">στιπ<lb n="73"/>πυον</w>
           <w lemma="καί" msd="C">και</w>
           <w lemma="κληματίς" msd="ASF">κληματιδα</w>
+          <note></note>
         </ab>
         <ab n="B54K3V47" xml:id="Dan.3.47.P786.I1">
           <w lemma="καί" msd="C">και</w>
@@ -911,6 +920,7 @@
           <w lemma="πήχυς" msd="NMPA">πηχεις</w>
           <w lemma="τεσσαράκοντα" msd="M">τεσσαρακοντα</w>
           <w lemma="ἐννέα" msd="MC">εννεα</w>
+          
         </ab>
         <ab n="B54K3V48" xml:id="Dan.3.48.P786.I1">
           <w lemma="καί" msd="C">και</w>
@@ -1271,15 +1281,20 @@
           <w lemma="εὐλογέω" msd="VPAI2P">ευλογεῖτε</w>
           <w lemma="πᾶς" msd="JNPF">πᾶσαι</w>
           <w lemma="ὁ" msd="NPNF">ἁι</w>
-          <w lemma="δύναμις" msd="NPNF">δυνάμεις</w>
-          <note> "δυνάμεις῾ vs sweets "δύναμις"</note>
+          <w lemma="δύναμις" msd="NPNF">
+          <app><lem>δυνάμεις</lem>
+            <rdg wit="Q">δυνάμεις</rdg>
+            <rdg wit="Swete">δύναμις</rdg>
+          </app></w>
+          <note>Swete's version omits the "Almighty Lord"</note>
           <w lemma="κύριος" msd="NMSN"><choice>
               <abbr>
-                <hi rend="overline">κυ</hi><expan>Κυρίου <note> writer uses "κυ τον κν" where as in
-                    Swete it has "δύναμις τὸν κύριον" </note>
-                </expan></abbr>
-            </choice>
-          </w>
+                <hi rend="overline">κυ</hi><expan>Κυρίου</expan></abbr></choice>
+            <app><lem>κυ τον κν</lem>
+              <rdg wit="Q">κυ τον κν</rdg>
+              <rdg wit="Swete">δύναμις τὸν κύριο</rdg>
+            </app></w>
+             
           <w lemma="ὁ" msd="DASM">τὸν</w>
           <w lemma="κύριος" msd="NMSA"><choice>
               <abbr>
@@ -2009,7 +2024,7 @@
             judgments true. </ab>
           <ab n="B54K3V28" corresp="#Dan.3.28.P784.I1"> For you have performed judgments of truths
             according to everything that you have brought upon us, and on the city of our ancestors,
-            Jerusalem, because you have brought all things by truth and judgement on account of our
+            Jerusalem, you have brought all this through truth and judgement because of our
             sins. </ab>
           <ab n="B54K3V29" corresp="#Dan.3.29.P784.I1"> Because we removed ourselves away you, we
             are sinful and lawless, and we fail in everything. </ab>
@@ -2049,14 +2064,13 @@
             strength be broken. </ab>
           <ab n="B54K3V45" corresp="Dan.3.45.P786.I1"> And let them know that you alone are Lord
             God, glorious over all the inhabited world. </ab>
-          <ab n="B54K3V46" corresp="Dan.3.46.P786.I1"> So the servants of the king who threw them in
-            did not cease, fueling the furnace with tow and vine branches. </ab>
+          <ab n="B54K3V46" corresp="Dan.3.46.P786.I1"> And the servants of the king who threw them in
+            did not cease, fueling the furnace  with naphtha, pitch, flax, and vine twigs. <note>no matter how hard I tried, the translation of this sentence just feels very off></note> </ab>
           <ab n="B54K3V47" corresp="Dan.3.47.P786.I1"> And the flame poured out above the furnace,
             reaching forty-nine cubits high. </ab>
           <ab n="B54K3V48" corresp="Dan.3.48.P786.I1"> And it passed through and set on fire those
             of the Chaldeans which it found around the furnace. </ab>
-            
-            <ab n="B54K3V49"
+           <ab n="B54K3V49"
               corresp="Dan.3.48.P786.I1"> Αnd the angel of the Lord came down at once for Azariah in
               the furnace and drove out the flame of the fire from the furnace. </ab>
             <ab n="B54K3V50" corresp="Dan.3.50.P787.I1"> And it made the middle of the furnace like
@@ -2083,7 +2097,7 @@
               and exalt him forever. </ab>
             <ab n="B54K3V60" corresp="Dan.3.60.P788.I1"> Bless the Lord, all the waters above the
               heavens; praise and exalt him forever. </ab>
-            <ab n="B54K3V61" corresp="Dan.3.61.P788.I1"> Bless the Lord, all powers! Praise and
+            <ab n="B54K3V61" corresp="Dan.3.61.P788.I1"> Bless the Lord, The Almighty Lord! Praise and
               exalt him forever. </ab>
             <ab n="B54K3V62" corresp="Dan.3.62.P788.I1"> Bless the Lord, sun and moon. Praise and
               exalt him forever. </ab>
