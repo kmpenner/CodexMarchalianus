@@ -234,10 +234,7 @@
             <orig>και</orig>
             <reg>καὶ</reg>
           </choice></w>
-          <w> <choice>
-            <orig>καὶ</orig>
-            <reg>και </reg>
-          </choice></w>
+          
           <w lemma="συνίστημι" msd="VPAPNSM">συστὰς</w>
           <w><choice>
               <sic>συνστὰς</sic>
@@ -258,10 +255,6 @@
           <w> <choice>
             <orig>και</orig>
             <reg>καὶ</reg>
-          </choice></w>
-          <w> <choice>
-            <orig>καὶ</orig>
-            <reg>και </reg>
           </choice></w>
             <w lemma="ἀνοίγνυμι" msd="VPAPNSM">ἀνόιξας</w>
             <w><choice>
@@ -404,10 +397,6 @@
             <orig>και</orig>
             <reg>καὶ</reg>
           </choice></w>
-          <w> <choice>
-            <orig>καὶ</orig>
-            <reg>και </reg>
-          </choice></w>
           <w lemma="εὐθύς" msd="JNPF">ὲυθεῖαι</w>
           <w lemma="ὁ" msd="NDPF">ᾱι</w>
           <w lemma="ὁδός" msd="NDPF">οδοί</w>
@@ -433,10 +422,6 @@
             <orig>και</orig>
             <reg>καὶ</reg>
           </choice></w>
-          <w> <choice>
-            <orig>καὶ</orig>
-            <reg>και </reg>
-          </choice></w>
           <w lemma="κρίμα" msd="NAPN">κρίματα</w>
           <pc>·</pc>
           <w lemma="ἀλήθεια" msd="NGSF">ἀληθείας</w>
@@ -457,10 +442,6 @@
           <w> <choice>
             <orig>και</orig>
             <reg>καὶ</reg>
-          </choice></w>
-          <w> <choice>
-            <orig>καὶ</orig>
-            <reg>και </reg>
           </choice></w>
           <w lemma="ἐπί" msd="P">ἐπι</w>
           <w lemma="ὁ" msd="DASF">τη</w>
@@ -507,10 +488,6 @@
             <orig>και</orig>
             <reg>καὶ</reg>
           </choice></w>
-          <w> <choice>
-            <orig>καὶ</orig>
-            <reg>και </reg>
-          </choice></w>
           <w lemma="κρίσις" msd="NDSF">κρί<lb n="17"/>σει</w>
           <w lemma="ἐπάγω" msd="VAAI2S">ἐπήγαγας</w>
           <w lemma="οὗτος" msd="DAPN">ταῦτα
@@ -539,10 +516,6 @@
           <w> <choice>
             <orig>και</orig>
             <reg>καὶ</reg>
-          </choice></w>
-          <w> <choice>
-            <orig>καὶ</orig>
-            <reg>και </reg>
           </choice></w>
           <w lemma="ἀνομέω" msd="VAAI1P">ὴνομήσαμεν</w>
           <w lemma="ἀφίστημι" msd="VPAPNPM">ἀποστάντες</w>
@@ -653,10 +626,6 @@
             <orig>και</orig>
             <reg>καὶ</reg>
           </choice></w>
-          <w> <choice>
-            <orig>καὶ</orig>
-            <reg>και </reg>
-          </choice></w>
           <w lemma="βασιλεύς" msd="NDMS">βασιλεῖ</w>
           <w lemma="ἄδικος" msd="ADMS">ἀδίκω</w>
           <w lemma="καί" msd="C">και</w>
@@ -677,10 +646,6 @@
         <ab n="B54K3V33" xml:id="Dan.3.33.P785.I1">
           <w lemma="καί" msd="C">και</w>
           <w> <choice>
-            <orig>και</orig>
-            <reg>καὶ</reg>
-          </choice></w>
-          <w><choice>
             <orig>και</orig>
             <reg>καὶ</reg>
           </choice></w>
@@ -715,10 +680,6 @@
             <orig>και</orig>
             <reg>καὶ</reg>
           </choice></w>
-          <w> <choice>
-            <orig>καὶ</orig>
-            <reg>και </reg>
-          </choice></w>
           <w lemma="ὄνειδος" msd="NNSN">ὄνειδος</w>
           <w lemma="γίγνομαι" msd="VAMI3S">εγενήθη</w>
           <w lemma="ὁ" msd="DDPM">τοῖς</w>
@@ -730,10 +691,6 @@
           <w> <choice>
             <orig>και</orig>
             <reg>καὶ</reg>
-          </choice></w>
-          <w> <choice>
-            <orig>καὶ</orig>
-            <reg>και </reg>
           </choice></w>
           <w lemma="ὁ" msd="DDPM">τοῖς</w>
           <w lemma="σέβομαι" msd="VPPDPM">σεβομένοις</w>
@@ -779,10 +736,6 @@
           <w> <choice>
             <orig>και</orig>
             <reg>καὶ</reg>
-          </choice></w>
-          <w> <choice>
-            <orig>καὶ</orig>
-            <reg>και </reg>
           </choice></w>
           <w lemma="μή" msd="D">μὴ</w>
           <w lemma="ἀφίστημι" msd="VASO2S">ἀποστήσῃς</w>
@@ -922,10 +875,7 @@
             <orig>και</orig>
             <reg>καὶ</reg>
           </choice></w>
-          <w> <choice>
-            <orig>καὶ</orig>
-            <reg>και </reg>
-          </choice></w>
+          
           <w lemma="οὐ" msd="D">οῦκ</w>
           <w lemma="εἰμί" msd="VPAI3S">εστιν</w>
           <lb n="44"/>
@@ -979,10 +929,7 @@
             <orig>και</orig>
             <reg>καὶ</reg>
           </choice></w>
-          <w> <choice>
-            <orig>καὶ</orig>
-            <reg>και </reg>
-          </choice></w>
+          
           <w lemma="εὑρίσκω" msd="VAN">ἑυρεῖν</w>
           <w><choice>
             <orig>ἑυρεῖν</orig>
@@ -1036,19 +983,11 @@
             <orig>και</orig>
             <reg>καὶ</reg>
           </choice></w>
-          <w> <choice>
-            <orig>και</orig>
-            <reg>καὶ </reg>
-          </choice></w>
           <w lemma="ταῦρος" msd="NGPM">ταύρων</w>
           <w lemma="καί" msd="C">και</w>
           <w> <choice>
             <orig>και</orig>
             <reg>καὶ</reg>
-          </choice></w>
-          <w> <choice>
-            <orig>καὶ</orig>
-            <reg>και </reg>
           </choice></w>
           <w lemma="ἐν" msd="P">ἐν</w>
           <w lemma="μυριάς" msd="NDPF">μυριάσι</w>
@@ -1126,10 +1065,6 @@
             <orig>και</orig>
             <reg>καὶ</reg>
           </choice></w>
-          <w> <choice>
-            <orig>και</orig>
-            <reg>καὶ </reg>
-          </choice></w>
           <w lemma="φοβέομαι" msd="VPMI1P">φοβουμεθα</w>
           <w lemma="σύ" msd="RP2AS">σε</w>
           <lb n="57"/>
@@ -1137,10 +1072,6 @@
           <w> <choice>
             <orig>και</orig>
             <reg>καὶ</reg>
-          </choice></w>
-          <w> <choice>
-            <orig>και</orig>
-            <reg>καὶ </reg>
           </choice></w>
           <w lemma="ζητέω" msd="VPAI1P">ζητουμεν</w>
           <w lemma="ὁ" msd="DASN">το</w>
@@ -1572,20 +1503,12 @@
             <orig>και</orig>
             <reg>καὶ</reg>
           </choice></w>
-          <w> <choice>
-            <orig>καὶ</orig>
-            <reg>και </reg>
-          </choice></w>
           <w lemma="αἰνετός" msd="JNSM">αινετὸς</w>
           <pc>.</pc>
           <w lemma="καί" msd="C">και</w>
           <w> <choice>
             <orig>και</orig>
             <reg>καὶ</reg>
-          </choice></w>
-          <w> <choice>
-            <orig>καὶ</orig>
-            <reg>και </reg>
           </choice></w>
           <w lemma="ὑπερυψόω" msd="VPPNSM">ὐπερὐ<lb n="89"/>ψούμενος</w>
           <w lemma="εἰς" msd="P">ἐις</w>
@@ -1690,20 +1613,12 @@
             <orig>και</orig>
             <reg>καὶ</reg>
           </choice></w>
-          <w> <choice>
-            <orig>καὶ</orig>
-            <reg>και </reg>
-          </choice></w>
           <w lemma="αἰνέω" msd="VPPNSM">ἀινε<lb n="98"/>τὸς</w>
           <pc>.</pc>
           <w lemma="καί" msd="C">και</w>
           <w> <choice>
             <orig>και</orig>
             <reg>καὶ</reg>
-          </choice></w>
-          <w> <choice>
-            <orig>καὶ</orig>
-            <reg>και </reg>
           </choice></w>
           <w lemma="ὑπερυψόω" msd="VPPNSM">ὐπερῦψούμενος</w>
           <pc>.</pc>
@@ -1728,10 +1643,6 @@
           <w> <choice>
             <orig>και</orig>
             <reg>καὶ</reg>
-          </choice></w>
-          <w> <choice>
-            <orig>καὶ</orig>
-            <reg>και </reg>
           </choice></w>
           <w lemma="ὑπερυμνητός" msd="JNMS">ὐπερυμνητὸς</w>
           <pc>.</pc>
@@ -1798,10 +1709,6 @@
             <orig>και</orig>
             <reg>καὶ</reg>
           </choice></w>
-          <w> <choice>
-            <orig>καὶ</orig>
-            <reg>και </reg>
-          </choice></w>
           <w lemma="ὑπερυψόω" msd="VPAI2P">ὑπερυψοῦτε</w>
           <w lemma="αὐτός" msd="RP3MSA">αὐτὸν</w>
           <w lemma="εἰς" msd="P">εἰς</w>
@@ -1830,10 +1737,6 @@
           <w> <choice>
             <orig>και</orig>
             <reg>καὶ</reg>
-          </choice></w>
-          <w> <choice>
-            <orig>καὶ</orig>
-            <reg>και </reg>
           </choice></w>
           <w lemma="ὑπερυψόω" msd="VPAI2P">ὑπερυψοῦτε</w>
           <w lemma="αὐτός" msd="RP3MSA">αὐτὸν</w>
@@ -1887,10 +1790,6 @@
           <w> <choice>
             <orig>και</orig>
             <reg>καὶ</reg>
-          </choice></w>
-          <w> <choice>
-            <orig>καὶ</orig>
-            <reg>και </reg>
           </choice></w>
           <lb n="111"/>
           <w lemma="ὑπερυψόω" msd="VPAI2P">ὐπερυψοῦτε</w>
@@ -2031,10 +1930,6 @@
             <orig>και</orig>
             <reg>καὶ</reg>
           </choice></w>
-          <w> <choice>
-            <orig>καὶ</orig>
-            <reg>και </reg>
-          </choice></w>
           <w lemma="ὑπερυψόω" msd="VPAI2P">ύπερῡψοῦτε</w>
           <w lemma="κύριος" msd="NMSM">κν</w><w><choice>
               <abbr>
@@ -2065,10 +1960,6 @@
           <w> <choice>
             <orig>και</orig>
             <reg>καὶ</reg>
-          </choice></w>
-          <w> <choice>
-            <orig>καὶ</orig>
-            <reg>και </reg>
           </choice></w>
           <w lemma="ὑπερυψόω" msd="VPAM2P">ὑπερῡψοῦτε</w>
           <w lemma="αὐτός" msd="RPASM">ἀυτὸν</w>
@@ -2216,10 +2107,6 @@
             <orig>και</orig>
             <reg>καὶ</reg>
           </choice></w>
-          <w> <choice>
-            <orig>καὶ</orig>
-            <reg>και </reg>
-          </choice></w>
           <w lemma="σκότος" msd="NNSN">σκότος</w>
           <w lemma="ὁ" msd="DASM">τὸν</w>
           <w lemma="κύριος" msd="NMSM">κν</w>
@@ -2267,10 +2154,6 @@
           <w> <choice>
             <orig>και</orig>
             <reg>καὶ</reg>
-          </choice></w>
-          <w> <choice>
-            <orig>καὶ</orig>
-            <reg>και </reg>
           </choice></w>
           <pc>·</pc>
           <w lemma="ὑπερυψόω" msd="VPAI2P">ῡπερυψοῦ<lb n="143"/>τε</w>
@@ -2382,10 +2265,6 @@
             <orig>και</orig>
             <reg>καὶ</reg>
           </choice></w>
-          <w> <choice>
-            <orig>καὶ</orig>
-            <reg>και </reg>
-          </choice></w>
           <w lemma="ὑπερυψόω" msd="VPAI2P">ῡπερῡψοῦτε</w>
           <w lemma="αὐτός" msd="RPASM">ἀυτὸν</w>
           <w lemma="εἰς" msd="P">ἐις</w>
@@ -2475,10 +2354,6 @@
             <orig>και</orig>
             <reg>καὶ</reg>
           </choice></w>
-          <w> <choice>
-            <orig>καὶ</orig>
-            <reg>και </reg>
-          </choice></w>
           <w lemma="ὑπερυψόω" msd="VPAI2P">ῡπερυ<lb n="162"/>ψουτε</w>
           <w lemma="αὐτός" msd="RP3MSA">αυτὸν</w>
           <w lemma="εἰς" msd="P">ἐις</w>
@@ -2511,10 +2386,6 @@
           <w> <choice>
             <orig>και</orig>
             <reg>καὶ</reg>
-          </choice></w>
-          <w> <choice>
-            <orig>καὶ</orig>
-            <reg>και </reg>
           </choice></w>
           <w lemma="ὑπερυψόω" msd="VPAI2P">ὑπερυ<lb n="164"/>ψοῦτε</w>
           <w lemma="αὐτός" msd="RPASM">αὐτὸν</w>
@@ -2633,10 +2504,6 @@
             <orig>και</orig>
             <reg>καὶ</reg>
           </choice></w>
-          <w> <choice>
-            <orig>καὶ</orig>
-            <reg>και </reg>
-          </choice></w>
           <w lemma="ὑπερυψόω" msd="VPAM2P">ὐπερύψοῦτε</w>
           <w lemma="αὐτός" msd="RP3MSA">ἀυτὸν</w>
           <w lemma="εἰς" msd="P">ἐις</w>
@@ -2653,10 +2520,6 @@
             <orig>και</orig>
             <reg>καὶ</reg>
           </choice></w>
-          <w> <choice>
-            <orig>καὶ</orig>
-            <reg>και </reg>
-          </choice></w>
           <w lemma="ψυχή" msd="NVPNA">ψυχὰι</w>
           <w lemma="δίκαιος" msd="JGP">δι<lb n="175"/>καίων</w>
           <w lemma="ὁ" msd="DASM">τὸν</w>
@@ -2671,10 +2534,6 @@
           <w> <choice>
             <orig>και</orig>
             <reg>καὶ</reg>
-          </choice></w>
-          <w> <choice>
-            <orig>καὶ</orig>
-            <reg>και </reg>
           </choice></w>
           <w lemma="ὑπερυψόω" msd="VPAI2P">υπερ<lb n="176"/>υψοῦτε</w>
           <w lemma="αὐτός" msd="RP3ASM">ἀυτὸν</w>
@@ -2735,10 +2594,6 @@
           <w> <choice>
             <orig>και</orig>
             <reg>καὶ</reg>
-          </choice></w>
-          <w> <choice>
-            <orig>καὶ</orig>
-            <reg>και </reg>
           </choice></w>
           <w lemma="ὑπερυψόω" msd="VPAI2P">υπερῡψοῦ<lb n="182"/>τε</w>
           <w lemma="αὐτός" msd="RPASM">ἀυτὸν</w>
